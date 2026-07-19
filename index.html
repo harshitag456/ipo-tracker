@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Issue Board — Indian IPO Tracker</title>
+<meta name="description" content="Live tracker for open, upcoming and recently listed IPOs on NSE and BSE — price bands, lot sizes, subscription figures and key dates." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F3F5F4;
+    --panel:#FFFFFF;
+    --ink:#10231E;
+    --slate:#5B6B66;
+    --hairline:#DCE2E0;
+    --green:#0B7A4B;
+    --green-soft:#E3F0E9;
+    --marigold:#E39A12;
+    --marigold-soft:#FBF0D8;
+    --red:#B3372B;
+    --red-soft:#F6E4E1;
+    --radius:10px;
+    --mono:'IBM Plex Mono',ui-monospace,monospace;
+  }
+  *{box-sizing:border-box;margin:0}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:'IBM Plex Sans',system-ui,sans-serif;
+    background:var(--paper);
+    color:var(--ink);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+  /* Masthead */
+  header{border-bottom:1px solid var(--hairline);background:var(--panel)}
+  .mast{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;padding:28px 0 20px;flex-wrap:wrap}
+  .brand h1{
+    font-family:'Space Grotesk',sans-serif;font-weight:700;
+    font-size:clamp(26px,4vw,38px);letter-spacing:-0.02em;line-height:1.05;
+  }
+  .brand h1 .tick{color:var(--green)}
+  .brand p{color:var(--slate);font-size:14px;margin-top:6px;max-width:52ch}
+  .stamp{
+    font-family:var(--mono);font-size:12px;color:var(--slate);
+    text-align:right;line-height:1.7;
+  }
+  .stamp .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);margin-right:6px;animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  @media (prefers-reduced-motion:reduce){.stamp .dot{animation:none}}
+
+  /* Tabs */
+  nav{display:flex;gap:4px;padding-bottom:0}
+  nav button{
+    appearance:none;border:none;background:none;cursor:pointer;
+    font:inherit;font-weight:600;font-size:14px;color:var(--slate);
+    padding:10px 14px;border-bottom:3px solid transparent;
+  }
+  nav button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--marigold)}
+  nav button:focus-visible{outline:2px solid var(--green);outline-offset:2px;border-radius:4px}
+  nav .count{font-family:var(--mono);font-size:11px;background:var(--paper);border:1px solid var(--hairline);border-radius:99px;padding:1px 7px;margin-left:6px}
+
+  /* Board */
+  main{padding:26px 0 60px}
+  .board-head{
+    display:grid;grid-template-columns:minmax(220px,1.4fr) 1fr 1fr 1.3fr;
+    gap:16px;padding:0 20px 8px;
+    font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--slate);
+  }
+  .row{
+    display:grid;grid-template-columns:minmax(220px,1.4fr) 1fr 1fr 1.3fr;
+    gap:16px;align-items:center;
+    background:var(--panel);border:1px solid var(--hairline);border-radius:var(--radius);
+    padding:18px 20px;margin-bottom:10px;
+  }
+  .co .name{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:17px;letter-spacing:-0.01em}
+  .co .meta{font-size:12.5px;color:var(--slate);margin-top:3px}
+  .badge{
+    display:inline-block;font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+    border-radius:4px;padding:2px 7px;margin-top:8px;
+  }
+  .badge.open{background:var(--green-soft);color:var(--green)}
+  .badge.upcoming{background:var(--marigold-soft);color:#9A6A00}
+  .badge.listed{background:var(--paper);color:var(--slate);border:1px solid var(--hairline)}
+  .badge.sme{background:none;border:1px dashed var(--hairline);color:var(--slate);margin-left:6px}
+
+  .num{font-family:var(--mono)}
+  .cell .lbl{font-family:var(--mono);font-size:10.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--slate)}
+  .cell .val{font-family:var(--mono);font-size:15px;font-weight:600;margin-top:2px}
+  .cell .sub{font-size:12px;color:var(--slate);margin-top:2px}
+  .gmp-up{color:var(--green)} .gmp-flat{color:var(--slate)}
+
+  /* Signature: subscription meter */
+  .meter .lbl{margin-bottom:6px}
+  .meter-row{display:grid;grid-template-columns:44px 1fr 52px;gap:8px;align-items:center;margin-bottom:5px}
+  .meter-row .cat{font-family:var(--mono);font-size:11px;color:var(--slate)}
+  .meter-row .bar{height:8px;border-radius:99px;background:var(--paper);overflow:hidden;border:1px solid var(--hairline)}
+  .meter-row .fill{height:100%;border-radius:99px;background:var(--green);transition:width .6s ease}
+  .meter-row .fill.under{background:var(--red)}
+  .meter-row .x{font-family:var(--mono);font-size:12px;font-weight:600;text-align:right}
+  .meter-row .x.under{color:var(--red)}
+  .meter .await{font-size:13px;color:var(--slate);font-style:italic}
+  .listgain{font-family:var(--mono);font-size:14px}
+  .listgain strong{font-size:18px}
+
+  /* Dates strip */
+  .dates{display:flex;gap:0;margin-top:10px;flex-wrap:wrap}
+  .dates span{
+    font-family:var(--mono);font-size:11px;color:var(--slate);
+    padding-right:10px;margin-right:10px;border-right:1px solid var(--hairline);
+  }
+  .dates span:last-child{border-right:none}
+  .dates b{color:var(--ink);font-weight:600}
+
+  .empty{
+    text-align:center;color:var(--slate);padding:60px 20px;
+    border:1px dashed var(--hairline);border-radius:var(--radius);
+  }
+
+  footer{border-top:1px solid var(--hairline);padding:22px 0 40px;font-size:12.5px;color:var(--slate)}
+  footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+  @media (max-width:820px){
+    .board-head{display:none}
+    .row{grid-template-columns:1fr;gap:14px}
+    .cell .lbl{margin-bottom:0}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="mast">
+      <div class="brand">
+        <h1>Issue Board <span class="tick">▲</span></h1>
+        <p>Open, upcoming and recently listed IPOs on NSE &amp; BSE — price bands, lots, subscription and key dates.</p>
+      </div>
+      <div class="stamp" id="stamp"><span class="dot"></span>loading data…</div>
+    </div>
+    <nav role="tablist" aria-label="Filter IPOs" id="tabs"></nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="board-head" aria-hidden="true">
+    <div>Issue</div><div>Price band · Lot</div><div>Size · GMP</div><div>Subscription</div>
+  </div>
+  <div id="board" aria-live="polite"></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Data refreshes on a schedule from exchange sources. GMP figures are unofficial grey-market indications, not investment advice.</span>
+    <span class="num" id="footStamp"></span>
+  </div>
+</footer>
+
+<script>
+const fmtINR = n => "₹" + n.toLocaleString("en-IN");
+const fmtDate = iso => new Date(iso + "T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short"});
+const TABS = [
+  {key:"open", label:"Open now"},
+  {key:"upcoming", label:"Upcoming"},
+  {key:"listed", label:"Recently listed"},
+];
+let DATA = null, active = "open";
+
+async function load(){
+  try{
+    const res = await fetch("./data/ipos.json", {cache:"no-store"});
+    DATA = await res.json();
+    const ts = new Date(DATA.lastUpdated);
+    const stampTxt = "Updated " + ts.toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}) + " IST";
+    document.getElementById("stamp").innerHTML = '<span class="dot"></span>' + stampTxt +
+      (DATA.source === "sample-data" ? "<br>sample data — wire up the fetcher" : "");
+    document.getElementById("footStamp").textContent = stampTxt;
+    renderTabs(); render();
+  }catch(e){
+    document.getElementById("board").innerHTML =
+      '<div class="empty">Could not load data/ipos.json. If you opened this file directly, serve it instead: <code>npx serve</code> or <code>python3 -m http.server</code>.</div>';
+  }
+}
+
+function renderTabs(){
+  const el = document.getElementById("tabs");
+  el.innerHTML = "";
+  TABS.forEach(t=>{
+    const n = DATA.ipos.filter(i=>i.status===t.key).length;
+    const b = document.createElement("button");
+    b.setAttribute("role","tab");
+    b.setAttribute("aria-selected", String(t.key===active));
+    b.innerHTML = t.label + '<span class="count">'+n+'</span>';
+    b.onclick = ()=>{ active=t.key; renderTabs(); render(); };
+    el.appendChild(b);
+  });
+}
+
+function meterHTML(ipo){
+  if(ipo.status==="listed" && ipo.listing){
+    const g = ipo.listing.gainPct;
+    const cls = g>=0 ? "gmp-up" : "x under";
+    return '<div class="cell listgain"><span class="lbl">Listing</span><br>' +
+      fmtINR(ipo.listing.issuePrice) + ' → ' + fmtINR(ipo.listing.listPrice) +
+      ' <strong class="'+cls+'">' + (g>=0?"+":"") + g + '%</strong></div>';
+  }
+  if(!ipo.subscription){
+    return '<div class="cell meter"><span class="lbl">Subscription</span><div class="await">Opens ' + fmtDate(ipo.openDate) + '</div>' + datesHTML(ipo) + '</div>';
+  }
+  const cats = [["QIB","qib"],["NII","nii"],["Retail","retail"]];
+  const max = Math.max(2, ...cats.map(c=>ipo.subscription[c[1]]||0));
+  let rows = cats.map(([lbl,key])=>{
+    const v = ipo.subscription[key];
+    const w = Math.min(100, (v/max)*100);
+    const under = v < 1;
+    return '<div class="meter-row"><span class="cat">'+lbl+'</span>' +
+      '<span class="bar"><span class="fill'+(under?' under':'')+'" style="width:'+w+'%"></span></span>' +
+      '<span class="x'+(under?' under':'')+'">'+v.toFixed(2)+'×</span></div>';
+  }).join("");
+  return '<div class="cell meter"><span class="lbl">Subscription · total '+ipo.subscription.total.toFixed(2)+'×</span>'+rows+'</div>';
+}
+
+function datesHTML(ipo){
+  return '<div class="dates">' +
+    '<span>Open <b>'+fmtDate(ipo.openDate)+'</b></span>' +
+    '<span>Close <b>'+fmtDate(ipo.closeDate)+'</b></span>' +
+    '<span>Allotment <b>'+fmtDate(ipo.allotmentDate)+'</b></span>' +
+    '<span>Listing <b>'+fmtDate(ipo.listingDate)+'</b></span></div>';
+}
+
+function render(){
+  const board = document.getElementById("board");
+  const rows = DATA.ipos.filter(i=>i.status===active);
+  if(!rows.length){
+    board.innerHTML = '<div class="empty">Nothing here right now. Check the other tabs, or update data/ipos.json.</div>';
+    return;
+  }
+  board.innerHTML = rows.map(ipo=>{
+    const minAmt = ipo.priceBand.max * ipo.lotSize;
+    const gmp = ipo.gmp==null ? '<span class="gmp-flat">—</span>'
+      : '<span class="gmp-up">+' + fmtINR(ipo.gmp) + '</span>';
+    return '<article class="row">' +
+      '<div class="co"><div class="name">'+ipo.company+'</div>' +
+        '<div class="meta">'+ipo.sector+' · '+ipo.exchange+'</div>' +
+        '<span class="badge '+ipo.status+'">'+ipo.status.toUpperCase()+'</span>' +
+        (ipo.board==="SME" ? '<span class="badge sme">SME</span>' : '') +
+      '</div>' +
+      '<div class="cell"><span class="lbl">Price band</span>' +
+        '<div class="val">'+fmtINR(ipo.priceBand.min)+'–'+fmtINR(ipo.priceBand.max)+'</div>' +
+        '<div class="sub num">Lot '+ipo.lotSize+' · min '+fmtINR(minAmt)+'</div></div>' +
+      '<div class="cell"><span class="lbl">Issue size</span>' +
+        '<div class="val">₹'+ipo.issueSizeCr.toLocaleString("en-IN")+' Cr</div>' +
+        '<div class="sub num">GMP '+gmp+'</div></div>' +
+      meterHTML(ipo) +
+      (ipo.subscription && ipo.status!=="listed" ? '<div style="grid-column:1/-1">'+datesHTML(ipo)+'</div>' : '') +
+    '</article>';
+  }).join("");
+}
+
+load();
+</script>
+</body>
+</html>
