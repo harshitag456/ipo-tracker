@@ -1,0 +1,31 @@
+name: Refresh IPO data
+
+on:
+  schedule:
+    # Every 30 min during Indian market hours (IST), Mon-Fri
+    - cron: "*/30 3-12 * * 1-5"
+  workflow_dispatch: {}   # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch latest IPO data
+        run: node scripts/fetch-ipos.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "ipo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ipos.json
+          git diff --cached --quiet || git commit -m "chore: refresh IPO data [skip ci]"
+          git push
