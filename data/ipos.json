@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T16:06:42.841Z",
+  "lastUpdated": "2026-07-19T17:21:00.534Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -63,229 +63,3424 @@
       "subscription": null
     },
     {
-    "id": "hexagon-nutrition",
-    "company": "Hexagon Nutrition Ltd",
-    "exchange": "NSE, BSE",
-    "board": "Mainboard",
-    "sector": "Consumer Food",
-    "status": "listed",
-    "priceBand": {
-      "min": 45,
-      "max": 45
+      "id": "akme-fintrade-india-limited",
+      "company": "Akme Fintrade (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-17",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": null,
-    "closeDate": null,
-    "allotmentDate": null,
-    "listingDate": "2026-06-12",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 45,
-      "listPrice": 48.25,
-      "gainPct": 7.22
-    }
-  },
-  {
-    "id": "cmr-green-technologies",
-    "company": "CMR Green Technologies Ltd",
-    "exchange": "NSE, BSE",
-    "board": "Mainboard",
-    "sector": "Metal - Non Ferrous",
-    "status": "listed",
-    "priceBand": {
-      "min": 192,
-      "max": 192
+    {
+      "id": "laser-power-infra-limited",
+      "company": "Laser Power & Infra Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 214,
+        "max": 214
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-16",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": null,
-    "closeDate": null,
-    "allotmentDate": null,
-    "listingDate": "2026-06-10",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 192,
-      "listPrice": 268,
-      "gainPct": 39.58
-    }
-  },
-  {
-    "id": "bagmane-prime-office-reit",
-    "company": "Bagmane Prime Office REIT",
-    "exchange": "NSE, BSE",
-    "board": "Mainboard",
-    "sector": "Real Estate / REIT",
-    "status": "listed",
-    "priceBand": {
-      "min": 100,
-      "max": 100
+    {
+      "id": "happy-steels-limited",
+      "company": "Happy Steels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 66,
+        "max": 66
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-16",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": null,
-    "closeDate": null,
-    "allotmentDate": null,
-    "listingDate": "2026-05-15",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 100,
-      "listPrice": 103.89,
-      "gainPct": 3.89
-    }
-  },
-  {
-    "id": "onemi-technology-solutions",
-    "company": "OnEMI Technology Solutions Ltd",
-    "exchange": "NSE, BSE",
-    "board": "Mainboard",
-    "sector": "Finance - NBFC",
-    "status": "listed",
-    "priceBand": {
-      "min": 171,
-      "max": 171
+    {
+      "id": "kusumgar-limited",
+      "company": "Kusumgar Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 419,
+        "max": 419
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-15",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": null,
-    "closeDate": null,
-    "allotmentDate": null,
-    "listingDate": "2026-05-08",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 171,
-      "listPrice": 190,
-      "gainPct": 11.11
-    }
-  },
-  {
-    "id": "om-power-transmission",
-    "company": "Om Power Transmission Ltd",
-    "exchange": "NSE, BSE",
-    "board": "Mainboard",
-    "sector": "Engineering - Construction",
-    "status": "listed",
-    "priceBand": {
-      "min": 175,
-      "max": 175
+    {
+      "id": "ntpc-green-energy-limited",
+      "company": "NTPC Green Energy Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-13",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": null,
-    "closeDate": null,
-    "allotmentDate": null,
-    "listingDate": "2026-04-17",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 175,
-      "listPrice": 186,
-      "gainPct": 6.29
-    }
-  },
-  {
-    "id": "aastha-spintex",
-    "company": "Aastha Spintex Ltd",
-    "exchange": "NSE, BSE",
-    "board": "Mainboard",
-    "sector": "Textiles",
-    "status": "listed",
-    "priceBand": {
-      "min": 125,
-      "max": 136
+    {
+      "id": "pnb-housing-finance-limited",
+      "company": "PNB Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-13",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": "2026-06-29",
-    "closeDate": "2026-07-01",
-    "allotmentDate": null,
-    "listingDate": "2026-07-06",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 136,
-      "listPrice": 137.4,
-      "gainPct": 1
-    }
-  },
-  {
-    "id": "kratikal-tech",
-    "company": "Kratikal Tech Ltd",
-    "exchange": "NSE SME",
-    "board": "SME",
-    "sector": "Cybersecurity",
-    "status": "listed",
-    "priceBand": {
-      "min": 128,
-      "max": 135
+    {
+      "id": "ic-electricals-company-limited",
+      "company": "IC Electricals Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 99,
+        "max": 99
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-10",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": "2026-06-30",
-    "closeDate": "2026-07-02",
-    "allotmentDate": null,
-    "listingDate": "2026-07-07",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 135,
-      "listPrice": 182.25,
-      "gainPct": 35
-    }
-  },
-  {
-    "id": "sampark-india-logistics",
-    "company": "Sampark India Logistics Ltd",
-    "exchange": "NSE SME",
-    "board": "SME",
-    "sector": "Logistics",
-    "status": "listed",
-    "priceBand": {
-      "min": 80,
-      "max": 84
+    {
+      "id": "l-t-finance-limited",
+      "company": "L&T Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-10",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": "2026-06-30",
-    "closeDate": "2026-07-02",
-    "allotmentDate": null,
-    "listingDate": "2026-07-07",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 84,
-      "listPrice": 93.25,
-      "gainPct": 11
-    }
-  },
-  {
-    "id": "vinit-mobile",
-    "company": "Vinit Mobile Ltd",
-    "exchange": "NSE SME",
-    "board": "SME",
-    "sector": "Consumer Electronics",
-    "status": "listed",
-    "priceBand": {
-      "min": 150,
-      "max": 158
+    {
+      "id": "l-t-finance-limited",
+      "company": "L&T Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-10",
+      "gmp": null,
+      "subscription": null
     },
-    "lotSize": 0,
-    "issueSizeCr": 0,
-    "openDate": "2026-06-30",
-    "closeDate": "2026-07-02",
-    "allotmentDate": null,
-    "listingDate": "2026-07-07",
-    "gmp": null,
-    "subscription": null,
-    "listing": {
-      "issuePrice": 158,
-      "listPrice": 148.5,
-      "gainPct": -6
+    {
+      "id": "l-t-finance-limited",
+      "company": "L&T Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-10",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "tata-capital-limited",
+      "company": "Tata Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-09",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "knack-packaging-limited",
+      "company": "Knack Packaging Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 170,
+        "max": 170
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-08",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 158,
+        "max": 158
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 220,
+        "max": 220
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "kratikal-tech",
+      "company": "Kratikal Tech Ltd",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "Cybersecurity",
+      "status": "listed",
+      "priceBand": {
+        "min": 128,
+        "max": 135
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-06-30",
+      "closeDate": "2026-07-02",
+      "allotmentDate": null,
+      "listingDate": "2026-07-07",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 135,
+        "listPrice": 182.25,
+        "gainPct": 35
+      }
+    },
+    {
+      "id": "sampark-india-logistics",
+      "company": "Sampark India Logistics Ltd",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "Logistics",
+      "status": "listed",
+      "priceBand": {
+        "min": 80,
+        "max": 84
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-06-30",
+      "closeDate": "2026-07-02",
+      "allotmentDate": null,
+      "listingDate": "2026-07-07",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 84,
+        "listPrice": 93.25,
+        "gainPct": 11
+      }
+    },
+    {
+      "id": "vinit-mobile",
+      "company": "Vinit Mobile Ltd",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "Consumer Electronics",
+      "status": "listed",
+      "priceBand": {
+        "min": 150,
+        "max": 158
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-06-30",
+      "closeDate": "2026-07-02",
+      "allotmentDate": null,
+      "listingDate": "2026-07-07",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 158,
+        "listPrice": 148.5,
+        "gainPct": -6
+      }
+    },
+    {
+      "id": "aastha-spintex-limited",
+      "company": "Aastha Spintex Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 136,
+        "max": 136
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "aastha-spintex",
+      "company": "Aastha Spintex Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Textiles",
+      "status": "listed",
+      "priceBand": {
+        "min": 125,
+        "max": 136
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-06-29",
+      "closeDate": "2026-07-01",
+      "allotmentDate": null,
+      "listingDate": "2026-07-06",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 136,
+        "listPrice": 137.4,
+        "gainPct": 1
+      }
+    },
+    {
+      "id": "iifl-samasta-finance-limited",
+      "company": "IIFL Samasta Finance limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-03",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-samasta-finance-limited",
+      "company": "IIFL Samasta Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-03",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "csm-technologies-limited",
+      "company": "CSM Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 113,
+        "max": 113
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "advit-jewels-limited",
+      "company": "Advit Jewels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 138,
+        "max": 138
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "waterways-leisure-tourism-limited",
+      "company": "Waterways Leisure Tourism Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 808,
+        "max": 808
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shreedhar-spinners-limited",
+      "company": "Shreedhar Spinners Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 53,
+        "max": 53
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "cholamandalam-investment-and-finance-company-limited",
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "cholamandalam-investment-and-finance-company-limited",
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "cholamandalam-investment-and-finance-company-limited",
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "cholamandalam-investment-and-finance-company-limited",
+      "company": "Cholamandalam Investment and Finance Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "esaf-small-finance-bank-limited",
+      "company": "ESAF Small Finance Bank Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-30",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "turtlemint-fintech-solutions-limited",
+      "company": "Turtlemint Fintech Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 152,
+        "max": 152
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-29",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "indian-renewable-energy-development-agency-limited",
+      "company": "Indian Renewable Energy Development Agency Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-29",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "avience-biomedicals-limited",
+      "company": "Avience Biomedicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 208,
+        "max": 208
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-25",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "clay-craft-india-limited",
+      "company": "Clay Craft India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 203,
+        "max": 203
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-24",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "viviana-power-tech-limited",
+      "company": "Viviana Power Tech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-22",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "tata-capital-housing-finance-limited",
+      "company": "Tata Capital Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-22",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "qms-medical-allied-services-limited",
+      "company": "QMS Medical Allied Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 96,
+        "max": 96
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-18",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "utkal-speciality-industries-india-limited",
+      "company": "Utkal Speciality Industries India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 66,
+        "max": 66
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "hexagon-nutrition-limited",
+      "company": "Hexagon Nutrition Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 45,
+        "max": 45
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-12",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "genxai-analytics-limited",
+      "company": "GenXAI Analytics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 116,
+        "max": 116
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-12",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "hexagon-nutrition",
+      "company": "Hexagon Nutrition Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Consumer Food",
+      "status": "listed",
+      "priceBand": {
+        "min": 45,
+        "max": 45
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-12",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 45,
+        "listPrice": 48.25,
+        "gainPct": 7.22
+      }
+    },
+    {
+      "id": "cmr-green-technologies-limited",
+      "company": "CMR Green Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 192,
+        "max": 192
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-10",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "cmr-green-technologies",
+      "company": "CMR Green Technologies Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Metal - Non Ferrous",
+      "status": "listed",
+      "priceBand": {
+        "min": 192,
+        "max": 192
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-10",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 192,
+        "listPrice": 268,
+        "gainPct": 39.58
+      }
+    },
+    {
+      "id": "dar-credit-capital-limited",
+      "company": "Dar Credit & Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-06-03",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 343,
+        "max": 343
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-29",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 139,
+        "max": 139
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-29",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "teamtech-formwork-solutions-limited",
+      "company": "Teamtech Formwork Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 63,
+        "max": 63
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-26",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "nfp-sampoorna-foods-limited",
+      "company": "NFP Sampoorna Foods Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 55,
+        "max": 55
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-25",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "rfbl-flexi-pack-limited",
+      "company": "RFBL Flexi Pack Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 50,
+        "max": 50
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-19",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "simca-advertising-limited",
+      "company": "Simca Advertising Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 183,
+        "max": 183
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-15",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "bagmane-prime-office-reit",
+      "company": "Bagmane Prime Office REIT",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100,
+        "max": 100
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-14",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "value-360-communications-limited",
+      "company": "Value 360 Communications Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 98,
+        "max": 98
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "onemi-technology-solutions-limited",
+      "company": "Onemi Technology Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 171,
+        "max": 171
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-08",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "onemi-technology-solutions",
+      "company": "OnEMI Technology Solutions Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Finance - NBFC",
+      "status": "listed",
+      "priceBand": {
+        "min": 171,
+        "max": 171
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-08",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 171,
+        "listPrice": 190,
+        "gainPct": 11.11
+      }
+    },
+    {
+      "id": "amba-auto-sales-and-services-limited",
+      "company": "Amba Auto Sales and Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 135,
+        "max": 135
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "mangalam-worldwide-limited",
+      "company": "Mangalam Worldwide Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100000,
+        "max": 100000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-05-04",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "adisoft-technologies-limited",
+      "company": "Adisoft Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 172,
+        "max": 172
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-30",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "citius-transnet-investment-trust",
+      "company": "Citius Transnet Investment Trust",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100,
+        "max": 100
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-29",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "indostar-capital-finance-limited",
+      "company": "IndoStar Capital Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-28",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "om-power-transmission-limited",
+      "company": "Om Power Transmission Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 175,
+        "max": 175
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "om-power-transmission",
+      "company": "Om Power Transmission Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Engineering - Construction",
+      "status": "listed",
+      "priceBand": {
+        "min": 175,
+        "max": 175
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-17",
+      "gmp": null,
+      "subscription": null,
+      "listing": {
+        "issuePrice": 175,
+        "listPrice": 186,
+        "gainPct": 6.29
+      }
+    },
+    {
+      "id": "vivid-electromech-limited",
+      "company": "Vivid Electromech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 555,
+        "max": 555
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "amir-chand-jagdish-kumar-exports-limited",
+      "company": "Amir Chand Jagdish Kumar (Exports) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 212,
+        "max": 212
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sai-parenteral-s-limited",
+      "company": "Sai Parenteral's Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 392,
+        "max": 392
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "powerica-limited",
+      "company": "Powerica Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 395,
+        "max": 395
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-04-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "central-mine-planning-design-institute-limited",
+      "company": "Central Mine Planning & Design Institute Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 172,
+        "max": 172
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-30",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "gsp-crop-science-limited",
+      "company": "GSP Crop Science Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 320,
+        "max": 320
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-24",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "raajmarg-infra-investment-trust",
+      "company": "Raajmarg Infra Investment Trust",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100,
+        "max": 100
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-24",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "innovision-limited",
+      "company": "Innovision Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 519,
+        "max": 519
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-23",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "rajputana-stainless-limited",
+      "company": "Rajputana Stainless Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 122,
+        "max": 122
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-19",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "apsis-aerocom-limited",
+      "company": "Apsis Aerocom Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 110,
+        "max": 110
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-18",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "canara-hsbc-life-insurance-company-limited",
+      "company": "Canara HSBC Life Insurance Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "srinibas-pradhan-constructions-limited",
+      "company": "Srinibas Pradhan Constructions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 98,
+        "max": 98
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "kotyark-industries-limited",
+      "company": "Kotyark Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 281,
+        "max": 281
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-12",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sedemac-mechatronics-limited",
+      "company": "Sedemac Mechatronics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 1352,
+        "max": 1352
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "vital-chemtech-limited",
+      "company": "Vital Chemtech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 46,
+        "max": 46
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "acetech-e-commerce-limited",
+      "company": "Acetech E-Commerce Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 112,
+        "max": 112
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-09",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-09",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-09",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-09",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-09",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "striders-impex-limited",
+      "company": "Striders Impex Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 72,
+        "max": 72
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "nashik-municipal-corporation",
+      "company": "Nashik Municipal Corporation",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 125,
+        "max": 125
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "omnitech-engineering-limited",
+      "company": "Omnitech Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 227,
+        "max": 227
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "yaap-digital-limited",
+      "company": "Yaap Digital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 145,
+        "max": 145
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "power-finance-corporation-limited",
+      "company": "Power Finance Corporation Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "pngs-reva-diamond-jewellery-limited",
+      "company": "PNGS Reva Diamond Jewellery Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 386,
+        "max": 386
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-04",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shree-ram-twistex-limited",
+      "company": "Shree Ram Twistex Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 104,
+        "max": 104
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "clean-max-enviro-energy-solutions-limited",
+      "company": "Clean Max Enviro Energy Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 1053,
+        "max": 1053
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "mobilise-app-lab-limited",
+      "company": "Mobilise App Lab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 80,
+        "max": 80
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-03-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "gaudium-ivf-and-women-health-limited",
+      "company": "Gaudium IVF and Women Health Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 79,
+        "max": 79
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-27",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "manilam-industries-india-limited",
+      "company": "Manilam Industries India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 69,
+        "max": 69
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-27",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "marushika-technology-limited",
+      "company": "Marushika Technology Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 117,
+        "max": 117
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-19",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "silgo-retail-limited",
+      "company": "Silgo Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 30,
+        "max": 30
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-19",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "globe-international-carriers-limited",
+      "company": "Globe International Carriers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 45,
+        "max": 45
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-18",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "fractal-analytics-limited",
+      "company": "Fractal Analytics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 900,
+        "max": 900
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "aye-finance-limited",
+      "company": "Aye Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 129,
+        "max": 129
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "biopol-chemicals-limited",
+      "company": "Biopol Chemicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 108,
+        "max": 108
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-13",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 88,
+        "max": 88
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 176,
+        "max": 176
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "adani-enterprises-limited",
+      "company": "Adani Enterprises Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 450,
+        "max": 450
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-10",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "adani-enterprises-limited",
+      "company": "Adani Enterprises Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 450,
+        "max": 450
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-10",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "adani-enterprises-limited",
+      "company": "Adani Enterprises Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 450,
+        "max": 450
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-10",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "c-k-k-retail-mart-limited",
+      "company": "C K K Retail Mart Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 163,
+        "max": 163
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-02-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "krm-ayurveda-limited",
+      "company": "KRM Ayurveda Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 135,
+        "max": 135
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-29",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shadowfax-technologies-limited",
+      "company": "Shadowfax Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 124,
+        "max": 124
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-28",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "armour-security-india-ltd",
+      "company": "Armour Security (India). Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 57,
+        "max": 57
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-22",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "amagi-media-labs-limited",
+      "company": "Amagi Media Labs Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 361,
+        "max": 361
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-21",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "avana-electrosystems-limited",
+      "company": "Avana Electrosystems Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 59,
+        "max": 59
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-20",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "bharat-coking-coal-limited",
+      "company": "Bharat Coking Coal Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 23,
+        "max": 23
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-19",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "victory-electric-vehicles-international-limited",
+      "company": "Victory Electric Vehicles International Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 41,
+        "max": 41
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-14",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "aegis-vopak-terminals-limited",
+      "company": "Aegis Vopak Terminals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-08",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "northern-arc-capital-limited",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "e-to-e-transportation-infrastructure-limited",
+      "company": "E TO E Transportation Infrastructure Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 174,
+        "max": 174
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "alpine-texworld-limited",
+      "company": "Alpine Texworld Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sbi-funds-management-limited",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "ic-electricals-company-limited-issue-postponed",
+      "company": "IC Electricals Company Limited-Issue postponed",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sri-priyanka-geo-commex-limited-issue-withdrawn",
+      "company": "Sri Priyanka Geo Commex Limited-Issue Withdrawn",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "rajputana-stainless-limited-special-withdrawal-option",
+      "company": "Rajputana Stainless Limited-Special Withdrawal Option",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "nfp-sampoorna-foods-limited-issue-withdrawn",
+      "company": "NFP Sampoorna Foods Limited-Issue Withdrawn",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "power-finance-corporation-limited-zero-coupon-ncd",
+      "company": "Power Finance Corporation Limited (Zero Coupon NCD)",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "smc-global-securities-limited",
+      "company": "SMC Global Securities Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "national-securities-depository-limited",
+      "company": "National Securities Depository Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "smc-global-securities-limited",
+      "company": "SMC Global Securities Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "c2c-advanced-systems-limited-withdrawal-window",
+      "company": "C2C Advanced Systems Limited- Withdrawal Window",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sar-televenture-limited-fpo",
+      "company": "SAR Televenture Limited - FPO",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "smc-global-securities-limited",
+      "company": "SMC Global Securities Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "indiabulls-housing-finance-limited",
+      "company": "Indiabulls Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "pkh-ventures-limited",
+      "company": "PKH Ventures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "pkh-ventures-limited-issue-withdrawn",
+      "company": "PKH Ventures Limited - Issue Withdrawn",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "adani-enterprises-limited-fpo",
+      "company": "Adani Enterprises Limited-FPO",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "dcx-system-limited",
+      "company": "DCX System limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "u-gro-capital-limited",
+      "company": "U Gro Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "u-gro-capital-limited",
+      "company": "U Gro Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "p-e-analytics-limited",
+      "company": "P.E. Analytics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0.111,
+        "max": 0.114
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "timescan-logistics-india-private-limited",
+      "company": "Timescan Logistics (India) Private Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0.51,
+        "max": 0.51
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "ab-cotspin-india-limited",
+      "company": "AB Cotspin India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0.33,
+        "max": 0.35
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "u-gro-capital-limited",
+      "company": "U Gro Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "d-k-enterprises-global-limited",
+      "company": "D. K. Enterprises Global Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0.4,
+        "max": 0.4
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "dynamic-services-security-ltd",
+      "company": "Dynamic Services & Security Ltd.",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0.51,
+        "max": 0.51
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "jm-financial-products-limited",
+      "company": "JM Financial Products Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "piramal-capital-and-housing-finance-limited",
+      "company": "Piramal Capital and Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "v-marc-india-limited",
+      "company": "V-Marc India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 37,
+        "max": 39
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "yes-bank-limited-fpo",
+      "company": "Yes Bank Limited - FPO",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "antony-waste-handling-cell-limited-issue-withdrawn",
+      "company": "Antony Waste Handling Cell Limited - Issue Withdrawn",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "iti-limited-fpo-issue-withdrawn",
+      "company": "ITI Limited FPO - Issue Withdrawn",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shriram-transport-finance-company-limited",
+      "company": "Shriram Transport Finance Company Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "ascom-leasing-investments-limited",
+      "company": "Ascom Leasing & Investments Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 30,
+        "max": 30
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sona-hi-sona-jewellers-gujarat-limited",
+      "company": "Sona Hi Sona Jewellers (Gujarat) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10,
+        "max": 10
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "tata-capital-financial-services-ltd",
+      "company": "Tata Capital Financial Services Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sterling-wilson-solar-limited",
+      "company": "Sterling & Wilson Solar Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "k-p-r-agrochem-limited",
+      "company": "K.P.R. Agrochem Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "ab-infrabuild-limited",
+      "company": "AB Infrabuild Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 29,
+        "max": 29
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "alumilite-architecturals-limited",
+      "company": "Alumilite Architecturals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 30,
+        "max": 30
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sudarshan-pharma-industries-limited",
+      "company": "Sudarshan Pharma Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 72,
+        "max": 72
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "icl-multitrading-india-limited",
+      "company": "ICL Multitrading India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 85,
+        "max": 85
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "dinesh-engineers-limited",
+      "company": "Dinesh Engineers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shriram-transport-finance-company-limited-ncd-8",
+      "company": "Shriram Transport Finance Company Limited - NCD 8",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sorich-foils-limited",
+      "company": "Sorich Foils Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 16,
+        "max": 16
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "penta-gold-limited",
+      "company": "Penta Gold Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 35,
+        "max": 35
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "seven-hills-beverages-limited",
+      "company": "Seven Hills Beverages Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 26,
+        "max": 26
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "greensignal-bio-pharma-limited",
+      "company": "GreenSignal Bio Pharma Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "edelweiss-housing-finance-limited",
+      "company": "Edelweiss Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
     }
-}
   ]
 }
