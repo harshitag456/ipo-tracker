@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2026-07-19T09:30:00+05:30",
+  "source": "sample-data",
+  "ipos": [
+    {
+      "id": "sample-mainboard-1",
+      "company": "Meridian Foods Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "FMCG",
+      "status": "open",
+      "priceBand": { "min": 285, "max": 300 },
+      "lotSize": 50,
+      "issueSizeCr": 1250,
+      "openDate": "2026-07-17",
+      "closeDate": "2026-07-21",
+      "allotmentDate": "2026-07-22",
+      "listingDate": "2026-07-24",
+      "gmp": 42,
+      "subscription": {
+        "qib": 8.42,
+        "nii": 14.87,
+        "retail": 3.65,
+        "total": 7.9
+      }
+    },
+    {
+      "id": "sample-mainboard-2",
+      "company": "Ashwatta EV Motors Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Auto / EV",
+      "status": "open",
+      "priceBand": { "min": 112, "max": 118 },
+      "lotSize": 125,
+      "issueSizeCr": 3400,
+      "openDate": "2026-07-18",
+      "closeDate": "2026-07-22",
+      "allotmentDate": "2026-07-23",
+      "listingDate": "2026-07-27",
+      "gmp": 9,
+      "subscription": {
+        "qib": 0.64,
+        "nii": 1.12,
+        "retail": 2.31,
+        "total": 1.28
+      }
+    },
+    {
+      "id": "sample-sme-1",
+      "company": "Kaveri Precision Tools Ltd",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "Engineering",
+      "status": "upcoming",
+      "priceBand": { "min": 96, "max": 102 },
+      "lotSize": 1200,
+      "issueSizeCr": 68,
+      "openDate": "2026-07-24",
+      "closeDate": "2026-07-28",
+      "allotmentDate": "2026-07-29",
+      "listingDate": "2026-07-31",
+      "gmp": 18,
+      "subscription": null
+    },
+    {
+      "id": "sample-mainboard-3",
+      "company": "Nilgiri Health Diagnostics Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Healthcare",
+      "status": "upcoming",
+      "priceBand": { "min": 410, "max": 432 },
+      "lotSize": 34,
+      "issueSizeCr": 2100,
+      "openDate": "2026-07-27",
+      "closeDate": "2026-07-30",
+      "allotmentDate": "2026-07-31",
+      "listingDate": "2026-08-04",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sample-listed-1",
+      "company": "Suvarna Jewels Ltd",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Consumer",
+      "status": "listed",
+      "priceBand": { "min": 216, "max": 228 },
+      "lotSize": 65,
+      "issueSizeCr": 940,
+      "openDate": "2026-07-08",
+      "closeDate": "2026-07-10",
+      "allotmentDate": "2026-07-11",
+      "listingDate": "2026-07-15",
+      "gmp": null,
+      "subscription": {
+        "qib": 62.4,
+        "nii": 38.1,
+        "retail": 11.2,
+        "total": 34.6
+      },
+      "listing": { "issuePrice": 228, "listPrice": 291, "gainPct": 27.6 }
+    }
+  ]
+}
