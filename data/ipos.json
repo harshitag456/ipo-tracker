@@ -61,6 +61,231 @@
       "listingDate": null,
       "gmp": null,
       "subscription": null
+    },
+    {
+    "id": "hexagon-nutrition",
+    "company": "Hexagon Nutrition Ltd",
+    "exchange": "NSE, BSE",
+    "board": "Mainboard",
+    "sector": "Consumer Food",
+    "status": "listed",
+    "priceBand": {
+      "min": 45,
+      "max": 45
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": null,
+    "closeDate": null,
+    "allotmentDate": null,
+    "listingDate": "2026-06-12",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 45,
+      "listPrice": 48.25,
+      "gainPct": 7.22
     }
+  },
+  {
+    "id": "cmr-green-technologies",
+    "company": "CMR Green Technologies Ltd",
+    "exchange": "NSE, BSE",
+    "board": "Mainboard",
+    "sector": "Metal - Non Ferrous",
+    "status": "listed",
+    "priceBand": {
+      "min": 192,
+      "max": 192
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": null,
+    "closeDate": null,
+    "allotmentDate": null,
+    "listingDate": "2026-06-10",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 192,
+      "listPrice": 268,
+      "gainPct": 39.58
+    }
+  },
+  {
+    "id": "bagmane-prime-office-reit",
+    "company": "Bagmane Prime Office REIT",
+    "exchange": "NSE, BSE",
+    "board": "Mainboard",
+    "sector": "Real Estate / REIT",
+    "status": "listed",
+    "priceBand": {
+      "min": 100,
+      "max": 100
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": null,
+    "closeDate": null,
+    "allotmentDate": null,
+    "listingDate": "2026-05-15",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 100,
+      "listPrice": 103.89,
+      "gainPct": 3.89
+    }
+  },
+  {
+    "id": "onemi-technology-solutions",
+    "company": "OnEMI Technology Solutions Ltd",
+    "exchange": "NSE, BSE",
+    "board": "Mainboard",
+    "sector": "Finance - NBFC",
+    "status": "listed",
+    "priceBand": {
+      "min": 171,
+      "max": 171
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": null,
+    "closeDate": null,
+    "allotmentDate": null,
+    "listingDate": "2026-05-08",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 171,
+      "listPrice": 190,
+      "gainPct": 11.11
+    }
+  },
+  {
+    "id": "om-power-transmission",
+    "company": "Om Power Transmission Ltd",
+    "exchange": "NSE, BSE",
+    "board": "Mainboard",
+    "sector": "Engineering - Construction",
+    "status": "listed",
+    "priceBand": {
+      "min": 175,
+      "max": 175
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": null,
+    "closeDate": null,
+    "allotmentDate": null,
+    "listingDate": "2026-04-17",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 175,
+      "listPrice": 186,
+      "gainPct": 6.29
+    }
+  },
+  {
+    "id": "aastha-spintex",
+    "company": "Aastha Spintex Ltd",
+    "exchange": "NSE, BSE",
+    "board": "Mainboard",
+    "sector": "Textiles",
+    "status": "listed",
+    "priceBand": {
+      "min": 125,
+      "max": 136
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": "2026-06-29",
+    "closeDate": "2026-07-01",
+    "allotmentDate": null,
+    "listingDate": "2026-07-06",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 136,
+      "listPrice": 137.4,
+      "gainPct": 1
+    }
+  },
+  {
+    "id": "kratikal-tech",
+    "company": "Kratikal Tech Ltd",
+    "exchange": "NSE SME",
+    "board": "SME",
+    "sector": "Cybersecurity",
+    "status": "listed",
+    "priceBand": {
+      "min": 128,
+      "max": 135
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": "2026-06-30",
+    "closeDate": "2026-07-02",
+    "allotmentDate": null,
+    "listingDate": "2026-07-07",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 135,
+      "listPrice": 182.25,
+      "gainPct": 35
+    }
+  },
+  {
+    "id": "sampark-india-logistics",
+    "company": "Sampark India Logistics Ltd",
+    "exchange": "NSE SME",
+    "board": "SME",
+    "sector": "Logistics",
+    "status": "listed",
+    "priceBand": {
+      "min": 80,
+      "max": 84
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": "2026-06-30",
+    "closeDate": "2026-07-02",
+    "allotmentDate": null,
+    "listingDate": "2026-07-07",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 84,
+      "listPrice": 93.25,
+      "gainPct": 11
+    }
+  },
+  {
+    "id": "vinit-mobile",
+    "company": "Vinit Mobile Ltd",
+    "exchange": "NSE SME",
+    "board": "SME",
+    "sector": "Consumer Electronics",
+    "status": "listed",
+    "priceBand": {
+      "min": 150,
+      "max": 158
+    },
+    "lotSize": 0,
+    "issueSizeCr": 0,
+    "openDate": "2026-06-30",
+    "closeDate": "2026-07-02",
+    "allotmentDate": null,
+    "listingDate": "2026-07-07",
+    "gmp": null,
+    "subscription": null,
+    "listing": {
+      "issuePrice": 158,
+      "listPrice": 148.5,
+      "gainPct": -6
+    }
+}
   ]
 }
