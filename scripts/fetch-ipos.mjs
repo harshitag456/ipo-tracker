@@ -1,23 +1,24 @@
 /**
- * fetch-ipos.mjs
- * Pulls current + upcoming IPO data from NSE's public (undocumented) JSON
- * endpoints and rewrites data/ipos.json in the shape index.html expects.
+ * fetch-ipos.mjs (v2)
+ * Pulls current + upcoming + past (listed) IPOs from NSE and merges them
+ * into data/ipos.json.
  *
- * Run: node scripts/fetch-ipos.mjs
- * Requires Node 18+ (built-in fetch).
+ * Safety rules built in:
+ * - A failed or empty fetch NEVER wipes existing data for that section.
+ *   Your hand-seeded "listed" entries survive every cron run.
+ * - data/overrides.json (optional) is merged last, keyed by id — use it
+ *   for GMP, corrections, or listing prices NSE doesn't provide.
  *
- * NOTES ON NSE:
- * - These endpoints are undocumented and can change without notice.
- * - NSE requires browser-like headers AND a cookie handshake: hit the
- *   homepage first, carry the cookies to the API call.
- * - Cloud IPs (GitHub Actions, AWS) are sometimes blocked. If that happens,
- *   run this on a small VPS / your machine on a cron, or switch to a paid
- *   API and swap out fetchNSE() — the mapping layer below stays the same.
- * - GMP is NOT available from NSE. Either maintain it by hand in a
- *   gmp-overrides.json, or scrape an aggregator (check their ToS first).
+ * VERIFY ONCE: the past-issues endpoint path below. Open
+ * https://www.nseindia.com/market-data/all-upcoming-issues-ipo
+ * -> "Past Issues" tab -> DevTools Network panel -> find the API call,
+ * and if the path differs, update PAST_ISSUES_PATH.
  */
 
 import { readFile, writeFile } from "node:fs/promises";
+
+const PAST_ISSUES_PATH = "/api/public-past-issues"; // verify in DevTools
+const YEAR_FROM = "2026-01-01";
 
 const HEADERS = {
   "User-Agent":
@@ -28,7 +29,6 @@ const HEADERS = {
 };
 
 async function nseSession() {
-  // Handshake: NSE sets cookies on the homepage that the API endpoints require.
   const res = await fetch("https://www.nseindia.com", { headers: HEADERS });
   const cookies = res.headers.getSetCookie?.() ?? [];
   return cookies.map((c) => c.split(";")[0]).join("; ");
@@ -42,26 +42,21 @@ async function fetchNSE(path, cookie) {
   return res.json();
 }
 
-function slug(name) {
-  return name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-}
+const slug = (name) =>
+  String(name).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 function toISO(d) {
-  // NSE dates arrive in formats like "17-Jul-2026"; normalise to YYYY-MM-DD.
   if (!d) return null;
   const t = Date.parse(d);
   return Number.isNaN(t) ? null : new Date(t).toISOString().slice(0, 10);
 }
 
 function num(v) {
-  const n = parseFloat(String(v ?? "").replace(/[^0-9.]/g, ""));
+  const n = parseFloat(String(v ?? "").replace(/[^0-9.-]/g, ""));
   return Number.isNaN(n) ? null : n;
 }
 
-function mapIssue(raw, status) {
-  // Field names below reflect NSE's current schema; verify against a live
-  // response and adjust — this is the ONLY place you should need to edit
-  // if NSE renames fields or you swap in another provider.
+function base(raw, status) {
   const [min, max] = String(raw.issuePrice ?? raw.priceBand ?? "")
     .split(/[-–to]+/)
     .map(num);
@@ -77,7 +72,7 @@ function mapIssue(raw, status) {
     issueSizeCr: num(raw.issueSize) ?? 0,
     openDate: toISO(raw.issueStartDate),
     closeDate: toISO(raw.issueEndDate),
-    allotmentDate: null, // fill from BSE/registrar if you need it
+    allotmentDate: null,
     listingDate: toISO(raw.listingDate),
     gmp: null,
     subscription: raw.noOfTimesSubscribed
@@ -86,39 +81,79 @@ function mapIssue(raw, status) {
   };
 }
 
+function mapPast(raw) {
+  // Adjust field names after checking a real response in DevTools.
+  const ipo = base(raw, "listed");
+  const issuePrice = num(raw.issuePrice ?? raw.finalIssuePrice) ?? ipo.priceBand.max;
+  const listPrice = num(raw.listingPrice ?? raw.listingDayPrice);
+  if (issuePrice && listPrice) {
+    ipo.listing = {
+      issuePrice,
+      listPrice,
+      gainPct: Math.round(((listPrice - issuePrice) / issuePrice) * 1000) / 10,
+    };
+  }
+  return ipo;
+}
+
 async function main() {
+  // Load existing file so failed fetches never wipe good data.
+  let existing = { ipos: [] };
+  try {
+    existing = JSON.parse(await readFile("data/ipos.json", "utf8"));
+  } catch { /* first run */ }
+  const keep = (status) => existing.ipos.filter((i) => i.status === status);
+
   const cookie = await nseSession();
 
-  const [current, upcoming] = await Promise.all([
-    fetchNSE("/api/ipo-current-issue", cookie).catch(() => []),
-    fetchNSE("/api/all-upcoming-issues?category=ipo", cookie).catch(() => []),
+  const [current, upcoming, past] = await Promise.all([
+    fetchNSE("/api/ipo-current-issue", cookie).catch((e) => (console.error("current:", e.message), null)),
+    fetchNSE("/api/all-upcoming-issues?category=ipo", cookie).catch((e) => (console.error("upcoming:", e.message), null)),
+    fetchNSE(PAST_ISSUES_PATH, cookie).catch((e) => (console.error("past:", e.message), null)),
   ]);
 
-  const ipos = [
-    ...(Array.isArray(current) ? current : []).map((r) => mapIssue(r, "open")),
-    ...(Array.isArray(upcoming) ? upcoming : []).map((r) => mapIssue(r, "upcoming")),
-  ];
+  const open = Array.isArray(current) && current.length
+    ? current.map((r) => base(r, "open"))
+    : keep("open");
 
-  // Optional hand-maintained overrides (GMP, allotment dates, corrections).
+  const upc = Array.isArray(upcoming) && upcoming.length
+    ? upcoming.map((r) => base(r, "upcoming"))
+    : keep("upcoming");
+
+  let listed;
+  const pastArr = Array.isArray(past) ? past : past?.data;
+  if (Array.isArray(pastArr) && pastArr.length) {
+    const fetched = pastArr
+      .map(mapPast)
+      .filter((i) => !i.listingDate || i.listingDate >= YEAR_FROM);
+    // Fetched entries win; hand-seeded entries NSE doesn't return are kept.
+    const ids = new Set(fetched.map((i) => i.id));
+    listed = [...fetched, ...keep("listed").filter((i) => !ids.has(i.id))];
+  } else {
+    listed = keep("listed");
+  }
+
+  // Newest listings first.
+  listed.sort((a, b) => (b.listingDate ?? "").localeCompare(a.listingDate ?? ""));
+
+  const ipos = [...open, ...upc, ...listed];
+
+  // Optional hand-maintained overrides (GMP, listing prices, corrections).
   try {
     const overrides = JSON.parse(await readFile("data/overrides.json", "utf8"));
     for (const ipo of ipos) Object.assign(ipo, overrides[ipo.id] ?? {});
-  } catch {
-    /* no overrides file — fine */
+  } catch { /* no overrides file — fine */ }
+
+  if (!ipos.length) {
+    console.error("Nothing fetched and nothing existing — aborting without writing.");
+    process.exit(0);
   }
 
-  if (ipos.length === 0) {
-    console.error("No issues fetched — keeping existing ipos.json untouched.");
-    process.exit(0); // don't wipe good data with an empty response
-  }
-
-  const out = {
-    lastUpdated: new Date().toISOString(),
-    source: "nseindia.com",
-    ipos,
-  };
-  await writeFile("data/ipos.json", JSON.stringify(out, null, 2));
-  console.log(`Wrote ${ipos.length} issues to data/ipos.json`);
+  await writeFile(
+    "data/ipos.json",
+    JSON.stringify({ lastUpdated: new Date().toISOString(), source: "nseindia.com", ipos }, null, 2)
+  );
+  console.log(`Wrote ${open.length} open, ${upc.length} upcoming, ${listed.length} listed.`);
 }
 
 main().catch((e) => {
