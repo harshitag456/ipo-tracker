@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T06:17:48.404Z",
+  "lastUpdated": "2026-07-20T09:41:53.873Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -37,6 +37,26 @@
       "issueSizeCr": 7835821,
       "openDate": "2026-07-17",
       "closeDate": "2026-07-21",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "cube-highways-trust",
+      "company": "Cube Highways Trust",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.151,
+        "max": 0.152
+      },
+      "lotSize": 0,
+      "issueSizeCr": 248344345,
+      "openDate": "2026-07-22",
+      "closeDate": "2026-07-24",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
