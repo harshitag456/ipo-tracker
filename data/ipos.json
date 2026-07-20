@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:41:53.873Z",
+  "lastUpdated": "2026-07-20T12:15:54.782Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -43,20 +43,40 @@
       "subscription": null
     },
     {
-      "id": "cube-highways-trust",
-      "company": "Cube Highways Trust",
+      "id": "alpine-texworld-limited",
+      "company": "Alpine Texworld Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.151,
-        "max": 0.152
+        "min": 0.1,
+        "max": 0.105
       },
       "lotSize": 0,
-      "issueSizeCr": 248344345,
-      "openDate": "2026-07-22",
-      "closeDate": "2026-07-24",
+      "issueSizeCr": 12024000,
+      "openDate": "2026-07-14",
+      "closeDate": "2026-07-16",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sbi-funds-management-limited",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.545,
+        "max": 0.574
+      },
+      "lotSize": 0,
+      "issueSizeCr": 124563536,
+      "openDate": "2026-07-14",
+      "closeDate": "2026-07-16",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
@@ -323,15 +343,15 @@
       "subscription": null
     },
     {
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -343,15 +363,15 @@
       "subscription": null
     },
     {
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -993,15 +1013,15 @@
       "subscription": null
     },
     {
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1013,15 +1033,15 @@
       "subscription": null
     },
     {
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
