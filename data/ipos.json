@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T14:38:29.608Z",
+  "lastUpdated": "2026-07-21T05:49:08.673Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -17,6 +17,26 @@
       "issueSizeCr": 7835821,
       "openDate": "2026-07-17",
       "closeDate": "2026-07-21",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "metalic-technoforge-limited",
+      "company": "Metalic Technoforge Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-07-21",
+      "closeDate": "2026-07-23",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
@@ -63,22 +83,42 @@
       "subscription": null
     },
     {
-      "id": "metalic-technoforge-limited",
-      "company": "Metalic Technoforge Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "id": "alpine-texworld-limited",
+      "company": "Alpine Texworld Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 0.72,
-        "max": 0.77
+        "min": 105,
+        "max": 105
       },
-      "lotSize": 1600,
-      "issueSizeCr": 6488000,
-      "openDate": "2026-07-21",
-      "closeDate": "2026-07-23",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
       "allotmentDate": null,
-      "listingDate": null,
+      "listingDate": "2026-07-21",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "sbi-funds-management-limited",
+      "company": "SBI Funds Management Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 574,
+        "max": 574
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-21",
       "gmp": null,
       "subscription": null
     },
@@ -2519,46 +2559,6 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "alpine-texworld-limited",
-      "company": "Alpine Texworld Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "sbi-funds-management-limited",
-      "company": "SBI Funds Management Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
