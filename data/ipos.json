@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T10:38:17.613Z",
+  "lastUpdated": "2026-07-21T12:23:31.575Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -75,6 +75,46 @@
       },
       "lotSize": 0,
       "issueSizeCr": 79156531,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "xtranet-technologies-limited",
+      "company": "Xtranet Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.12,
+        "max": 0.127
+      },
+      "lotSize": 0,
+      "issueSizeCr": 13134000,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "lohia-corp-limited",
+      "company": "Lohia Corp Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.404,
+        "max": 0.425
+      },
+      "lotSize": 0,
+      "issueSizeCr": 25931407,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
       "allotmentDate": null,
