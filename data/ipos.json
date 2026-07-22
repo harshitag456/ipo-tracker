@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-21T14:34:18.357Z",
+  "lastUpdated": "2026-07-22T05:48:59.479Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "id": "caliber-mining-and-logistics-limited",
-      "company": "Caliber Mining and Logistics Limited",
+      "id": "cube-highways-trust",
+      "company": "Cube Highways Trust",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 0.402,
-        "max": 0.424
+        "min": 0.151,
+        "max": 0.152
       },
       "lotSize": 0,
-      "issueSizeCr": 7835821,
-      "openDate": "2026-07-17",
-      "closeDate": "2026-07-21",
+      "issueSizeCr": 136589480,
+      "openDate": "2026-07-22",
+      "closeDate": "2026-07-24",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
@@ -43,6 +43,26 @@
       "subscription": null
     },
     {
+      "id": "cube-highways-trust",
+      "company": "Cube Highways Trust",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.151,
+        "max": 0.152
+      },
+      "lotSize": 0,
+      "issueSizeCr": 136589480,
+      "openDate": "2026-07-22",
+      "closeDate": "2026-07-24",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "id": "caliber-mining-and-logistics-limited",
       "company": "Caliber Mining and Logistics Limited",
       "exchange": "NSE, BSE",
@@ -63,18 +83,18 @@
       "subscription": null
     },
     {
-      "id": "indo-mim-limited",
-      "company": "INDO-MIM Limited",
+      "id": "lohia-corp-limited",
+      "company": "Lohia Corp Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.461,
-        "max": 0.485
+        "min": 0.404,
+        "max": 0.425
       },
       "lotSize": 0,
-      "issueSizeCr": 79156531,
+      "issueSizeCr": 25931407,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
       "allotmentDate": null,
@@ -103,40 +123,20 @@
       "subscription": null
     },
     {
-      "id": "lohia-corp-limited",
-      "company": "Lohia Corp Limited",
+      "id": "indo-mim-limited",
+      "company": "INDO-MIM Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.404,
-        "max": 0.425
+        "min": 0.461,
+        "max": 0.485
       },
       "lotSize": 0,
-      "issueSizeCr": 25931407,
+      "issueSizeCr": 79156531,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "cube-highways-trust",
-      "company": "Cube Highways Trust",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 0.151,
-        "max": 0.152
-      },
-      "lotSize": 0,
-      "issueSizeCr": 248344345,
-      "openDate": "2026-07-22",
-      "closeDate": "2026-07-24",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
@@ -423,15 +423,15 @@
       "subscription": null
     },
     {
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -443,15 +443,15 @@
       "subscription": null
     },
     {
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1093,15 +1093,15 @@
       "subscription": null
     },
     {
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1113,15 +1113,15 @@
       "subscription": null
     },
     {
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2619,6 +2619,26 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "caliber-mining-and-logistics-limited",
+      "company": "Caliber Mining and Logistics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
