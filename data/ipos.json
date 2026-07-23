@@ -1,7 +1,67 @@
 {
-  "lastUpdated": "2026-07-22T14:33:36.987Z",
+  "lastUpdated": "2026-07-23T05:52:19.373Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "id": "xtranet-technologies-limited",
+      "company": "Xtranet Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.12,
+        "max": 0.127
+      },
+      "lotSize": 0,
+      "issueSizeCr": 9193800,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "lohia-corp-limited",
+      "company": "Lohia Corp Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.404,
+        "max": 0.425
+      },
+      "lotSize": 0,
+      "issueSizeCr": 14352274,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "indo-mim-limited",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.461,
+        "max": 0.485
+      },
+      "lotSize": 0,
+      "issueSizeCr": 55093201,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
     {
       "id": "cube-highways-trust",
       "company": "Cube Highways Trust",
@@ -43,20 +103,20 @@
       "subscription": null
     },
     {
-      "id": "cube-highways-trust",
-      "company": "Cube Highways Trust",
+      "id": "xtranet-technologies-limited",
+      "company": "Xtranet Technologies Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.151,
-        "max": 0.152
+        "min": 0.12,
+        "max": 0.127
       },
       "lotSize": 0,
-      "issueSizeCr": 136589480,
-      "openDate": "2026-07-22",
-      "closeDate": "2026-07-24",
+      "issueSizeCr": 9193800,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
@@ -74,7 +134,7 @@
         "max": 0.425
       },
       "lotSize": 0,
-      "issueSizeCr": 25931407,
+      "issueSizeCr": 14352274,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
       "allotmentDate": null,
@@ -94,7 +154,7 @@
         "max": 0.485
       },
       "lotSize": 0,
-      "issueSizeCr": 79156531,
+      "issueSizeCr": 55093201,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
       "allotmentDate": null,
@@ -103,20 +163,20 @@
       "subscription": null
     },
     {
-      "id": "xtranet-technologies-limited",
-      "company": "Xtranet Technologies Limited",
+      "id": "cube-highways-trust",
+      "company": "Cube Highways Trust",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.12,
-        "max": 0.127
+        "min": 0.151,
+        "max": 0.152
       },
       "lotSize": 0,
-      "issueSizeCr": 9193800,
-      "openDate": "2026-07-23",
-      "closeDate": "2026-07-27",
+      "issueSizeCr": 136589480,
+      "openDate": "2026-07-22",
+      "closeDate": "2026-07-24",
       "allotmentDate": null,
       "listingDate": null,
       "gmp": null,
