@@ -78,9 +78,11 @@ async function fetchSubscription(symbol, cookie) {
   };
   const sub = {
     qib: pick(/qualified|qib/i),
-    nii: pick(/non[- ]?institutional|nii/i),
+    nii: pick(/^non[- ]?institutional|^nii/i),
+    bnii: pick(/bnii|b-nii|above.*10\s*lakh|more than ten/i),
+    snii: pick(/snii|s-nii|below.*10\s*lakh|up to ten|2.*10\s*lakh/i),
     retail: pick(/retail|rii/i),
-    total: pick(/^total$/i),
+    total: pick(/^total/i),
   };
   return Object.values(sub).some((v) => typeof v === "number") ? sub : null;
 }
