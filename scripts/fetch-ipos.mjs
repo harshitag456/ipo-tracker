@@ -136,7 +136,16 @@ async function main() {
   // Newest listings first.
   listed.sort((a, b) => (b.listingDate ?? "").localeCompare(a.listingDate ?? ""));
 
-  const ipos = [...open, ...upc, ...listed];
+  // Derive status from dates and dedupe — NSE's "upcoming" feed includes open issues too.
+  const today = new Date().toISOString().slice(0, 10);
+  const byId = new Map();
+  for (const ipo of [...open, ...upc]) {
+    if (ipo.openDate && ipo.openDate <= today && (!ipo.closeDate || ipo.closeDate >= today)) ipo.status = "open";
+    else if (ipo.openDate && ipo.openDate > today) ipo.status = "upcoming";
+    const prev = byId.get(ipo.id);
+    if (!prev || prev.status !== "open") byId.set(ipo.id, ipo);
+  }
+  const ipos = [...byId.values(), ...listed];
 
   // Optional hand-maintained overrides (GMP, listing prices, corrections).
   try {
