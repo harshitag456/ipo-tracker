@@ -253,7 +253,7 @@ function render(){
 function animate(){
   const cards=[...document.querySelectorAll(".card")];
   cards.forEach((c,i)=>{
-    c.style.animationDelay=(i*90)+"ms";
+    c.style.animationDelay=(Math.min(i,10)*70)+"ms";
     requestAnimationFrame(()=>c.classList.add("in"));
     if(canHover && !reduceMotion) tilt(c);
   });
