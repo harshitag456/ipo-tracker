@@ -96,6 +96,17 @@ function mapPast(raw) {
   return ipo;
 }
 
+function addBusinessDays(iso, n) {
+  const d = new Date(iso + "T00:00:00Z");
+  let added = 0;
+  while (added < n) {
+    d.setUTCDate(d.getUTCDate() + 1);
+    const day = d.getUTCDay();
+    if (day !== 0 && day !== 6) added++; // skip Sat/Sun
+  }
+  return d.toISOString().slice(0, 10);
+}
+
 async function main() {
   // Load existing file so failed fetches never wipe good data.
   let existing = { ipos: [] };
