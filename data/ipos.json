@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T11:39:35.551Z",
+  "lastUpdated": "2026-07-26T11:45:15.319Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -8,20 +8,27 @@
       "company": "Xtranet Technologies Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
-      "sector": "—",
+      "sector": "IT Solutions",
       "status": "open",
       "priceBand": {
-        "min": 0.12,
-        "max": 0.127
+        "min": 120,
+        "max": 127
       },
-      "lotSize": 0,
-      "issueSizeCr": 9193800,
+      "lotSize": 110,
+      "issueSizeCr": 166.8,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
       "allotmentDate": "2026-07-28",
       "listingDate": "2026-07-30",
-      "gmp": null,
-      "subscription": null
+      "gmp": 7,
+      "subscription": {
+        "qib": 0.91,
+        "nii": null,
+        "bnii": 1.77,
+        "snii": 2.81,
+        "retail": 2.5,
+        "total": 1.96
+      }
     },
     {
       "symbol": "LCL",
@@ -29,20 +36,27 @@
       "company": "Lohia Corp Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
-      "sector": "—",
+      "sector": "Industrial Machinery",
       "status": "open",
       "priceBand": {
-        "min": 0.404,
-        "max": 0.425
+        "min": 404,
+        "max": 425
       },
-      "lotSize": 0,
-      "issueSizeCr": 14352274,
+      "lotSize": 35,
+      "issueSizeCr": 1101.28,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
       "allotmentDate": "2026-07-28",
       "listingDate": "2026-07-30",
-      "gmp": null,
-      "subscription": null
+      "gmp": 15,
+      "subscription": {
+        "qib": 0.43,
+        "nii": null,
+        "bnii": 0.11,
+        "snii": 0.24,
+        "retail": 1.1,
+        "total": 0.59
+      }
     },
     {
       "symbol": "INDOMIM",
