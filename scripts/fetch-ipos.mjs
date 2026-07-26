@@ -64,25 +64,40 @@ async function fetchNSE(path, cookie) {
 // Category-wise subscription for one active issue. VERIFY the path once in
 // DevTools: open any live IPO's page on nseindia.com and watch the Network
 // panel for the bid-details API call; adjust path/fields if they differ.
+// Category-wise subscription for one active issue.
 async function fetchSubscription(symbol, cookie) {
-  const data = await fetchNSE(
-    `/api/ipo-active-category?symbol=${encodeURIComponent(symbol)}`,
-    cookie
-  );
+  const data = await fetchNSE(SUBSCRIPTION_PATH(symbol), cookie);
   const rows = Array.isArray(data) ? data : data?.dataList ?? data?.data ?? [];
-  const pick = (re) => {
-    const row = rows.find((r) =>
-      re.test(String(r.category ?? r.categoryName ?? r.srNo ?? ""))
-    );
-    return row ? num(row.noOfshareBid ?? row.subscriptionTimes ?? row.noOfTotalMeant ?? row.subscribed) : null;
+
+  // DEBUG (remove once numbers verify): print raw rows to the Actions log.
+  console.error(`RAW ${symbol}:`, JSON.stringify(rows).slice(0, 1500));
+
+  const rowFor = (re) =>
+    rows.find((r) => re.test(String(r.category ?? r.categoryName ?? "")));
+
+  // Extract the times-subscribed RATIO for a row.
+  // Priority: explicit ratio fields; fallback: shares-bid / shares-offered.
+  const ratio = (row) => {
+    if (!row) return null;
+    const explicit =
+      num(row.subscriptionTimes) ??
+      num(row.noOfTimesSubscribed) ??
+      num(row.subscribed) ??
+      num(row.noOfTotalMeant); // NSE has used this name for the ratio
+    if (explicit != null && explicit < 100000) return explicit;
+    const bid = num(row.noOfshareBid ?? row.noOfSharesBid ?? row.sharesBid);
+    const offered = num(row.noOfshareOffered ?? row.noOfSharesOffered ?? row.sharesOffered);
+    if (bid != null && offered) return Math.round((bid / offered) * 100) / 100;
+    return null;
   };
+
   const sub = {
-    qib: pick(/qualified|qib/i),
-    nii: pick(/^non[- ]?institutional|^nii/i),
-    bnii: pick(/bnii|b-nii|above.*10\s*lakh|more than ten/i),
-    snii: pick(/snii|s-nii|below.*10\s*lakh|up to ten|2.*10\s*lakh/i),
-    retail: pick(/retail|rii/i),
-    total: pick(/^total/i),
+    qib: ratio(rowFor(/qualified|qib/i)),
+    nii: ratio(rowFor(/^non[- ]?institutional(?!.*(above|below|10))|^nii$/i)),
+    bnii: ratio(rowFor(/bnii|b-nii|above.*10\s*lakh|more than ten/i)),
+    snii: ratio(rowFor(/snii|s-nii|below.*10\s*lakh|up to ten|2.*10\s*lakh/i)),
+    retail: ratio(rowFor(/retail|rii/i)),
+    total: ratio(rowFor(/^total/i)),
   };
   return Object.values(sub).some((v) => typeof v === "number") ? sub : null;
 }
