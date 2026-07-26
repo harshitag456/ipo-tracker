@@ -4,6 +4,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Issue Board — Indian IPO Tracker</title>
+<meta name="description" content="Live tracker for Indian IPOs — subscription heat, GMP, price bands and listing dates for NSE & BSE issues." />
+<meta name="theme-color" content="#0B0E1E" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
@@ -20,9 +22,8 @@
     font-family:'Outfit',system-ui,sans-serif;color:var(--text);line-height:1.55;
     background:var(--bg);min-height:100vh;overflow-x:hidden;-webkit-font-smoothing:antialiased;
   }
-  .wrap{max-width:1100px;margin:0 auto;padding:0 20px;position:relative;z-index:2}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px;position:relative;z-index:2}
 
-  /* ── Ambient orbs (depth layer) ── */
   .orbs{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
   .orb{position:absolute;border-radius:50%;filter:blur(90px);opacity:.35}
   .orb.o1{width:480px;height:480px;background:#4A2FBF;top:-140px;left:-120px;animation:drift1 26s ease-in-out infinite alternate}
@@ -32,7 +33,6 @@
   @keyframes drift2{to{transform:translate(-70px,-50px) scale(1.1)}}
   @keyframes drift3{to{transform:translate(-120px,40px)}}
 
-  /* ── Top bar ── */
   .topbar{position:sticky;top:0;z-index:20;background:rgba(11,14,30,.65);backdrop-filter:blur(16px);border-bottom:1px solid var(--edge)}
   .topbar .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
   .logo{font-weight:800;font-size:17px}
@@ -41,28 +41,24 @@
   .stamp .dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 12px var(--green);animation:pulse 2.2s ease-in-out infinite}
   @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
 
-  /* ── Hero with 3D cube ── */
-  .hero{padding:60px 0 12px;display:flex;align-items:center;justify-content:space-between;gap:30px;flex-wrap:wrap}
-  .hero h1{font-weight:800;font-size:clamp(28px,5vw,50px);line-height:1.07;letter-spacing:-0.03em;max-width:15ch}
+  .hero{padding:52px 0 8px;display:flex;align-items:center;justify-content:space-between;gap:30px;flex-wrap:wrap}
+  .hero h1{font-weight:800;font-size:clamp(28px,5vw,48px);line-height:1.08;letter-spacing:-0.03em;max-width:16ch}
   .hero h1 em{font-style:normal;background:linear-gradient(90deg,var(--violet),var(--cyan));-webkit-background-clip:text;background-clip:text;color:transparent}
-  .hero p{color:var(--muted);margin-top:12px;max-width:46ch;font-size:15px}
+  .hero p{color:var(--muted);margin-top:12px;max-width:48ch;font-size:15px}
 
-  .scene{width:150px;height:150px;perspective:700px;flex-shrink:0}
+  .scene{width:140px;height:140px;perspective:700px;flex-shrink:0}
   .cube{width:100%;height:100%;position:relative;transform-style:preserve-3d;animation:spin 14s linear infinite}
   @keyframes spin{from{transform:rotateX(-18deg) rotateY(0)}to{transform:rotateX(-18deg) rotateY(360deg)}}
   .face{
     position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
-    font-weight:800;font-size:52px;border:1px solid var(--edge-hi);border-radius:16px;
+    font-weight:800;font-size:48px;border:1px solid var(--edge-hi);border-radius:16px;
     background:linear-gradient(135deg,rgba(139,108,255,.16),rgba(63,214,228,.08));
-    backdrop-filter:blur(4px);
-    background-clip:padding-box;
   }
   .face span{background:linear-gradient(135deg,var(--violet),var(--cyan));-webkit-background-clip:text;background-clip:text;color:transparent}
-  .face.f{transform:translateZ(75px)} .face.b{transform:rotateY(180deg) translateZ(75px)}
-  .face.l{transform:rotateY(-90deg) translateZ(75px)} .face.r{transform:rotateY(90deg) translateZ(75px)}
-  .face.t{transform:rotateX(90deg) translateZ(75px)} .face.d{transform:rotateX(-90deg) translateZ(75px)}
+  .face.f{transform:translateZ(70px)} .face.b{transform:rotateY(180deg) translateZ(70px)}
+  .face.l{transform:rotateY(-90deg) translateZ(70px)} .face.r{transform:rotateY(90deg) translateZ(70px)}
+  .face.t{transform:rotateX(90deg) translateZ(70px)} .face.d{transform:rotateX(-90deg) translateZ(70px)}
 
-  /* ── Pills ── */
   .pills{display:flex;gap:8px;padding:28px 0 22px;flex-wrap:wrap}
   .pills button{
     appearance:none;cursor:pointer;font:inherit;font-weight:600;font-size:13.5px;
@@ -74,73 +70,106 @@
   .pills button:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
   .pills .n{font-family:var(--mono);font-size:11px;opacity:.75;margin-left:5px}
 
-  /* ── 3D tilt cards ── */
-  main{padding-bottom:90px}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:18px;perspective:1400px}
+  /* ── Horizontal row cards ── */
+  main{padding-bottom:90px;perspective:1600px}
+  .stack{display:flex;flex-direction:column;gap:14px}
   .card{
-    background:linear-gradient(150deg,rgba(255,255,255,.07),rgba(255,255,255,.03));
-    border:1px solid var(--edge);border-radius:22px;
-    padding:22px;display:flex;flex-direction:column;gap:15px;
+    background:linear-gradient(120deg,rgba(255,255,255,.07),rgba(255,255,255,.03));
+    border:1px solid var(--edge);border-radius:20px;
+    display:grid;grid-template-columns:1.25fr 1.15fr 1.25fr .95fr;
     transform-style:preserve-3d;will-change:transform;
     transition:box-shadow .25s ease;position:relative;overflow:hidden;
-    opacity:0;transform:translateY(26px);
+    opacity:0;transform:translateY(22px);
   }
-  .card.in{animation:rise .6s cubic-bezier(.2,.8,.2,1) forwards}
+  .card.in{animation:rise .55s cubic-bezier(.2,.8,.2,1) forwards}
   @keyframes rise{to{opacity:1;transform:translateY(0)}}
-  .card:hover{box-shadow:0 24px 60px rgba(0,0,0,.5),0 0 0 1px var(--edge-hi)}
+  .card:hover{box-shadow:0 22px 55px rgba(0,0,0,.5),0 0 0 1px var(--edge-hi)}
   .card .glare{
     position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity .25s ease;
-    background:radial-gradient(400px circle at var(--gx,50%) var(--gy,50%),rgba(255,255,255,.14),transparent 55%);
+    background:radial-gradient(500px circle at var(--gx,50%) var(--gy,50%),rgba(255,255,255,.12),transparent 55%);
   }
   .card:hover .glare{opacity:1}
-  .card > *{transform:translateZ(24px)}
-  .card .glare{transform:none}
 
-  .card-top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
-  .co-name{font-weight:700;font-size:18.5px;letter-spacing:-0.01em;line-height:1.25}
-  .co-meta{font-size:12.5px;color:var(--muted);margin-top:4px}
+  .sec{padding:20px 22px;min-width:0}
+  .sec + .sec{border-left:1px solid var(--edge)}
+  .sec-label{font-family:var(--mono);font-size:9.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px}
+
+  /* Zone 1: identity */
+  .co-name{font-weight:700;font-size:19px;letter-spacing:-0.01em;line-height:1.25}
+  .co-meta{font-size:12.5px;color:var(--muted);margin-top:5px}
+  .chips{margin-top:12px;display:flex;gap:6px;flex-wrap:wrap}
   .chip{font-family:var(--mono);font-size:10px;letter-spacing:.07em;text-transform:uppercase;border-radius:99px;padding:4px 10px;white-space:nowrap}
   .chip.open{background:rgba(46,230,168,.12);color:var(--green);border:1px solid rgba(46,230,168,.3)}
   .chip.upcoming{background:rgba(245,196,82,.12);color:var(--gold);border:1px solid rgba(245,196,82,.3)}
   .chip.listed{background:var(--glass);color:var(--muted);border:1px solid var(--edge)}
-  .chip.sme{background:none;border:1px dashed var(--edge-hi);color:var(--faint);margin-left:5px}
+  .chip.sme{background:none;border:1px dashed var(--edge-hi);color:var(--faint)}
+  .chip.cd{background:rgba(139,108,255,.14);color:var(--violet);border:1px solid rgba(139,108,255,.35)}
 
-  .big{display:flex;align-items:flex-end;gap:12px}
-  .big .x{font-weight:800;font-size:42px;line-height:1;letter-spacing:-0.03em;color:var(--green);text-shadow:0 0 28px rgba(46,230,168,.4)}
-  .big .x.cold{color:var(--red);text-shadow:0 0 28px rgba(255,92,122,.35)}
-  .big .x.wait{color:var(--faint);font-size:27px;text-shadow:none}
-  .big .x.pop{color:var(--gold);text-shadow:0 0 28px rgba(245,196,82,.35)}
-  .big .cap{font-family:var(--mono);font-size:11px;color:var(--muted);padding-bottom:5px;text-transform:uppercase;letter-spacing:.06em}
-
-  .meter{display:flex;flex-direction:column;gap:8px}
-  .m-row{display:grid;grid-template-columns:42px 1fr 56px;gap:10px;align-items:center}
-  .m-row .cat{font-family:var(--mono);font-size:10.5px;color:var(--faint);letter-spacing:.05em}
-  .m-row .bar{height:6px;border-radius:99px;background:rgba(255,255,255,.07);overflow:hidden}
+  /* Zone 2: pulse */
+  .big{display:flex;align-items:flex-end;gap:12px;margin-bottom:12px}
+  .big .x{font-weight:800;font-size:38px;line-height:1;letter-spacing:-0.03em;color:var(--green);text-shadow:0 0 26px rgba(46,230,168,.4)}
+  .big .x.cold{color:var(--red);text-shadow:0 0 26px rgba(255,92,122,.35)}
+  .big .x.wait{color:var(--faint);font-size:25px;text-shadow:none}
+  .big .x.pop{color:var(--gold);text-shadow:0 0 26px rgba(245,196,82,.35)}
+  .big .cap{font-family:var(--mono);font-size:10.5px;color:var(--muted);padding-bottom:4px;text-transform:uppercase;letter-spacing:.06em}
+  .meter{display:flex;flex-direction:column;gap:6px}
+  .m-row{display:grid;grid-template-columns:36px 1fr 52px;gap:9px;align-items:center}
+  .m-row .cat{font-family:var(--mono);font-size:10px;color:var(--faint);letter-spacing:.05em}
+  .m-row .bar{height:5px;border-radius:99px;background:rgba(255,255,255,.07);overflow:hidden}
   .m-row .fill{height:100%;border-radius:99px;background:linear-gradient(90deg,var(--cyan),var(--green));width:0;transition:width 1s cubic-bezier(.2,.8,.2,1)}
   .m-row .fill.under{background:linear-gradient(90deg,#B23,var(--red))}
-  .m-row .v{font-family:var(--mono);font-size:12.5px;font-weight:700;text-align:right}
+  .m-row .v{font-family:var(--mono);font-size:11.5px;font-weight:700;text-align:right}
   .m-row .v.under{color:var(--red)}
 
-  .facts{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;border-top:1px solid var(--edge);padding-top:14px}
-  .fact .k{font-family:var(--mono);font-size:10px;color:var(--faint);text-transform:uppercase;letter-spacing:.07em}
-  .fact .v{font-family:var(--mono);font-size:13.5px;font-weight:500;margin-top:3px}
-  .fact .v .gmp{color:var(--green)}
+  /* Zone 3: facts 2x2 */
+  .facts{display:grid;grid-template-columns:1fr 1fr;gap:12px 16px}
+  .fact .k{font-family:var(--mono);font-size:9.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.08em}
+  .fact .v{font-family:var(--mono);font-size:14px;font-weight:600;margin-top:3px}
+  .fact .s{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:2px}
+  .fact .gmp{color:var(--green)}
+  .fact .est{color:var(--cyan)}
 
-  .rail{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-family:var(--mono);font-size:11px;color:var(--muted)}
-  .rail .cd{color:#0B0E1E;background:linear-gradient(90deg,var(--cyan),var(--green));border-radius:7px;padding:3px 9px;font-weight:700}
-  .rail .cd.closed{background:var(--glass);color:var(--muted);border:1px solid var(--edge)}
-  .rail .arrow{color:var(--faint)}
-  .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:70px 20px;border:1px dashed var(--edge-hi);border-radius:22px}
+  /* Zone 4: milestone timeline */
+  .tl{display:flex;flex-direction:column;gap:0}
+  .tl-item{display:grid;grid-template-columns:14px 1fr;gap:10px;align-items:flex-start;position:relative;padding-bottom:12px}
+  .tl-item:last-child{padding-bottom:0}
+  .tl-item::before{
+    content:"";position:absolute;left:6px;top:14px;bottom:-2px;width:1px;background:var(--edge);
+  }
+  .tl-item:last-child::before{display:none}
+  .tl-dot{width:13px;height:13px;border-radius:50%;border:2px solid var(--faint);background:var(--bg);margin-top:2px}
+  .tl-item.done .tl-dot{border-color:var(--green);background:var(--green)}
+  .tl-item.done::before{background:rgba(46,230,168,.4)}
+  .tl-item.now .tl-dot{border-color:var(--violet);background:var(--violet);box-shadow:0 0 12px rgba(139,108,255,.7)}
+  .tl-item .tl-k{font-family:var(--mono);font-size:10px;color:var(--faint);text-transform:uppercase;letter-spacing:.07em;line-height:1.3}
+  .tl-item .tl-v{font-family:var(--mono);font-size:12px;font-weight:600;margin-top:1px}
+  .tl-item.now .tl-k,.tl-item.now .tl-v{color:var(--violet)}
+  .tl-item.done .tl-v{color:var(--text)}
+  .tl-item.future .tl-v{color:var(--muted)}
+
+  .empty{text-align:center;color:var(--muted);padding:70px 20px;border:1px dashed var(--edge-hi);border-radius:20px}
   footer{border-top:1px solid var(--edge);padding:24px 0 46px;font-size:12.5px;color:var(--faint);position:relative;z-index:2}
   footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
 
-  @media (max-width:760px){.scene{display:none}}
-  @media (max-width:640px){.grid{grid-template-columns:1fr}}
+  @media (max-width:960px){
+    .card{grid-template-columns:1fr 1fr}
+    .sec + .sec{border-left:none}
+    .sec:nth-child(even of .sec){border-left:1px solid var(--edge)}
+    .sec{border-top:1px solid var(--edge)}
+    .sec:nth-child(2),.sec:nth-child(3){border-top:none}
+  }
+  @media (max-width:600px){
+    .scene{display:none}
+    .card{grid-template-columns:1fr}
+    .sec{border-left:none!important;border-top:1px solid var(--edge)}
+    .sec:first-of-type{border-top:none}
+  }
   @media (prefers-reduced-motion:reduce){
     .orb,.cube,.stamp .dot{animation:none!important}
     .card{opacity:1;transform:none}
     .card.in{animation:none}
     .m-row .fill{transition:none}
+    .pills button:hover{transform:none}
   }
 </style>
 </head>
@@ -167,8 +196,8 @@
       </div>
     </div>
   </section>
-  <nav class="pills" role="tablist" id="pills"></nav>
-  <main><div class="grid" id="grid" aria-live="polite"></div></main>
+  <nav class="pills" role="tablist" aria-label="Filter IPOs" id="pills"></nav>
+  <main><div class="stack" id="stack" aria-live="polite"></div></main>
 </div>
 
 <footer><div class="wrap">
@@ -178,10 +207,11 @@
 
 <script>
 const fmtINR = n => "₹" + n.toLocaleString("en-IN");
-const fmtDate = iso => new Date(iso+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short"});
+const fmtDate = iso => iso ? new Date(iso+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short"}) : null;
 const TABS=[{key:"open",label:"Open now"},{key:"upcoming",label:"Upcoming"},{key:"listed",label:"Listed"}];
 let DATA=null, active="open";
 const daysTo = iso => Math.ceil((new Date(iso+"T17:00:00+05:30")-Date.now())/86400000);
+const todayISO = () => new Date().toISOString().slice(0,10);
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const canHover = matchMedia('(hover: hover) and (pointer: fine)').matches;
 
@@ -193,7 +223,7 @@ async function load(){
     document.getElementById("footStamp").textContent=t+(DATA.source==="sample-data"?" · sample data":"");
     renderPills(); render();
   }catch(e){
-    document.getElementById("grid").innerHTML='<div class="empty">Could not load data/ipos.json — serve over HTTP.</div>';
+    document.getElementById("stack").innerHTML='<div class="empty">Could not load data/ipos.json — serve over HTTP.</div>';
   }
 }
 function renderPills(){
@@ -207,26 +237,32 @@ function renderPills(){
     el.appendChild(b);
   });
 }
-function bigHTML(ipo){
+
+/* Zone 2: subscription pulse / listing outcome */
+function pulseHTML(ipo){
+  let big;
   if(ipo.status==="listed"&&ipo.listing){
     const g=ipo.listing.gainPct;
-    return '<div class="big"><span class="x '+(g>=0?"pop":"cold")+'" data-count="'+g+'" data-suffix="%" data-prefix="'+(g>=0?"+":"")+'">0%</span><span class="cap">listing gain · '+fmtINR(ipo.listing.issuePrice)+' → '+fmtINR(ipo.listing.listPrice)+'</span></div>';
+    big='<div class="big"><span class="x '+(g>=0?"pop":"cold")+'" data-count="'+g+'" data-suffix="%" data-prefix="'+(g>=0?"+":"")+'">0%</span><span class="cap">listing gain</span></div>'+
+        '<div class="fact"><div class="s">'+fmtINR(ipo.listing.issuePrice)+' → '+fmtINR(ipo.listing.listPrice)+'</div></div>';
+    return '<div class="sec"><div class="sec-label">Outcome</div>'+big+'</div>';
   }
   if(ipo.status==="listed"){
-    return '<div class="big"><span class="x wait">Listed</span><span class="cap">'+(fmtDate(ipo.listingDate)||"gain data pending")+'</span></div>';
+    return '<div class="sec"><div class="sec-label">Outcome</div><div class="big"><span class="x wait">Listed</span><span class="cap">'+(fmtDate(ipo.listingDate)||"gain data pending")+'</span></div></div>';
   }
   const tot=(ipo.subscription&&typeof ipo.subscription.total==="number")?ipo.subscription.total:null;
   if(ipo.status==="open"&&tot==null){
-    return '<div class="big"><span class="x wait">Open</span><span class="cap">bidding live · numbers pending</span></div>';
-  }
-  if(tot==null){
+    big='<div class="big"><span class="x wait">Open</span><span class="cap">numbers pending</span></div>';
+  }else if(tot==null){
     const d=daysTo(ipo.openDate);
-    return '<div class="big"><span class="x wait">'+(d>0?"T−"+d:"soon")+'</span><span class="cap">opens '+(fmtDate(ipo.openDate)||"tba")+'</span></div>';
+    big='<div class="big"><span class="x wait">'+(d>0?"T−"+d:"soon")+'</span><span class="cap">to open</span></div>';
+  }else{
+    big='<div class="big"><span class="x'+(tot<1?" cold":"")+'" data-count="'+tot+'" data-suffix="×">0×</span><span class="cap">subscribed</span></div>';
   }
-  return '<div class="big"><span class="x'+(tot<1?" cold":"")+'" data-count="'+tot+'" data-suffix="×">0×</span><span class="cap">subscribed overall</span></div>';
+  return '<div class="sec"><div class="sec-label">Subscription</div>'+big+meterHTML(ipo)+'</div>';
 }
 function meterHTML(ipo){
-  if(!ipo.subscription||ipo.status==="listed") return "";
+  if(!ipo.subscription) return "";
   const cats=[["QIB","qib"],["NII","nii"],["RET","retail"]].filter(([l,k])=>typeof ipo.subscription[k]==="number");
   if(!cats.length) return "";
   const max=Math.max(2,...cats.map(c=>ipo.subscription[c[1]]));
@@ -235,26 +271,72 @@ function meterHTML(ipo){
     return '<div class="m-row"><span class="cat">'+lbl+'</span><span class="bar"><span class="fill'+u+'" data-w="'+w+'"></span></span><span class="v'+u+'">'+v.toFixed(2)+'×</span></div>';
   }).join("")+'</div>';
 }
-function railHTML(ipo){
-  let cd="";
-  if(ipo.status==="open"){
-    const d=daysTo(ipo.closeDate);
-    cd=d>=0?'<span class="cd">closes in '+(d===0?"hours":d+"d")+'</span>':'<span class="cd closed">closed</span>';
+
+/* Zone 3: facts incl. estimated listing */
+function factsHTML(ipo){
+  const bandTxt=ipo.priceBand&&ipo.priceBand.max?(ipo.priceBand.min===ipo.priceBand.max?fmtINR(ipo.priceBand.max):fmtINR(ipo.priceBand.min)+'–'+fmtINR(ipo.priceBand.max)):'—';
+  const minAmt=(ipo.priceBand?.max||0)*(ipo.lotSize||0);
+  const lotTxt=ipo.lotSize?ipo.lotSize+' sh · '+fmtINR(minAmt):'—';
+  const sizeTxt=ipo.issueSizeCr?'₹'+ipo.issueSizeCr.toLocaleString("en-IN")+' Cr':'—';
+  let gmpTxt='—', estTxt='';
+  if(ipo.gmp!=null&&ipo.priceBand&&ipo.priceBand.max){
+    const est=ipo.priceBand.max+ipo.gmp, pct=(ipo.gmp/ipo.priceBand.max*100).toFixed(1);
+    gmpTxt='<span class="gmp">+'+fmtINR(ipo.gmp)+' ('+pct+'%)</span>';
+    estTxt='<div class="s est">est. list '+fmtINR(est)+'</div>';
   }
-  return '<div class="rail">'+cd+'<span>'+fmtDate(ipo.openDate)+'–'+fmtDate(ipo.closeDate)+'</span><span class="arrow">→</span><span>allot '+(ipo.allotmentDate?fmtDate(ipo.allotmentDate):"tba")+'</span><span class="arrow">→</span><span>lists '+(ipo.listingDate?fmtDate(ipo.listingDate):"tba")+'</span></div>';
+  return '<div class="sec"><div class="sec-label">Issue facts</div><div class="facts">'+
+    '<div class="fact"><div class="k">Price band</div><div class="v">'+bandTxt+'</div></div>'+
+    '<div class="fact"><div class="k">Lot · Min</div><div class="v">'+lotTxt+'</div></div>'+
+    '<div class="fact"><div class="k">Issue size</div><div class="v">'+sizeTxt+'</div></div>'+
+    '<div class="fact"><div class="k">GMP</div><div class="v">'+gmpTxt+'</div>'+estTxt+'</div>'+
+  '</div></div>';
 }
+
+/* Zone 4: milestone timeline */
+function timelineHTML(ipo){
+  const today=todayISO();
+  const steps=[
+    ["Opens", ipo.openDate],
+    ["Closes", ipo.closeDate],
+    ["Allotment", ipo.allotmentDate],
+    ["Listing", ipo.listingDate],
+  ];
+  // find current stage: first step whose date is today or in future
+  let nowIdx=steps.findIndex(([k,d])=>d&&d>=today);
+  if(ipo.status==="listed") nowIdx=-2; // all done
+  const items=steps.map(([k,d],i)=>{
+    let cls="future";
+    if(nowIdx===-2||(d&&d<today)) cls="done";
+    else if(i===nowIdx) cls="now";
+    let extra="";
+    if(k==="Closes"&&ipo.status==="open"&&d){
+      const dd=daysTo(d);
+      if(dd>=0) extra=' · '+(dd===0?'today':'in '+dd+'d');
+    }
+    return '<div class="tl-item '+cls+'"><span class="tl-dot"></span><div><div class="tl-k">'+k+extra+'</div><div class="tl-v">'+(fmtDate(d)||'TBA')+'</div></div></div>';
+  }).join("");
+  return '<div class="sec"><div class="sec-label">Timeline</div><div class="tl">'+items+'</div></div>';
+}
+
 function render(){
-  const grid=document.getElementById("grid");
+  const stack=document.getElementById("stack");
   const rows=DATA.ipos.filter(i=>i.status===active);
   if(active==="open") rows.sort((a,b)=>(a.closeDate??"9999").localeCompare(b.closeDate??"9999"));
   if(active==="upcoming") rows.sort((a,b)=>(a.openDate??"9999").localeCompare(b.openDate??"9999"));
-  if(!rows.length){grid.innerHTML='<div class="empty">Nothing here right now — check the other tabs.</div>';return;}
-  grid.innerHTML=rows.map(ipo=>{
-    const minAmt=ipo.priceBand.max*ipo.lotSize;
-    return '<article class="card"><div class="glare"></div><div class="card-top"><div><div class="co-name">'+ipo.company+'</div><div class="co-meta">'+ipo.sector+' · '+ipo.exchange+'</div></div><div><span class="chip '+ipo.status+'">'+ipo.status+'</span>'+(ipo.board==="SME"?'<span class="chip sme">SME</span>':'')+'</div></div>'+
-    bigHTML(ipo)+meterHTML(ipo)+
-    '<div class="facts"><div class="fact"><div class="k">Band</div><div class="v">'+fmtINR(ipo.priceBand.min)+'–'+fmtINR(ipo.priceBand.max)+'</div></div><div class="fact"><div class="k">Min invest</div><div class="v">'+fmtINR(minAmt)+'</div></div><div class="fact"><div class="k">GMP</div><div class="v">'+(ipo.gmp!=null?'<span class="gmp">+'+fmtINR(ipo.gmp)+'</span>':'—')+'</div></div></div>'+
-    railHTML(ipo)+'</article>';
+  if(active==="listed") rows.sort((a,b)=>(b.listingDate??"").localeCompare(a.listingDate??""));
+  if(!rows.length){stack.innerHTML='<div class="empty">Nothing here right now — check the other tabs.</div>';return;}
+  stack.innerHTML=rows.map(ipo=>{
+    const cdChip=(ipo.status==="open"&&ipo.closeDate&&daysTo(ipo.closeDate)>=0)?'<span class="chip cd">closes '+(daysTo(ipo.closeDate)===0?'today':'in '+daysTo(ipo.closeDate)+'d')+'</span>':'';
+    return '<article class="card"><div class="glare"></div>'+
+      '<div class="sec"><div class="sec-label">Issue</div>'+
+        '<div class="co-name">'+ipo.company+'</div>'+
+        '<div class="co-meta">'+(ipo.sector&&ipo.sector!=="—"?ipo.sector+' · ':'')+ipo.exchange+'</div>'+
+        '<div class="chips"><span class="chip '+ipo.status+'">'+ipo.status+'</span>'+(ipo.board==="SME"?'<span class="chip sme">SME</span>':'')+cdChip+'</div>'+
+      '</div>'+
+      pulseHTML(ipo)+
+      factsHTML(ipo)+
+      timelineHTML(ipo)+
+    '</article>';
   }).join("");
   animate();
 }
@@ -266,11 +348,9 @@ function animate(){
     requestAnimationFrame(()=>c.classList.add("in"));
     if(canHover && !reduceMotion) tilt(c);
   });
-  /* meter fill-in */
   setTimeout(()=>{
     document.querySelectorAll(".fill").forEach(f=>f.style.width=f.dataset.w+"%");
   }, 120);
-  /* number count-up */
   if(!reduceMotion){
     document.querySelectorAll("[data-count]").forEach(el=>{
       const target=parseFloat(el.dataset.count), suf=el.dataset.suffix||"", pre=el.dataset.prefix||"";
@@ -289,7 +369,7 @@ function animate(){
   }
 }
 
-/* 3D tilt + glare tracking */
+/* 3D tilt — gentler angles for wide rows */
 function tilt(card){
   let raf=null;
   card.addEventListener("pointermove",e=>{
@@ -297,8 +377,8 @@ function tilt(card){
     raf=requestAnimationFrame(()=>{
       const r=card.getBoundingClientRect();
       const px=(e.clientX-r.left)/r.width, py=(e.clientY-r.top)/r.height;
-      const rx=(py-.5)*-10, ry=(px-.5)*12;
-      card.style.transform=`rotateX(${rx}deg) rotateY(${ry}deg) translateY(-4px)`;
+      const rx=(py-.5)*-4, ry=(px-.5)*3;
+      card.style.transform=`rotateX(${rx}deg) rotateY(${ry}deg) translateY(-3px)`;
       card.style.setProperty("--gx",(px*100)+"%");
       card.style.setProperty("--gy",(py*100)+"%");
       raf=null;
