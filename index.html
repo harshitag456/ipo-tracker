@@ -76,7 +76,7 @@
   .card{
     background:linear-gradient(120deg,rgba(255,255,255,.07),rgba(255,255,255,.03));
     border:1px solid var(--edge);border-radius:20px;
-    display:grid;grid-template-columns:1.25fr 1.15fr 1.25fr .95fr;
+    display:grid;grid-template-columns:1.45fr 1.05fr 1.15fr;
     transform-style:preserve-3d;will-change:transform;
     transition:box-shadow .25s ease;position:relative;overflow:hidden;
     opacity:0;transform:translateY(22px);
@@ -129,23 +129,18 @@
   .fact .gmp{color:var(--green)}
   .fact .est{color:var(--cyan)}
 
-  /* Zone 4: milestone timeline */
-  .tl{display:flex;flex-direction:column;gap:0}
-  .tl-item{display:grid;grid-template-columns:14px 1fr;gap:10px;align-items:flex-start;position:relative;padding-bottom:12px}
-  .tl-item:last-child{padding-bottom:0}
-  .tl-item::before{
-    content:"";position:absolute;left:6px;top:14px;bottom:-2px;width:1px;background:var(--edge);
-  }
-  .tl-item:last-child::before{display:none}
-  .tl-dot{width:13px;height:13px;border-radius:50%;border:2px solid var(--faint);background:var(--bg);margin-top:2px}
-  .tl-item.done .tl-dot{border-color:var(--green);background:var(--green)}
-  .tl-item.done::before{background:rgba(46,230,168,.4)}
-  .tl-item.now .tl-dot{border-color:var(--violet);background:var(--violet);box-shadow:0 0 12px rgba(139,108,255,.7)}
-  .tl-item .tl-k{font-family:var(--mono);font-size:10px;color:var(--faint);text-transform:uppercase;letter-spacing:.07em;line-height:1.3}
-  .tl-item .tl-v{font-family:var(--mono);font-size:12px;font-weight:600;margin-top:1px}
-  .tl-item.now .tl-k,.tl-item.now .tl-v{color:var(--violet)}
-  .tl-item.done .tl-v{color:var(--text)}
-  .tl-item.future .tl-v{color:var(--muted)}
+  /* Zone 1 add-on: horizontal milestone stepper */
+  .tlh{display:flex;align-items:flex-start;margin-top:16px;max-width:340px}
+  .tlh-step{display:flex;flex-direction:column;align-items:center;gap:3px;min-width:50px}
+  .tlh-dot{width:11px;height:11px;border-radius:50%;border:2px solid var(--faint);background:var(--bg)}
+  .tlh-step.done .tlh-dot{border-color:var(--green);background:var(--green)}
+  .tlh-step.now .tlh-dot{border-color:var(--violet);background:var(--violet);box-shadow:0 0 10px rgba(139,108,255,.7)}
+  .tlh-line{flex:1;height:2px;background:var(--edge);margin-top:5px;min-width:14px}
+  .tlh-line.done{background:rgba(46,230,168,.45)}
+  .tlh-k{font-family:var(--mono);font-size:9px;color:var(--faint);text-transform:uppercase;letter-spacing:.06em}
+  .tlh-v{font-family:var(--mono);font-size:10.5px;font-weight:600;color:var(--muted)}
+  .tlh-step.done .tlh-v{color:var(--text)}
+  .tlh-step.now .tlh-k,.tlh-step.now .tlh-v{color:var(--violet)}
 
   .empty{text-align:center;color:var(--muted);padding:70px 20px;border:1px dashed var(--edge-hi);border-radius:20px}
   footer{border-top:1px solid var(--edge);padding:24px 0 46px;font-size:12.5px;color:var(--faint);position:relative;z-index:2}
@@ -153,16 +148,16 @@
 
   @media (max-width:960px){
     .card{grid-template-columns:1fr 1fr}
-    .sec + .sec{border-left:none}
-    .sec:nth-child(even of .sec){border-left:1px solid var(--edge)}
-    .sec{border-top:1px solid var(--edge)}
-    .sec:nth-child(2),.sec:nth-child(3){border-top:none}
+    .sec{border-left:none;border-top:1px solid var(--edge)}
+    .sec.who{grid-column:1/-1;border-top:none}
+    .sec:last-of-type{border-left:1px solid var(--edge)}
   }
   @media (max-width:600px){
     .scene{display:none}
     .card{grid-template-columns:1fr}
     .sec{border-left:none!important;border-top:1px solid var(--edge)}
-    .sec:first-of-type{border-top:none}
+    .sec.who{border-top:none}
+    .tlh{max-width:none}
   }
   @media (prefers-reduced-motion:reduce){
     .orb,.cube,.stamp .dot{animation:none!important}
@@ -292,30 +287,29 @@ function factsHTML(ipo){
   '</div></div>';
 }
 
-/* Zone 4: milestone timeline */
+/* Horizontal milestone stepper (lives inside the Issue zone) */
 function timelineHTML(ipo){
   const today=todayISO();
   const steps=[
     ["Opens", ipo.openDate],
     ["Closes", ipo.closeDate],
-    ["Allotment", ipo.allotmentDate],
-    ["Listing", ipo.listingDate],
+    ["Allot", ipo.allotmentDate],
+    ["Lists", ipo.listingDate],
   ];
-  // find current stage: first step whose date is today or in future
+  if(!steps.some(([k,d])=>d)) return "";
   let nowIdx=steps.findIndex(([k,d])=>d&&d>=today);
   if(ipo.status==="listed") nowIdx=-2; // all done
-  const items=steps.map(([k,d],i)=>{
-    let cls="future";
-    if(nowIdx===-2||(d&&d<today)) cls="done";
-    else if(i===nowIdx) cls="now";
-    let extra="";
-    if(k==="Closes"&&ipo.status==="open"&&d){
-      const dd=daysTo(d);
-      if(dd>=0) extra=' · '+(dd===0?'today':'in '+dd+'d');
-    }
-    return '<div class="tl-item '+cls+'"><span class="tl-dot"></span><div><div class="tl-k">'+k+extra+'</div><div class="tl-v">'+(fmtDate(d)||'TBA')+'</div></div></div>';
-  }).join("");
-  return '<div class="sec"><div class="sec-label">Timeline</div><div class="tl">'+items+'</div></div>';
+  const state=i=>{
+    const d=steps[i][1];
+    if(nowIdx===-2||(d&&d<today)) return "done";
+    if(i===nowIdx) return "now";
+    return "future";
+  };
+  return '<div class="tlh">'+steps.map(([k,d],i)=>{
+    const s=state(i);
+    const line=i<steps.length-1?'<span class="tlh-line'+(state(i)==="done"&&state(i+1)!=="future"?" done":"")+'"></span>':'';
+    return '<span class="tlh-step '+s+'"><span class="tlh-dot"></span><span class="tlh-k">'+k+'</span><span class="tlh-v">'+(fmtDate(d)||'TBA')+'</span></span>'+line;
+  }).join("")+'</div>';
 }
 
 function render(){
@@ -328,14 +322,14 @@ function render(){
   stack.innerHTML=rows.map(ipo=>{
     const cdChip=(ipo.status==="open"&&ipo.closeDate&&daysTo(ipo.closeDate)>=0)?'<span class="chip cd">closes '+(daysTo(ipo.closeDate)===0?'today':'in '+daysTo(ipo.closeDate)+'d')+'</span>':'';
     return '<article class="card"><div class="glare"></div>'+
-      '<div class="sec"><div class="sec-label">Issue</div>'+
+      '<div class="sec who"><div class="sec-label">Issue</div>'+
         '<div class="co-name">'+ipo.company+'</div>'+
         '<div class="co-meta">'+(ipo.sector&&ipo.sector!=="—"?ipo.sector+' · ':'')+ipo.exchange+'</div>'+
         '<div class="chips"><span class="chip '+ipo.status+'">'+ipo.status+'</span>'+(ipo.board==="SME"?'<span class="chip sme">SME</span>':'')+cdChip+'</div>'+
+        timelineHTML(ipo)+
       '</div>'+
       pulseHTML(ipo)+
       factsHTML(ipo)+
-      timelineHTML(ipo)+
     '</article>';
   }).join("");
   animate();
