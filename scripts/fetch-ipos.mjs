@@ -162,7 +162,8 @@ async function main() {
     "data/ipos.json",
     JSON.stringify({ lastUpdated: new Date().toISOString(), source: "nseindia.com", ipos }, null, 2)
   );
-  console.log(`Wrote ${open.length} open, ${upc.length} upcoming, ${listed.length} listed.`);
+  const counts = ipos.reduce((a, i) => (a[i.status] = (a[i.status] || 0) + 1, a), {});
+  console.log(`Wrote ${counts.open || 0} open, ${counts.upcoming || 0} upcoming, ${counts.listed || 0} listed.`);
 }
 
 main().catch((e) => {
