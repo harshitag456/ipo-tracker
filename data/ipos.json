@@ -1,8 +1,9 @@
 {
-  "lastUpdated": "2026-07-26T09:54:53.554Z",
+  "lastUpdated": "2026-07-26T10:46:45.944Z",
   "source": "nseindia.com",
   "ipos": [
     {
+      "symbol": "XTRANET",
       "id": "xtranet-technologies-limited",
       "company": "Xtranet Technologies Limited",
       "exchange": "NSE, BSE",
@@ -17,12 +18,18 @@
       "issueSizeCr": 9193800,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
-      "allotmentDate": null,
-      "listingDate": null,
+      "allotmentDate": "2026-07-28",
+      "listingDate": "2026-07-30",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": 0.9068257956448911,
+        "nii": 2.118816303740927,
+        "retail": null,
+        "total": 1.9637114142139267
+      }
     },
     {
+      "symbol": "LCL",
       "id": "lohia-corp-limited",
       "company": "Lohia Corp Limited",
       "exchange": "NSE, BSE",
@@ -37,12 +44,18 @@
       "issueSizeCr": 14352274,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
-      "allotmentDate": null,
-      "listingDate": null,
+      "allotmentDate": "2026-07-28",
+      "listingDate": "2026-07-30",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": 0.5092563265415044,
+        "nii": 0.4159871036976603,
+        "retail": null,
+        "total": 0.5904308265017795
+      }
     },
     {
+      "symbol": "INDOMIM",
       "id": "indo-mim-limited",
       "company": "INDO-MIM Limited",
       "exchange": "NSE, BSE",
@@ -57,12 +70,18 @@
       "issueSizeCr": 55093201,
       "openDate": "2026-07-23",
       "closeDate": "2026-07-27",
-      "allotmentDate": null,
-      "listingDate": null,
+      "allotmentDate": "2026-07-28",
+      "listingDate": "2026-07-30",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": 1.1098554607909372,
+        "nii": 8.442560883950621,
+        "retail": null,
+        "total": 3.0728708248409817
+      }
     },
     {
+      "symbol": "CUBEINVIT",
       "id": "cube-highways-trust",
       "company": "Cube Highways Trust",
       "exchange": "NSE, BSE",
@@ -77,12 +96,13 @@
       "issueSizeCr": 136589480,
       "openDate": "2026-07-22",
       "closeDate": "2026-07-24",
-      "allotmentDate": null,
-      "listingDate": null,
+      "allotmentDate": "2026-07-27",
+      "listingDate": "2026-07-29",
       "gmp": null,
       "subscription": null
     },
     {
+      "symbol": "PROPSHOP",
       "id": "propshop-events-and-exhibitions-limited",
       "company": "Propshop Events and Exhibitions Limited",
       "exchange": "NSE SME",
@@ -97,12 +117,13 @@
       "issueSizeCr": 4140000,
       "openDate": "2026-07-27",
       "closeDate": "2026-07-29",
-      "allotmentDate": null,
-      "listingDate": null,
+      "allotmentDate": "2026-07-30",
+      "listingDate": "2026-08-03",
       "gmp": null,
       "subscription": null
     },
     {
+      "symbol": "CMLL",
       "id": "caliber-mining-and-logistics-limited",
       "company": "Caliber Mining and Logistics Limited",
       "exchange": "NSE, BSE",
@@ -123,6 +144,7 @@
       "subscription": null
     },
     {
+      "symbol": "ALPINETEX",
       "id": "alpine-texworld-limited",
       "company": "Alpine Texworld Limited",
       "exchange": "NSE, BSE",
@@ -143,6 +165,7 @@
       "subscription": null
     },
     {
+      "symbol": "SBIFUNDS",
       "id": "sbi-funds-management-limited",
       "company": "SBI Funds Management Limited",
       "exchange": "NSE, BSE",
@@ -163,6 +186,7 @@
       "subscription": null
     },
     {
+      "symbol": "115AFIL28A",
       "id": "akme-fintrade-india-limited",
       "company": "Akme Fintrade (India) Limited",
       "exchange": "NSE, BSE",
@@ -183,6 +207,7 @@
       "subscription": null
     },
     {
+      "symbol": "LASERPOWER",
       "id": "laser-power-infra-limited",
       "company": "Laser Power & Infra Limited",
       "exchange": "NSE, BSE",
@@ -203,6 +228,7 @@
       "subscription": null
     },
     {
+      "symbol": "HAPPY",
       "id": "happy-steels-limited",
       "company": "Happy Steels Limited",
       "exchange": "NSE, BSE",
@@ -223,6 +249,7 @@
       "subscription": null
     },
     {
+      "symbol": "KUSUMGAR",
       "id": "kusumgar-limited",
       "company": "Kusumgar Limited",
       "exchange": "NSE, BSE",
@@ -243,6 +270,7 @@
       "subscription": null
     },
     {
+      "symbol": "727NGEL36",
       "id": "ntpc-green-energy-limited",
       "company": "NTPC Green Energy Limited",
       "exchange": "NSE, BSE",
@@ -263,6 +291,7 @@
       "subscription": null
     },
     {
+      "symbol": "783PHFL29",
       "id": "pnb-housing-finance-limited",
       "company": "PNB Housing Finance Limited",
       "exchange": "NSE, BSE",
@@ -283,6 +312,7 @@
       "subscription": null
     },
     {
+      "symbol": "ICELCO",
       "id": "ic-electricals-company-limited",
       "company": "IC Electricals Company Limited",
       "exchange": "NSE, BSE",
@@ -303,6 +333,7 @@
       "subscription": null
     },
     {
+      "symbol": "783LTFL29",
       "id": "l-t-finance-limited",
       "company": "L&T Finance Limited",
       "exchange": "NSE, BSE",
@@ -323,6 +354,7 @@
       "subscription": null
     },
     {
+      "symbol": "783LTFL29",
       "id": "l-t-finance-limited",
       "company": "L&T Finance Limited",
       "exchange": "NSE, BSE",
@@ -343,6 +375,7 @@
       "subscription": null
     },
     {
+      "symbol": "783LTFL29",
       "id": "l-t-finance-limited",
       "company": "L&T Finance Limited",
       "exchange": "NSE, BSE",
@@ -363,6 +396,7 @@
       "subscription": null
     },
     {
+      "symbol": "788TACA31",
       "id": "tata-capital-limited",
       "company": "Tata Capital Limited",
       "exchange": "NSE, BSE",
@@ -383,6 +417,7 @@
       "subscription": null
     },
     {
+      "symbol": "KNACK",
       "id": "knack-packaging-limited",
       "company": "Knack Packaging Limited",
       "exchange": "NSE, BSE",
@@ -403,6 +438,7 @@
       "subscription": null
     },
     {
+      "symbol": "TEJA",
       "id": "teja-engineering-industries-limited",
       "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
@@ -423,6 +459,7 @@
       "subscription": null
     },
     {
+      "symbol": "VMOBILE",
       "id": "vinit-mobile-limited",
       "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
@@ -518,6 +555,7 @@
       }
     },
     {
+      "symbol": "AASTHA",
       "id": "aastha-spintex-limited",
       "company": "Aastha Spintex Limited",
       "exchange": "NSE, BSE",
@@ -563,6 +601,7 @@
       }
     },
     {
+      "symbol": "920ISF28",
       "id": "iifl-samasta-finance-limited",
       "company": "IIFL Samasta Finance limited",
       "exchange": "NSE, BSE",
@@ -583,6 +622,7 @@
       "subscription": null
     },
     {
+      "symbol": "920ISF28",
       "id": "iifl-samasta-finance-limited",
       "company": "IIFL Samasta Finance Limited",
       "exchange": "NSE, BSE",
@@ -603,6 +643,7 @@
       "subscription": null
     },
     {
+      "symbol": "CSM",
       "id": "csm-technologies-limited",
       "company": "CSM Technologies Limited",
       "exchange": "NSE, BSE",
@@ -623,6 +664,7 @@
       "subscription": null
     },
     {
+      "symbol": "RAMBHAJO",
       "id": "advit-jewels-limited",
       "company": "Advit Jewels Limited",
       "exchange": "NSE, BSE",
@@ -643,6 +685,7 @@
       "subscription": null
     },
     {
+      "symbol": "CORDELIA",
       "id": "waterways-leisure-tourism-limited",
       "company": "Waterways Leisure Tourism Limited",
       "exchange": "NSE, BSE",
@@ -663,6 +706,7 @@
       "subscription": null
     },
     {
+      "symbol": "SHREEDHAR",
       "id": "shreedhar-spinners-limited",
       "company": "Shreedhar Spinners Limited",
       "exchange": "NSE, BSE",
@@ -683,6 +727,7 @@
       "subscription": null
     },
     {
+      "symbol": "888CIFCL33",
       "id": "cholamandalam-investment-and-finance-company-limited",
       "company": "Cholamandalam Investment and Finance Company Limited",
       "exchange": "NSE, BSE",
@@ -703,6 +748,7 @@
       "subscription": null
     },
     {
+      "symbol": "888CIFCL33",
       "id": "cholamandalam-investment-and-finance-company-limited",
       "company": "Cholamandalam Investment and Finance Company Limited",
       "exchange": "NSE, BSE",
@@ -723,6 +769,7 @@
       "subscription": null
     },
     {
+      "symbol": "888CIFCL33",
       "id": "cholamandalam-investment-and-finance-company-limited",
       "company": "Cholamandalam Investment and Finance Company Limited",
       "exchange": "NSE, BSE",
@@ -743,6 +790,7 @@
       "subscription": null
     },
     {
+      "symbol": "888CIFCL33",
       "id": "cholamandalam-investment-and-finance-company-limited",
       "company": "Cholamandalam Investment and Finance Company Limited",
       "exchange": "NSE, BSE",
@@ -763,6 +811,7 @@
       "subscription": null
     },
     {
+      "symbol": "1165ESF32",
       "id": "esaf-small-finance-bank-limited",
       "company": "ESAF Small Finance Bank Limited",
       "exchange": "NSE, BSE",
@@ -783,6 +832,7 @@
       "subscription": null
     },
     {
+      "symbol": "TURTLEMINT",
       "id": "turtlemint-fintech-solutions-limited",
       "company": "Turtlemint Fintech Solutions Limited",
       "exchange": "NSE, BSE",
@@ -803,6 +853,7 @@
       "subscription": null
     },
     {
+      "symbol": "734IREDA29",
       "id": "indian-renewable-energy-development-agency-limited",
       "company": "Indian Renewable Energy Development Agency Limited",
       "exchange": "NSE, BSE",
@@ -823,6 +874,7 @@
       "subscription": null
     },
     {
+      "symbol": "AVIENCE",
       "id": "avience-biomedicals-limited",
       "company": "Avience Biomedicals Limited",
       "exchange": "NSE, BSE",
@@ -843,6 +895,7 @@
       "subscription": null
     },
     {
+      "symbol": "CLAYCRAFT",
       "id": "clay-craft-india-limited",
       "company": "Clay Craft India Limited",
       "exchange": "NSE, BSE",
@@ -863,6 +916,7 @@
       "subscription": null
     },
     {
+      "symbol": "12VPT28A",
       "id": "viviana-power-tech-limited",
       "company": "Viviana Power Tech Limited",
       "exchange": "NSE, BSE",
@@ -883,6 +937,7 @@
       "subscription": null
     },
     {
+      "symbol": "779TCHFL30",
       "id": "tata-capital-housing-finance-limited",
       "company": "Tata Capital Housing Finance Limited",
       "exchange": "NSE, BSE",
@@ -903,6 +958,7 @@
       "subscription": null
     },
     {
+      "symbol": "QMSMEDI",
       "id": "qms-medical-allied-services-limited",
       "company": "QMS Medical Allied Services Limited",
       "exchange": "NSE, BSE",
@@ -923,6 +979,7 @@
       "subscription": null
     },
     {
+      "symbol": "UTKAL",
       "id": "utkal-speciality-industries-india-limited",
       "company": "Utkal Speciality Industries India Limited",
       "exchange": "NSE, BSE",
@@ -943,6 +1000,7 @@
       "subscription": null
     },
     {
+      "symbol": "HEXAGON",
       "id": "hexagon-nutrition-limited",
       "company": "Hexagon Nutrition Limited",
       "exchange": "NSE, BSE",
@@ -963,6 +1021,7 @@
       "subscription": null
     },
     {
+      "symbol": "GENXAI",
       "id": "genxai-analytics-limited",
       "company": "GenXAI Analytics Limited",
       "exchange": "NSE, BSE",
@@ -1008,6 +1067,7 @@
       }
     },
     {
+      "symbol": "CMRGREEN",
       "id": "cmr-green-technologies-limited",
       "company": "CMR Green Technologies Limited",
       "exchange": "NSE, BSE",
@@ -1053,6 +1113,7 @@
       }
     },
     {
+      "symbol": "1275DCC28",
       "id": "dar-credit-capital-limited",
       "company": "Dar Credit & Capital Limited",
       "exchange": "NSE, BSE",
@@ -1073,6 +1134,7 @@
       "subscription": null
     },
     {
+      "symbol": "QLINE",
       "id": "q-line-biotech-limited",
       "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
@@ -1093,6 +1155,7 @@
       "subscription": null
     },
     {
+      "symbol": "BMLL",
       "id": "bio-medica-laboratories-limited",
       "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
@@ -1113,6 +1176,7 @@
       "subscription": null
     },
     {
+      "symbol": "TEAMTECH",
       "id": "teamtech-formwork-solutions-limited",
       "company": "Teamtech Formwork Solutions Limited",
       "exchange": "NSE, BSE",
@@ -1133,6 +1197,7 @@
       "subscription": null
     },
     {
+      "symbol": "NFPSAMPOOR",
       "id": "nfp-sampoorna-foods-limited",
       "company": "NFP Sampoorna Foods Limited",
       "exchange": "NSE, BSE",
@@ -1153,6 +1218,7 @@
       "subscription": null
     },
     {
+      "symbol": "RFBL",
       "id": "rfbl-flexi-pack-limited",
       "company": "RFBL Flexi Pack Limited",
       "exchange": "NSE, BSE",
@@ -1173,6 +1239,7 @@
       "subscription": null
     },
     {
+      "symbol": "SIMCA",
       "id": "simca-advertising-limited",
       "company": "Simca Advertising Limited",
       "exchange": "NSE, BSE",
@@ -1193,6 +1260,7 @@
       "subscription": null
     },
     {
+      "symbol": "BAGMANE",
       "id": "bagmane-prime-office-reit",
       "company": "Bagmane Prime Office REIT",
       "exchange": "NSE, BSE",
@@ -1213,6 +1281,7 @@
       "subscription": null
     },
     {
+      "symbol": "VALUE360",
       "id": "value-360-communications-limited",
       "company": "Value 360 Communications Limited",
       "exchange": "NSE, BSE",
@@ -1233,6 +1302,7 @@
       "subscription": null
     },
     {
+      "symbol": "KISSHT",
       "id": "onemi-technology-solutions-limited",
       "company": "Onemi Technology Solutions Limited",
       "exchange": "NSE, BSE",
@@ -1278,6 +1348,7 @@
       }
     },
     {
+      "symbol": "AMBAAUTO",
       "id": "amba-auto-sales-and-services-limited",
       "company": "Amba Auto Sales and Services Limited",
       "exchange": "NSE, BSE",
@@ -1298,6 +1369,7 @@
       "subscription": null
     },
     {
+      "symbol": "10MWL29",
       "id": "mangalam-worldwide-limited",
       "company": "Mangalam Worldwide Limited",
       "exchange": "NSE, BSE",
@@ -1318,6 +1390,7 @@
       "subscription": null
     },
     {
+      "symbol": "ADISOFT",
       "id": "adisoft-technologies-limited",
       "company": "Adisoft Technologies Limited",
       "exchange": "NSE, BSE",
@@ -1338,6 +1411,7 @@
       "subscription": null
     },
     {
+      "symbol": "CITIUSINVT",
       "id": "citius-transnet-investment-trust",
       "company": "Citius Transnet Investment Trust",
       "exchange": "NSE, BSE",
@@ -1358,6 +1432,7 @@
       "subscription": null
     },
     {
+      "symbol": "925ICFL28",
       "id": "indostar-capital-finance-limited",
       "company": "IndoStar Capital Finance Limited",
       "exchange": "NSE, BSE",
@@ -1378,6 +1453,7 @@
       "subscription": null
     },
     {
+      "symbol": "OMPOWER",
       "id": "om-power-transmission-limited",
       "company": "Om Power Transmission Limited",
       "exchange": "NSE, BSE",
@@ -1423,6 +1499,7 @@
       }
     },
     {
+      "symbol": "VIVIDEL",
       "id": "vivid-electromech-limited",
       "company": "Vivid Electromech Limited",
       "exchange": "NSE, BSE",
@@ -1443,6 +1520,7 @@
       "subscription": null
     },
     {
+      "symbol": "AMIRCHAND",
       "id": "amir-chand-jagdish-kumar-exports-limited",
       "company": "Amir Chand Jagdish Kumar (Exports) Limited",
       "exchange": "NSE, BSE",
@@ -1463,6 +1541,7 @@
       "subscription": null
     },
     {
+      "symbol": "SAIPARENT",
       "id": "sai-parenteral-s-limited",
       "company": "Sai Parenteral's Limited",
       "exchange": "NSE, BSE",
@@ -1483,6 +1562,7 @@
       "subscription": null
     },
     {
+      "symbol": "POWERICA",
       "id": "powerica-limited",
       "company": "Powerica Limited",
       "exchange": "NSE, BSE",
@@ -1503,6 +1583,7 @@
       "subscription": null
     },
     {
+      "symbol": "CMPDI",
       "id": "central-mine-planning-design-institute-limited",
       "company": "Central Mine Planning & Design Institute Limited",
       "exchange": "NSE, BSE",
@@ -1523,6 +1604,7 @@
       "subscription": null
     },
     {
+      "symbol": "GSPCROP",
       "id": "gsp-crop-science-limited",
       "company": "GSP Crop Science Limited",
       "exchange": "NSE, BSE",
@@ -1543,6 +1625,7 @@
       "subscription": null
     },
     {
+      "symbol": "RIIT",
       "id": "raajmarg-infra-investment-trust",
       "company": "Raajmarg Infra Investment Trust",
       "exchange": "NSE, BSE",
@@ -1563,6 +1646,7 @@
       "subscription": null
     },
     {
+      "symbol": "INNOVISION",
       "id": "innovision-limited",
       "company": "Innovision Limited",
       "exchange": "NSE, BSE",
@@ -1583,6 +1667,7 @@
       "subscription": null
     },
     {
+      "symbol": "RSL",
       "id": "rajputana-stainless-limited",
       "company": "Rajputana Stainless Limited",
       "exchange": "NSE, BSE",
@@ -1603,6 +1688,7 @@
       "subscription": null
     },
     {
+      "symbol": "APSISAERO",
       "id": "apsis-aerocom-limited",
       "company": "Apsis Aerocom Limited",
       "exchange": "NSE, BSE",
@@ -1623,6 +1709,7 @@
       "subscription": null
     },
     {
+      "symbol": "815CHLI36",
       "id": "canara-hsbc-life-insurance-company-limited",
       "company": "Canara HSBC Life Insurance Company Limited",
       "exchange": "NSE, BSE",
@@ -1643,6 +1730,7 @@
       "subscription": null
     },
     {
+      "symbol": "SPCON",
       "id": "srinibas-pradhan-constructions-limited",
       "company": "Srinibas Pradhan Constructions Limited",
       "exchange": "NSE, BSE",
@@ -1663,6 +1751,7 @@
       "subscription": null
     },
     {
+      "symbol": "860IIFL27",
       "id": "iifl-finance-limited",
       "company": "IIFL Finance Limited",
       "exchange": "NSE, BSE",
@@ -1683,6 +1772,7 @@
       "subscription": null
     },
     {
+      "symbol": "860IIFL27",
       "id": "iifl-finance-limited",
       "company": "IIFL Finance Limited",
       "exchange": "NSE, BSE",
@@ -1703,6 +1793,7 @@
       "subscription": null
     },
     {
+      "symbol": "860IIFL27",
       "id": "iifl-finance-limited",
       "company": "IIFL Finance Limited",
       "exchange": "NSE, BSE",
@@ -1723,6 +1814,7 @@
       "subscription": null
     },
     {
+      "symbol": "860IIFL27",
       "id": "iifl-finance-limited",
       "company": "IIFL Finance Limited",
       "exchange": "NSE, BSE",
@@ -1743,6 +1835,7 @@
       "subscription": null
     },
     {
+      "symbol": "860IIFL27",
       "id": "iifl-finance-limited",
       "company": "IIFL Finance Limited",
       "exchange": "NSE, BSE",
@@ -1763,6 +1856,7 @@
       "subscription": null
     },
     {
+      "symbol": "860IIFL27",
       "id": "iifl-finance-limited",
       "company": "IIFL Finance Limited",
       "exchange": "NSE, BSE",
@@ -1783,6 +1877,7 @@
       "subscription": null
     },
     {
+      "symbol": "KOTYARK",
       "id": "kotyark-industries-limited",
       "company": "Kotyark Industries Limited",
       "exchange": "NSE, BSE",
@@ -1803,6 +1898,7 @@
       "subscription": null
     },
     {
+      "symbol": "SEDEMAC",
       "id": "sedemac-mechatronics-limited",
       "company": "Sedemac Mechatronics Limited",
       "exchange": "NSE, BSE",
@@ -1823,6 +1919,7 @@
       "subscription": null
     },
     {
+      "symbol": "VITAL",
       "id": "vital-chemtech-limited",
       "company": "Vital Chemtech Limited",
       "exchange": "NSE, BSE",
@@ -1843,6 +1940,7 @@
       "subscription": null
     },
     {
+      "symbol": "ACETEC",
       "id": "acetech-e-commerce-limited",
       "company": "Acetech E-Commerce Limited",
       "exchange": "NSE, BSE",
@@ -1863,6 +1961,7 @@
       "subscription": null
     },
     {
+      "symbol": "SCL004",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -1883,6 +1982,7 @@
       "subscription": null
     },
     {
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -1903,6 +2003,7 @@
       "subscription": null
     },
     {
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -1923,6 +2024,7 @@
       "subscription": null
     },
     {
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -1943,6 +2045,7 @@
       "subscription": null
     },
     {
+      "symbol": "STRIDERS",
       "id": "striders-impex-limited",
       "company": "Striders Impex Limited",
       "exchange": "NSE, BSE",
@@ -1963,6 +2066,7 @@
       "subscription": null
     },
     {
+      "symbol": "NMC01",
       "id": "nashik-municipal-corporation",
       "company": "Nashik Municipal Corporation",
       "exchange": "NSE, BSE",
@@ -1983,6 +2087,7 @@
       "subscription": null
     },
     {
+      "symbol": "OMNI",
       "id": "omnitech-engineering-limited",
       "company": "Omnitech Engineering Limited",
       "exchange": "NSE, BSE",
@@ -2003,6 +2108,7 @@
       "subscription": null
     },
     {
+      "symbol": "YAAP",
       "id": "yaap-digital-limited",
       "company": "Yaap Digital Limited",
       "exchange": "NSE, BSE",
@@ -2023,6 +2129,7 @@
       "subscription": null
     },
     {
+      "symbol": "PFC2026",
       "id": "power-finance-corporation-limited",
       "company": "Power Finance Corporation Limited",
       "exchange": "NSE, BSE",
@@ -2043,6 +2150,7 @@
       "subscription": null
     },
     {
+      "symbol": "PNGSREVA",
       "id": "pngs-reva-diamond-jewellery-limited",
       "company": "PNGS Reva Diamond Jewellery Limited",
       "exchange": "NSE, BSE",
@@ -2063,6 +2171,7 @@
       "subscription": null
     },
     {
+      "symbol": "SRTL",
       "id": "shree-ram-twistex-limited",
       "company": "Shree Ram Twistex Limited",
       "exchange": "NSE, BSE",
@@ -2083,6 +2192,7 @@
       "subscription": null
     },
     {
+      "symbol": "CLEANMAX",
       "id": "clean-max-enviro-energy-solutions-limited",
       "company": "Clean Max Enviro Energy Solutions Limited",
       "exchange": "NSE, BSE",
@@ -2103,6 +2213,7 @@
       "subscription": null
     },
     {
+      "symbol": "MOBILISE",
       "id": "mobilise-app-lab-limited",
       "company": "Mobilise App Lab Limited",
       "exchange": "NSE, BSE",
@@ -2123,6 +2234,7 @@
       "subscription": null
     },
     {
+      "symbol": "GAUDIUMIVF",
       "id": "gaudium-ivf-and-women-health-limited",
       "company": "Gaudium IVF and Women Health Limited",
       "exchange": "NSE, BSE",
@@ -2143,6 +2255,7 @@
       "subscription": null
     },
     {
+      "symbol": "MANILAM",
       "id": "manilam-industries-india-limited",
       "company": "Manilam Industries India Limited",
       "exchange": "NSE, BSE",
@@ -2163,6 +2276,7 @@
       "subscription": null
     },
     {
+      "symbol": "MARUSHIKA",
       "id": "marushika-technology-limited",
       "company": "Marushika Technology Limited",
       "exchange": "NSE, BSE",
@@ -2183,6 +2297,7 @@
       "subscription": null
     },
     {
+      "symbol": "SILGOPP",
       "id": "silgo-retail-limited",
       "company": "Silgo Retail Limited",
       "exchange": "NSE, BSE",
@@ -2203,6 +2318,7 @@
       "subscription": null
     },
     {
+      "symbol": "GICL",
       "id": "globe-international-carriers-limited",
       "company": "Globe International Carriers Limited",
       "exchange": "NSE, BSE",
@@ -2223,6 +2339,7 @@
       "subscription": null
     },
     {
+      "symbol": "FRACTAL",
       "id": "fractal-analytics-limited",
       "company": "Fractal Analytics Limited",
       "exchange": "NSE, BSE",
@@ -2243,6 +2360,7 @@
       "subscription": null
     },
     {
+      "symbol": "AYE",
       "id": "aye-finance-limited",
       "company": "Aye Finance Limited",
       "exchange": "NSE, BSE",
@@ -2263,6 +2381,7 @@
       "subscription": null
     },
     {
+      "symbol": "BIOPOL",
       "id": "biopol-chemicals-limited",
       "company": "Biopol Chemicals Limited",
       "exchange": "NSE, BSE",
@@ -2283,6 +2402,7 @@
       "subscription": null
     },
     {
+      "symbol": "GJL",
       "id": "grover-jewells-limited",
       "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
@@ -2303,6 +2423,7 @@
       "subscription": null
     },
     {
+      "symbol": "BRANDMAN",
       "id": "brandman-retail-limited",
       "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
@@ -2323,6 +2444,7 @@
       "subscription": null
     },
     {
+      "symbol": "ADANIENPP1",
       "id": "adani-enterprises-limited",
       "company": "Adani Enterprises Limited",
       "exchange": "NSE, BSE",
@@ -2343,6 +2465,7 @@
       "subscription": null
     },
     {
+      "symbol": "ADANIENPP1",
       "id": "adani-enterprises-limited",
       "company": "Adani Enterprises Limited",
       "exchange": "NSE, BSE",
@@ -2363,6 +2486,7 @@
       "subscription": null
     },
     {
+      "symbol": "ADANIENPP1",
       "id": "adani-enterprises-limited",
       "company": "Adani Enterprises Limited",
       "exchange": "NSE, BSE",
@@ -2383,6 +2507,7 @@
       "subscription": null
     },
     {
+      "symbol": "CKKRETAIL",
       "id": "c-k-k-retail-mart-limited",
       "company": "C K K Retail Mart Limited",
       "exchange": "NSE, BSE",
@@ -2403,6 +2528,7 @@
       "subscription": null
     },
     {
+      "symbol": "KRMAYURVED",
       "id": "krm-ayurveda-limited",
       "company": "KRM Ayurveda Limited",
       "exchange": "NSE, BSE",
@@ -2423,6 +2549,7 @@
       "subscription": null
     },
     {
+      "symbol": "SHADOWFAX",
       "id": "shadowfax-technologies-limited",
       "company": "Shadowfax Technologies Limited",
       "exchange": "NSE, BSE",
@@ -2443,6 +2570,7 @@
       "subscription": null
     },
     {
+      "symbol": "ARMOUR",
       "id": "armour-security-india-ltd",
       "company": "Armour Security (India). Ltd",
       "exchange": "NSE, BSE",
@@ -2463,6 +2591,7 @@
       "subscription": null
     },
     {
+      "symbol": "AMAGI",
       "id": "amagi-media-labs-limited",
       "company": "Amagi Media Labs Limited",
       "exchange": "NSE, BSE",
@@ -2483,6 +2612,7 @@
       "subscription": null
     },
     {
+      "symbol": "AVANA",
       "id": "avana-electrosystems-limited",
       "company": "Avana Electrosystems Limited",
       "exchange": "NSE, BSE",
@@ -2503,6 +2633,7 @@
       "subscription": null
     },
     {
+      "symbol": "BHARATCOAL",
       "id": "bharat-coking-coal-limited",
       "company": "Bharat Coking Coal Limited",
       "exchange": "NSE, BSE",
@@ -2523,6 +2654,7 @@
       "subscription": null
     },
     {
+      "symbol": "VICTORYEV",
       "id": "victory-electric-vehicles-international-limited",
       "company": "Victory Electric Vehicles International Limited",
       "exchange": "NSE, BSE",
@@ -2543,6 +2675,7 @@
       "subscription": null
     },
     {
+      "symbol": "AVTL29",
       "id": "aegis-vopak-terminals-limited",
       "company": "Aegis Vopak Terminals Limited",
       "exchange": "NSE, BSE",
@@ -2563,6 +2696,7 @@
       "subscription": null
     },
     {
+      "symbol": "885NACL28",
       "id": "northern-arc-capital-limited",
       "company": "Northern Arc Capital Limited",
       "exchange": "NSE, BSE",
@@ -2583,6 +2717,7 @@
       "subscription": null
     },
     {
+      "symbol": "E2ERAIL",
       "id": "e-to-e-transportation-infrastructure-limited",
       "company": "E TO E Transportation Infrastructure Limited",
       "exchange": "NSE, BSE",
@@ -2603,6 +2738,7 @@
       "subscription": null
     },
     {
+      "symbol": "METALIC",
       "id": "metalic-technoforge-limited",
       "company": "Metalic Technoforge Limited",
       "exchange": "NSE, BSE",
@@ -2623,6 +2759,7 @@
       "subscription": null
     },
     {
+      "symbol": "ICEL",
       "id": "ic-electricals-company-limited-issue-postponed",
       "company": "IC Electricals Company Limited-Issue postponed",
       "exchange": "NSE, BSE",
@@ -2643,6 +2780,7 @@
       "subscription": null
     },
     {
+      "symbol": "SPGCL",
       "id": "sri-priyanka-geo-commex-limited-issue-withdrawn",
       "company": "Sri Priyanka Geo Commex Limited-Issue Withdrawn",
       "exchange": "NSE, BSE",
@@ -2663,6 +2801,7 @@
       "subscription": null
     },
     {
+      "symbol": "RSL",
       "id": "rajputana-stainless-limited-special-withdrawal-option",
       "company": "Rajputana Stainless Limited-Special Withdrawal Option",
       "exchange": "NSE, BSE",
@@ -2683,6 +2822,7 @@
       "subscription": null
     },
     {
+      "symbol": "SAMPOORNA",
       "id": "nfp-sampoorna-foods-limited-issue-withdrawn",
       "company": "NFP Sampoorna Foods Limited-Issue Withdrawn",
       "exchange": "NSE, BSE",
@@ -2703,6 +2843,7 @@
       "subscription": null
     },
     {
+      "symbol": "PFCZCB1",
       "id": "power-finance-corporation-limited-zero-coupon-ncd",
       "company": "Power Finance Corporation Limited (Zero Coupon NCD)",
       "exchange": "NSE, BSE",
@@ -2723,6 +2864,7 @@
       "subscription": null
     },
     {
+      "symbol": "SMCG03",
       "id": "smc-global-securities-limited",
       "company": "SMC Global Securities Limited",
       "exchange": "NSE, BSE",
@@ -2743,6 +2885,7 @@
       "subscription": null
     },
     {
+      "symbol": "NSDL",
       "id": "national-securities-depository-limited",
       "company": "National Securities Depository Limited",
       "exchange": "NSE, BSE",
@@ -2763,6 +2906,7 @@
       "subscription": null
     },
     {
+      "symbol": "SMCG02",
       "id": "smc-global-securities-limited",
       "company": "SMC Global Securities Limited",
       "exchange": "NSE, BSE",
@@ -2783,6 +2927,7 @@
       "subscription": null
     },
     {
+      "symbol": "C2CW",
       "id": "c2c-advanced-systems-limited-withdrawal-window",
       "company": "C2C Advanced Systems Limited- Withdrawal Window",
       "exchange": "NSE, BSE",
@@ -2803,6 +2948,7 @@
       "subscription": null
     },
     {
+      "symbol": "SARTELEFPO",
       "id": "sar-televenture-limited-fpo",
       "company": "SAR Televenture Limited - FPO",
       "exchange": "NSE, BSE",
@@ -2823,6 +2969,7 @@
       "subscription": null
     },
     {
+      "symbol": "SMCG01",
       "id": "smc-global-securities-limited",
       "company": "SMC Global Securities Limited",
       "exchange": "NSE, BSE",
@@ -2843,6 +2990,7 @@
       "subscription": null
     },
     {
+      "symbol": "IHFL13",
       "id": "indiabulls-housing-finance-limited",
       "company": "Indiabulls Housing Finance Limited",
       "exchange": "NSE, BSE",
@@ -2863,6 +3011,7 @@
       "subscription": null
     },
     {
+      "symbol": "PKH",
       "id": "pkh-ventures-limited",
       "company": "PKH Ventures Limited",
       "exchange": "NSE, BSE",
@@ -2883,6 +3032,7 @@
       "subscription": null
     },
     {
+      "symbol": "PKH",
       "id": "pkh-ventures-limited-issue-withdrawn",
       "company": "PKH Ventures Limited - Issue Withdrawn",
       "exchange": "NSE, BSE",
@@ -2903,6 +3053,7 @@
       "subscription": null
     },
     {
+      "symbol": "ADANIENTPP",
       "id": "adani-enterprises-limited-fpo",
       "company": "Adani Enterprises Limited-FPO",
       "exchange": "NSE, BSE",
@@ -2923,6 +3074,7 @@
       "subscription": null
     },
     {
+      "symbol": "DCX",
       "id": "dcx-system-limited",
       "company": "DCX System limited",
       "exchange": "NSE, BSE",
@@ -2943,6 +3095,7 @@
       "subscription": null
     },
     {
+      "symbol": "UGROD3",
       "id": "u-gro-capital-limited",
       "company": "U Gro Capital Limited",
       "exchange": "NSE, BSE",
@@ -2963,6 +3116,7 @@
       "subscription": null
     },
     {
+      "symbol": "UGROD2",
       "id": "u-gro-capital-limited",
       "company": "U Gro Capital Limited",
       "exchange": "NSE, BSE",
@@ -2983,6 +3137,7 @@
       "subscription": null
     },
     {
+      "symbol": "PROPEQUITY",
       "id": "p-e-analytics-limited",
       "company": "P.E. Analytics Limited",
       "exchange": "NSE, BSE",
@@ -3003,6 +3158,7 @@
       "subscription": null
     },
     {
+      "symbol": "TIMESCAN",
       "id": "timescan-logistics-india-private-limited",
       "company": "Timescan Logistics (India) Private Limited",
       "exchange": "NSE, BSE",
@@ -3023,6 +3179,7 @@
       "subscription": null
     },
     {
+      "symbol": "ABCOTS",
       "id": "ab-cotspin-india-limited",
       "company": "AB Cotspin India Limited",
       "exchange": "NSE, BSE",
@@ -3043,6 +3200,7 @@
       "subscription": null
     },
     {
+      "symbol": "UGROD1",
       "id": "u-gro-capital-limited",
       "company": "U Gro Capital Limited",
       "exchange": "NSE, BSE",
@@ -3063,6 +3221,7 @@
       "subscription": null
     },
     {
+      "symbol": "DKEGL",
       "id": "d-k-enterprises-global-limited",
       "company": "D. K. Enterprises Global Limited",
       "exchange": "NSE, BSE",
@@ -3083,6 +3242,7 @@
       "subscription": null
     },
     {
+      "symbol": "DYNAMIC",
       "id": "dynamic-services-security-ltd",
       "company": "Dynamic Services & Security Ltd.",
       "exchange": "NSE, BSE",
@@ -3103,6 +3263,7 @@
       "subscription": null
     },
     {
+      "symbol": "JMFPIV",
       "id": "jm-financial-products-limited",
       "company": "JM Financial Products Limited",
       "exchange": "NSE, BSE",
@@ -3123,6 +3284,7 @@
       "subscription": null
     },
     {
+      "symbol": "PCHFRD",
       "id": "piramal-capital-and-housing-finance-limited",
       "company": "Piramal Capital and Housing Finance Limited",
       "exchange": "NSE, BSE",
@@ -3143,6 +3305,7 @@
       "subscription": null
     },
     {
+      "symbol": "VMARCIND",
       "id": "v-marc-india-limited",
       "company": "V-Marc India Limited",
       "exchange": "NSE, BSE",
@@ -3163,6 +3326,7 @@
       "subscription": null
     },
     {
+      "symbol": "YESBANK",
       "id": "yes-bank-limited-fpo",
       "company": "Yes Bank Limited - FPO",
       "exchange": "NSE, BSE",
@@ -3183,6 +3347,7 @@
       "subscription": null
     },
     {
+      "symbol": "AWHCL",
       "id": "antony-waste-handling-cell-limited-issue-withdrawn",
       "company": "Antony Waste Handling Cell Limited - Issue Withdrawn",
       "exchange": "NSE, BSE",
@@ -3203,6 +3368,7 @@
       "subscription": null
     },
     {
+      "symbol": "ITI",
       "id": "iti-limited-fpo-issue-withdrawn",
       "company": "ITI Limited FPO - Issue Withdrawn",
       "exchange": "NSE, BSE",
@@ -3223,6 +3389,7 @@
       "subscription": null
     },
     {
+      "symbol": "SNCD9T2",
       "id": "shriram-transport-finance-company-limited",
       "company": "Shriram Transport Finance Company Limited",
       "exchange": "NSE, BSE",
@@ -3243,6 +3410,7 @@
       "subscription": null
     },
     {
+      "symbol": "ASCOM",
       "id": "ascom-leasing-investments-limited",
       "company": "Ascom Leasing & Investments Limited",
       "exchange": "NSE, BSE",
@@ -3263,6 +3431,7 @@
       "subscription": null
     },
     {
+      "symbol": "SONAHISONA",
       "id": "sona-hi-sona-jewellers-gujarat-limited",
       "company": "Sona Hi Sona Jewellers (Gujarat) Limited",
       "exchange": "NSE, BSE",
@@ -3283,6 +3452,7 @@
       "subscription": null
     },
     {
+      "symbol": "TCFNCD2",
       "id": "tata-capital-financial-services-ltd",
       "company": "Tata Capital Financial Services Ltd",
       "exchange": "NSE, BSE",
@@ -3303,6 +3473,7 @@
       "subscription": null
     },
     {
+      "symbol": "SWSL",
       "id": "sterling-wilson-solar-limited",
       "company": "Sterling & Wilson Solar Limited",
       "exchange": "NSE, BSE",
@@ -3323,6 +3494,7 @@
       "subscription": null
     },
     {
+      "symbol": "KPRAGRO",
       "id": "k-p-r-agrochem-limited",
       "company": "K.P.R. Agrochem Limited",
       "exchange": "NSE, BSE",
@@ -3343,6 +3515,7 @@
       "subscription": null
     },
     {
+      "symbol": "ABINFRA",
       "id": "ab-infrabuild-limited",
       "company": "AB Infrabuild Limited",
       "exchange": "NSE, BSE",
@@ -3363,6 +3536,7 @@
       "subscription": null
     },
     {
+      "symbol": "ALUMILITE",
       "id": "alumilite-architecturals-limited",
       "company": "Alumilite Architecturals Limited",
       "exchange": "NSE, BSE",
@@ -3383,6 +3557,7 @@
       "subscription": null
     },
     {
+      "symbol": "SUDARSHAN",
       "id": "sudarshan-pharma-industries-limited",
       "company": "Sudarshan Pharma Industries Limited",
       "exchange": "NSE, BSE",
@@ -3403,6 +3578,7 @@
       "subscription": null
     },
     {
+      "symbol": "ICL",
       "id": "icl-multitrading-india-limited",
       "company": "ICL Multitrading India Limited",
       "exchange": "NSE, BSE",
@@ -3423,6 +3599,7 @@
       "subscription": null
     },
     {
+      "symbol": "DEPL",
       "id": "dinesh-engineers-limited",
       "company": "Dinesh Engineers Limited",
       "exchange": "NSE, BSE",
@@ -3443,6 +3620,7 @@
       "subscription": null
     },
     {
+      "symbol": "STFNCD8",
       "id": "shriram-transport-finance-company-limited-ncd-8",
       "company": "Shriram Transport Finance Company Limited - NCD 8",
       "exchange": "NSE, BSE",
@@ -3463,6 +3641,7 @@
       "subscription": null
     },
     {
+      "symbol": "SORICH",
       "id": "sorich-foils-limited",
       "company": "Sorich Foils Limited",
       "exchange": "NSE, BSE",
@@ -3483,6 +3662,7 @@
       "subscription": null
     },
     {
+      "symbol": "PENTAGOLD",
       "id": "penta-gold-limited",
       "company": "Penta Gold Limited",
       "exchange": "NSE, BSE",
@@ -3503,6 +3683,7 @@
       "subscription": null
     },
     {
+      "symbol": "SHBL",
       "id": "seven-hills-beverages-limited",
       "company": "Seven Hills Beverages Limited",
       "exchange": "NSE, BSE",
@@ -3523,6 +3704,7 @@
       "subscription": null
     },
     {
+      "symbol": "GSBPL",
       "id": "greensignal-bio-pharma-limited",
       "company": "GreenSignal Bio Pharma Limited",
       "exchange": "NSE, BSE",
@@ -3543,6 +3725,7 @@
       "subscription": null
     },
     {
+      "symbol": "EHFLNCD",
       "id": "edelweiss-housing-finance-limited",
       "company": "Edelweiss Housing Finance Limited",
       "exchange": "NSE, BSE",
