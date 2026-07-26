@@ -212,6 +212,9 @@ function bigHTML(ipo){
     const g=ipo.listing.gainPct;
     return '<div class="big"><span class="x pop" data-count="'+g+'" data-suffix="%" data-prefix="'+(g>=0?"+":"")+'">0%</span><span class="cap">listing gain · '+fmtINR(ipo.listing.issuePrice)+' → '+fmtINR(ipo.listing.listPrice)+'</span></div>';
   }
+  if(ipo.status==="listed"){
+    return '<div class="big"><span class="x wait">Listed</span><span class="cap">'+(fmtDate(ipo.listingDate)||"gain data pending")+'</span></div>';
+  }
   if(!ipo.subscription){
     const d=daysTo(ipo.openDate);
     return '<div class="big"><span class="x wait">'+(d>0?"T−"+d:"soon")+'</span><span class="cap">opens '+fmtDate(ipo.openDate)+'</span></div>';
