@@ -61,6 +61,30 @@ async function fetchNSE(path, cookie) {
   return res.json();
 }
 
+// Category-wise subscription for one active issue. VERIFY the path once in
+// DevTools: open any live IPO's page on nseindia.com and watch the Network
+// panel for the bid-details API call; adjust path/fields if they differ.
+async function fetchSubscription(symbol, cookie) {
+  const data = await fetchNSE(
+    `/api/ipo-active-category?symbol=${encodeURIComponent(symbol)}`,
+    cookie
+  );
+  const rows = Array.isArray(data) ? data : data?.dataList ?? data?.data ?? [];
+  const pick = (re) => {
+    const row = rows.find((r) =>
+      re.test(String(r.category ?? r.categoryName ?? r.srNo ?? ""))
+    );
+    return row ? num(row.noOfshareBid ?? row.subscriptionTimes ?? row.noOfTotalMeant ?? row.subscribed) : null;
+  };
+  const sub = {
+    qib: pick(/qualified|qib/i),
+    nii: pick(/non[- ]?institutional|nii/i),
+    retail: pick(/retail|rii/i),
+    total: pick(/^total$/i),
+  };
+  return Object.values(sub).some((v) => typeof v === "number") ? sub : null;
+}
+
 const slug = (name) =>
   String(name).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
@@ -80,6 +104,7 @@ function base(raw, status) {
     .split(/[-–to]+/)
     .map(num);
   return {
+    symbol: raw.symbol ?? null,
     id: slug(raw.companyName ?? raw.company ?? "unknown"),
     company: raw.companyName ?? raw.company,
     exchange: raw.series === "SME" ? "NSE SME" : "NSE, BSE",
@@ -175,6 +200,18 @@ async function main() {
     else if (ipo.openDate && ipo.openDate > today) ipo.status = "upcoming";
     const prev = byId.get(ipo.id);
     if (!prev || prev.status !== "open") byId.set(ipo.id, ipo);
+  }
+
+  // Enrich open issues with live category-wise subscription (sequential, gentle).
+  for (const ipo of byId.values()) {
+    if (ipo.status !== "open" || !ipo.symbol) continue;
+    try {
+      const sub = await fetchSubscription(ipo.symbol, cookie);
+      if (sub) ipo.subscription = sub;
+      await new Promise((r) => setTimeout(r, 800)); // don't hammer NSE
+    } catch (e) {
+      console.error(`subscription ${ipo.symbol}:`, e.message);
+    }
   }
   
   // SEBI T+3 regime: derive allotment (T+1) and listing (T+3) from close date when missing.
