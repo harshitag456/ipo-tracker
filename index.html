@@ -210,22 +210,26 @@ function renderPills(){
 function bigHTML(ipo){
   if(ipo.status==="listed"&&ipo.listing){
     const g=ipo.listing.gainPct;
-    return '<div class="big"><span class="x pop" data-count="'+g+'" data-suffix="%" data-prefix="'+(g>=0?"+":"")+'">0%</span><span class="cap">listing gain · '+fmtINR(ipo.listing.issuePrice)+' → '+fmtINR(ipo.listing.listPrice)+'</span></div>';
+    return '<div class="big"><span class="x '+(g>=0?"pop":"cold")+'" data-count="'+g+'" data-suffix="%" data-prefix="'+(g>=0?"+":"")+'">0%</span><span class="cap">listing gain · '+fmtINR(ipo.listing.issuePrice)+' → '+fmtINR(ipo.listing.listPrice)+'</span></div>';
   }
   if(ipo.status==="listed"){
     return '<div class="big"><span class="x wait">Listed</span><span class="cap">'+(fmtDate(ipo.listingDate)||"gain data pending")+'</span></div>';
   }
-  if(!ipo.subscription){
-    const d=daysTo(ipo.openDate);
-    return '<div class="big"><span class="x wait">'+(d>0?"T−"+d:"soon")+'</span><span class="cap">opens '+fmtDate(ipo.openDate)+'</span></div>';
+  const tot=(ipo.subscription&&typeof ipo.subscription.total==="number")?ipo.subscription.total:null;
+  if(ipo.status==="open"&&tot==null){
+    return '<div class="big"><span class="x wait">Open</span><span class="cap">bidding live · numbers pending</span></div>';
   }
-  const tot=ipo.subscription.total;
+  if(tot==null){
+    const d=daysTo(ipo.openDate);
+    return '<div class="big"><span class="x wait">'+(d>0?"T−"+d:"soon")+'</span><span class="cap">opens '+(fmtDate(ipo.openDate)||"tba")+'</span></div>';
+  }
   return '<div class="big"><span class="x'+(tot<1?" cold":"")+'" data-count="'+tot+'" data-suffix="×">0×</span><span class="cap">subscribed overall</span></div>';
 }
 function meterHTML(ipo){
   if(!ipo.subscription||ipo.status==="listed") return "";
-  const cats=[["QIB","qib"],["NII","nii"],["RET","retail"]];
-  const max=Math.max(2,...cats.map(c=>ipo.subscription[c[1]]||0));
+  const cats=[["QIB","qib"],["NII","nii"],["RET","retail"]].filter(([l,k])=>typeof ipo.subscription[k]==="number");
+  if(!cats.length) return "";
+  const max=Math.max(2,...cats.map(c=>ipo.subscription[c[1]]));
   return '<div class="meter">'+cats.map(([lbl,key])=>{
     const v=ipo.subscription[key],w=Math.min(100,(v/max)*100),u=v<1?" under":"";
     return '<div class="m-row"><span class="cat">'+lbl+'</span><span class="bar"><span class="fill'+u+'" data-w="'+w+'"></span></span><span class="v'+u+'">'+v.toFixed(2)+'×</span></div>';
@@ -242,6 +246,8 @@ function railHTML(ipo){
 function render(){
   const grid=document.getElementById("grid");
   const rows=DATA.ipos.filter(i=>i.status===active);
+  if(active==="open") rows.sort((a,b)=>(a.closeDate??"9999").localeCompare(b.closeDate??"9999"));
+  if(active==="upcoming") rows.sort((a,b)=>(a.openDate??"9999").localeCompare(b.openDate??"9999"));
   if(!rows.length){grid.innerHTML='<div class="empty">Nothing here right now — check the other tabs.</div>';return;}
   grid.innerHTML=rows.map(ipo=>{
     const minAmt=ipo.priceBand.max*ipo.lotSize;
