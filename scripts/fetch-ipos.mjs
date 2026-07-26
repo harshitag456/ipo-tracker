@@ -156,6 +156,14 @@ async function main() {
     const prev = byId.get(ipo.id);
     if (!prev || prev.status !== "open") byId.set(ipo.id, ipo);
   }
+  
+  // SEBI T+3 regime: derive allotment (T+1) and listing (T+3) from close date when missing.
+  for (const ipo of byId.values()) {
+    if (ipo.closeDate) {
+      if (!ipo.allotmentDate) ipo.allotmentDate = addBusinessDays(ipo.closeDate, 1);
+      if (!ipo.listingDate) ipo.listingDate = addBusinessDays(ipo.closeDate, 3);
+    }
+  }
   const ipos = [...byId.values(), ...listed];
 
   // Optional hand-maintained overrides (GMP, listing prices, corrections).
