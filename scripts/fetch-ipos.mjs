@@ -28,6 +28,25 @@ const HEADERS = {
   Referer: "https://www.nseindia.com/market-data/all-upcoming-issues-ipo",
 };
 
+const NSE_HOLIDAYS = new Set([
+  "2026-01-15", // Maharashtra municipal election
+  "2026-01-26", // Republic Day
+  "2026-03-03", // Holi
+  "2026-03-26", // Ram Navami
+  "2026-03-31", // Mahavir Jayanti
+  "2026-04-03", // Good Friday
+  "2026-04-14", // Ambedkar Jayanti
+  "2026-05-01", // Maharashtra Day
+  "2026-05-28", // Bakri Id
+  "2026-06-26", // Muharram
+  "2026-09-14", // Ganesh Chaturthi
+  "2026-10-02", // Gandhi Jayanti
+  "2026-10-20", // Dussehra
+  "2026-11-10", // Diwali-Balipratipada
+  "2026-11-24", // Guru Nanak Jayanti
+  "2026-12-25", // Christmas
+]);
+
 async function nseSession() {
   const res = await fetch("https://www.nseindia.com", { headers: HEADERS });
   const cookies = res.headers.getSetCookie?.() ?? [];
@@ -102,7 +121,8 @@ function addBusinessDays(iso, n) {
   while (added < n) {
     d.setUTCDate(d.getUTCDate() + 1);
     const day = d.getUTCDay();
-    if (day !== 0 && day !== 6) added++; // skip Sat/Sun
+    const ds = d.toISOString().slice(0, 10);
+    if (day !== 0 && day !== 6 && !NSE_HOLIDAYS.has(ds)) added++;
   }
   return d.toISOString().slice(0, 10);
 }
