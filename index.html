@@ -287,14 +287,27 @@ function factsHTML(ipo){
   '</div></div>';
 }
 
+/* SEBI T+3 fallback: derive allotment/listing from close date when the data lacks them */
+const NSE_HOLIDAYS = new Set(["2026-01-15","2026-01-26","2026-03-03","2026-03-26","2026-03-31","2026-04-03","2026-04-14","2026-05-01","2026-05-28","2026-06-26","2026-09-14","2026-10-02","2026-10-20","2026-11-10","2026-11-24","2026-12-25"]);
+function addBusinessDays(iso, n){
+  const d = new Date(iso + "T00:00:00Z");
+  let added = 0;
+  while(added < n){
+    d.setUTCDate(d.getUTCDate() + 1);
+    const day = d.getUTCDay(), ds = d.toISOString().slice(0,10);
+    if(day !== 0 && day !== 6 && !NSE_HOLIDAYS.has(ds)) added++;
+  }
+  return d.toISOString().slice(0,10);
+}
+  
 /* Horizontal milestone stepper (lives inside the Issue zone) */
 function timelineHTML(ipo){
   const today=todayISO();
   const steps=[
     ["Opens", ipo.openDate],
     ["Closes", ipo.closeDate],
-    ["Allot", ipo.allotmentDate],
-    ["Lists", ipo.listingDate],
+    ["Allot", ipo.allotmentDate || (ipo.closeDate ? addBusinessDays(ipo.closeDate, 1) : null)],
+    ["Lists", ipo.listingDate || (ipo.closeDate ? addBusinessDays(ipo.closeDate, 3) : null)],
   ];
   if(!steps.some(([k,d])=>d)) return "";
   let nowIdx=steps.findIndex(([k,d])=>d&&d>=today);
