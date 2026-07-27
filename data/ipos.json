@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T06:28:51.460Z",
+  "lastUpdated": "2026-07-27T10:27:46.725Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -31,6 +31,27 @@
       }
     },
     {
+      "symbol": "INDOMIM",
+      "id": "indo-mim-limited",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.461,
+        "max": 0.485
+      },
+      "lotSize": 0,
+      "issueSizeCr": 55093201,
+      "openDate": "2026-07-23",
+      "closeDate": "2026-07-27",
+      "allotmentDate": "2026-07-28",
+      "listingDate": "2026-07-30",
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "LCL",
       "id": "lohia-corp-limited",
       "company": "Lohia Corp Limited",
@@ -59,27 +80,6 @@
       }
     },
     {
-      "symbol": "INDOMIM",
-      "id": "indo-mim-limited",
-      "company": "INDO-MIM Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 0.461,
-        "max": 0.485
-      },
-      "lotSize": 0,
-      "issueSizeCr": 55093201,
-      "openDate": "2026-07-23",
-      "closeDate": "2026-07-27",
-      "allotmentDate": "2026-07-28",
-      "listingDate": "2026-07-30",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "PROPSHOP",
       "id": "propshop-events-and-exhibitions-limited",
       "company": "Propshop Events and Exhibitions Limited",
@@ -101,23 +101,23 @@
       "subscription": null
     },
     {
-      "symbol": "CUBEINVIT",
-      "id": "cube-highways-trust",
-      "company": "Cube Highways Trust",
+      "symbol": "MANIPALHOS",
+      "id": "manipal-health-enterprises-limited",
+      "company": "Manipal Health Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.151,
-        "max": 0.152
+        "min": 0.56,
+        "max": 0.59
       },
       "lotSize": 0,
-      "issueSizeCr": 136589480,
-      "openDate": "2026-07-22",
-      "closeDate": "2026-07-24",
-      "allotmentDate": "2026-07-27",
-      "listingDate": "2026-07-29",
+      "issueSizeCr": 164500738,
+      "openDate": "2026-07-29",
+      "closeDate": "2026-07-31",
+      "allotmentDate": "2026-08-03",
+      "listingDate": "2026-08-05",
       "gmp": null,
       "subscription": null
     },
