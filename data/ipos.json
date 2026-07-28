@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:31:26.804Z",
+  "lastUpdated": "2026-07-28T11:15:53.374Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -37,6 +37,27 @@
       },
       "lotSize": 0,
       "issueSizeCr": 7249990,
+      "openDate": "2026-07-30",
+      "closeDate": "2026-08-03",
+      "allotmentDate": "2026-08-04",
+      "listingDate": "2026-08-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "JNPR",
+      "id": "juniper-green-energy-limited",
+      "company": "Juniper Green Energy Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.214,
+        "max": 0.225
+      },
+      "lotSize": 0,
+      "issueSizeCr": 84122317,
       "openDate": "2026-07-30",
       "closeDate": "2026-08-03",
       "allotmentDate": "2026-08-04",
