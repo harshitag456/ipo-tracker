@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-27T13:25:53.511Z",
+  "lastUpdated": "2026-07-28T05:45:18.396Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "PROPSHOP",
+      "id": "propshop-events-and-exhibitions-limited",
+      "company": "Propshop Events and Exhibitions Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-07-27",
+      "closeDate": "2026-07-29",
+      "allotmentDate": "2026-07-30",
+      "listingDate": "2026-08-03",
+      "gmp": null,
+      "subscription": null
+    },
     {
       "symbol": "XTRANET",
       "id": "xtranet-technologies-limited",
@@ -9,7 +30,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "IT Solutions",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 120,
         "max": 127
@@ -37,7 +58,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 0.461,
         "max": 0.485
@@ -58,7 +79,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "Industrial Machinery",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 404,
         "max": 425
@@ -80,27 +101,6 @@
       }
     },
     {
-      "symbol": "PROPSHOP",
-      "id": "propshop-events-and-exhibitions-limited",
-      "company": "Propshop Events and Exhibitions Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-07-27",
-      "closeDate": "2026-07-29",
-      "allotmentDate": "2026-07-30",
-      "listingDate": "2026-08-03",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "MANIPALHOS",
       "id": "manipal-health-enterprises-limited",
       "company": "Manipal Health Enterprises Limited",
@@ -118,6 +118,48 @@
       "closeDate": "2026-07-31",
       "allotmentDate": "2026-08-03",
       "listingDate": "2026-08-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "METALIC",
+      "id": "metalic-technoforge-limited",
+      "company": "Metalic Technoforge Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 77,
+        "max": 77
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-28",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "915ICFL28A",
+      "id": "indostar-capital-finance-limited",
+      "company": "IndoStar Capital Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-28",
       "gmp": null,
       "subscription": null
     },
@@ -437,16 +479,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -458,16 +500,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1431,27 +1473,6 @@
       "subscription": null
     },
     {
-      "symbol": "925ICFL28",
-      "id": "indostar-capital-finance-limited",
-      "company": "IndoStar Capital Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-04-28",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "OMPOWER",
       "id": "om-power-transmission-limited",
       "company": "Om Power Transmission Limited",
@@ -1981,7 +2002,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2002,7 +2023,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2023,7 +2044,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2737,9 +2758,37 @@
       "subscription": null
     },
     {
-      "symbol": "CUBEINVIT",
-      "id": "cube-highways-trust",
-      "company": "Cube Highways Trust",
+      "symbol": "XTRANET",
+      "id": "xtranet-technologies-limited",
+      "company": "Xtranet Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "IT Solutions",
+      "status": "listed",
+      "priceBand": {
+        "min": 120,
+        "max": 127
+      },
+      "lotSize": 110,
+      "issueSizeCr": 166.8,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": 7,
+      "subscription": {
+        "qib": 0.91,
+        "nii": null,
+        "bnii": 1.77,
+        "snii": 2.81,
+        "retail": 2.5,
+        "total": 1.96
+      }
+    },
+    {
+      "symbol": "INDOMIM",
+      "id": "indo-mim-limited",
+      "company": "INDO-MIM Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -2758,9 +2807,37 @@
       "subscription": null
     },
     {
-      "symbol": "METALIC",
-      "id": "metalic-technoforge-limited",
-      "company": "Metalic Technoforge Limited",
+      "symbol": "LCL",
+      "id": "lohia-corp-limited",
+      "company": "Lohia Corp Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "Industrial Machinery",
+      "status": "listed",
+      "priceBand": {
+        "min": 404,
+        "max": 425
+      },
+      "lotSize": 35,
+      "issueSizeCr": 1101.28,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": 15,
+      "subscription": {
+        "qib": 0.43,
+        "nii": null,
+        "bnii": 0.11,
+        "snii": 0.24,
+        "retail": 1.1,
+        "total": 0.59
+      }
+    },
+    {
+      "symbol": "CUBEINVIT",
+      "id": "cube-highways-trust",
+      "company": "Cube Highways Trust",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
