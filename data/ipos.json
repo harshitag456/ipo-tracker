@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T05:45:18.396Z",
+  "lastUpdated": "2026-07-28T08:31:26.804Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -24,81 +24,25 @@
       "subscription": null
     },
     {
-      "symbol": "XTRANET",
-      "id": "xtranet-technologies-limited",
-      "company": "Xtranet Technologies Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "IT Solutions",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 120,
-        "max": 127
-      },
-      "lotSize": 110,
-      "issueSizeCr": 166.8,
-      "openDate": "2026-07-23",
-      "closeDate": "2026-07-27",
-      "allotmentDate": "2026-07-28",
-      "listingDate": "2026-07-30",
-      "gmp": 7,
-      "subscription": {
-        "qib": 0.91,
-        "nii": null,
-        "bnii": 1.77,
-        "snii": 2.81,
-        "retail": 2.5,
-        "total": 1.96
-      }
-    },
-    {
-      "symbol": "INDOMIM",
-      "id": "indo-mim-limited",
-      "company": "INDO-MIM Limited",
+      "symbol": "MVELECTRO",
+      "id": "mv-electrosystems-limited",
+      "company": "MV Electrosystems Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.461,
-        "max": 0.485
+        "min": 0.4,
+        "max": 0.425
       },
       "lotSize": 0,
-      "issueSizeCr": 55093201,
-      "openDate": "2026-07-23",
-      "closeDate": "2026-07-27",
-      "allotmentDate": "2026-07-28",
-      "listingDate": "2026-07-30",
+      "issueSizeCr": 7249990,
+      "openDate": "2026-07-30",
+      "closeDate": "2026-08-03",
+      "allotmentDate": "2026-08-04",
+      "listingDate": "2026-08-06",
       "gmp": null,
       "subscription": null
-    },
-    {
-      "symbol": "LCL",
-      "id": "lohia-corp-limited",
-      "company": "Lohia Corp Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "Industrial Machinery",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 404,
-        "max": 425
-      },
-      "lotSize": 35,
-      "issueSizeCr": 1101.28,
-      "openDate": "2026-07-23",
-      "closeDate": "2026-07-27",
-      "allotmentDate": "2026-07-28",
-      "listingDate": "2026-07-30",
-      "gmp": 15,
-      "subscription": {
-        "qib": 0.43,
-        "nii": null,
-        "bnii": 0.11,
-        "snii": 0.24,
-        "retail": 1.1,
-        "total": 0.59
-      }
     },
     {
       "symbol": "MANIPALHOS",
