@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-28T13:09:23.878Z",
+  "lastUpdated": "2026-07-29T05:51:15.546Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "MANIPALHOS",
+      "id": "manipal-health-enterprises-limited",
+      "company": "Manipal Health Enterprises Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.56,
+        "max": 0.59
+      },
+      "lotSize": 0,
+      "issueSizeCr": 90088286,
+      "openDate": "2026-07-29",
+      "closeDate": "2026-07-31",
+      "allotmentDate": "2026-08-03",
+      "listingDate": "2026-08-05",
+      "gmp": null,
+      "subscription": null
+    },
     {
       "symbol": "PROPSHOP",
       "id": "propshop-events-and-exhibitions-limited",
@@ -20,27 +41,6 @@
       "closeDate": "2026-07-29",
       "allotmentDate": "2026-07-30",
       "listingDate": "2026-08-03",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MVELECTRO",
-      "id": "mv-electrosystems-limited",
-      "company": "MV Electrosystems Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 0.4,
-        "max": 0.425
-      },
-      "lotSize": 0,
-      "issueSizeCr": 7249990,
-      "openDate": "2026-07-30",
-      "closeDate": "2026-08-03",
-      "allotmentDate": "2026-08-04",
-      "listingDate": "2026-08-06",
       "gmp": null,
       "subscription": null
     },
@@ -66,23 +66,23 @@
       "subscription": null
     },
     {
-      "symbol": "MANIPALHOS",
-      "id": "manipal-health-enterprises-limited",
-      "company": "Manipal Health Enterprises Limited",
+      "symbol": "MVELECTRO",
+      "id": "mv-electrosystems-limited",
+      "company": "MV Electrosystems Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.56,
-        "max": 0.59
+        "min": 0.4,
+        "max": 0.425
       },
       "lotSize": 0,
-      "issueSizeCr": 164500738,
-      "openDate": "2026-07-29",
-      "closeDate": "2026-07-31",
-      "allotmentDate": "2026-08-03",
-      "listingDate": "2026-08-05",
+      "issueSizeCr": 7249990,
+      "openDate": "2026-07-30",
+      "closeDate": "2026-08-03",
+      "allotmentDate": "2026-08-04",
+      "listingDate": "2026-08-06",
       "gmp": null,
       "subscription": null
     },
@@ -444,16 +444,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -465,16 +465,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1967,7 +1967,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -1988,7 +1988,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2009,7 +2009,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
