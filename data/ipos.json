@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T05:39:31.177Z",
+  "lastUpdated": "2026-07-30T08:24:00.653Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -62,6 +62,27 @@
       "closeDate": "2026-07-31",
       "allotmentDate": "2026-08-03",
       "listingDate": "2026-08-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ANAWIL",
+      "id": "anawil-wire-and-engineering-limited",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.257,
+        "max": 0.27
+      },
+      "lotSize": 400,
+      "issueSizeCr": 6585600,
+      "openDate": "2026-08-03",
+      "closeDate": "2026-08-05",
+      "allotmentDate": "2026-08-06",
+      "listingDate": "2026-08-10",
       "gmp": null,
       "subscription": null
     },
