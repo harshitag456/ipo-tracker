@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-07-29T13:14:50.036Z",
+  "lastUpdated": "2026-07-30T05:39:31.177Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "MVELECTRO",
+      "id": "mv-electrosystems-limited",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.4,
+        "max": 0.425
+      },
+      "lotSize": 0,
+      "issueSizeCr": 3987491,
+      "openDate": "2026-07-30",
+      "closeDate": "2026-08-03",
+      "allotmentDate": "2026-08-04",
+      "listingDate": "2026-08-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "JNPR",
+      "id": "juniper-green-energy-limited",
+      "company": "Juniper Green Energy Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 0.214,
+        "max": 0.225
+      },
+      "lotSize": 0,
+      "issueSizeCr": 58916709,
+      "openDate": "2026-07-30",
+      "closeDate": "2026-08-03",
+      "allotmentDate": "2026-08-04",
+      "listingDate": "2026-08-06",
+      "gmp": null,
+      "subscription": null
+    },
     {
       "symbol": "MANIPALHOS",
       "id": "manipal-health-enterprises-limited",
@@ -24,67 +66,81 @@
       "subscription": null
     },
     {
-      "symbol": "PROPSHOP",
-      "id": "propshop-events-and-exhibitions-limited",
-      "company": "Propshop Events and Exhibitions Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
+      "symbol": "XTRANET",
+      "id": "xtranet-technologies-limited",
+      "company": "Xtranet Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "IT Solutions",
+      "status": "listed",
       "priceBand": {
-        "min": 0,
-        "max": 0
+        "min": 120,
+        "max": 127
+      },
+      "lotSize": 110,
+      "issueSizeCr": 166.8,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-30",
+      "gmp": 7,
+      "subscription": {
+        "qib": 0.91,
+        "nii": null,
+        "bnii": 1.77,
+        "snii": 2.81,
+        "retail": 2.5,
+        "total": 1.96
+      }
+    },
+    {
+      "symbol": "INDOMIM",
+      "id": "indo-mim-limited",
+      "company": "INDO-MIM Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 485,
+        "max": 485
       },
       "lotSize": 0,
       "issueSizeCr": 0,
-      "openDate": "2026-07-27",
-      "closeDate": "2026-07-29",
-      "allotmentDate": "2026-07-30",
-      "listingDate": "2026-08-03",
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-30",
       "gmp": null,
       "subscription": null
     },
     {
-      "symbol": "JNPR",
-      "id": "juniper-green-energy-limited",
-      "company": "Juniper Green Energy Limited",
+      "symbol": "LCL",
+      "id": "lohia-corp-limited",
+      "company": "Lohia Corp Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
+      "sector": "Industrial Machinery",
+      "status": "listed",
       "priceBand": {
-        "min": 0.214,
-        "max": 0.225
+        "min": 404,
+        "max": 425
       },
-      "lotSize": 0,
-      "issueSizeCr": 84122317,
-      "openDate": "2026-07-30",
-      "closeDate": "2026-08-03",
-      "allotmentDate": "2026-08-04",
-      "listingDate": "2026-08-06",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MVELECTRO",
-      "id": "mv-electrosystems-limited",
-      "company": "MV Electrosystems Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 0.4,
-        "max": 0.425
-      },
-      "lotSize": 0,
-      "issueSizeCr": 7249990,
-      "openDate": "2026-07-30",
-      "closeDate": "2026-08-03",
-      "allotmentDate": "2026-08-04",
-      "listingDate": "2026-08-06",
-      "gmp": null,
-      "subscription": null
+      "lotSize": 35,
+      "issueSizeCr": 1101.28,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-30",
+      "gmp": 15,
+      "subscription": {
+        "qib": 0.43,
+        "nii": null,
+        "bnii": 0.11,
+        "snii": 0.24,
+        "retail": 1.1,
+        "total": 0.59
+      }
     },
     {
       "symbol": "METALIC",
@@ -2723,37 +2779,9 @@
       "subscription": null
     },
     {
-      "symbol": "XTRANET",
-      "id": "xtranet-technologies-limited",
-      "company": "Xtranet Technologies Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "IT Solutions",
-      "status": "listed",
-      "priceBand": {
-        "min": 120,
-        "max": 127
-      },
-      "lotSize": 110,
-      "issueSizeCr": 166.8,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": 7,
-      "subscription": {
-        "qib": 0.91,
-        "nii": null,
-        "bnii": 1.77,
-        "snii": 2.81,
-        "retail": 2.5,
-        "total": 1.96
-      }
-    },
-    {
-      "symbol": "INDOMIM",
-      "id": "indo-mim-limited",
-      "company": "INDO-MIM Limited",
+      "symbol": "PROPSHOP",
+      "id": "propshop-events-and-exhibitions-limited",
+      "company": "Propshop Events and Exhibitions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -2770,34 +2798,6 @@
       "listingDate": null,
       "gmp": null,
       "subscription": null
-    },
-    {
-      "symbol": "LCL",
-      "id": "lohia-corp-limited",
-      "company": "Lohia Corp Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "Industrial Machinery",
-      "status": "listed",
-      "priceBand": {
-        "min": 404,
-        "max": 425
-      },
-      "lotSize": 35,
-      "issueSizeCr": 1101.28,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": 15,
-      "subscription": {
-        "qib": 0.43,
-        "nii": null,
-        "bnii": 0.11,
-        "snii": 0.24,
-        "retail": 1.1,
-        "total": 0.59
-      }
     },
     {
       "symbol": "CUBEINVIT",
