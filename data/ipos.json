@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T08:24:00.653Z",
+  "lastUpdated": "2026-07-30T10:37:51.003Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -62,6 +62,27 @@
       "closeDate": "2026-07-31",
       "allotmentDate": "2026-08-03",
       "listingDate": "2026-08-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ARDEE",
+      "id": "ardee-industries-limited",
+      "company": "Ardee Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 0.5,
+        "max": 0.53
+      },
+      "lotSize": 0,
+      "issueSizeCr": 83974436,
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-07",
+      "allotmentDate": "2026-08-10",
+      "listingDate": "2026-08-12",
       "gmp": null,
       "subscription": null
     },
