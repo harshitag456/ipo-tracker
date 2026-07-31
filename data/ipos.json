@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T14:51:32.488Z",
+  "lastUpdated": "2026-07-31T06:12:02.988Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -104,6 +104,27 @@
       "closeDate": "2026-08-05",
       "allotmentDate": "2026-08-06",
       "listingDate": "2026-08-10",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "CUBEINVIT",
+      "id": "cube-highways-trust",
+      "company": "Cube Highways Trust",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 156,
+        "max": 156
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-07-31",
       "gmp": null,
       "subscription": null
     },
@@ -2824,27 +2845,6 @@
       "symbol": "PROPSHOP",
       "id": "propshop-events-and-exhibitions-limited",
       "company": "Propshop Events and Exhibitions Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "CUBEINVIT",
-      "id": "cube-highways-trust",
-      "company": "Cube Highways Trust",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
