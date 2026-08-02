@@ -58,11 +58,11 @@
 
   .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
   .tile{border-radius:14px;padding:14px 16px;border:1px solid rgba(255,255,255,.07)}
-  .tile .t-n{font-family:'Unbounded',sans-serif;font-weight:700;font-size:22px;line-height:1.1;color:var(--green)}
+  .tile .t-k{font-family:'Outfit',sans-serif;font-weight:700;font-size:15px;letter-spacing:.04em;text-transform:uppercase;color:var(--text)}
+  .tile .t-n{font-family:'Unbounded',sans-serif;font-weight:700;font-size:16px;line-height:1.15;color:var(--green);margin-top:6px}
   .tile .t-n.cold{color:var(--red)}
-  .tile .t-n.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:18px}
-  .tile .t-k{font-family:var(--mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:5px}
-  .tile .t-c{font-family:var(--mono);font-size:11px;color:var(--cyan);margin-top:6px}
+  .tile .t-n.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:15px}
+  .tile .t-c{font-family:var(--mono);font-size:10.5px;color:var(--cyan);margin-top:4px}
   .tile .t-c b{font-weight:700}
 
   .tl{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
@@ -186,10 +186,11 @@ function render(ipo){
   }else{
     const max=Math.max(...vals);
     subBlock = '<div class="p-label">Subscription · allotment odds</div><div class="tiles">'+cells.map(([lbl,key])=>{
-      if(!has(key)) return '<div class="tile"><div class="t-n na">—</div><div class="t-k">'+lbl+'</div></div>';
+      if(!has(key)) return '<div class="tile"><div class="t-k">'+lbl+'</div><div class="t-n na">—</div></div>';
       const v=sub[key], dec=v>=100?0:v>=10?1:2;
-      return '<div class="tile" style="background:'+heat(v,max)+'"><div class="t-n'+(v<1?" cold":"")+'">'+v.toFixed(dec)+'×</div>'+
-        '<div class="t-k">'+lbl+'</div><div class="t-c">odds ≈ <b>'+chanceTxt(v)+'</b></div></div>';
+      return '<div class="tile" style="background:'+heat(v,max)+'"><div class="t-k">'+lbl+'</div>'+
+        '<div class="t-n'+(v<1?" cold":"")+'">'+v.toFixed(dec)+'×</div>'+
+        '<div class="t-c">odds ≈ <b>'+chanceTxt(v)+'</b></div></div>';
     }).join("")+'</div>'+
     (has("total")?'<div class="note">Overall subscription: <b style="color:var(--text)">'+sub.total.toFixed(2)+'×</b> (consolidated NSE + BSE)</div>':'');
   }
