@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>IPO details — Issue Board</title>
+<meta name="description" content="Full details for this Indian IPO — price band, lot size, subscription by category, allotment odds, GMP and key dates." />
+<meta name="theme-color" content="#0B0E1E" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Unbounded:wght@500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B0E1E;--text:#EEF0FB;--muted:#8C93B5;--faint:#5B6285;
+    --glass:rgba(255,255,255,.05);--edge:rgba(255,255,255,.1);--edge-hi:rgba(255,255,255,.2);
+    --violet:#8B6CFF;--cyan:#3FD6E4;--green:#2EE6A8;--red:#FF5C7A;--gold:#F5C452;
+    --mono:'JetBrains Mono',monospace;
+  }
+  *{box-sizing:border-box;margin:0}
+  body{font-family:'Outfit',system-ui,sans-serif;color:var(--text);line-height:1.55;background:var(--bg);min-height:100vh;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .wrap{max-width:1000px;margin:0 auto;padding:0 20px;position:relative;z-index:2}
+
+  .orbs{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .orb{position:absolute;border-radius:50%;filter:blur(90px);opacity:.32}
+  .orb.o1{width:460px;height:460px;background:#4A2FBF;top:-150px;left:-120px;animation:drift1 26s ease-in-out infinite alternate}
+  .orb.o2{width:360px;height:360px;background:#0E5F63;bottom:-90px;right:-70px;animation:drift2 32s ease-in-out infinite alternate}
+  @keyframes drift1{to{transform:translate(80px,50px) scale(1.12)}}
+  @keyframes drift2{to{transform:translate(-60px,-40px) scale(1.08)}}
+
+  .topbar{position:sticky;top:0;z-index:20;background:rgba(11,14,30,.68);backdrop-filter:blur(16px);border-bottom:1px solid var(--edge)}
+  .topbar .wrap{display:flex;align-items:center;justify-content:space-between;height:58px}
+  .logo{font-weight:800;font-size:16px}
+  .logo .tick{color:var(--violet)}
+  .back{font-family:var(--mono);font-size:12px;color:var(--muted);text-decoration:none;border:1px solid var(--edge);border-radius:99px;padding:6px 14px;transition:all .18s ease}
+  .back:hover{border-color:var(--edge-hi);color:var(--text)}
+
+  .head{padding:38px 0 6px}
+  .chips{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:12px}
+  .chip{font-family:var(--mono);font-size:10px;letter-spacing:.07em;text-transform:uppercase;border-radius:99px;padding:4px 11px}
+  .chip.open{background:rgba(46,230,168,.12);color:var(--green);border:1px solid rgba(46,230,168,.3)}
+  .chip.upcoming{background:rgba(245,196,82,.12);color:var(--gold);border:1px solid rgba(245,196,82,.3)}
+  .chip.listed{background:var(--glass);color:var(--muted);border:1px solid var(--edge)}
+  .chip.sme{background:none;border:1px dashed var(--edge-hi);color:var(--faint)}
+  .chip.cd{background:rgba(139,108,255,.14);color:var(--violet);border:1px solid rgba(139,108,255,.35)}
+  h1{font-weight:800;font-size:clamp(26px,4.4vw,40px);line-height:1.12;letter-spacing:-0.025em}
+  .sub{color:var(--muted);font-size:14.5px;margin-top:8px}
+
+  .panel{background:linear-gradient(140deg,rgba(255,255,255,.07),rgba(255,255,255,.03));border:1px solid var(--edge);border-radius:20px;padding:22px 24px;margin-top:16px}
+  .p-label{font-family:var(--mono);font-size:9.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.1em;margin-bottom:16px}
+
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:18px}
+  .kpi .k{font-family:var(--mono);font-size:10px;color:var(--faint);text-transform:uppercase;letter-spacing:.08em}
+  .kpi .v{font-family:var(--mono);font-size:19px;font-weight:600;margin-top:4px}
+  .kpi .s{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:3px}
+  .kpi .v.gmp{color:var(--green)} .kpi .s.est{color:var(--cyan)}
+  .kpi .v.pop{color:var(--gold)} .kpi .v.cold{color:var(--red)}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+  .tile{border-radius:14px;padding:14px 16px;border:1px solid rgba(255,255,255,.07)}
+  .tile .t-n{font-family:'Unbounded',sans-serif;font-weight:700;font-size:22px;line-height:1.1;color:var(--green)}
+  .tile .t-n.cold{color:var(--red)}
+  .tile .t-n.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:18px}
+  .tile .t-k{font-family:var(--mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:5px}
+  .tile .t-c{font-family:var(--mono);font-size:11px;color:var(--cyan);margin-top:6px}
+  .tile .t-c b{font-weight:700}
+
+  .tl{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+  .tl-step{display:flex;flex-direction:column;align-items:center;gap:5px;position:relative;padding-top:18px}
+  .tl-step::before{content:"";position:absolute;top:5px;left:0;right:0;height:2px;background:var(--edge)}
+  .tl-step:first-child::before{left:50%}
+  .tl-step:last-child::before{right:50%}
+  .tl-step.done::before{background:rgba(46,230,168,.45)}
+  .tl-dot{position:absolute;top:0;width:12px;height:12px;border-radius:50%;border:2px solid var(--faint);background:var(--bg)}
+  .tl-step.done .tl-dot{border-color:var(--green);background:var(--green)}
+  .tl-step.now .tl-dot{border-color:var(--violet);background:var(--violet);box-shadow:0 0 12px rgba(139,108,255,.75)}
+  .tl-k{font-family:var(--mono);font-size:9.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.07em}
+  .tl-v{font-family:var(--mono);font-size:12.5px;font-weight:600;color:var(--muted)}
+  .tl-step.done .tl-v{color:var(--text)}
+  .tl-step.now .tl-k,.tl-step.now .tl-v{color:var(--violet)}
+
+  .rows{display:flex;flex-direction:column}
+  .row{display:grid;grid-template-columns:minmax(140px,220px) 1fr;gap:16px;padding:11px 0;border-bottom:1px solid var(--edge)}
+  .row:last-child{border-bottom:none}
+  .row .rk{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+  .row .rv{font-family:var(--mono);font-size:13px;font-weight:500;word-break:break-word}
+
+  .note{font-size:12.5px;color:var(--faint);margin-top:14px}
+  .empty{text-align:center;color:var(--muted);padding:80px 20px;border:1px dashed var(--edge-hi);border-radius:20px;margin-top:30px}
+  footer{border-top:1px solid var(--edge);padding:24px 0 46px;margin-top:34px;font-size:12.5px;color:var(--faint);position:relative;z-index:2}
+
+  @media (max-width:600px){
+    .tl{grid-template-columns:1fr 1fr;gap:18px 0}
+    .row{grid-template-columns:1fr;gap:2px}
+  }
+  @media (prefers-reduced-motion:reduce){ .orb{animation:none!important} }
+</style>
+</head>
+<body>
+<div class="orbs" aria-hidden="true"><div class="orb o1"></div><div class="orb o2"></div></div>
+
+<div class="topbar"><div class="wrap">
+  <a class="logo" href="./index.html" style="text-decoration:none">Issue<span class="tick">▲</span>Board</a>
+  <a class="back" href="./index.html">← All IPOs</a>
+</div></div>
+
+<div class="wrap" id="main"></div>
+
+<footer><div class="wrap">
+  <span>GMP is an unofficial grey-market indication. Allotment odds are an approximation (1 ÷ subscription), not a guarantee. Not investment advice.</span>
+</div></footer>
+
+<script>
+const fmtINR = n => "₹" + Number(n).toLocaleString("en-IN");
+const fmtDate = iso => iso ? new Date(iso+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"}) : null;
+const todayISO = () => new Date().toISOString().slice(0,10);
+const daysTo = iso => Math.ceil((new Date(iso+"T17:00:00+05:30")-Date.now())/86400000);
+const NSE_HOLIDAYS = new Set(["2026-01-15","2026-01-26","2026-03-03","2026-03-26","2026-03-31","2026-04-03","2026-04-14","2026-05-01","2026-05-28","2026-06-26","2026-09-14","2026-10-02","2026-10-20","2026-11-10","2026-11-24","2026-12-25"]);
+function addBusinessDays(iso,n){
+  const d=new Date(iso+"T00:00:00Z"); let a=0;
+  while(a<n){ d.setUTCDate(d.getUTCDate()+1); const dy=d.getUTCDay(), ds=d.toISOString().slice(0,10);
+    if(dy!==0&&dy!==6&&!NSE_HOLIDAYS.has(ds)) a++; }
+  return d.toISOString().slice(0,10);
+}
+const chance = v => Math.min(100, 100/v);
+const chanceTxt = v => { const c=chance(v); return (c>=100?100:c>=10?c.toFixed(0):c.toFixed(1))+"%"; };
+const heat = (v,max) => {
+  if(v<1) return "rgba(255,92,122,"+(0.12+0.22*Math.min(1,(1-v))).toFixed(3)+")";
+  const t=Math.log10(v+1)/Math.log10(Math.max(2,max)+1);
+  return "rgba(46,230,168,"+(0.10+0.30*Math.min(1,t)).toFixed(3)+")";
+};
+
+async function load(){
+  const id = new URLSearchParams(location.search).get("id");
+  const main = document.getElementById("main");
+  let data;
+  try{
+    data = await (await fetch("./data/ipos.json",{cache:"no-store"})).json();
+  }catch(e){
+    main.innerHTML = '<div class="empty">Could not load IPO data.</div>'; return;
+  }
+  const ipo = (data.ipos||[]).find(i => i.id === id);
+  if(!ipo){
+    main.innerHTML = '<div class="empty">IPO not found.<br><br><a class="back" href="./index.html">← Back to all IPOs</a></div>';
+    return;
+  }
+  document.title = ipo.company + " IPO — details, subscription, GMP | Issue Board";
+  render(ipo);
+}
+
+function render(ipo){
+  const allot = ipo.allotmentDate || (ipo.closeDate?addBusinessDays(ipo.closeDate,1):null);
+  const list  = ipo.listingDate  || (ipo.closeDate?addBusinessDays(ipo.closeDate,3):null);
+  const band  = ipo.priceBand&&ipo.priceBand.max ? (ipo.priceBand.min===ipo.priceBand.max?fmtINR(ipo.priceBand.max):fmtINR(ipo.priceBand.min)+"–"+fmtINR(ipo.priceBand.max)) : "—";
+  const minAmt = (ipo.priceBand?.max||0)*(ipo.lotSize||0);
+  const cd = (ipo.status==="open"&&ipo.closeDate&&daysTo(ipo.closeDate)>=0)
+    ? '<span class="chip cd">closes '+(daysTo(ipo.closeDate)===0?"today":"in "+daysTo(ipo.closeDate)+"d")+'</span>' : "";
+
+  // KPI strip
+  let kpis = '<div class="kpi"><div class="k">Price band</div><div class="v">'+band+'</div>'+
+    (ipo.priceBand?.max?'<div class="s">face value per share</div>':'')+'</div>'+
+    '<div class="kpi"><div class="k">Lot size</div><div class="v">'+(ipo.lotSize?ipo.lotSize+" sh":"—")+'</div>'+
+      (minAmt?'<div class="s">min '+fmtINR(minAmt)+'</div>':'')+'</div>'+
+    '<div class="kpi"><div class="k">Issue size</div><div class="v">'+(ipo.issueSizeCr?"₹"+Number(ipo.issueSizeCr).toLocaleString("en-IN")+" Cr":"—")+'</div></div>';
+  if(ipo.gmp!=null&&ipo.priceBand?.max){
+    const est=ipo.priceBand.max+ipo.gmp, pct=(ipo.gmp/ipo.priceBand.max*100).toFixed(1);
+    kpis += '<div class="kpi"><div class="k">GMP</div><div class="v gmp">+'+fmtINR(ipo.gmp)+'</div><div class="s est">est. list '+fmtINR(est)+' ('+pct+'%)</div></div>';
+  }else{
+    kpis += '<div class="kpi"><div class="k">GMP</div><div class="v">—</div></div>';
+  }
+  if(ipo.status==="listed"&&ipo.listing){
+    const g=ipo.listing.gainPct;
+    kpis += '<div class="kpi"><div class="k">Listing gain</div><div class="v '+(g>=0?"pop":"cold")+'">'+(g>=0?"+":"")+g+'%</div><div class="s">'+fmtINR(ipo.listing.issuePrice)+' → '+fmtINR(ipo.listing.listPrice)+'</div></div>';
+  }
+
+  // Subscription tiles
+  const sub = ipo.subscription||{}, has=k=>typeof sub[k]==="number";
+  const cells = (has("bnii")||has("snii"))
+    ? [["QIB","qib"],["bHNI","bnii"],["sHNI","snii"],["Retail","retail"]]
+    : [["QIB","qib"],["NII","nii"],["Retail","retail"]];
+  const vals = cells.filter(([l,k])=>has(k)).map(([l,k])=>sub[k]);
+  let subBlock;
+  if(!vals.length){
+    subBlock = '<div class="p-label">Subscription</div><div style="color:var(--muted);font-size:14px">'+
+      (ipo.status==="upcoming"?"Bidding hasn't opened yet.":ipo.status==="listed"?"Category data not available for this issue.":"Numbers pending — bidding is live.")+'</div>';
+  }else{
+    const max=Math.max(...vals);
+    subBlock = '<div class="p-label">Subscription · allotment odds</div><div class="tiles">'+cells.map(([lbl,key])=>{
+      if(!has(key)) return '<div class="tile"><div class="t-n na">—</div><div class="t-k">'+lbl+'</div></div>';
+      const v=sub[key], dec=v>=100?0:v>=10?1:2;
+      return '<div class="tile" style="background:'+heat(v,max)+'"><div class="t-n'+(v<1?" cold":"")+'">'+v.toFixed(dec)+'×</div>'+
+        '<div class="t-k">'+lbl+'</div><div class="t-c">odds ≈ <b>'+chanceTxt(v)+'</b></div></div>';
+    }).join("")+'</div>'+
+    (has("total")?'<div class="note">Overall subscription: <b style="color:var(--text)">'+sub.total.toFixed(2)+'×</b> (consolidated NSE + BSE)</div>':'');
+  }
+
+  // Timeline
+  const today=todayISO();
+  const steps=[["Opens",ipo.openDate],["Closes",ipo.closeDate],["Allotment",allot],["Listing",list]];
+  let nowIdx=steps.findIndex(([k,d])=>d&&d>=today);
+  if(ipo.status==="listed") nowIdx=-2;
+  const tl='<div class="p-label">Timeline</div><div class="tl">'+steps.map(([k,d],i)=>{
+    let cls="future";
+    if(nowIdx===-2||(d&&d<today)) cls="done"; else if(i===nowIdx) cls="now";
+    return '<div class="tl-step '+cls+'"><span class="tl-dot"></span><span class="tl-k">'+k+'</span><span class="tl-v">'+(fmtDate(d)||"TBA")+'</span></div>';
+  }).join("")+'</div>';
+
+  // Issue details table
+  const rows=[
+    ["Company", ipo.company],
+    ["Exchange", ipo.exchange],
+    ["Board", ipo.board],
+    ["Sector", (ipo.sector&&ipo.sector!=="—")?ipo.sector:"—"],
+    ["NSE symbol", ipo.symbol||"—"],
+    ["Price band", band],
+    ["Lot size", ipo.lotSize?ipo.lotSize+" shares":"—"],
+    ["Min investment", minAmt?fmtINR(minAmt):"—"],
+    ["Issue size", ipo.issueSizeCr?"₹"+Number(ipo.issueSizeCr).toLocaleString("en-IN")+" Cr":"—"],
+    ["Issue period", (fmtDate(ipo.openDate)&&fmtDate(ipo.closeDate))?fmtDate(ipo.openDate)+" to "+fmtDate(ipo.closeDate):"—"],
+    ["Allotment date", fmtDate(allot)||"TBA"],
+    ["Listing date", fmtDate(list)||"TBA"],
+  ];
+  const table='<div class="p-label">Issue details</div><div class="rows">'+rows.map(([k,v])=>
+    '<div class="row"><span class="rk">'+k+'</span><span class="rv">'+v+'</span></div>').join("")+'</div>';
+
+  document.getElementById("main").innerHTML =
+    '<section class="head"><div class="chips"><span class="chip '+ipo.status+'">'+ipo.status+'</span>'+
+      (ipo.board==="SME"?'<span class="chip sme">SME</span>':'')+cd+'</div>'+
+      '<h1>'+ipo.company+'</h1>'+
+      '<div class="sub">'+((ipo.sector&&ipo.sector!=="—")?ipo.sector+' · ':'')+ipo.exchange+'</div></section>'+
+    '<div class="panel"><div class="p-label">Key numbers</div><div class="kpis">'+kpis+'</div></div>'+
+    '<div class="panel">'+subBlock+'</div>'+
+    '<div class="panel">'+tl+'</div>'+
+    '<div class="panel">'+table+'</div>';
+}
+
+load();
+</script>
+</body>
+</html>
