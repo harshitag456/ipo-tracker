@@ -61,45 +61,56 @@ async function fetchNSE(path, cookie) {
   return res.json();
 }
 
-// Category-wise subscription for one active issue. VERIFY the path once in
-// DevTools: open any live IPO's page on nseindia.com and watch the Network
-// panel for the bid-details API call; adjust path/fields if they differ.
-// Category-wise subscription for one active issue.
-async function fetchSubscription(symbol, cookie) {
-  const data = await fetchNSE(SUBSCRIPTION_PATH(symbol), cookie);
-  const rows = Array.isArray(data) ? data : data?.dataList ?? data?.data ?? [];
+// ── Per-IPO detail (/api/ipo-detail): correct band, lot, issue size, dates
+//    + consolidated NSE+BSE category-wise subscription. Schema verified 2 Aug 2026.
+async function fetchIpoDetail(symbol, board, cookie) {
+  const series = board === "SME" ? "SME" : "EQ";
+  let data;
+  try {
+    data = await fetchNSE(`/api/ipo-detail?symbol=${encodeURIComponent(symbol)}&series=${series}`, cookie);
+  } catch {
+    const alt = series === "EQ" ? "SME" : "EQ";
+    data = await fetchNSE(`/api/ipo-detail?symbol=${encodeURIComponent(symbol)}&series=${alt}`, cookie);
+  }
+  const out = {};
 
-  // DEBUG (remove once numbers verify): print raw rows to the Actions log.
-  console.error(`RAW ${symbol}:`, JSON.stringify(rows).slice(0, 1500));
+  // issueInfo: title/value pairs
+  const info = {};
+  for (const row of data?.issueInfo?.dataList ?? []) {
+    if (row?.title) info[row.title] = String(row.value ?? "");
+  }
+  const period = info["Issue Period"]?.match(/(\d{2}-\w{3}-\d{4})\s*to\s*(\d{2}-\w{3}-\d{4})/);
+  if (period) { out.openDate = toISO(period[1]); out.closeDate = toISO(period[2]); }
 
-  const rowFor = (re) =>
-    rows.find((r) => re.test(String(r.category ?? r.categoryName ?? "")));
+  const range = info["Price Range"]?.match(/Rs\.?\s*([\d,]+(?:\.\d+)?)\s*to\s*Rs\.?\s*([\d,]+(?:\.\d+)?)/i);
+  if (range) out.priceBand = { min: num(range[1]), max: num(range[2]) };
 
-  // Extract the times-subscribed RATIO for a row.
-  // Priority: explicit ratio fields; fallback: shares-bid / shares-offered.
-  const ratio = (row) => {
-    if (!row) return null;
-    const explicit =
-      num(row.subscriptionTimes) ??
-      num(row.noOfTimesSubscribed) ??
-      num(row.subscribed) ??
-      num(row.noOfTotalMeant); // NSE has used this name for the ratio
-    if (explicit != null && explicit < 100000) return explicit;
-    const bid = num(row.noOfshareBid ?? row.noOfSharesBid ?? row.sharesBid);
-    const offered = num(row.noOfshareOffered ?? row.noOfSharesOffered ?? row.sharesOffered);
-    if (bid != null && offered) return Math.round((bid / offered) * 100) / 100;
-    return null;
-  };
+  const lot = info["Bid Lot"]?.match(/([\d,]+)\s*Equity Shares/i);
+  if (lot) out.lotSize = num(lot[1]);
 
+  const size = info["Issue Size"]?.match(/Rs\.?\s*([\d,]+(?:\.\d+)?)\s*(million|crore|cr\b|lakh)/i);
+  if (size) {
+    const v = num(size[1]), unit = size[2].toLowerCase();
+    out.issueSizeCr = unit.startsWith("million") ? Math.round(v * 10) / 100
+                    : unit.startsWith("lakh") ? v / 100 : v;
+  }
+
+  // activeCat = consolidated (NSE+BSE) subscription. srNo: 1=QIB, 2=NII,
+  // 2.1=bHNI, 2.2=sHNI, 3=Retail; Total row has srNo null.
+  const bySr = {};
+  for (const r of data?.activeCat?.dataList ?? []) {
+    if (!r || r.srNo === "Sr.No.") continue; // header row
+    const key = r.srNo ?? (String(r.category).trim() === "Total" ? "total" : null);
+    if (key != null) bySr[key] = num(r.noOfTotalMeant);
+  }
   const sub = {
-    qib: ratio(rowFor(/qualified|qib/i)),
-    nii: ratio(rowFor(/^non[- ]?institutional(?!.*(above|below|10))|^nii$/i)),
-    bnii: ratio(rowFor(/bnii|b-nii|above.*10\s*lakh|more than ten/i)),
-    snii: ratio(rowFor(/snii|s-nii|below.*10\s*lakh|up to ten|2.*10\s*lakh/i)),
-    retail: ratio(rowFor(/retail|rii/i)),
-    total: ratio(rowFor(/^total/i)),
+    qib: bySr["1"] ?? null, nii: bySr["2"] ?? null,
+    bnii: bySr["2.1"] ?? null, snii: bySr["2.2"] ?? null,
+    retail: bySr["3"] ?? null, total: bySr["total"] ?? null,
   };
-  return Object.values(sub).some((v) => typeof v === "number") ? sub : null;
+  if (Object.values(sub).some((v) => typeof v === "number")) out.subscription = sub;
+
+  return out;
 }
 
 const slug = (name) =>
@@ -224,15 +235,14 @@ async function main() {
     if (!prev || prev.status !== "open") byId.set(ipo.id, ipo);
   }
 
-  // Enrich open issues with live category-wise subscription (sequential, gentle).
+  // Enrich open + upcoming issues from the per-IPO detail endpoint.
   for (const ipo of byId.values()) {
-    if (ipo.status !== "open" || !ipo.symbol) continue;
+    if (!ipo.symbol) continue;
     try {
-      const sub = await fetchSubscription(ipo.symbol, cookie);
-      if (sub) ipo.subscription = sub;
-      await new Promise((r) => setTimeout(r, 800)); // don't hammer NSE
+      Object.assign(ipo, await fetchIpoDetail(ipo.symbol, ipo.board, cookie));
+      await new Promise((r) => setTimeout(r, 800)); // be gentle to NSE
     } catch (e) {
-      console.error(`subscription ${ipo.symbol}:`, e.message);
+      console.error(`detail ${ipo.symbol}:`, e.message);
     }
   }
   
