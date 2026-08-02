@@ -128,7 +128,12 @@ function base(raw, status) {
     board: raw.series === "SME" ? "SME" : "Mainboard",
     sector: raw.industry ?? "—",
     status,
-    priceBand: { min: min ?? 0, max: max ?? min ?? 0 },
+    priceBand: (() => {
+      let bMin = min ?? 0, bMax = max ?? min ?? 0;
+      // NSE reports the band scaled down 1000x (e.g. "0.56" for ₹560); rescale.
+      if (bMax > 0 && bMax < 10) { bMin = Math.round(bMin * 1000); bMax = Math.round(bMax * 1000); }
+      return { min: bMin, max: bMax };
+    })(),
     lotSize: num(raw.lotSize) ?? 0,
     issueSizeCr: num(raw.issueSize) ?? 0,
     openDate: toISO(raw.issueStartDate),
