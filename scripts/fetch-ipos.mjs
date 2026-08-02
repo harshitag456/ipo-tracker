@@ -251,6 +251,14 @@ async function main() {
     for (const ipo of ipos) Object.assign(ipo, overrides[ipo.id] ?? {});
   } catch { /* no overrides file — fine */ }
 
+  // Manual issue sizes (data/issue-sizes.json): id -> ₹ crore. Wins for issueSizeCr.
+  try {
+    const sizes = JSON.parse(await readFile("data/issue-sizes.json", "utf8"));
+    for (const ipo of ipos) {
+      if (typeof sizes[ipo.id] === "number") ipo.issueSizeCr = sizes[ipo.id];
+    }
+  } catch { /* no issue-sizes file — fine */ }
+
   if (!ipos.length) {
     console.error("Nothing fetched and nothing existing — aborting without writing.");
     process.exit(0);
