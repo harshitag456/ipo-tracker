@@ -269,6 +269,14 @@ async function main() {
     }
   } catch { /* no issue-sizes file — fine */ }
 
+  // Manual GMP (data/gmp.json): id -> ₹ premium per share. Single source of truth for gmp.
+  try {
+    const gmps = JSON.parse(await readFile("data/gmp.json", "utf8"));
+    for (const ipo of ipos) {
+      if (ipo.id in gmps && ipo.id[0] !== "_") ipo.gmp = gmps[ipo.id];
+    }
+  } catch { /* no gmp file — fine */ }
+
   if (!ipos.length) {
     console.error("Nothing fetched and nothing existing — aborting without writing.");
     process.exit(0);
