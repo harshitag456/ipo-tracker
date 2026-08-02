@@ -1,9 +1,9 @@
 name: Refresh IPO data
 
 on:
-  # schedule:
+  schedule:
     # Every 30 min during Indian market hours (IST), Mon-Fri
-    # - cron: "*/30 3-12 * * 1-5"
+    - cron: "*/30 3-12 * * 1-5"
   workflow_dispatch: {}   # manual "Run workflow" button
 
 permissions:
