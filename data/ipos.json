@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T08:45:34.406Z",
+  "lastUpdated": "2026-08-02T08:58:41.503Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -20,7 +20,7 @@
       "closeDate": "2026-08-03",
       "allotmentDate": "2026-08-04",
       "listingDate": "2026-08-06",
-      "gmp": null,
+      "gmp": 26.59,
       "subscription": {
         "qib": 0.911139984753981,
         "nii": 15.767181181022861,
@@ -48,7 +48,7 @@
       "closeDate": "2026-08-03",
       "allotmentDate": "2026-08-04",
       "listingDate": "2026-08-06",
-      "gmp": null,
+      "gmp": 0.67,
       "subscription": {
         "qib": 1.1859801185890972,
         "nii": 0.08620510165832937,
