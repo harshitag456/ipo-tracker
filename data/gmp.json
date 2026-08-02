@@ -1,0 +1,8 @@
+{
+  "_readme": "Daily GMP in ₹ per share, keyed by IPO id from data/ipos.json. Fill each morning from your preferred tracker; null = site shows '—'. GMP merges AFTER overrides, so this file is the single source of truth for gmp. Remove or null entries once an IPO lists.",
+
+  "mv-electrosystems-limited": 26.59,
+  "juniper-green-energy-limited": 0.67,
+  "ardee-industries-limited": null,
+  "technocraft-ventures-limited": null
+}
