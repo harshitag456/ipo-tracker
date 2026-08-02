@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T08:20:12.491Z",
+  "lastUpdated": "2026-08-02T08:45:34.406Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -14,14 +14,21 @@
         "min": 400,
         "max": 425
       },
-      "lotSize": 0,
+      "lotSize": 34,
       "issueSizeCr": 290,
       "openDate": "2026-07-30",
       "closeDate": "2026-08-03",
       "allotmentDate": "2026-08-04",
       "listingDate": "2026-08-06",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": 0.911139984753981,
+        "nii": 15.767181181022861,
+        "bnii": 12.700963725467208,
+        "snii": 21.899624550688415,
+        "retail": 39.756465870987405,
+        "total": 12.025582001313609
+      }
     },
     {
       "symbol": "JNPR",
@@ -35,14 +42,21 @@
         "min": 214,
         "max": 225
       },
-      "lotSize": 0,
+      "lotSize": 66,
       "issueSizeCr": 1800,
       "openDate": "2026-07-30",
       "closeDate": "2026-08-03",
       "allotmentDate": "2026-08-04",
       "listingDate": "2026-08-06",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": 1.1859801185890972,
+        "nii": 0.08620510165832937,
+        "bnii": 0.046951690516515966,
+        "snii": 0.16471194262990088,
+        "retail": 0.21664056929917158,
+        "total": 0.46779384775208677
+      }
     },
     {
       "symbol": "ARDEE",
@@ -56,14 +70,21 @@
         "min": 500,
         "max": 530
       },
-      "lotSize": 0,
+      "lotSize": 281,
       "issueSizeCr": 425.87,
       "openDate": "2026-08-05",
       "closeDate": "2026-08-07",
       "allotmentDate": "2026-08-10",
       "listingDate": "2026-08-12",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
     },
     {
       "symbol": "ANAWIL",
@@ -84,7 +105,14 @@
       "allotmentDate": "2026-08-06",
       "listingDate": "2026-08-10",
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
     },
     {
       "symbol": "CUBEINVIT",
