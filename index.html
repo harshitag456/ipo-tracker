@@ -117,11 +117,11 @@
   /* Subscription heat tiles: QIB / bHNI / sHNI / Retail, 2x2 solid wash */
   .tiles{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:2px}
   .tile{border-radius:12px;padding:11px 13px;border:1px solid rgba(255,255,255,.07)}
-  .tile .t-n{font-family:'Unbounded',sans-serif;font-weight:700;font-size:17px;line-height:1.1;color:var(--green)}
+  .tile .t-k{font-family:'Outfit',sans-serif;font-weight:700;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--text)}
+  .tile .t-n{font-family:'Unbounded',sans-serif;font-weight:700;font-size:13.5px;line-height:1.15;color:var(--green);margin-top:5px}
   .tile .t-n.cold{color:var(--red)}
-  .tile .t-n.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:16px}
-  .tile .t-k{font-family:var(--mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:4px}
-  .tile .t-c{font-family:var(--mono);font-size:10px;color:var(--cyan);margin-top:5px}
+  .tile .t-n.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:13px}
+  .tile .t-c{font-family:var(--mono);font-size:9.5px;color:var(--cyan);margin-top:3px}
   .tile .t-c b{font-weight:700}
   .t-foot{font-family:var(--mono);font-size:11px;color:var(--muted)}
   .t-foot b{color:var(--text);font-weight:600}
@@ -295,7 +295,7 @@ function pulseHTML(ipo){
     return c>=99.5?"100%":c>=10?c.toFixed(0)+"%":c.toFixed(1)+"%";
   };
   const tiles='<div class="tiles">'+cells.map(([lbl,key])=>{
-    if(!has(key)) return '<div class="tile"><div class="t-n na">—</div><div class="t-k">'+lbl+'</div></div>';
+    if(!has(key)) return '<div class="tile"><div class="t-k">'+lbl+'</div><div class="t-n na">—</div></div>';
     const v=sub[key];
     const dec=v>=100?0:v>=10?1:2;
     let style,ncls="";
@@ -306,8 +306,8 @@ function pulseHTML(ipo){
       const a=(.10+.26*Math.min(1,Math.log(Math.max(v,1.01))/maxLog)).toFixed(2);
       style='background:rgba(46,230,168,'+a+')';
     }
-    return '<div class="tile" style="'+style+'"><div class="t-n'+ncls+'" data-count="'+v+'" data-dec="'+dec+'" data-suffix="×">0×</div>'+
-      '<div class="t-k">'+lbl+'</div>'+
+    return '<div class="tile" style="'+style+'"><div class="t-k">'+lbl+'</div>'+
+      '<div class="t-n'+ncls+'" data-count="'+v+'" data-dec="'+dec+'" data-suffix="×">0×</div>'+
       '<div class="t-c">odds ≈ <b>'+chanceTxt(v)+'</b></div></div>';
   }).join("")+'</div>';
   return '<div class="sec"><div class="sec-label">Subscription · allotment odds</div>'+tiles+'</div>';
