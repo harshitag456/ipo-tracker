@@ -74,6 +74,7 @@
   main{padding-bottom:90px;perspective:1600px}
   .stack{display:flex;flex-direction:column;gap:14px}
   .card{
+    text-decoration:none;color:inherit;cursor:pointer;
     background:linear-gradient(120deg,rgba(255,255,255,.07),rgba(255,255,255,.03));
     border:1px solid var(--edge);border-radius:20px;
     display:grid;grid-template-columns:1.45fr 1.05fr 1.15fr;
@@ -81,6 +82,7 @@
     transition:box-shadow .25s ease;position:relative;overflow:hidden;
     opacity:0;transform:translateY(22px);
   }
+  .card:focus-visible{outline:2px solid var(--violet);outline-offset:3px}
   .card.in{animation:rise .55s cubic-bezier(.2,.8,.2,1) forwards}
   @keyframes rise{to{opacity:1;transform:translateY(0)}}
   .card:hover{box-shadow:0 22px 55px rgba(0,0,0,.5),0 0 0 1px var(--edge-hi)}
@@ -348,7 +350,7 @@ function render(){
   if(!rows.length){stack.innerHTML='<div class="empty">Nothing here right now — check the other tabs.</div>';return;}
   stack.innerHTML=rows.map(ipo=>{
     const cdChip=(ipo.status==="open"&&ipo.closeDate&&daysTo(ipo.closeDate)>=0)?'<span class="chip cd">closes '+(daysTo(ipo.closeDate)===0?'today':'in '+daysTo(ipo.closeDate)+'d')+'</span>':'';
-    return '<article class="card"><div class="glare"></div>'+
+    return '<a class="card" href="./ipo.html?id='+encodeURIComponent(ipo.id)+'"><div class="glare"></div>'+
       '<div class="sec who"><div class="sec-label">Issue</div>'+
         '<div class="co-name">'+ipo.company+'</div>'+
         '<div class="co-meta">'+(ipo.sector&&ipo.sector!=="—"?ipo.sector+' · ':'')+ipo.exchange+'</div>'+
@@ -357,7 +359,7 @@ function render(){
       '</div>'+
       pulseHTML(ipo)+
       factsHTML(ipo)+
-    '</article>';
+    '</a>';
   }).join("");
   animate();
 }
