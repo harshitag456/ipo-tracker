@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T14:02:25.937Z",
+  "lastUpdated": "2026-08-02T07:56:53.707Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -11,8 +11,8 @@
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 0.4,
-        "max": 0.425
+        "min": 400,
+        "max": 425
       },
       "lotSize": 0,
       "issueSizeCr": 3987491,
@@ -32,8 +32,8 @@
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 0.214,
-        "max": 0.225
+        "min": 214,
+        "max": 225
       },
       "lotSize": 0,
       "issueSizeCr": 58916709,
@@ -41,27 +41,6 @@
       "closeDate": "2026-08-03",
       "allotmentDate": "2026-08-04",
       "listingDate": "2026-08-06",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MANIPALHOS",
-      "id": "manipal-health-enterprises-limited",
-      "company": "Manipal Health Enterprises Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 0.56,
-        "max": 0.59
-      },
-      "lotSize": 0,
-      "issueSizeCr": 90088286,
-      "openDate": "2026-07-29",
-      "closeDate": "2026-07-31",
-      "allotmentDate": "2026-08-03",
-      "listingDate": "2026-08-05",
       "gmp": null,
       "subscription": null
     },
@@ -74,8 +53,8 @@
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.5,
-        "max": 0.53
+        "min": 500,
+        "max": 530
       },
       "lotSize": 0,
       "issueSizeCr": 83974436,
@@ -95,8 +74,8 @@
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 0.257,
-        "max": 0.27
+        "min": 257,
+        "max": 270
       },
       "lotSize": 400,
       "issueSizeCr": 4710000,
@@ -3249,8 +3228,8 @@
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 0.111,
-        "max": 0.114
+        "min": 111,
+        "max": 114
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3270,8 +3249,8 @@
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 0.51,
-        "max": 0.51
+        "min": 510,
+        "max": 510
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3291,8 +3270,8 @@
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 0.33,
-        "max": 0.35
+        "min": 330,
+        "max": 350
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3333,8 +3312,8 @@
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 0.4,
-        "max": 0.4
+        "min": 400,
+        "max": 400
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3354,8 +3333,8 @@
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 0.51,
-        "max": 0.51
+        "min": 510,
+        "max": 510
       },
       "lotSize": 0,
       "issueSizeCr": 0,
