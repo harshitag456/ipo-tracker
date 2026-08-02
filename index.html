@@ -112,24 +112,15 @@
   .big .x.wait{color:var(--faint);font-size:25px;text-shadow:none}
   .big .x.pop{color:var(--gold);text-shadow:0 0 26px rgba(245,196,82,.35)}
   .big .cap{font-family:var(--mono);font-size:10.5px;color:var(--muted);padding-bottom:4px;text-transform:uppercase;letter-spacing:.06em}
-  /* Subscription rings: bHNI / sHNI top line, Retail centered below */
-  .trio{display:grid;grid-template-columns:auto auto;gap:14px 30px;margin:4px auto 0;width:fit-content;justify-items:center}
-  .t-item{display:flex;flex-direction:column;align-items:center;gap:7px}
-  .t-item.full{grid-column:1/-1}
-  .t-ring{position:relative;width:84px;height:84px}
-  .t-ring svg{width:100%;height:100%;transform:rotate(-90deg)}
-  .ring-bg{fill:none;stroke:rgba(255,255,255,.08);stroke-width:6}
-  .ring-fill{fill:none;stroke:var(--green);stroke-width:6;stroke-linecap:round;
-    stroke-dasharray:213.6;stroke-dashoffset:213.6;
-    transition:stroke-dashoffset 1.1s cubic-bezier(.2,.8,.2,1);
-    filter:drop-shadow(0 0 6px rgba(46,230,168,.55));}
-  .ring-fill.cold{stroke:var(--red);filter:drop-shadow(0 0 6px rgba(255,92,122,.5))}
-  .t-num{position:absolute;inset:0;display:grid;place-items:center;
-    font-family:'Unbounded',sans-serif;font-weight:700;font-size:13.5px;
-    letter-spacing:-0.02em;color:var(--green)}
-  .t-num.cold{color:var(--red)}
-  .t-num.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:18px}
-  .t-k{font-family:var(--mono);font-size:9.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+  /* Subscription heat tiles: QIB / bHNI / sHNI / Retail, 2x2 solid wash */
+  .tiles{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:2px}
+  .tile{border-radius:12px;padding:11px 13px;border:1px solid rgba(255,255,255,.07)}
+  .tile .t-n{font-family:'Unbounded',sans-serif;font-weight:700;font-size:17px;line-height:1.1;color:var(--green)}
+  .tile .t-n.cold{color:var(--red)}
+  .tile .t-n.na{color:var(--faint);font-family:'Outfit',sans-serif;font-size:16px}
+  .tile .t-k{font-family:var(--mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+  .tile .t-c{font-family:var(--mono);font-size:10px;color:var(--cyan);margin-top:5px}
+  .tile .t-c b{font-weight:700}
   .t-foot{font-family:var(--mono);font-size:11px;color:var(--muted)}
   .t-foot b{color:var(--text);font-weight:600}
   .meter{display:flex;flex-direction:column;gap:6px}
@@ -184,7 +175,6 @@
     .card{opacity:1;transform:none}
     .card.in{animation:none}
     .m-row .fill{transition:none}
-    .ring-fill{transition:none}
     .pills button:hover{transform:none}
   }
 </style>
@@ -273,36 +263,35 @@ function pulseHTML(ipo){
     const d=ipo.openDate?daysTo(ipo.openDate):null;
     return '<div class="sec"><div class="sec-label">Subscription</div><div class="big"><span class="x wait">'+(d!=null&&d>0?"T−"+d:"soon")+'</span><span class="cap">to open</span></div></div>';
   }
-  // Big trio: bHNI / sHNI / Retail. Falls back to combined NII when the split isn't available.
-  const cells=[];
-  if(has("bnii")||has("snii")){
-    cells.push(["bHNI","bnii"],["sHNI","snii"]);
-  }else{
-    cells.push(["NII","nii"]);
-  }
-  cells.push(["Retail","retail"]);
-  const shown=cells.filter(([l,k])=>has(k)).map(([l,k])=>sub[k]);
-  const maxV=Math.max(2,...(shown.length?shown:[2]));
-  const trio='<div class="trio">'+cells.map(([lbl,key])=>{
-    const full=(lbl==="Retail")?' full':'';
-    if(!has(key)) return '<span class="t-item'+full+'"><span class="t-ring"><svg viewBox="0 0 80 80"><circle class="ring-bg" cx="40" cy="40" r="34"></circle></svg><span class="t-num na">—</span></span><span class="t-k">'+lbl+'</span></span>';
+  // Heat tiles: QIB / bHNI / sHNI / Retail in fixed positions. Tint intensity is
+  // log-relative to the card's hottest category (no fake "100%" range).
+  // Allotment chance = min(100, 100/subscription), capped for undersubscribed.
+  const cells=[["QIB","qib"],["bHNI","bnii"],["sHNI","snii"],["Retail","retail"]];
+  // If the bHNI/sHNI split is missing but combined NII exists, show NII in bHNI's slot.
+  if(!has("bnii")&&!has("snii")&&has("nii")){ cells[1]=["NII","nii"]; cells[2]=["sHNI","snii"]; }
+  const shown=cells.filter(([l,k])=>has(k)).map(([l,k])=>sub[k]).filter(v=>v>=1);
+  const maxLog=Math.log(Math.max(2,...(shown.length?shown:[2])));
+  const chanceTxt=v=>{
+    const c=Math.min(100,100/v);
+    return c>=99.5?"100%":c>=10?c.toFixed(0)+"%":c.toFixed(1)+"%";
+  };
+  const tiles='<div class="tiles">'+cells.map(([lbl,key])=>{
+    if(!has(key)) return '<div class="tile"><div class="t-n na">—</div><div class="t-k">'+lbl+'</div></div>';
     const v=sub[key];
-    const p=Math.min(1,v/maxV);
     const dec=v>=100?0:v>=10?1:2;
-    const cold=v<1?' cold':'';
-    return '<span class="t-item'+full+'"><span class="t-ring"><svg viewBox="0 0 80 80"><circle class="ring-bg" cx="40" cy="40" r="34"></circle><circle class="ring-fill'+cold+'" cx="40" cy="40" r="34" data-p="'+p.toFixed(3)+'"></circle></svg><span class="t-num'+cold+'" data-count="'+v+'" data-dec="'+dec+'" data-suffix="×">0×</span></span><span class="t-k">'+lbl+'</span></span>';
+    let style,ncls="";
+    if(v<1){
+      const a=(.14+(1-v)*.18).toFixed(2);
+      style='background:rgba(255,92,122,'+a+')'; ncls=" cold";
+    }else{
+      const a=(.10+.26*Math.min(1,Math.log(Math.max(v,1.01))/maxLog)).toFixed(2);
+      style='background:rgba(46,230,168,'+a+')';
+    }
+    return '<div class="tile" style="'+style+'"><div class="t-n'+ncls+'" data-count="'+v+'" data-dec="'+dec+'" data-suffix="×">0×</div>'+
+      '<div class="t-k">'+lbl+'</div>'+
+      '<div class="t-c">odds ≈ <b>'+chanceTxt(v)+'</b></div></div>';
   }).join("")+'</div>';
-  return '<div class="sec"><div class="sec-label">Subscription</div>'+trio+'</div>';
-}
-function meterHTML(ipo){
-  if(!ipo.subscription) return "";
-  const cats=[["QIB","qib"],["NII","nii"],["RET","retail"]].filter(([l,k])=>typeof ipo.subscription[k]==="number");
-  if(!cats.length) return "";
-  const max=Math.max(2,...cats.map(c=>ipo.subscription[c[1]]));
-  return '<div class="meter">'+cats.map(([lbl,key])=>{
-    const v=ipo.subscription[key],w=Math.min(100,(v/max)*100),u=v<1?" under":"";
-    return '<div class="m-row"><span class="cat">'+lbl+'</span><span class="bar"><span class="fill'+u+'" data-w="'+w+'"></span></span><span class="v'+u+'">'+v.toFixed(2)+'×</span></div>';
-  }).join("")+'</div>';
+  return '<div class="sec"><div class="sec-label">Subscription · allotment odds</div>'+tiles+'</div>';
 }
 
 /* Zone 3: facts incl. estimated listing */
@@ -382,10 +371,6 @@ function animate(){
   });
   setTimeout(()=>{
     document.querySelectorAll(".fill").forEach(f=>f.style.width=f.dataset.w+"%");
-    document.querySelectorAll(".ring-fill").forEach(r=>{
-      const p=parseFloat(r.dataset.p||"0");
-      r.style.strokeDashoffset=(213.6*(1-p)).toFixed(1);
-    });
   }, 120);
   if(!reduceMotion){
     document.querySelectorAll("[data-count]").forEach(el=>{
