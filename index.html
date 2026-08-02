@@ -156,6 +156,21 @@
   .tlh-step.now .tlh-k,.tlh-step.now .tlh-v{color:var(--violet)}
 
   .empty{text-align:center;color:var(--muted);padding:70px 20px;border:1px dashed var(--edge-hi);border-radius:20px}
+  /* Work-in-progress panel (Listed tab) */
+  .wip{
+    text-align:center;padding:56px 24px;border:1px dashed var(--edge-hi);border-radius:20px;
+    background:linear-gradient(140deg,rgba(255,255,255,.05),rgba(255,255,255,.02));
+  }
+  .wip-badge{
+    display:inline-block;font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+    color:var(--gold);background:rgba(245,196,82,.12);border:1px solid rgba(245,196,82,.35);
+    border-radius:99px;padding:5px 14px;margin-bottom:16px;
+  }
+  .wip h3{font-weight:800;font-size:22px;letter-spacing:-0.02em;margin-bottom:10px}
+  .wip p{color:var(--muted);font-size:14.5px;max-width:52ch;margin:0 auto}
+  .wip .wip-cta{margin-top:14px;font-size:13.5px}
+  .wip .wip-cta a{color:var(--violet);text-decoration:none;border-bottom:1px solid rgba(139,108,255,.4)}
+  .wip .wip-cta a:hover{color:var(--cyan);border-bottom-color:var(--cyan)}
   footer{border-top:1px solid var(--edge);padding:24px 0 46px;font-size:12.5px;color:var(--faint);position:relative;z-index:2}
   footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
 
@@ -238,9 +253,11 @@ function renderPills(){
   const el=document.getElementById("pills"); el.innerHTML="";
   TABS.forEach(t=>{
     const n=DATA.ipos.filter(i=>i.status===t.key).length;
+    // Listed tab is WIP — show a marker instead of a count. Restore by deleting this line.
+    const badge = (t.key==="listed") ? "soon" : n;
     const b=document.createElement("button");
     b.setAttribute("role","tab"); b.setAttribute("aria-selected",String(t.key===active));
-    b.innerHTML=t.label+'<span class="n">'+n+'</span>';
+    b.innerHTML=t.label+'<span class="n">'+badge+'</span>';
     b.onclick=()=>{active=t.key;renderPills();render();};
     el.appendChild(b);
   });
@@ -343,6 +360,23 @@ function timelineHTML(ipo){
 
 function render(){
   const stack=document.getElementById("stack");
+
+  /* ── Listed section: WORK IN PROGRESS ──────────────────────────────
+     Data for listed IPOs still needs cleaning (duplicates + missing
+     listing prices). To re-enable, delete this whole if-block. ────── */
+  if(active==="listed"){
+    stack.innerHTML='<div class="wip">'+
+      '<div class="wip-badge">Work in progress</div>'+
+      '<h3>Listed IPOs are coming soon</h3>'+
+      '<p>We\'re cleaning up historical listing data — issue prices, listing gains and category-wise subscription for every 2026 listing. Check back shortly.</p>'+
+      '<p class="wip-cta">Meanwhile, see what\'s <a href="#" data-go="open">open now</a> or <a href="#" data-go="upcoming">coming up</a>.</p>'+
+    '</div>';
+    stack.querySelectorAll("[data-go]").forEach(a=>{
+      a.onclick=(e)=>{e.preventDefault();active=a.dataset.go;renderPills();render();};
+    });
+    return;
+  }
+
   const rows=DATA.ipos.filter(i=>i.status===active);
   if(active==="open") rows.sort((a,b)=>(a.closeDate??"9999").localeCompare(b.closeDate??"9999"));
   if(active==="upcoming") rows.sort((a,b)=>(a.openDate??"9999").localeCompare(b.openDate??"9999"));
