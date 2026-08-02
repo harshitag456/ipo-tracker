@@ -1,0 +1,18 @@
+{
+  "_readme": "Manual issue sizes in ₹ CRORE, keyed by IPO id (the 'id' field in data/ipos.json). This file WINS over fetched/override values for issueSizeCr only. Fill new IPOs each morning; null = show '—' on site. Delete entries after an IPO lists (or leave them, harmless). IMPORTANT: ids below are my best guess from NSE company names — after the next workflow run, open data/ipos.json, check the real 'id' of each IPO, and correct any that don't match, else the size won't apply.",
+
+  "juniper-green-energy-limited": 1800,
+  "mv-electrosystems-limited": 290,
+  "manipal-health-enterprises-limited": 9275.22,
+  "ardee-industries-limited": 425.87,
+  "technocraft-ventures-limited": null,
+
+  "propshop-events-exhibitions-limited": null,
+  "advance-technoforge-limited": null,
+  "poojaa-precision-engg-limited": null,
+  "hr-hygiene-products-limited": null,
+  "dhaval-packaging-limited": null,
+  "oneindig-technologies-limited": null,
+  "gv-electricals-limited": null,
+  "fusion-klassroom-edutech-limited": null
+}
