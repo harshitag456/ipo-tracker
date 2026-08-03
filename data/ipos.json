@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T09:01:10.946Z",
+  "lastUpdated": "2026-08-03T06:11:21.281Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-06",
       "gmp": 113,
       "subscription": {
-        "qib": 0.911139984753981,
-        "nii": 15.767181181022861,
-        "bnii": 12.700963725467208,
-        "snii": 21.899624550688415,
-        "retail": 39.756465870987405,
-        "total": 12.025582001313609
+        "qib": 1.648543398280639,
+        "nii": 131.20872682064703,
+        "bnii": 131.10877670176097,
+        "snii": 131.40862733414437,
+        "retail": 99.5847773583136,
+        "total": 54.78975726841766
       }
     },
     {
@@ -50,12 +50,40 @@
       "listingDate": "2026-08-06",
       "gmp": 1.5,
       "subscription": {
-        "qib": 1.1859801185890972,
-        "nii": 0.08620510165832937,
-        "bnii": 0.046951690516515966,
-        "snii": 0.16471194262990088,
-        "retail": 0.21664056929917158,
-        "total": 0.46779384775208677
+        "qib": 3.8442773771096275,
+        "nii": 0.16302038816123776,
+        "bnii": 0.10379332220089099,
+        "snii": 0.28147454827902557,
+        "retail": 0.30021074902312556,
+        "total": 1.2853019336161495
+      }
+    },
+    {
+      "symbol": "ANAWIL",
+      "id": "anawil-wire-and-engineering-limited",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 257,
+        "max": 270
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-08-03",
+      "closeDate": "2026-08-05",
+      "allotmentDate": "2026-08-06",
+      "listingDate": "2026-08-10",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -87,32 +115,25 @@
       }
     },
     {
-      "symbol": "ANAWIL",
-      "id": "anawil-wire-and-engineering-limited",
-      "company": "Anawil Wire and Engineering Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "PROPSHOP",
+      "id": "propshop-events-and-exhibitions-limited",
+      "company": "Propshop Events and Exhibitions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 257,
-        "max": 270
+        "min": 69,
+        "max": 69
       },
-      "lotSize": 400,
-      "issueSizeCr": 4710000,
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-05",
-      "allotmentDate": "2026-08-06",
-      "listingDate": "2026-08-10",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-03",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "CUBEINVIT",
@@ -2849,9 +2870,9 @@
       "subscription": null
     },
     {
-      "symbol": "PROPSHOP",
-      "id": "propshop-events-and-exhibitions-limited",
-      "company": "Propshop Events and Exhibitions Limited",
+      "symbol": "MANIPALHOS",
+      "id": "manipal-health-enterprises-limited",
+      "company": "Manipal Health Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -2861,7 +2882,7 @@
         "max": 0
       },
       "lotSize": 0,
-      "issueSizeCr": 0,
+      "issueSizeCr": 9275.22,
       "openDate": null,
       "closeDate": null,
       "allotmentDate": null,
