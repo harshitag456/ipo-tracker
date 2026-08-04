@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T11:01:44.351Z",
+  "lastUpdated": "2026-08-04T13:14:01.457Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -28,62 +28,6 @@
         "snii": 0,
         "retail": null,
         "total": 0
-      }
-    },
-    {
-      "symbol": "MVELECTRO",
-      "id": "mv-electrosystems-limited",
-      "company": "MV Electrosystems Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 400,
-        "max": 425
-      },
-      "lotSize": 34,
-      "issueSizeCr": 290,
-      "openDate": "2026-07-30",
-      "closeDate": "2026-08-03",
-      "allotmentDate": "2026-08-04",
-      "listingDate": "2026-08-06",
-      "gmp": 113,
-      "subscription": {
-        "qib": 90.4710762420494,
-        "nii": 374.57682864704117,
-        "bnii": 394.98117100851175,
-        "snii": 333.7680876361038,
-        "retail": 205.41501160691257,
-        "total": 188.85341133058355
-      }
-    },
-    {
-      "symbol": "JNPR",
-      "id": "juniper-green-energy-limited",
-      "company": "Juniper Green Energy Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 214,
-        "max": 225
-      },
-      "lotSize": 66,
-      "issueSizeCr": 1800,
-      "openDate": "2026-07-30",
-      "closeDate": "2026-08-03",
-      "allotmentDate": "2026-08-04",
-      "listingDate": "2026-08-06",
-      "gmp": 1.5,
-      "subscription": {
-        "qib": 24.93709440941619,
-        "nii": 1.822561550588266,
-        "bnii": 1.9729215043793822,
-        "snii": 1.5218415714219742,
-        "retail": 0.9257739995406464,
-        "total": 7.97058705366588
       }
     },
     {
