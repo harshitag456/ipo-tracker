@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-08-04T13:14:01.457Z",
+  "lastUpdated": "2026-08-05T05:37:36.470Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "ARDEE",
+      "id": "ardee-industries-limited",
+      "company": "Ardee Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 500,
+        "max": 530
+      },
+      "lotSize": 281,
+      "issueSizeCr": 425.87,
+      "openDate": "2026-08-05",
+      "closeDate": "2026-08-07",
+      "allotmentDate": "2026-08-10",
+      "listingDate": "2026-08-12",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.022978836342294272,
+        "nii": 0.5477152333495764,
+        "bnii": 0.4317339895330055,
+        "snii": 0.779677720982718,
+        "retail": 0.7037464088135937,
+        "total": 0.47859328756056996
+      }
+    },
     {
       "symbol": "ANAWIL",
       "id": "anawil-wire-and-engineering-limited",
@@ -31,32 +59,67 @@
       }
     },
     {
-      "symbol": "ARDEE",
-      "id": "ardee-industries-limited",
-      "company": "Ardee Industries Limited",
+      "symbol": "MANIPALHOS",
+      "id": "manipal-health-enterprises-limited",
+      "company": "Manipal Health Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 500,
-        "max": 530
+        "min": 590,
+        "max": 590
       },
-      "lotSize": 281,
-      "issueSizeCr": 425.87,
-      "openDate": "2026-08-05",
-      "closeDate": "2026-08-07",
-      "allotmentDate": "2026-08-10",
-      "listingDate": "2026-08-12",
+      "lotSize": 0,
+      "issueSizeCr": 9275.22,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-05",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "129DCCL28",
+      "id": "dar-credit-capital-limited",
+      "company": "Dar Credit & Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100000,
+        "max": 100000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "904NACL28",
+      "id": "northern-arc-capital-limited",
+      "company": "Northern Arc Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-05",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "PROPSHOP",
@@ -1208,27 +1271,6 @@
         "listPrice": 268,
         "gainPct": 39.58
       }
-    },
-    {
-      "symbol": "1275DCC28",
-      "id": "dar-credit-capital-limited",
-      "company": "Dar Credit & Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 10000,
-        "max": 10000
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-06-03",
-      "gmp": null,
-      "subscription": null
     },
     {
       "symbol": "QLINE",
@@ -2772,27 +2814,6 @@
       "subscription": null
     },
     {
-      "symbol": "885NACL28",
-      "id": "northern-arc-capital-limited",
-      "company": "Northern Arc Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-01-05",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "E2ERAIL",
       "id": "e-to-e-transportation-infrastructure-limited",
       "company": "E TO E Transportation Infrastructure Limited",
@@ -2853,27 +2874,6 @@
       "allotmentDate": null,
       "listingDate": null,
       "gmp": 113,
-      "subscription": null
-    },
-    {
-      "symbol": "MANIPALHOS",
-      "id": "manipal-health-enterprises-limited",
-      "company": "Manipal Health Enterprises Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 9275.22,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
       "subscription": null
     },
     {
