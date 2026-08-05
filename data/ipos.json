@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T10:57:40.983Z",
+  "lastUpdated": "2026-08-05T12:50:24.468Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 1.1033602860964422,
-        "nii": 4.684379596140603,
-        "bnii": 4.4289710059394265,
-        "snii": 5.195196776542957,
-        "retail": 3.0002726339883092,
-        "total": 2.8297386062592715
+        "nii": 5.318272083743577,
+        "bnii": 5.133859898321441,
+        "snii": 5.687096454587849,
+        "retail": 3.2170335646021258,
+        "total": 3.075456318930188
       }
     },
     {
@@ -682,16 +682,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -703,16 +703,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2184,7 +2184,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2205,7 +2205,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2226,7 +2226,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
