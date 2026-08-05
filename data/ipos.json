@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T05:37:36.470Z",
+  "lastUpdated": "2026-08-05T08:19:01.736Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-12",
       "gmp": null,
       "subscription": {
-        "qib": 0.022978836342294272,
-        "nii": 0.5477152333495764,
-        "bnii": 0.4317339895330055,
-        "snii": 0.779677720982718,
-        "retail": 0.7037464088135937,
-        "total": 0.47859328756056996
+        "qib": 0.5805746619607787,
+        "nii": 2.2948848879889323,
+        "bnii": 2.171017633460848,
+        "snii": 2.542619397045101,
+        "retail": 1.816338427888242,
+        "total": 1.5718728546370717
       }
     },
     {
@@ -54,6 +54,62 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "id": "technocraft-ventures-limited",
+      "company": "Technocraft Ventures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 200,
+        "max": 212
+      },
+      "lotSize": 70,
+      "issueSizeCr": 11881000,
+      "openDate": "2026-08-07",
+      "closeDate": "2026-08-11",
+      "allotmentDate": "2026-08-12",
+      "listingDate": "2026-08-14",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "OPTIMYSTIX",
+      "id": "optimystix-entertainment-india-limited",
+      "company": "Optimystix Entertainment India Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 166,
+        "max": 175
+      },
+      "lotSize": 800,
+      "issueSizeCr": 6200000,
+      "openDate": "2026-08-07",
+      "closeDate": "2026-08-11",
+      "allotmentDate": "2026-08-12",
+      "listingDate": "2026-08-14",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
