@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T12:50:24.468Z",
+  "lastUpdated": "2026-08-06T05:39:54.666Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,40 +22,12 @@
       "listingDate": "2026-08-12",
       "gmp": null,
       "subscription": {
-        "qib": 1.1033602860964422,
-        "nii": 5.318272083743577,
-        "bnii": 5.133859898321441,
-        "snii": 5.687096454587849,
-        "retail": 3.2170335646021258,
-        "total": 3.075456318930188
-      }
-    },
-    {
-      "symbol": "ANAWIL",
-      "id": "anawil-wire-and-engineering-limited",
-      "company": "Anawil Wire and Engineering Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 257,
-        "max": 270
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-03",
-      "closeDate": "2026-08-05",
-      "allotmentDate": "2026-08-06",
-      "listingDate": "2026-08-10",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
+        "qib": 1.1223725375939357,
+        "nii": 11.51446797382632,
+        "bnii": 10.83400675253089,
+        "snii": 12.875390416417186,
+        "retail": 6.482941594504967,
+        "total": 6.059738269402844
       }
     },
     {
@@ -141,6 +113,48 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "JNPR",
+      "id": "juniper-green-energy-limited",
+      "company": "Juniper Green Energy Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 225,
+        "max": 225
+      },
+      "lotSize": 0,
+      "issueSizeCr": 1800,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-06",
+      "gmp": 1.5,
+      "subscription": null
+    },
+    {
+      "symbol": "MVELECTRO",
+      "id": "mv-electrosystems-limited",
+      "company": "MV Electrosystems Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 425,
+        "max": 425
+      },
+      "lotSize": 0,
+      "issueSizeCr": 290,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-06",
+      "gmp": 113,
+      "subscription": null
     },
     {
       "symbol": "MANIPALHOS",
@@ -2184,7 +2198,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2205,7 +2219,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2226,7 +2240,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2919,9 +2933,9 @@
       "subscription": null
     },
     {
-      "symbol": "JNPR",
-      "id": "juniper-green-energy-limited",
-      "company": "Juniper Green Energy Limited",
+      "symbol": "ANAWIL",
+      "id": "anawil-wire-and-engineering-limited",
+      "company": "Anawil Wire and Engineering Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -2931,33 +2945,12 @@
         "max": 0
       },
       "lotSize": 0,
-      "issueSizeCr": 1800,
+      "issueSizeCr": 0,
       "openDate": null,
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": null,
-      "gmp": 1.5,
-      "subscription": null
-    },
-    {
-      "symbol": "MVELECTRO",
-      "id": "mv-electrosystems-limited",
-      "company": "MV Electrosystems Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 290,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": 113,
+      "gmp": null,
       "subscription": null
     },
     {
