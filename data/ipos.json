@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T10:43:12.265Z",
+  "lastUpdated": "2026-08-07T11:39:18.779Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 0.6070820938342131,
-        "nii": 0.08005329901359869,
-        "bnii": 0.05607739094435013,
-        "snii": 0.12800512099433453,
-        "retail": 0.1160339288477654,
-        "total": 0.2491726731490746
+        "qib": 0.6071622616310163,
+        "nii": 0.11058578759303417,
+        "bnii": 0.08387844608933327,
+        "snii": 0.16400047710824642,
+        "retail": 0.12864645468583288,
+        "total": 0.2620802095037526
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 4.467477878898805,
-        "nii": 1.8713800746289595,
-        "bnii": 1.3482114300143087,
-        "snii": 2.917717363858261,
-        "retail": 0.9003787559969699,
-        "total": 2.1277594956950603
+        "qib": 4.469539569737744,
+        "nii": 3.799438880004489,
+        "bnii": 3.8995791600033667,
+        "snii": 3.5991583200067336,
+        "retail": 1.002137867182897,
+        "total": 2.5923563126488633
       }
     },
     {
@@ -79,11 +79,11 @@
       "gmp": null,
       "subscription": {
         "qib": 197.77166351176982,
-        "nii": 254.63136640149074,
+        "nii": 255.23387100487562,
         "bnii": 277.36094625936175,
-        "snii": 209.17220668574868,
-        "retail": 43.99854901421872,
-        "total": 132.67108650370346
+        "snii": 210.97972049590328,
+        "retail": 45.680606952054426,
+        "total": 133.6471947904469
       }
     },
     {
@@ -188,6 +188,34 @@
       "closeDate": "2026-08-12",
       "allotmentDate": "2026-08-13",
       "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "FASCINATE",
+      "id": "fascinate-textiles-limited",
+      "company": "Fascinate Textiles Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 148,
+        "max": 156
+      },
+      "lotSize": 800,
+      "issueSizeCr": 4293600,
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-13",
+      "allotmentDate": "2026-08-14",
+      "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
         "qib": null,
