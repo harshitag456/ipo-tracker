@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Claim your coins — Issue Board</title>
+<meta name="description" content="Applied for an IPO and didn't get an allotment? Claim 100 cash coins as consolation." />
+<meta name="theme-color" content="#0B0E1E" />
+<meta name="robots" content="noindex" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Unbounded:wght@600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B0E1E;--text:#EEF0FB;--muted:#8C93B5;--faint:#5B6285;
+    --glass:rgba(255,255,255,.05);--edge:rgba(255,255,255,.1);--edge-hi:rgba(255,255,255,.2);
+    --violet:#8B6CFF;--cyan:#3FD6E4;--green:#2EE6A8;--red:#FF5C7A;--gold:#F5C452;
+    --mono:'JetBrains Mono',monospace;
+  }
+  *{box-sizing:border-box;margin:0}
+  body{font-family:'Outfit',system-ui,sans-serif;color:var(--text);line-height:1.55;background:var(--bg);min-height:100vh;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .wrap{max-width:760px;margin:0 auto;padding:0 20px;position:relative;z-index:2}
+
+  .orbs{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .orb{position:absolute;border-radius:50%;filter:blur(90px);opacity:.3}
+  .orb.o1{width:460px;height:460px;background:#7A5A12;top:-160px;left:-110px;animation:d1 26s ease-in-out infinite alternate}
+  .orb.o2{width:360px;height:360px;background:#4A2FBF;bottom:-90px;right:-70px;animation:d2 32s ease-in-out infinite alternate}
+  @keyframes d1{to{transform:translate(80px,50px) scale(1.12)}}
+  @keyframes d2{to{transform:translate(-60px,-40px) scale(1.08)}}
+
+  .topbar{position:sticky;top:0;z-index:20;background:rgba(11,14,30,.68);backdrop-filter:blur(16px);border-bottom:1px solid var(--edge)}
+  .topbar .wrap{display:flex;align-items:center;justify-content:space-between;height:58px}
+  .logo{font-weight:800;font-size:16px;text-decoration:none}
+  .logo .tick{color:var(--violet)}
+  .back{font-family:var(--mono);font-size:12px;color:var(--muted);text-decoration:none;border:1px solid var(--edge);border-radius:99px;padding:6px 14px}
+  .back:hover{border-color:var(--edge-hi);color:var(--text)}
+
+  .hero{padding:44px 0 6px;text-align:center}
+  .coin{
+    width:76px;height:76px;border-radius:50%;margin:0 auto 18px;
+    display:grid;place-items:center;
+    font-family:'Unbounded',sans-serif;font-weight:700;font-size:26px;color:#3A2705;
+    background:linear-gradient(140deg,#FFD976,var(--gold) 55%,#C98F0C);
+    box-shadow:0 0 34px rgba(245,196,82,.4),inset 0 -4px 10px rgba(0,0,0,.18);
+    animation:bob 3.6s ease-in-out infinite;
+  }
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  h1{font-weight:800;font-size:clamp(26px,4.6vw,38px);line-height:1.12;letter-spacing:-0.025em}
+  h1 em{font-style:normal;background:linear-gradient(90deg,var(--gold),#FFE7A8);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .lede{color:var(--muted);font-size:15px;margin:12px auto 0;max-width:50ch}
+
+  .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:26px 0 4px}
+  .step{background:var(--glass);border:1px solid var(--edge);border-radius:14px;padding:13px 14px;text-align:center}
+  .step .sn{font-family:var(--mono);font-size:10px;color:var(--violet);letter-spacing:.1em}
+  .step .st{font-size:13px;color:var(--muted);margin-top:5px}
+
+  .panel{background:linear-gradient(140deg,rgba(255,255,255,.07),rgba(255,255,255,.03));border:1px solid var(--edge);border-radius:20px;padding:24px;margin-top:18px}
+  .p-label{font-family:var(--mono);font-size:9.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.1em;margin-bottom:14px}
+
+  .field{margin-bottom:20px}
+  .field label{display:block;font-weight:600;font-size:14px;margin-bottom:7px}
+  .field .hint{font-size:12.5px;color:var(--faint);margin-top:6px}
+  select,input[type=text]{
+    width:100%;font:inherit;font-size:15px;color:var(--text);
+    background:rgba(0,0,0,.25);border:1px solid var(--edge);border-radius:12px;
+    padding:12px 14px;outline:none;transition:border-color .18s ease;
+  }
+  select:focus,input[type=text]:focus{border-color:var(--violet)}
+  select option{background:#141833;color:var(--text)}
+  input::placeholder{color:var(--faint)}
+  .seg{display:flex;gap:7px;margin-bottom:10px}
+  .seg button{
+    flex:1;appearance:none;cursor:pointer;font:inherit;font-weight:600;font-size:13.5px;
+    color:var(--muted);background:var(--glass);border:1px solid var(--edge);border-radius:10px;padding:9px 10px;
+  }
+  .seg button[aria-pressed="true"]{background:linear-gradient(90deg,var(--violet),#6A4DE0);border-color:transparent;color:#fff}
+  .seg button:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+
+  .check{display:flex;gap:10px;align-items:flex-start;font-size:13px;color:var(--muted);margin-bottom:18px}
+  .check input{margin-top:3px;accent-color:var(--violet);width:16px;height:16px;flex-shrink:0}
+
+  .submit{
+    width:100%;appearance:none;cursor:pointer;font:inherit;font-weight:700;font-size:15.5px;
+    color:#2A1D04;background:linear-gradient(90deg,#FFD976,var(--gold));
+    border:none;border-radius:12px;padding:14px;
+    box-shadow:0 8px 26px rgba(245,196,82,.28);transition:transform .16s ease,box-shadow .16s ease;
+  }
+  .submit:hover{transform:translateY(-2px);box-shadow:0 12px 32px rgba(245,196,82,.36)}
+  .submit:disabled{opacity:.45;cursor:not-allowed;transform:none;box-shadow:none}
+  .submit:focus-visible{outline:2px solid var(--cyan);outline-offset:3px}
+
+  .msg{margin-top:16px;border-radius:12px;padding:14px 16px;font-size:14px;display:none}
+  .msg.show{display:block}
+  .msg.err{background:rgba(255,92,122,.1);border:1px solid rgba(255,92,122,.35);color:#FFC2CC}
+  .msg.ok{background:rgba(46,230,168,.1);border:1px solid rgba(46,230,168,.35);color:#B8FFE3}
+  .msg.info{background:rgba(139,108,255,.1);border:1px solid rgba(139,108,255,.35);color:#D6CBFF}
+
+  .fine{font-size:12px;color:var(--faint);margin-top:20px;line-height:1.6}
+  footer{border-top:1px solid var(--edge);padding:22px 0 46px;margin-top:30px;font-size:12.5px;color:var(--faint);position:relative;z-index:2}
+  @media (max-width:560px){ .steps{grid-template-columns:1fr} }
+  @media (prefers-reduced-motion:reduce){ .orb,.coin{animation:none!important} .submit:hover{transform:none} }
+</style>
+</head>
+<body>
+<div class="orbs" aria-hidden="true"><div class="orb o1"></div><div class="orb o2"></div></div>
+
+<div class="topbar"><div class="wrap">
+  <a class="logo" href="./index.html">Issue<span class="tick">▲</span>Board</a>
+  <a class="back" href="./index.html">← All IPOs</a>
+</div></div>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="coin" aria-hidden="true">₹</div>
+    <h1>Didn't get the allotment? <em>Get 100 coins.</em></h1>
+    <p class="lede">Every unsuccessful IPO application earns you 100 cash coins — redeemable in our rewards shop, launching soon.</p>
+  </section>
+
+  <div class="steps">
+    <div class="step"><div class="sn">STEP 1</div><div class="st">Pick the IPO you applied to</div></div>
+    <div class="step"><div class="sn">STEP 2</div><div class="st">Enter your application number</div></div>
+    <div class="step"><div class="sn">STEP 3</div><div class="st">We verify &amp; credit your coins</div></div>
+  </div>
+
+  <div class="panel">
+    <div class="p-label">Claim form</div>
+
+    <div class="field">
+      <label for="ipo">IPO you applied to</label>
+      <select id="ipo"><option value="">Loading IPOs…</option></select>
+      <div class="hint" id="ipoHint">Pick any IPO you applied to. Coins are credited once that issue's allotment is finalised.</div>
+    </div>
+
+    <div class="field">
+      <label>How should we identify your application?</label>
+      <div class="seg" role="group" aria-label="Identifier type">
+        <button type="button" id="segApp" aria-pressed="true">Application number</button>
+        <button type="button" id="segPan" aria-pressed="false">PAN</button>
+      </div>
+      <input type="text" id="ident" placeholder="e.g. 1234567890" autocomplete="off" inputmode="numeric" maxlength="20" />
+      <div class="hint" id="identHint">Find this on your broker's IPO order confirmation or UPI mandate SMS. We recommend the application number — it can't identify you outside the registrar.</div>
+    </div>
+
+    <label class="check">
+      <input type="checkbox" id="consent" />
+      <span>I confirm this application is mine, and I agree that this detail may be used to verify my allotment status with the registrar.</span>
+    </label>
+
+    <button class="submit" id="submitBtn" disabled>Claim 100 coins</button>
+    <div class="msg" id="msg" role="status" aria-live="polite"></div>
+
+    <p class="fine">
+      One claim per application. Coins have no cash value until the rewards shop launches, and are void if the application is found to be allotted or invalid.
+      We don't store your PAN in your browser. See how claims are verified in our FAQ.
+    </p>
+  </div>
+</div>
+
+<footer><div class="wrap">Coins are a promotional reward, not investment advice or an inducement to apply for any issue.</div></footer>
+
+<script>
+/* ───────────────────────────────────────────────────────────────
+   CLAIM PAGE
+   Populates the IPO dropdown from data/ipos.json, validates input,
+   then hands off to submitClaim() — the ONLY place that needs a
+   backend. Everything above works today.
+   ─────────────────────────────────────────────────────────────── */
+
+let MODE = "application"; // or "pan"
+const $ = id => document.getElementById(id);
+
+const PAN_RE  = /^[A-Z]{5}[0-9]{4}[A-Z]$/;
+const APP_RE  = /^[0-9]{6,20}$/;
+
+async function loadIpos(){
+  const sel = $("ipo");
+  try{
+    const data = await (await fetch("./data/ipos.json",{cache:"no-store"})).json();
+    const all = data.ipos || [];
+    const groups = [
+      ["Open now", all.filter(i => i.status === "open")],
+      ["Recently closed / listed", all.filter(i => i.status === "listed")],
+      ["Upcoming", all.filter(i => i.status === "upcoming")],
+    ];
+    sel.innerHTML = '<option value="">Select an IPO…</option>';
+    let any = false;
+    groups.forEach(([label, list]) => {
+      if(!list.length) return;
+      any = true;
+      const g = document.createElement("optgroup");
+      g.label = label;
+      list.forEach(i => {
+        const o = document.createElement("option");
+        o.value = i.id;
+        o.textContent = i.company + (i.board === "SME" ? "  · SME" : "");
+        g.appendChild(o);
+      });
+      sel.appendChild(g);
+    });
+    if(!any) sel.innerHTML = '<option value="">No IPOs available yet</option>';
+  }catch(e){
+    sel.innerHTML = '<option value="">Could not load IPO list</option>';
+  }
+  validate();
+}
+
+function setMode(m){
+  MODE = m;
+  $("segApp").setAttribute("aria-pressed", String(m==="application"));
+  $("segPan").setAttribute("aria-pressed", String(m==="pan"));
+  const inp = $("ident");
+  inp.value = "";
+  if(m==="pan"){
+    inp.placeholder = "ABCDE1234F";
+    inp.setAttribute("inputmode","text");
+    inp.maxLength = 10;
+    $("identHint").textContent = "Ten characters, as printed on your PAN card. We use it only to check allotment status with the registrar.";
+  }else{
+    inp.placeholder = "e.g. 1234567890";
+    inp.setAttribute("inputmode","numeric");
+    inp.maxLength = 20;
+    $("identHint").textContent = "Find this on your broker's IPO order confirmation or UPI mandate SMS. We recommend the application number — it can't identify you outside the registrar.";
+  }
+  validate();
+}
+
+function identValid(){
+  const v = $("ident").value.trim().toUpperCase();
+  return MODE==="pan" ? PAN_RE.test(v) : APP_RE.test(v);
+}
+
+function validate(){
+  const ok = $("ipo").value && identValid() && $("consent").checked;
+  $("submitBtn").disabled = !ok;
+  return ok;
+}
+
+function showMsg(kind, html){
+  const m = $("msg");
+  m.className = "msg show " + kind;
+  m.innerHTML = html;
+}
+
+/* ───────────────────────────────────────────────────────────────
+   BACKEND HOOK — replace the body of this function once you have
+   an endpoint. It should:
+     1. POST { ipoId, mode, identifier } over HTTPS
+     2. Server-side: look up allotment with the registrar
+        (KFintech / MUFG Intime), NEVER from the browser
+     3. Hash PAN before storing; rate-limit; dedupe by (ipoId, identifier)
+     4. Return { status: "credited" | "allotted" | "notfound" | "duplicate" }
+   Example:
+     const res = await fetch("https://api.yourdomain.com/claims", {
+       method:"POST", headers:{"Content-Type":"application/json"},
+       body: JSON.stringify(payload)
+     });
+     return await res.json();
+   ─────────────────────────────────────────────────────────────── */
+async function submitClaim(payload){
+  console.log("Claim payload (not sent — no backend yet):", payload);
+  await new Promise(r=>setTimeout(r,700));
+  return { status:"pending-backend" };
+}
+
+$("segApp").onclick = ()=>setMode("application");
+$("segPan").onclick = ()=>setMode("pan");
+$("ipo").onchange = validate;
+$("consent").onchange = validate;
+$("ident").oninput = ()=>{
+  if(MODE==="pan") $("ident").value = $("ident").value.toUpperCase();
+  validate();
+};
+
+$("submitBtn").onclick = async ()=>{
+  if(!validate()) return;
+  const btn = $("submitBtn");
+  btn.disabled = true; btn.textContent = "Checking…";
+  const payload = {
+    ipoId: $("ipo").value,
+    mode: MODE,
+    identifier: $("ident").value.trim().toUpperCase(),
+  };
+  try{
+    const res = await submitClaim(payload);
+    if(res.status === "credited"){
+      showMsg("ok", "<b>100 coins credited.</b> They'll be waiting in your wallet when the rewards shop opens.");
+    }else if(res.status === "allotted"){
+      showMsg("info", "Good news — this application <b>was allotted</b>, so no consolation coins. Congratulations on the shares!");
+    }else if(res.status === "duplicate"){
+      showMsg("info", "You've already claimed for this application.");
+    }else if(res.status === "notfound"){
+      showMsg("err", "We couldn't find that application with the registrar. Double-check the number and try again.");
+    }else{
+      showMsg("info", "Claims aren't live yet — verification connects to the registrar in the next release. Your details were <b>not</b> submitted or stored.");
+    }
+  }catch(e){
+    showMsg("err", "Something went wrong. Please try again in a moment.");
+  }
+  btn.disabled = false; btn.textContent = "Claim 100 coins";
+  validate();
+};
+
+loadIpos();
+</script>
+</body>
+</html>
