@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T04:23:04.976Z",
+  "lastUpdated": "2026-08-10T05:53:06.401Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-17",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 0.002976346193005963,
+        "nii": 0.21843897512997043,
+        "bnii": 0.17058135540656494,
+        "snii": 0.31415424119907526,
+        "retail": 0.1663825791816548,
+        "total": 0.13305324177244898
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-17",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 1.0838033757034509,
+        "nii": 0.1278267750851559,
+        "bnii": 0.08870145040229697,
+        "snii": 0.20607755906730937,
+        "retail": 0.2590997061935289,
+        "total": 0.1595383187336835
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 0.6071622616310163,
-        "nii": 0.11058578759303417,
-        "bnii": 0.08387844608933327,
-        "snii": 0.16400047710824642,
-        "retail": 0.12864645468583288,
-        "total": 0.2620802095037526
+        "qib": 0.6078580035818436,
+        "nii": 0.22372167550753158,
+        "bnii": 0.17089488975218883,
+        "snii": 0.3293752598905843,
+        "retail": 0.23917007259539472,
+        "total": 0.3423186544667754
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 4.469539569737744,
-        "nii": 3.799438880004489,
-        "bnii": 3.8995791600033667,
-        "snii": 3.5991583200067336,
-        "retail": 1.002137867182897,
-        "total": 2.5923563126488633
+        "qib": 4.479877476658714,
+        "nii": 4.63811127009511,
+        "bnii": 4.577779648177763,
+        "snii": 4.758774513929804,
+        "retail": 2.0831074825351403,
+        "total": 3.3154683252396544
       }
     },
     {
@@ -160,6 +160,34 @@
       "closeDate": "2026-08-13",
       "allotmentDate": "2026-08-14",
       "listingDate": "2026-08-18",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "PRAMODINI",
+      "id": "pramodini-medicare-limited",
+      "company": "Pramodini Medicare Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 110,
+        "max": 118
+      },
+      "lotSize": 1200,
+      "issueSizeCr": 5851200,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -2303,7 +2331,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2324,7 +2352,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2345,7 +2373,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
