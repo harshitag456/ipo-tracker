@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-08-07T12:41:28.289Z",
+  "lastUpdated": "2026-08-10T04:23:04.976Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "DHOOTTRANS",
+      "id": "dhoot-transmission-limited",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 829,
+        "max": 871
+      },
+      "lotSize": 17,
+      "issueSizeCr": 1400,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "MOLBIO",
+      "id": "molbio-diagnostics-limited",
+      "company": "Molbio Diagnostics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 768,
+        "max": 807
+      },
+      "lotSize": 18,
+      "issueSizeCr": 200,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "LEAP",
       "id": "leap-india-limited",
@@ -56,34 +112,6 @@
         "snii": 3.5991583200067336,
         "retail": 1.002137867182897,
         "total": 2.5923563126488633
-      }
-    },
-    {
-      "symbol": "ARDEE",
-      "id": "ardee-industries-limited",
-      "company": "Ardee Industries Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 500,
-        "max": 530
-      },
-      "lotSize": 281,
-      "issueSizeCr": 425.87,
-      "openDate": "2026-08-05",
-      "closeDate": "2026-08-07",
-      "allotmentDate": "2026-08-10",
-      "listingDate": "2026-08-12",
-      "gmp": null,
-      "subscription": {
-        "qib": 197.77166351176982,
-        "nii": 255.24107661013676,
-        "bnii": 277.36094625936175,
-        "snii": 211.00133731168674,
-        "retail": 45.70521627789246,
-        "total": 133.66112875042904
       }
     },
     {
@@ -143,62 +171,6 @@
       }
     },
     {
-      "symbol": "DHOOTTRANS",
-      "id": "dhoot-transmission-limited",
-      "company": "Dhoot Transmission Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 829,
-        "max": 871
-      },
-      "lotSize": 17,
-      "issueSizeCr": 1400,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "MOLBIO",
-      "id": "molbio-diagnostics-limited",
-      "company": "Molbio Diagnostics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 768,
-        "max": 807
-      },
-      "lotSize": 18,
-      "issueSizeCr": 200,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
       "symbol": "FASCINATE",
       "id": "fascinate-textiles-limited",
       "company": "Fascinate Textiles Limited",
@@ -225,6 +197,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "ANAWIL",
+      "id": "anawil-wire-and-engineering-limited",
+      "company": "Anawil Wire and Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 270,
+        "max": 270
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-10",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "JNPR",
@@ -2310,7 +2303,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2331,7 +2324,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2352,7 +2345,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3045,9 +3038,9 @@
       "subscription": null
     },
     {
-      "symbol": "ANAWIL",
-      "id": "anawil-wire-and-engineering-limited",
-      "company": "Anawil Wire and Engineering Limited",
+      "symbol": "ARDEE",
+      "id": "ardee-industries-limited",
+      "company": "Ardee Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -3057,7 +3050,7 @@
         "max": 0
       },
       "lotSize": 0,
-      "issueSizeCr": 0,
+      "issueSizeCr": 425.87,
       "openDate": null,
       "closeDate": null,
       "allotmentDate": null,
