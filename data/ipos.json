@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-08-10T13:52:06.277Z",
+  "lastUpdated": "2026-08-11T04:13:11.336Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "MILKYMIST",
+      "id": "milky-mist-dairy-food-limited",
+      "company": "Milky Mist Dairy Food Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 133,
+        "max": 140
+      },
+      "lotSize": 107,
+      "issueSizeCr": 1428,
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-13",
+      "allotmentDate": "2026-08-14",
+      "listingDate": "2026-08-18",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "DHOOTTRANS",
       "id": "dhoot-transmission-limited",
@@ -59,6 +87,34 @@
       }
     },
     {
+      "symbol": "TECHNOCRAF",
+      "id": "technocraft-ventures-limited",
+      "company": "Technocraft Ventures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 200,
+        "max": 212
+      },
+      "lotSize": 70,
+      "issueSizeCr": 8317190,
+      "openDate": "2026-08-07",
+      "closeDate": "2026-08-11",
+      "allotmentDate": "2026-08-12",
+      "listingDate": "2026-08-14",
+      "gmp": null,
+      "subscription": {
+        "qib": 4.4960175706549865,
+        "nii": 6.473551609011587,
+        "bnii": 6.205496170356031,
+        "snii": 7.0096624863227,
+        "retail": 4.117767864657857,
+        "total": 4.730636188424215
+      }
+    },
+    {
       "symbol": "LEAP",
       "id": "leap-india-limited",
       "company": "Leap India Limited",
@@ -87,31 +143,31 @@
       }
     },
     {
-      "symbol": "TECHNOCRAF",
-      "id": "technocraft-ventures-limited",
-      "company": "Technocraft Ventures Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "FASCINATE",
+      "id": "fascinate-textiles-limited",
+      "company": "Fascinate Textiles Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 200,
-        "max": 212
+        "min": 148,
+        "max": 156
       },
-      "lotSize": 70,
-      "issueSizeCr": 8317190,
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-11",
-      "allotmentDate": "2026-08-12",
-      "listingDate": "2026-08-14",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-13",
+      "allotmentDate": "2026-08-14",
+      "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": 4.4960175706549865,
-        "nii": 6.473551609011587,
-        "bnii": 6.205496170356031,
-        "snii": 7.0096624863227,
-        "retail": 4.117767864657857,
-        "total": 4.730636188424215
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -171,34 +227,6 @@
       }
     },
     {
-      "symbol": "MILKYMIST",
-      "id": "milky-mist-dairy-food-limited",
-      "company": "Milky Mist Dairy Food Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 133,
-        "max": 140
-      },
-      "lotSize": 107,
-      "issueSizeCr": 1428,
-      "openDate": "2026-08-11",
-      "closeDate": "2026-08-13",
-      "allotmentDate": "2026-08-14",
-      "listingDate": "2026-08-18",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
       "symbol": "PRAMODINI",
       "id": "pramodini-medicare-limited",
       "company": "Pramodini Medicare Limited",
@@ -216,34 +244,6 @@
       "closeDate": "2026-08-14",
       "allotmentDate": "2026-08-17",
       "listingDate": "2026-08-19",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "FASCINATE",
-      "id": "fascinate-textiles-limited",
-      "company": "Fascinate Textiles Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 148,
-        "max": 156
-      },
-      "lotSize": 800,
-      "issueSizeCr": 4293600,
-      "openDate": "2026-08-11",
-      "closeDate": "2026-08-13",
-      "allotmentDate": "2026-08-14",
-      "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
         "qib": null,
