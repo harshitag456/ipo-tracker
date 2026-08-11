@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T12:05:53.535Z",
+  "lastUpdated": "2026-08-11T13:51:18.313Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -110,8 +110,8 @@
         "nii": 65.05854164913167,
         "bnii": 63.96825183065398,
         "snii": 67.23912128608703,
-        "retail": 25.346098813231208,
-        "total": 38.68867249635995
+        "retail": 25.346300816429594,
+        "total": 38.68877349200872
       }
     },
     {
@@ -138,8 +138,8 @@
         "nii": 12.63775510597768,
         "bnii": 13.765656665832498,
         "snii": 10.381951711430897,
-        "retail": 1.7112640372234913,
-        "total": 8.376765477971091
+        "retail": 1.7112983948629517,
+        "total": 8.376782644422228
       }
     },
     {
@@ -2415,7 +2415,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2436,7 +2436,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2457,7 +2457,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
