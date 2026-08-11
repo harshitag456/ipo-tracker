@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T04:13:11.336Z",
+  "lastUpdated": "2026-08-11T05:33:35.382Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,40 +22,12 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "DHOOTTRANS",
-      "id": "dhoot-transmission-limited",
-      "company": "Dhoot Transmission Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 829,
-        "max": 871
-      },
-      "lotSize": 17,
-      "issueSizeCr": 1400,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.06125162777990749,
-        "nii": 1.085055007855616,
-        "bnii": 0.8406413364095675,
-        "snii": 1.5738824867104424,
-        "retail": 0.7369208964232314,
-        "total": 0.6271604961027374
+        "qib": 6.422759584532349,
+        "nii": 0.17146321325145358,
+        "bnii": 0.12624392731940084,
+        "snii": 0.26190178511555906,
+        "retail": 0.2345251000783055,
+        "total": 0.15460785441799949
       }
     },
     {
@@ -79,11 +51,39 @@
       "gmp": null,
       "subscription": {
         "qib": 1.0036251502594462,
-        "nii": 0.7320518848990171,
-        "bnii": 0.6979684734047037,
-        "snii": 0.8002188251566354,
-        "retail": 0.7652666929630216,
-        "total": 0.8294995335556201
+        "nii": 1.4279357287855676,
+        "bnii": 1.271764205977426,
+        "snii": 1.7402793117329507,
+        "retail": 1.3157236228512867,
+        "total": 1.2544180452137879
+      }
+    },
+    {
+      "symbol": "DHOOTTRANS",
+      "id": "dhoot-transmission-limited",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 829,
+        "max": 871
+      },
+      "lotSize": 17,
+      "issueSizeCr": 1400,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.06612022055919539,
+        "nii": 2.542045115508987,
+        "bnii": 2.199580285956268,
+        "snii": 3.226974965121169,
+        "retail": 1.263379813272312,
+        "total": 1.2106383850884042
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 4.4960175706549865,
-        "nii": 6.473551609011587,
-        "bnii": 6.205496170356031,
-        "snii": 7.0096624863227,
-        "retail": 4.117767864657857,
-        "total": 4.730636188424215
+        "qib": 4.504853388536158,
+        "nii": 12.360480318716158,
+        "bnii": 11.518390707852875,
+        "snii": 14.044659540442723,
+        "retail": 7.393014056055888,
+        "total": 7.632098100440173
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 0.610672465876754,
-        "nii": 0.5021178073084709,
-        "bnii": 0.41270394364762614,
-        "snii": 0.6809455564177456,
-        "retail": 0.40996517050866244,
-        "total": 0.48882777531793914
+        "qib": 0.6123388107960193,
+        "nii": 1.0571616488336577,
+        "bnii": 0.9447491417291541,
+        "snii": 1.2819866904343573,
+        "retail": 0.5874289226333665,
+        "total": 0.6975726385900691
       }
     },
     {
@@ -162,10 +162,10 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
         "retail": null,
         "total": 0
       }
@@ -194,6 +194,34 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SHIPROCKET",
+      "id": "shiprocket-limited",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 92,
+        "max": 97
+      },
+      "lotSize": 154,
+      "issueSizeCr": 885.5,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
