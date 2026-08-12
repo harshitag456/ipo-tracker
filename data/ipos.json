@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-12T10:33:09.918Z",
+  "lastUpdated": "2026-08-12T11:40:01.060Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "SHIPROCKET",
-      "id": "shiprocket-limited",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 92,
-        "max": 97
-      },
-      "lotSize": 154,
-      "issueSizeCr": 885.5,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.002447328484141139,
-        "nii": 0.9150263361470313,
-        "bnii": 0.5187758596962997,
-        "snii": 1.7075272890484947,
-        "retail": 2.9088468667642466,
-        "total": 0.7931088801594053
-      }
-    },
     {
       "symbol": "BLEL",
       "id": "behari-lal-engineering-limited",
@@ -50,12 +22,40 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.725687073494035,
-        "nii": 1.610304316634641,
-        "bnii": 0.9522923731414636,
-        "snii": 2.9263282036209954,
-        "retail": 2.3081782399016983,
-        "total": 1.7215040695319117
+        "qib": 0.7279846826059208,
+        "nii": 2.106618401610654,
+        "bnii": 1.255971591574945,
+        "snii": 3.807912021682072,
+        "retail": 2.6925222449103243,
+        "total": 2.0252291687492217
+      }
+    },
+    {
+      "symbol": "SHIPROCKET",
+      "id": "shiprocket-limited",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 92,
+        "max": 97
+      },
+      "lotSize": 154,
+      "issueSizeCr": 885.5,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.023240556419769926,
+        "nii": 1.2251176405063926,
+        "bnii": 0.7494791003994976,
+        "snii": 2.1763947207201824,
+        "retail": 3.3315985201295124,
+        "total": 0.9682463991762467
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.5268497933483535,
-        "nii": 3.031622043779839,
-        "bnii": 2.2277708633783853,
-        "snii": 4.639324404582746,
-        "retail": 2.2518142672679926,
-        "total": 1.9311389985340028
+        "qib": 0.6528826871385482,
+        "nii": 3.5622582068261215,
+        "bnii": 2.658004001833702,
+        "snii": 5.37076661681096,
+        "retail": 2.4361579534821685,
+        "total": 2.173429872162048
       }
     },
     {
@@ -107,11 +107,11 @@
       "gmp": null,
       "subscription": {
         "qib": 186.38929959206845,
-        "nii": 49.644703129838405,
-        "bnii": 50.81213582963321,
-        "snii": 47.30983371352484,
-        "retail": 12.155452745818696,
-        "total": 69.82585880371327
+        "nii": 49.79734382347207,
+        "bnii": 50.81534078690905,
+        "snii": 47.761346394029786,
+        "retail": 12.947031522448363,
+        "total": 70.25477950743327
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-08-17",
       "gmp": null,
       "subscription": {
-        "qib": 212.91500688069905,
-        "nii": 51.77993204841055,
-        "bnii": 58.06321994935061,
-        "snii": 39.21335275125553,
-        "retail": 7.740476724998043,
-        "total": 73.98256624973759
+        "qib": 212.91517442336553,
+        "nii": 51.92939643316274,
+        "bnii": 58.07381626871712,
+        "snii": 39.64055334402877,
+        "retail": 8.11829938495172,
+        "total": 74.20633070612092
       }
     },
     {
@@ -194,6 +194,34 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SHANKESH",
+      "id": "shankesh-jewellers-limited",
+      "company": "Shankesh Jewellers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 880,
+        "max": 930
+      },
+      "lotSize": 160,
+      "issueSizeCr": 39482000,
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-20",
+      "allotmentDate": "2026-08-21",
+      "listingDate": "2026-08-25",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
@@ -2401,7 +2429,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2422,7 +2450,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2443,7 +2471,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
