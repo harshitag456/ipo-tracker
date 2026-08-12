@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T09:10:13.786Z",
+  "lastUpdated": "2026-08-12T10:33:09.918Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.0019820339328352927,
-        "nii": 0.7447686353708949,
-        "bnii": 0.4166052514800493,
-        "snii": 1.401095403152586,
-        "retail": 2.4744063913166903,
-        "total": 0.6655561653745927
+        "qib": 0.002447328484141139,
+        "nii": 0.9150263361470313,
+        "bnii": 0.5187758596962997,
+        "snii": 1.7075272890484947,
+        "retail": 2.9088468667642466,
+        "total": 0.7931088801594053
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.34668368599342136,
-        "nii": 1.2979356519657903,
-        "bnii": 0.7827756251546262,
-        "snii": 2.3282557055881186,
-        "retail": 1.9215542046627416,
-        "total": 1.353129444611049
+        "qib": 0.725687073494035,
+        "nii": 1.610304316634641,
+        "bnii": 0.9522923731414636,
+        "snii": 2.9263282036209954,
+        "retail": 2.3081782399016983,
+        "total": 1.7215040695319117
       }
     },
     {
@@ -78,40 +78,12 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.5242485757166179,
-        "nii": 2.777880221793581,
-        "bnii": 2.0420154808228745,
-        "snii": 4.249609703734993,
-        "retail": 2.0742603554717514,
-        "total": 1.7868546420140754
-      }
-    },
-    {
-      "symbol": "DHOOTTRANS",
-      "id": "dhoot-transmission-limited",
-      "company": "Dhoot Transmission Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 829,
-        "max": 871
-      },
-      "lotSize": 17,
-      "issueSizeCr": 1400,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 42.766719301538394,
-        "nii": 45.68663017339096,
-        "bnii": 51.315681423411924,
-        "snii": 34.42852454201369,
-        "retail": 6.823629790127042,
-        "total": 25.159154480963434
+        "qib": 0.5268497933483535,
+        "nii": 3.031622043779839,
+        "bnii": 2.2277708633783853,
+        "snii": 4.639324404582746,
+        "retail": 2.2518142672679926,
+        "total": 1.9311389985340028
       }
     },
     {
@@ -134,12 +106,40 @@
       "listingDate": "2026-08-17",
       "gmp": null,
       "subscription": {
-        "qib": 49.333018800978,
-        "nii": 41.062730953172846,
-        "bnii": 41.915422158073376,
-        "snii": 39.357345609562245,
-        "retail": 10.111139209708515,
-        "total": 27.905045872852813
+        "qib": 186.38929959206845,
+        "nii": 49.644703129838405,
+        "bnii": 50.81213582963321,
+        "snii": 47.30983371352484,
+        "retail": 12.155452745818696,
+        "total": 69.82585880371327
+      }
+    },
+    {
+      "symbol": "DHOOTTRANS",
+      "id": "dhoot-transmission-limited",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 829,
+        "max": 871
+      },
+      "lotSize": 17,
+      "issueSizeCr": 1400,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 212.91500688069905,
+        "nii": 51.77993204841055,
+        "bnii": 58.06321994935061,
+        "snii": 39.21335275125553,
+        "retail": 7.740476724998043,
+        "total": 73.98256624973759
       }
     },
     {
@@ -199,59 +199,31 @@
       }
     },
     {
-      "symbol": "TECHNOCRAF",
-      "id": "technocraft-ventures-limited",
-      "company": "Technocraft Ventures Limited",
+      "symbol": "LALITHAA",
+      "id": "lalithaa-jewellery-mart-limited",
+      "company": "Lalithaa Jewellery Mart Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 200,
-        "max": 212
+        "min": 190,
+        "max": 201
       },
-      "lotSize": 70,
-      "issueSizeCr": 8317190,
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-11",
-      "allotmentDate": "2026-08-12",
-      "listingDate": "2026-08-14",
+      "lotSize": 74,
+      "issueSizeCr": 1200,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
       "gmp": null,
       "subscription": {
-        "qib": 42.26003812024286,
-        "nii": 65.05854164913167,
-        "bnii": 63.96825183065398,
-        "snii": 67.23912128608703,
-        "retail": 25.346300816429594,
-        "total": 38.68877349200872
-      }
-    },
-    {
-      "symbol": "LEAP",
-      "id": "leap-india-limited",
-      "company": "Leap India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 151,
-        "max": 159
-      },
-      "lotSize": 94,
-      "issueSizeCr": 480,
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-11",
-      "allotmentDate": "2026-08-12",
-      "listingDate": "2026-08-14",
-      "gmp": null,
-      "subscription": {
-        "qib": 16.83907106722892,
-        "nii": 12.63775510597768,
-        "bnii": 13.765656665832498,
-        "snii": 10.381951711430897,
-        "retail": 1.7112983948629517,
-        "total": 8.376782644422228
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -2429,7 +2401,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2450,7 +2422,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2471,7 +2443,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
