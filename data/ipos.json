@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:40:01.060Z",
+  "lastUpdated": "2026-08-12T12:45:43.415Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -107,11 +107,11 @@
       "gmp": null,
       "subscription": {
         "qib": 186.38929959206845,
-        "nii": 49.79734382347207,
+        "nii": 49.79792185152478,
         "bnii": 50.81534078690905,
-        "snii": 47.761346394029786,
-        "retail": 12.947031522448363,
-        "total": 70.25477950743327
+        "snii": 47.76308048017671,
+        "retail": 12.956316839128977,
+        "total": 70.25954507240215
       }
     },
     {
@@ -135,11 +135,11 @@
       "gmp": null,
       "subscription": {
         "qib": 212.91517442336553,
-        "nii": 51.92939643316274,
+        "nii": 51.9305627691821,
         "bnii": 58.07381626871712,
-        "snii": 39.64055334402877,
-        "retail": 8.11829938495172,
-        "total": 74.20633070612092
+        "snii": 39.64405235273568,
+        "retail": 8.121833518561711,
+        "total": 74.20839266522931
       }
     },
     {
@@ -255,6 +255,34 @@
       }
     },
     {
+      "symbol": "SKYTECH",
+      "id": "skytech-infinite-platform-limited",
+      "company": "Skytech Infinite Platform Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 73,
+        "max": 77
+      },
+      "lotSize": 1600,
+      "issueSizeCr": 2945600,
+      "openDate": "2026-08-14",
+      "closeDate": "2026-08-18",
+      "allotmentDate": "2026-08-19",
+      "listingDate": "2026-08-21",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
       "symbol": "CREDENT",
       "id": "credent-connect-n-care-limited",
       "company": "Credent Connect N Care Limited",
@@ -267,7 +295,7 @@
         "max": 189
       },
       "lotSize": 600,
-      "issueSizeCr": 4968000,
+      "issueSizeCr": 3564000,
       "openDate": "2026-08-13",
       "closeDate": "2026-08-17",
       "allotmentDate": "2026-08-18",
