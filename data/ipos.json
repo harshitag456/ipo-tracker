@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-08-11T13:51:18.313Z",
+  "lastUpdated": "2026-08-12T04:41:40.819Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "SHIPROCKET",
+      "id": "shiprocket-limited",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 92,
+        "max": 97
+      },
+      "lotSize": 154,
+      "issueSizeCr": 885.5,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0.018557633437638218,
+        "bnii": 0.012585912530855147,
+        "snii": 0.03050107525120436,
+        "retail": 0.050201536785034084,
+        "total": 0.014330886209426635
+      }
+    },
+    {
+      "symbol": "BLEL",
+      "id": "behari-lal-engineering-limited",
+      "company": "Behari Lal Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 271,
+        "max": 285
+      },
+      "lotSize": 52,
+      "issueSizeCr": 93,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0.023279332771563795,
+        "bnii": 0.024859232087085438,
+        "snii": 0.02011953414052051,
+        "retail": 0.023726132760473525,
+        "total": 0.01710939596256136
+      }
+    },
     {
       "symbol": "MILKYMIST",
       "id": "milky-mist-dairy-food-limited",
@@ -22,40 +78,12 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.3938023285547659,
-        "nii": 0.9188277523354177,
-        "bnii": 0.5969404511572716,
-        "snii": 1.56260235469171,
-        "retail": 0.9592221039754983,
-        "total": 0.7916207834486031
-      }
-    },
-    {
-      "symbol": "MOLBIO",
-      "id": "molbio-diagnostics-limited",
-      "company": "Molbio Diagnostics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 768,
-        "max": 807
-      },
-      "lotSize": 18,
-      "issueSizeCr": 200,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.3911700130529494,
-        "nii": 5.207723097037606,
-        "bnii": 4.3070600237060175,
-        "snii": 7.00905234256459,
-        "retail": 3.179838314280764,
-        "total": 3.1075587278049754
+        "qib": 0.3938665561506112,
+        "nii": 0.983202154114102,
+        "bnii": 0.6279623799505628,
+        "snii": 1.6936817024411803,
+        "retail": 1.0591917015251133,
+        "total": 0.8557397515770632
       }
     },
     {
@@ -78,68 +106,68 @@
       "listingDate": "2026-08-17",
       "gmp": null,
       "subscription": {
-        "qib": 0.4960716607232017,
-        "nii": 10.621374507528987,
-        "bnii": 10.37944708446154,
-        "snii": 11.105229488243554,
-        "retail": 2.967841386761224,
-        "total": 3.939954952570613
+        "qib": 0.49739229115321093,
+        "nii": 11.204920788354144,
+        "bnii": 10.872972668521864,
+        "snii": 11.8688172126752,
+        "retail": 3.155865130430049,
+        "total": 4.161772570786857
       }
     },
     {
-      "symbol": "TECHNOCRAF",
-      "id": "technocraft-ventures-limited",
-      "company": "Technocraft Ventures Limited",
+      "symbol": "MOLBIO",
+      "id": "molbio-diagnostics-limited",
+      "company": "Molbio Diagnostics Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 200,
-        "max": 212
+        "min": 768,
+        "max": 807
       },
-      "lotSize": 70,
-      "issueSizeCr": 8317190,
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-11",
-      "allotmentDate": "2026-08-12",
-      "listingDate": "2026-08-14",
+      "lotSize": 18,
+      "issueSizeCr": 200,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
       "gmp": null,
       "subscription": {
-        "qib": 42.26003812024286,
-        "nii": 65.05854164913167,
-        "bnii": 63.96825183065398,
-        "snii": 67.23912128608703,
-        "retail": 25.346300816429594,
-        "total": 38.68877349200872
+        "qib": 1.3949168761518098,
+        "nii": 6.4257417453235925,
+        "bnii": 5.651237684654912,
+        "snii": 7.974752531456116,
+        "retail": 3.4356821876601282,
+        "total": 3.49699804952584
       }
     },
     {
-      "symbol": "LEAP",
-      "id": "leap-india-limited",
-      "company": "Leap India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "PRAMODINI",
+      "id": "pramodini-medicare-limited",
+      "company": "Pramodini Medicare Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 151,
-        "max": 159
+        "min": 110,
+        "max": 118
       },
-      "lotSize": 94,
-      "issueSizeCr": 480,
-      "openDate": "2026-08-07",
-      "closeDate": "2026-08-11",
-      "allotmentDate": "2026-08-12",
-      "listingDate": "2026-08-14",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 16.83907106722892,
-        "nii": 12.63775510597768,
-        "bnii": 13.765656665832498,
-        "snii": 10.381951711430897,
-        "retail": 1.7112983948629517,
-        "total": 8.376782644422228
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -171,87 +199,59 @@
       }
     },
     {
-      "symbol": "OPTIMYSTIX",
-      "id": "optimystix-entertainment-india-limited",
-      "company": "Optimystix Entertainment India Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "TECHNOCRAF",
+      "id": "technocraft-ventures-limited",
+      "company": "Technocraft Ventures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
-        "min": 166,
-        "max": 175
+        "min": 200,
+        "max": 212
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
+      "lotSize": 70,
+      "issueSizeCr": 8317190,
       "openDate": "2026-08-07",
       "closeDate": "2026-08-11",
       "allotmentDate": "2026-08-12",
       "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
+        "qib": 42.26003812024286,
+        "nii": 65.05854164913167,
+        "bnii": 63.96825183065398,
+        "snii": 67.23912128608703,
+        "retail": 25.346300816429594,
+        "total": 38.68877349200872
       }
     },
     {
-      "symbol": "SHIPROCKET",
-      "id": "shiprocket-limited",
-      "company": "Shiprocket Limited",
+      "symbol": "LEAP",
+      "id": "leap-india-limited",
+      "company": "Leap India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 92,
-        "max": 97
+        "min": 151,
+        "max": 159
       },
-      "lotSize": 154,
-      "issueSizeCr": 885.5,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
+      "lotSize": 94,
+      "issueSizeCr": 480,
+      "openDate": "2026-08-07",
+      "closeDate": "2026-08-11",
+      "allotmentDate": "2026-08-12",
+      "listingDate": "2026-08-14",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "BLEL",
-      "id": "behari-lal-engineering-limited",
-      "company": "Behari Lal Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 271,
-        "max": 285
-      },
-      "lotSize": 52,
-      "issueSizeCr": 93,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 16.83907106722892,
+        "nii": 12.63775510597768,
+        "bnii": 13.765656665832498,
+        "snii": 10.381951711430897,
+        "retail": 1.7112983948629517,
+        "total": 8.376782644422228
       }
     },
     {
@@ -283,32 +283,67 @@
       }
     },
     {
-      "symbol": "PRAMODINI",
-      "id": "pramodini-medicare-limited",
-      "company": "Pramodini Medicare Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "ARDEE",
+      "id": "ardee-industries-limited",
+      "company": "Ardee Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 110,
-        "max": 118
+        "min": 53,
+        "max": 53
       },
-      "lotSize": 1200,
-      "issueSizeCr": 4490400,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
+      "lotSize": 0,
+      "issueSizeCr": 425.87,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-12",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "1305DCCL29",
+      "id": "dar-credit-capital-limited",
+      "company": "Dar Credit & Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-12",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ANNAPURNA",
+      "id": "annapurna-swadisht-limited",
+      "company": "Annapurna Swadisht Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 157,
+        "max": 157
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-12",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "ANAWIL",
@@ -387,27 +422,6 @@
       },
       "lotSize": 0,
       "issueSizeCr": 9275.22,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-08-05",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "129DCCL28",
-      "id": "dar-credit-capital-limited",
-      "company": "Dar Credit & Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 100000,
-        "max": 100000
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
       "openDate": null,
       "closeDate": null,
       "allotmentDate": null,
@@ -3150,9 +3164,9 @@
       "subscription": null
     },
     {
-      "symbol": "ARDEE",
-      "id": "ardee-industries-limited",
-      "company": "Ardee Industries Limited",
+      "symbol": "LEAP",
+      "id": "leap-india-limited",
+      "company": "Leap India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -3162,7 +3176,49 @@
         "max": 0
       },
       "lotSize": 0,
-      "issueSizeCr": 425.87,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "id": "technocraft-ventures-limited",
+      "company": "Technocraft Ventures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "OPTIMYSTIX",
+      "id": "optimystix-entertainment-india-limited",
+      "company": "Optimystix Entertainment India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
       "openDate": null,
       "closeDate": null,
       "allotmentDate": null,
