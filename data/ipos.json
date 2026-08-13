@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-13T06:10:46.278Z",
+  "lastUpdated": "2026-08-13T08:00:23.198Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "BLEL",
-      "id": "behari-lal-engineering-limited",
-      "company": "Behari Lal Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 271,
-        "max": 285
-      },
-      "lotSize": 52,
-      "issueSizeCr": 93,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.7340350532672199,
-        "nii": 5.58974826400192,
-        "bnii": 4.585415941977764,
-        "snii": 7.598412908050232,
-        "retail": 5.087507453944983,
-        "total": 4.000519104264547
-      }
-    },
     {
       "symbol": "SHIPROCKET",
       "id": "shiprocket-limited",
@@ -50,12 +22,40 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.024288979856803228,
-        "nii": 2.285958183227081,
-        "bnii": 1.5026531475970446,
-        "snii": 3.852568254487154,
-        "retail": 5.711810414346895,
-        "total": 1.702017778595733
+        "qib": 0.025116841590944797,
+        "nii": 3.004382558494577,
+        "bnii": 2.0041089441774886,
+        "snii": 5.004929787128753,
+        "retail": 7.140315927640779,
+        "total": 2.165108592557311
+      }
+    },
+    {
+      "symbol": "BLEL",
+      "id": "behari-lal-engineering-limited",
+      "company": "Behari Lal Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 271,
+        "max": 285
+      },
+      "lotSize": 52,
+      "issueSizeCr": 93,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.1731336835387107,
+        "nii": 7.161522383043737,
+        "bnii": 5.717236465911564,
+        "snii": 10.050094217308082,
+        "retail": 6.535672109330904,
+        "total": 5.198303090248731
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.8143967399478668,
-        "nii": 9.871151439295547,
-        "bnii": 9.672308919472314,
-        "snii": 10.26883647894201,
-        "retail": 3.8963526835166657,
-        "total": 4.302122842637062
+        "qib": 19.592118879534585,
+        "nii": 20.519787101669568,
+        "bnii": 21.792570076251618,
+        "snii": 17.974221152505468,
+        "retail": 5.330072536390268,
+        "total": 12.652173975764077
       }
     },
     {
@@ -171,62 +171,6 @@
       }
     },
     {
-      "symbol": "MOLBIO",
-      "id": "molbio-diagnostics-limited",
-      "company": "Molbio Diagnostics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 768,
-        "max": 807
-      },
-      "lotSize": 18,
-      "issueSizeCr": 200,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 186.38929959206845,
-        "nii": 49.79792185152478,
-        "bnii": 50.81534078690905,
-        "snii": 47.76308048017671,
-        "retail": 12.956316839128977,
-        "total": 70.25954507240215
-      }
-    },
-    {
-      "symbol": "DHOOTTRANS",
-      "id": "dhoot-transmission-limited",
-      "company": "Dhoot Transmission Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 829,
-        "max": 871
-      },
-      "lotSize": 17,
-      "issueSizeCr": 1400,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 212.91517442336553,
-        "nii": 51.9305627691821,
-        "bnii": 58.07381626871712,
-        "snii": 39.64405235273568,
-        "retail": 8.121833518561711,
-        "total": 74.20839266522931
-      }
-    },
-    {
       "symbol": "SHANKESH",
       "id": "shankesh-jewellers-limited",
       "company": "Shankesh Jewellers Limited",
@@ -244,6 +188,34 @@
       "closeDate": "2026-08-20",
       "allotmentDate": "2026-08-21",
       "listingDate": "2026-08-25",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "HORIZONIND",
+      "id": "horizon-industrial-parks-limited",
+      "company": "Horizon Industrial Parks Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 57,
+        "max": 60
+      },
+      "lotSize": 250,
+      "issueSizeCr": 2600,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
       "gmp": null,
       "subscription": {
         "qib": null,
