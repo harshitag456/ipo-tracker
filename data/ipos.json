@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T12:45:43.415Z",
+  "lastUpdated": "2026-08-13T04:45:49.913Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.7279846826059208,
-        "nii": 2.106618401610654,
-        "bnii": 1.255971591574945,
-        "snii": 3.807912021682072,
-        "retail": 2.6925222449103243,
-        "total": 2.0252291687492217
+        "qib": 0.7311502773822967,
+        "nii": 4.14994410207092,
+        "bnii": 3.778893462825552,
+        "snii": 4.892045380561658,
+        "retail": 3.286007204682938,
+        "total": 2.77193960853225
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.023240556419769926,
-        "nii": 1.2251176405063926,
-        "bnii": 0.7494791003994976,
-        "snii": 2.1763947207201824,
-        "retail": 3.3315985201295124,
-        "total": 0.9682463991762467
+        "qib": 0.0235366529524191,
+        "nii": 1.5877731159014636,
+        "bnii": 1.0473486576576192,
+        "snii": 2.6686220323891523,
+        "retail": 3.9951967537253132,
+        "total": 1.1907371582647004
       }
     },
     {
@@ -78,68 +78,40 @@
       "listingDate": "2026-08-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.6528826871385482,
-        "nii": 3.5622582068261215,
-        "bnii": 2.658004001833702,
-        "snii": 5.37076661681096,
-        "retail": 2.4361579534821685,
-        "total": 2.173429872162048
+        "qib": 0.6543323957304856,
+        "nii": 4.800370513479478,
+        "bnii": 3.9373443081058657,
+        "snii": 6.526422924226701,
+        "retail": 2.7153173003711872,
+        "total": 2.5787802119566283
       }
     },
     {
-      "symbol": "MOLBIO",
-      "id": "molbio-diagnostics-limited",
-      "company": "Molbio Diagnostics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "CREDENT",
+      "id": "credent-connect-n-care-limited",
+      "company": "Credent Connect N Care Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 768,
-        "max": 807
+        "min": 179,
+        "max": 189
       },
-      "lotSize": 18,
-      "issueSizeCr": 200,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-08-13",
+      "closeDate": "2026-08-17",
+      "allotmentDate": "2026-08-18",
+      "listingDate": "2026-08-20",
       "gmp": null,
       "subscription": {
-        "qib": 186.38929959206845,
-        "nii": 49.79792185152478,
-        "bnii": 50.81534078690905,
-        "snii": 47.76308048017671,
-        "retail": 12.956316839128977,
-        "total": 70.25954507240215
-      }
-    },
-    {
-      "symbol": "DHOOTTRANS",
-      "id": "dhoot-transmission-limited",
-      "company": "Dhoot Transmission Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 829,
-        "max": 871
-      },
-      "lotSize": 17,
-      "issueSizeCr": 1400,
-      "openDate": "2026-08-10",
-      "closeDate": "2026-08-12",
-      "allotmentDate": "2026-08-13",
-      "listingDate": "2026-08-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 212.91517442336553,
-        "nii": 51.9305627691821,
-        "bnii": 58.07381626871712,
-        "snii": 39.64405235273568,
-        "retail": 8.121833518561711,
-        "total": 74.20839266522931
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -196,6 +168,62 @@
         "snii": 0,
         "retail": null,
         "total": 0
+      }
+    },
+    {
+      "symbol": "MOLBIO",
+      "id": "molbio-diagnostics-limited",
+      "company": "Molbio Diagnostics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 768,
+        "max": 807
+      },
+      "lotSize": 18,
+      "issueSizeCr": 200,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 186.38929959206845,
+        "nii": 49.79792185152478,
+        "bnii": 50.81534078690905,
+        "snii": 47.76308048017671,
+        "retail": 12.956316839128977,
+        "total": 70.25954507240215
+      }
+    },
+    {
+      "symbol": "DHOOTTRANS",
+      "id": "dhoot-transmission-limited",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 829,
+        "max": 871
+      },
+      "lotSize": 17,
+      "issueSizeCr": 1400,
+      "openDate": "2026-08-10",
+      "closeDate": "2026-08-12",
+      "allotmentDate": "2026-08-13",
+      "listingDate": "2026-08-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 212.91517442336553,
+        "nii": 51.9305627691821,
+        "bnii": 58.07381626871712,
+        "snii": 39.64405235273568,
+        "retail": 8.121833518561711,
+        "total": 74.20839266522931
       }
     },
     {
@@ -283,32 +311,25 @@
       }
     },
     {
-      "symbol": "CREDENT",
-      "id": "credent-connect-n-care-limited",
-      "company": "Credent Connect N Care Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "SWARAJ",
+      "id": "swaraj-suiting-limited",
+      "company": "Swaraj Suiting Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 179,
-        "max": 189
+        "min": 360,
+        "max": 360
       },
-      "lotSize": 600,
-      "issueSizeCr": 3564000,
-      "openDate": "2026-08-13",
-      "closeDate": "2026-08-17",
-      "allotmentDate": "2026-08-18",
-      "listingDate": "2026-08-20",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-13",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "ARDEE",
@@ -3188,6 +3209,48 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "MOLBIO",
+      "id": "molbio-diagnostics-limited",
+      "company": "Molbio Diagnostics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "DHOOTTRANS",
+      "id": "dhoot-transmission-limited",
+      "company": "Dhoot Transmission Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
