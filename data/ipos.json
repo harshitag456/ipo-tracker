@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T12:47:00.867Z",
+  "lastUpdated": "2026-08-14T04:43:18.161Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 0.029062781097473598,
-        "nii": 4.84085401657243,
-        "bnii": 3.4503075681004924,
-        "snii": 7.621946913516305,
-        "retail": 9.760823712902448,
-        "total": 3.1578274097291046
+        "qib": 0.030226017475738214,
+        "nii": 7.285422528217053,
+        "bnii": 6.178572792193733,
+        "snii": 9.499122000263695,
+        "retail": 11.032178520191803,
+        "total": 4.066423207328813
       }
     },
     {
@@ -50,40 +50,40 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 2.2215582502822917,
-        "nii": 11.106563216744453,
-        "bnii": 8.678386940160383,
-        "snii": 15.962915769912591,
-        "retail": 9.362425952165072,
-        "total": 7.779703374002347
+        "qib": 2.226893809219893,
+        "nii": 17.037053847408263,
+        "bnii": 14.621484522505195,
+        "snii": 21.868192497214405,
+        "retail": 10.8154270353123,
+        "total": 9.809057317177967
       }
     },
     {
-      "symbol": "MILKYMIST",
-      "id": "milky-mist-dairy-food-limited",
-      "company": "Milky Mist Dairy Food Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "SKYTECH",
+      "id": "skytech-infinite-platform-limited",
+      "company": "Skytech Infinite Platform Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 133,
-        "max": 140
+        "min": 73,
+        "max": 77
       },
-      "lotSize": 107,
-      "issueSizeCr": 1428,
-      "openDate": "2026-08-11",
-      "closeDate": "2026-08-13",
-      "allotmentDate": "2026-08-14",
-      "listingDate": "2026-08-18",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-08-14",
+      "closeDate": "2026-08-18",
+      "allotmentDate": "2026-08-19",
+      "listingDate": "2026-08-21",
       "gmp": null,
       "subscription": {
-        "qib": 155.83199797387232,
-        "nii": 34.91303840775931,
-        "bnii": 37.1326431910945,
-        "snii": 30.473828841088924,
-        "retail": 8.40458987574637,
-        "total": 56.11785697991267
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -171,6 +171,34 @@
       }
     },
     {
+      "symbol": "MILKYMIST",
+      "id": "milky-mist-dairy-food-limited",
+      "company": "Milky Mist Dairy Food Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 133,
+        "max": 140
+      },
+      "lotSize": 107,
+      "issueSizeCr": 1428,
+      "openDate": "2026-08-11",
+      "closeDate": "2026-08-13",
+      "allotmentDate": "2026-08-14",
+      "listingDate": "2026-08-18",
+      "gmp": null,
+      "subscription": {
+        "qib": 155.83199797387232,
+        "nii": 34.914616571542936,
+        "bnii": 37.1326431910945,
+        "snii": 30.478563332439805,
+        "retail": 8.405832483110887,
+        "total": 56.118843284704255
+      }
+    },
+    {
       "symbol": "SHANKESH",
       "id": "shankesh-jewellers-limited",
       "company": "Shankesh Jewellers Limited",
@@ -255,32 +283,67 @@
       }
     },
     {
-      "symbol": "SKYTECH",
-      "id": "skytech-infinite-platform-limited",
-      "company": "Skytech Infinite Platform Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "LEAP",
+      "id": "leap-india-limited",
+      "company": "Leap India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 73,
-        "max": 77
+        "min": 159,
+        "max": 159
       },
-      "lotSize": 1600,
-      "issueSizeCr": 2945600,
-      "openDate": "2026-08-14",
-      "closeDate": "2026-08-18",
-      "allotmentDate": "2026-08-19",
-      "listingDate": "2026-08-21",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-14",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "id": "technocraft-ventures-limited",
+      "company": "Technocraft Ventures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 212,
+        "max": 212
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-14",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "OPTIMYSTIX",
+      "id": "optimystix-entertainment-india-limited",
+      "company": "Optimystix Entertainment India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 175,
+        "max": 175
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-14",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "SWARAJ",
@@ -3185,6 +3248,27 @@
       "subscription": null
     },
     {
+      "symbol": "MILKYMIST",
+      "id": "milky-mist-dairy-food-limited",
+      "company": "Milky Mist Dairy Food Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "MOLBIO",
       "id": "molbio-diagnostics-limited",
       "company": "Molbio Diagnostics Limited",
@@ -3209,69 +3293,6 @@
       "symbol": "DHOOTTRANS",
       "id": "dhoot-transmission-limited",
       "company": "Dhoot Transmission Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "LEAP",
-      "id": "leap-india-limited",
-      "company": "Leap India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "TECHNOCRAF",
-      "id": "technocraft-ventures-limited",
-      "company": "Technocraft Ventures Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "OPTIMYSTIX",
-      "id": "optimystix-entertainment-india-limited",
-      "company": "Optimystix Entertainment India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
