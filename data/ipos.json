@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-14T06:08:30.645Z",
+  "lastUpdated": "2026-08-14T07:56:48.789Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "SHIPROCKET",
-      "id": "shiprocket-limited",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 92,
-        "max": 97
-      },
-      "lotSize": 154,
-      "issueSizeCr": 885.5,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.06777287065156776,
-        "nii": 26.907117744246055,
-        "bnii": 28.26294116703889,
-        "snii": 24.195470898660385,
-        "retail": 21.0084105257536,
-        "total": 11.33403665952497
-      }
-    },
     {
       "symbol": "BLEL",
       "id": "behari-lal-engineering-limited",
@@ -50,12 +22,40 @@
       "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
-        "qib": 2.317521724188718,
-        "nii": 49.32081318930703,
-        "bnii": 45.31446258931113,
-        "snii": 57.33351438929885,
-        "retail": 22.035013611089557,
-        "total": 22.553431787770535
+        "qib": 7.927619421670185,
+        "nii": 99.24385820341638,
+        "bnii": 95.62563082812642,
+        "snii": 106.48031295399629,
+        "retail": 33.49762377269002,
+        "total": 40.77552774138787
+      }
+    },
+    {
+      "symbol": "SHIPROCKET",
+      "id": "shiprocket-limited",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 92,
+        "max": 97
+      },
+      "lotSize": 154,
+      "issueSizeCr": 885.5,
+      "openDate": "2026-08-12",
+      "closeDate": "2026-08-14",
+      "allotmentDate": "2026-08-17",
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": {
+        "qib": 12.46699645892718,
+        "nii": 53.8522981776233,
+        "bnii": 59.71976414722711,
+        "snii": 42.117366238415656,
+        "retail": 30.31944552266275,
+        "total": 27.171370037474045
       }
     },
     {
@@ -171,31 +171,31 @@
       }
     },
     {
-      "symbol": "MILKYMIST",
-      "id": "milky-mist-dairy-food-limited",
-      "company": "Milky Mist Dairy Food Limited",
+      "symbol": "SUNSHINE",
+      "id": "sunshine-pictures-limited",
+      "company": "Sunshine Pictures Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 133,
-        "max": 140
+        "min": 342,
+        "max": 360
       },
-      "lotSize": 107,
-      "issueSizeCr": 1428,
-      "openDate": "2026-08-11",
-      "closeDate": "2026-08-13",
-      "allotmentDate": "2026-08-14",
-      "listingDate": "2026-08-18",
+      "lotSize": 41,
+      "issueSizeCr": 7837191,
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-20",
+      "allotmentDate": "2026-08-21",
+      "listingDate": "2026-08-25",
       "gmp": null,
       "subscription": {
-        "qib": 155.83199797387232,
-        "nii": 34.914616571542936,
-        "bnii": 37.1326431910945,
-        "snii": 30.478563332439805,
-        "retail": 8.405832483110887,
-        "total": 56.118843284704255
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -2513,7 +2513,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2534,7 +2534,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2555,7 +2555,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
