@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T12:23:55.856Z",
+  "lastUpdated": "2026-08-17T13:14:30.334Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -183,7 +183,7 @@
         "max": 360
       },
       "lotSize": 41,
-      "issueSizeCr": 7837191,
+      "issueSizeCr": 5486051,
       "openDate": "2026-08-18",
       "closeDate": "2026-08-20",
       "allotmentDate": "2026-08-21",
@@ -211,7 +211,7 @@
         "max": 930
       },
       "lotSize": 160,
-      "issueSizeCr": 39482000,
+      "issueSizeCr": 27637400,
       "openDate": "2026-08-18",
       "closeDate": "2026-08-20",
       "allotmentDate": "2026-08-21",
@@ -2499,7 +2499,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2520,7 +2520,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2541,7 +2541,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
