@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-08-14T12:42:18.504Z",
+  "lastUpdated": "2026-08-17T03:41:12.824Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "BLEL",
-      "id": "behari-lal-engineering-limited",
-      "company": "Behari Lal Engineering Limited",
+      "symbol": "HORIZONIND",
+      "id": "horizon-industrial-parks-limited",
+      "company": "Horizon Industrial Parks Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 271,
-        "max": 285
+        "min": 57,
+        "max": 60
       },
-      "lotSize": 52,
-      "issueSizeCr": 93,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
+      "lotSize": 250,
+      "issueSizeCr": 2600,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
       "gmp": null,
       "subscription": {
-        "qib": 165.32581668221317,
-        "nii": 165.31489290725656,
-        "bnii": 159.74837561176145,
-        "snii": 176.4479274982468,
-        "retail": 53.2705295728956,
-        "total": 108.43833444695228
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
-      "symbol": "SHIPROCKET",
-      "id": "shiprocket-limited",
-      "company": "Shiprocket Limited",
+      "symbol": "LALITHAA",
+      "id": "lalithaa-jewellery-mart-limited",
+      "company": "Lalithaa Jewellery Mart Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 92,
-        "max": 97
+        "min": 190,
+        "max": 201
       },
-      "lotSize": 154,
-      "issueSizeCr": 885.5,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
+      "lotSize": 74,
+      "issueSizeCr": 1200,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
       "gmp": null,
       "subscription": {
-        "qib": 122.80468937488239,
-        "nii": 88.98839996030362,
-        "bnii": 99.17567619475848,
-        "snii": 68.6138474913939,
-        "retail": 46.41655230503336,
-        "total": 99.38120609263223
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -104,34 +104,6 @@
       "closeDate": "2026-08-17",
       "allotmentDate": "2026-08-18",
       "listingDate": "2026-08-20",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "PRAMODINI",
-      "id": "pramodini-medicare-limited",
-      "company": "Pramodini Medicare Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 110,
-        "max": 118
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-12",
-      "closeDate": "2026-08-14",
-      "allotmentDate": "2026-08-17",
-      "listingDate": "2026-08-19",
       "gmp": null,
       "subscription": {
         "qib": 0,
@@ -227,60 +199,46 @@
       }
     },
     {
-      "symbol": "HORIZONIND",
-      "id": "horizon-industrial-parks-limited",
-      "company": "Horizon Industrial Parks Limited",
+      "symbol": "MOLBIO",
+      "id": "molbio-diagnostics-limited",
+      "company": "Molbio Diagnostics Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 57,
-        "max": 60
+        "min": 807,
+        "max": 807
       },
-      "lotSize": 250,
-      "issueSizeCr": 2600,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-17",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "LALITHAA",
-      "id": "lalithaa-jewellery-mart-limited",
-      "company": "Lalithaa Jewellery Mart Limited",
+      "symbol": "DHOOTTRANS",
+      "id": "dhoot-transmission-limited",
+      "company": "Dhoot Transmission Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 190,
-        "max": 201
+        "min": 871,
+        "max": 871
       },
-      "lotSize": 74,
-      "issueSizeCr": 1200,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-17",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "LEAP",
@@ -1011,16 +969,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1032,16 +990,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3248,51 +3206,72 @@
       "subscription": null
     },
     {
+      "symbol": "SHIPROCKET",
+      "id": "shiprocket-limited",
+      "company": "Shiprocket Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "BLEL",
+      "id": "behari-lal-engineering-limited",
+      "company": "Behari Lal Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PRAMODINI",
+      "id": "pramodini-medicare-limited",
+      "company": "Pramodini Medicare Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "MILKYMIST",
       "id": "milky-mist-dairy-food-limited",
       "company": "Milky Mist Dairy Food Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MOLBIO",
-      "id": "molbio-diagnostics-limited",
-      "company": "Molbio Diagnostics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "DHOOTTRANS",
-      "id": "dhoot-transmission-limited",
-      "company": "Dhoot Transmission Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
