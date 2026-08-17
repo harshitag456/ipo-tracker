@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-08-17T05:59:28.661Z",
+  "lastUpdated": "2026-08-17T06:56:36.517Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "LALITHAA",
+      "id": "lalithaa-jewellery-mart-limited",
+      "company": "Lalithaa Jewellery Mart Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 190,
+        "max": 201
+      },
+      "lotSize": 74,
+      "issueSizeCr": 1200,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.1619835328090424,
+        "nii": 0.1970225857719843,
+        "bnii": 0.14141338008185478,
+        "snii": 0.3082409971522434,
+        "retail": 0.37186316936345,
+        "total": 0.2323767363836656
+      }
+    },
     {
       "symbol": "HORIZONIND",
       "id": "horizon-industrial-parks-limited",
@@ -23,39 +51,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0,
-        "nii": 0.007069171554450274,
-        "bnii": 0.0033991329322583448,
-        "snii": 0.014409249121288405,
-        "retail": 0.08976676456242945,
-        "total": 0.018595119764526425
-      }
-    },
-    {
-      "symbol": "LALITHAA",
-      "id": "lalithaa-jewellery-mart-limited",
-      "company": "Lalithaa Jewellery Mart Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 190,
-        "max": 201
-      },
-      "lotSize": 74,
-      "issueSizeCr": 1200,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0.13369449033680694,
-        "bnii": 0.08807004202656186,
-        "snii": 0.2249433869572971,
-        "retail": 0.26879049216793977,
-        "total": 0.16618854106878395
+        "nii": 0.00969768795843541,
+        "bnii": 0.005974566446360387,
+        "snii": 0.01714393130970366,
+        "retail": 0.1163887303420011,
+        "total": 0.024286244887152666
       }
     },
     {
@@ -138,6 +138,34 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "GAJA",
+      "id": "gaja-alternative-asset-management-limited",
+      "company": "Gaja Alternative Asset Management Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 152,
+        "max": 160
+      },
+      "lotSize": 93,
+      "issueSizeCr": 450,
+      "openDate": "2026-08-19",
+      "closeDate": "2026-08-21",
+      "allotmentDate": "2026-08-24",
+      "listingDate": "2026-08-26",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
