@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-08-17T13:14:30.334Z",
+  "lastUpdated": "2026-08-18T03:37:06.082Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "SUNSHINE",
+      "id": "sunshine-pictures-limited",
+      "company": "Sunshine Pictures Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 342,
+        "max": 360
+      },
+      "lotSize": 41,
+      "issueSizeCr": 5486051,
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-20",
+      "allotmentDate": "2026-08-21",
+      "listingDate": "2026-08-25",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SHANKESH",
+      "id": "shankesh-jewellers-limited",
+      "company": "Shankesh Jewellers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 880,
+        "max": 930
+      },
+      "lotSize": 160,
+      "issueSizeCr": 27637400,
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-20",
+      "allotmentDate": "2026-08-21",
+      "listingDate": "2026-08-25",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "LALITHAA",
       "id": "lalithaa-jewellery-mart-limited",
@@ -87,34 +143,6 @@
       }
     },
     {
-      "symbol": "CREDENT",
-      "id": "credent-connect-n-care-limited",
-      "company": "Credent Connect N Care Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 179,
-        "max": 189
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-13",
-      "closeDate": "2026-08-17",
-      "allotmentDate": "2026-08-18",
-      "listingDate": "2026-08-20",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
       "symbol": "FASCINATE",
       "id": "fascinate-textiles-limited",
       "company": "Fascinate Textiles Limited",
@@ -171,60 +199,25 @@
       }
     },
     {
-      "symbol": "SUNSHINE",
-      "id": "sunshine-pictures-limited",
-      "company": "Sunshine Pictures Limited",
+      "symbol": "MILKYMIST",
+      "id": "milky-mist-dairy-food-limited",
+      "company": "Milky Mist Dairy Food Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 342,
-        "max": 360
+        "min": 140,
+        "max": 140
       },
-      "lotSize": 41,
-      "issueSizeCr": 5486051,
-      "openDate": "2026-08-18",
-      "closeDate": "2026-08-20",
-      "allotmentDate": "2026-08-21",
-      "listingDate": "2026-08-25",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-18",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "SHANKESH",
-      "id": "shankesh-jewellers-limited",
-      "company": "Shankesh Jewellers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 880,
-        "max": 930
-      },
-      "lotSize": 160,
-      "issueSizeCr": 27637400,
-      "openDate": "2026-08-18",
-      "closeDate": "2026-08-20",
-      "allotmentDate": "2026-08-21",
-      "listingDate": "2026-08-25",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "MOLBIO",
@@ -1672,16 +1665,16 @@
       }
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1693,16 +1686,16 @@
       "subscription": null
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2499,7 +2492,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2520,7 +2513,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2541,7 +2534,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3234,6 +3227,27 @@
       "subscription": null
     },
     {
+      "symbol": "CREDENT",
+      "id": "credent-connect-n-care-limited",
+      "company": "Credent Connect N Care Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "SHIPROCKET",
       "id": "shiprocket-limited",
       "company": "Shiprocket Limited",
@@ -3279,27 +3293,6 @@
       "symbol": "PRAMODINI",
       "id": "pramodini-medicare-limited",
       "company": "Pramodini Medicare Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MILKYMIST",
-      "id": "milky-mist-dairy-food-limited",
-      "company": "Milky Mist Dairy Food Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
