@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T09:01:03.024Z",
+  "lastUpdated": "2026-08-18T09:56:30.838Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-25",
       "gmp": null,
       "subscription": {
-        "qib": 0.014805070191063622,
-        "nii": 3.444776759283833,
-        "bnii": 2.391380683094135,
-        "snii": 5.55156891166323,
-        "retail": 4.078426976368773,
-        "total": 2.781614133736635
+        "qib": 0.018048583801826678,
+        "nii": 4.312144009146031,
+        "bnii": 3.0229161137537512,
+        "snii": 6.890599799930588,
+        "retail": 4.845971032689117,
+        "total": 3.3521784613376724
       }
     },
     {
@@ -51,39 +51,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.030636745858872397,
-        "nii": 0.09082957634702733,
+        "nii": 0.09701636188642926,
         "bnii": 0.04376677979838914,
-        "snii": 0.18495516944430374,
-        "retail": 0.4110487961964584,
-        "total": 0.23374123470369862
-      }
-    },
-    {
-      "symbol": "LALITHAA",
-      "id": "lalithaa-jewellery-mart-limited",
-      "company": "Lalithaa Jewellery Mart Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 190,
-        "max": 201
-      },
-      "lotSize": 74,
-      "issueSizeCr": 1200,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.011585514192855,
-        "nii": 4.341358122312586,
-        "bnii": 4.44652868674565,
-        "snii": 4.131016993446458,
-        "retail": 2.1967819338680146,
-        "total": 2.319230307837446
+        "snii": 0.2035155260625095,
+        "retail": 0.4550355677451569,
+        "total": 0.25706036023649115
       }
     },
     {
@@ -107,11 +79,39 @@
       "gmp": null,
       "subscription": {
         "qib": 0.17672196579462573,
-        "nii": 0.07934605089132844,
-        "bnii": 0.07840520194957132,
-        "snii": 0.08122774885750689,
-        "retail": 0.3769138793684488,
-        "total": 0.18771562546203094
+        "nii": 0.08148766940989573,
+        "bnii": 0.07950895916990076,
+        "snii": 0.08544509006373764,
+        "retail": 0.3935361339919561,
+        "total": 0.1914553371818972
+      }
+    },
+    {
+      "symbol": "LALITHAA",
+      "id": "lalithaa-jewellery-mart-limited",
+      "company": "Lalithaa Jewellery Mart Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 190,
+        "max": 201
+      },
+      "lotSize": 74,
+      "issueSizeCr": 1200,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.015785254675722,
+        "nii": 5.1577565943866635,
+        "bnii": 5.263137422483033,
+        "snii": 4.9469949381939236,
+        "retail": 2.446705608601985,
+        "total": 2.619386982155259
       }
     },
     {
@@ -166,6 +166,62 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SKYWAYS",
+      "id": "skyways-air-services-limited",
+      "company": "Skyways Air Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 131,
+        "max": 138
+      },
+      "lotSize": 100,
+      "issueSizeCr": 42231600,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "TEMPSENS",
+      "id": "tempsens-instruments-india-limited",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 285,
+        "max": 300
+      },
+      "lotSize": 50,
+      "issueSizeCr": 95,
+      "openDate": "2026-08-20",
+      "closeDate": "2026-08-24",
+      "allotmentDate": "2026-08-25",
+      "listingDate": "2026-08-27",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
