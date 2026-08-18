@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T08:00:46.659Z",
+  "lastUpdated": "2026-08-18T09:01:03.024Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-25",
       "gmp": null,
       "subscription": {
-        "qib": 0.011195353430698288,
-        "nii": 2.5730151276973645,
-        "bnii": 1.7223360655737705,
-        "snii": 4.274373251944552,
-        "retail": 3.248210095212472,
-        "total": 2.1786671323325284
+        "qib": 0.014805070191063622,
+        "nii": 3.444776759283833,
+        "bnii": 2.391380683094135,
+        "snii": 5.55156891166323,
+        "retail": 4.078426976368773,
+        "total": 2.781614133736635
       }
     },
     {
@@ -51,11 +51,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.030636745858872397,
-        "nii": 0.07443054218800128,
-        "bnii": 0.035459196595917127,
-        "snii": 0.1523732333721696,
-        "retail": 0.34820062668702556,
-        "total": 0.19880307120061946
+        "nii": 0.09082957634702733,
+        "bnii": 0.04376677979838914,
+        "snii": 0.18495516944430374,
+        "retail": 0.4110487961964584,
+        "total": 0.23374123470369862
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-24",
       "gmp": null,
       "subscription": {
-        "qib": 0.6717094807873987,
-        "nii": 2.9491747412923215,
-        "bnii": 2.8620979184121653,
-        "snii": 3.1233283870526334,
-        "retail": 1.9059018986636966,
-        "total": 1.7805374427337133
+        "qib": 1.011585514192855,
+        "nii": 4.341358122312586,
+        "bnii": 4.44652868674565,
+        "snii": 4.131016993446458,
+        "retail": 2.1967819338680146,
+        "total": 2.319230307837446
       }
     },
     {
@@ -107,11 +107,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.17672196579462573,
-        "nii": 0.06350905651300018,
-        "bnii": 0.057818207825118116,
-        "snii": 0.07489075438876953,
-        "retail": 0.35729335879699464,
-        "total": 0.17977371107821924
+        "nii": 0.07934605089132844,
+        "bnii": 0.07840520194957132,
+        "snii": 0.08122774885750689,
+        "retail": 0.3769138793684488,
+        "total": 0.18771562546203094
       }
     },
     {
@@ -990,16 +990,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1011,16 +1011,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1665,16 +1665,16 @@
       }
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1686,16 +1686,16 @@
       "subscription": null
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2492,7 +2492,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2513,7 +2513,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2534,7 +2534,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2912,16 +2912,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2933,16 +2933,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
