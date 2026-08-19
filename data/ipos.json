@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-08-18T13:18:45.124Z",
+  "lastUpdated": "2026-08-19T03:38:56.009Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "SUNSHINE",
-      "id": "sunshine-pictures-limited",
-      "company": "Sunshine Pictures Limited",
+      "symbol": "GAJA",
+      "id": "gaja-alternative-asset-management-limited",
+      "company": "Gaja Alternative Asset Management Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 342,
-        "max": 360
+        "min": 152,
+        "max": 160
       },
-      "lotSize": 41,
-      "issueSizeCr": 5486051,
-      "openDate": "2026-08-18",
-      "closeDate": "2026-08-20",
-      "allotmentDate": "2026-08-21",
-      "listingDate": "2026-08-25",
+      "lotSize": 93,
+      "issueSizeCr": 450,
+      "openDate": "2026-08-19",
+      "closeDate": "2026-08-21",
+      "allotmentDate": "2026-08-24",
+      "listingDate": "2026-08-26",
       "gmp": null,
       "subscription": {
-        "qib": 0.02893004881858015,
-        "nii": 6.226525018884103,
-        "bnii": 4.671907855786701,
-        "snii": 9.335759345078905,
-        "retail": 5.978969552934846,
-        "total": 4.332014047991898
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -59,31 +59,31 @@
       }
     },
     {
-      "symbol": "HORIZONIND",
-      "id": "horizon-industrial-parks-limited",
-      "company": "Horizon Industrial Parks Limited",
+      "symbol": "SUNSHINE",
+      "id": "sunshine-pictures-limited",
+      "company": "Sunshine Pictures Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 57,
-        "max": 60
+        "min": 342,
+        "max": 360
       },
-      "lotSize": 250,
-      "issueSizeCr": 2600,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
+      "lotSize": 41,
+      "issueSizeCr": 5486051,
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-20",
+      "allotmentDate": "2026-08-21",
+      "listingDate": "2026-08-25",
       "gmp": null,
       "subscription": {
-        "qib": 0.20921050152773546,
-        "nii": 0.15573044472022796,
-        "bnii": 0.181861848870003,
-        "snii": 0.10346763412473937,
-        "retail": 0.43143179938899073,
-        "total": 0.23647211700978715
+        "qib": 0.02893004881858015,
+        "nii": 6.226525018884103,
+        "bnii": 4.671907855786701,
+        "snii": 9.335759345078905,
+        "retail": 5.978969552934846,
+        "total": 4.332014047991898
       }
     },
     {
@@ -115,31 +115,31 @@
       }
     },
     {
-      "symbol": "SKYTECH",
-      "id": "skytech-infinite-platform-limited",
-      "company": "Skytech Infinite Platform Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "HORIZONIND",
+      "id": "horizon-industrial-parks-limited",
+      "company": "Horizon Industrial Parks Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 73,
-        "max": 77
+        "min": 57,
+        "max": 60
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-14",
-      "closeDate": "2026-08-18",
-      "allotmentDate": "2026-08-19",
-      "listingDate": "2026-08-21",
+      "lotSize": 250,
+      "issueSizeCr": 2600,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
+        "qib": 0.20921050152773546,
+        "nii": 0.15573044472022796,
+        "bnii": 0.181861848870003,
+        "snii": 0.10346763412473937,
+        "retail": 0.43143179938899073,
+        "total": 0.23647211700978715
       }
     },
     {
@@ -227,32 +227,67 @@
       }
     },
     {
-      "symbol": "GAJA",
-      "id": "gaja-alternative-asset-management-limited",
-      "company": "Gaja Alternative Asset Management Limited",
+      "symbol": "SHIPROCKET",
+      "id": "shiprocket-limited",
+      "company": "Shiprocket Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 152,
-        "max": 160
+        "min": 97,
+        "max": 97
       },
-      "lotSize": 93,
-      "issueSizeCr": 450,
-      "openDate": "2026-08-19",
-      "closeDate": "2026-08-21",
-      "allotmentDate": "2026-08-24",
-      "listingDate": "2026-08-26",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-19",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "BLEL",
+      "id": "behari-lal-engineering-limited",
+      "company": "Behari Lal Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 285,
+        "max": 285
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PRAMODINI",
+      "id": "pramodini-medicare-limited",
+      "company": "Pramodini Medicare Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 118,
+        "max": 118
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-19",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "MILKYMIST",
@@ -1046,16 +1081,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1067,16 +1102,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1721,16 +1756,16 @@
       }
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1742,16 +1777,16 @@
       "subscription": null
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2548,7 +2583,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2569,7 +2604,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2590,7 +2625,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3283,72 +3318,30 @@
       "subscription": null
     },
     {
+      "symbol": "SKYTECH",
+      "id": "skytech-infinite-platform-limited",
+      "company": "Skytech Infinite Platform Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "CREDENT",
       "id": "credent-connect-n-care-limited",
       "company": "Credent Connect N Care Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SHIPROCKET",
-      "id": "shiprocket-limited",
-      "company": "Shiprocket Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "BLEL",
-      "id": "behari-lal-engineering-limited",
-      "company": "Behari Lal Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PRAMODINI",
-      "id": "pramodini-medicare-limited",
-      "company": "Pramodini Medicare Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
