@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T12:25:44.049Z",
+  "lastUpdated": "2026-08-19T13:24:20.767Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -87,34 +87,6 @@
       }
     },
     {
-      "symbol": "LALITHAA",
-      "id": "lalithaa-jewellery-mart-limited",
-      "company": "Lalithaa Jewellery Mart Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 190,
-        "max": 201
-      },
-      "lotSize": 74,
-      "issueSizeCr": 1200,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 145.38460331441223,
-        "nii": 73.89543809353967,
-        "bnii": 85.51420973351773,
-        "snii": 50.65789481358354,
-        "retail": 11.808393859715267,
-        "total": 62.97144265560794
-      }
-    },
-    {
       "symbol": "HORIZONIND",
       "id": "horizon-industrial-parks-limited",
       "company": "Horizon Industrial Parks Limited",
@@ -143,6 +115,34 @@
       }
     },
     {
+      "symbol": "LALITHAA",
+      "id": "lalithaa-jewellery-mart-limited",
+      "company": "Lalithaa Jewellery Mart Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 190,
+        "max": 201
+      },
+      "lotSize": 74,
+      "issueSizeCr": 1200,
+      "openDate": "2026-08-17",
+      "closeDate": "2026-08-19",
+      "allotmentDate": "2026-08-20",
+      "listingDate": "2026-08-24",
+      "gmp": null,
+      "subscription": {
+        "qib": 145.38460331441223,
+        "nii": 73.89662774321363,
+        "bnii": 85.51420973351773,
+        "snii": 50.66146376260544,
+        "retail": 11.809211990938836,
+        "total": 62.972104113096385
+      }
+    },
+    {
       "symbol": "FASCINATE",
       "id": "fascinate-textiles-limited",
       "company": "Fascinate Textiles Limited",
@@ -166,6 +166,34 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
