@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T07:23:37.974Z",
+  "lastUpdated": "2026-08-20T08:04:11.121Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-27",
       "gmp": null,
       "subscription": {
-        "qib": 0.020007711642845923,
-        "nii": 5.594865073245952,
-        "bnii": 3.1823587999446725,
-        "snii": 10.419879851929021,
-        "retail": 3.6520032028194116,
-        "total": 3.037950312044125
+        "qib": 0.022205090378187384,
+        "nii": 6.599568234387047,
+        "bnii": 3.8611173691415006,
+        "snii": 12.076472498526599,
+        "retail": 4.166295480445381,
+        "total": 3.5114193981464616
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-26",
       "gmp": null,
       "subscription": {
-        "qib": 0.09374740909015537,
-        "nii": 2.328413201189764,
-        "bnii": 1.7791050905615764,
-        "snii": 3.4270300296814633,
-        "retail": 2.226284092019929,
-        "total": 1.638872853217027
+        "qib": 0.0943257001674764,
+        "nii": 2.5525501728930773,
+        "bnii": 1.9746701739045363,
+        "snii": 3.7083108096904174,
+        "retail": 2.385018517152785,
+        "total": 1.7664346554333528
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-25",
       "gmp": null,
       "subscription": {
-        "qib": 12.31501956060726,
-        "nii": 104.44339787953643,
-        "bnii": 100.16548470898067,
-        "snii": 112.99922422064797,
-        "retail": 37.624366620330925,
-        "total": 44.71163884550107
+        "qib": 20.034895842637276,
+        "nii": 121.84706769015101,
+        "bnii": 118.6532763918094,
+        "snii": 128.2346502868342,
+        "retail": 40.84999177914294,
+        "total": 52.25950724847436
       }
     },
     {
@@ -106,84 +106,28 @@
       "listingDate": "2026-08-25",
       "gmp": null,
       "subscription": {
-        "qib": 1.0210627627779747,
-        "nii": 1.4496259899025716,
-        "bnii": 1.1005318879489387,
-        "snii": 2.1478141938098374,
-        "retail": 1.6638902356951089,
-        "total": 1.4343114764775269
+        "qib": 1.0227242794184692,
+        "nii": 1.668811103794134,
+        "bnii": 1.2696013373182715,
+        "snii": 2.467230636745859,
+        "retail": 1.7514006382655387,
+        "total": 1.5255096354939321
       }
     },
     {
-      "symbol": "HORIZONIND",
-      "id": "horizon-industrial-parks-limited",
-      "company": "Horizon Industrial Parks Limited",
+      "symbol": "HTEL",
+      "id": "hy-tech-engineers-limited",
+      "company": "Hy-Tech Engineers Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 57,
-        "max": 60
+        "min": 500,
+        "max": 530
       },
-      "lotSize": 250,
-      "issueSizeCr": 2600,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.8463021244408921,
-        "nii": 0.9753333431054593,
-        "bnii": 1.131241324248595,
-        "snii": 0.6635173671209138,
-        "retail": 0.9590607102727291,
-        "total": 1.4473400470892563
-      }
-    },
-    {
-      "symbol": "LALITHAA",
-      "id": "lalithaa-jewellery-mart-limited",
-      "company": "Lalithaa Jewellery Mart Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 190,
-        "max": 201
-      },
-      "lotSize": 74,
-      "issueSizeCr": 1200,
-      "openDate": "2026-08-17",
-      "closeDate": "2026-08-19",
-      "allotmentDate": "2026-08-20",
-      "listingDate": "2026-08-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 145.38460331441223,
-        "nii": 73.89662774321363,
-        "bnii": 85.51420973351773,
-        "snii": 50.66146376260544,
-        "retail": 11.809211990938836,
-        "total": 62.972104113096385
-      }
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 938,
-        "max": 988
-      },
-      "lotSize": 15,
-      "issueSizeCr": 150,
+      "lotSize": 283,
+      "issueSizeCr": 60,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
@@ -212,6 +156,34 @@
       },
       "lotSize": 100,
       "issueSizeCr": 42231600,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
