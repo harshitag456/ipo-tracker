@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T09:58:54.041Z",
+  "lastUpdated": "2026-08-21T10:30:12.481Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 0.6414410233619098,
-        "nii": 2.7498276492082825,
-        "bnii": 1.999651035429039,
-        "snii": 4.2501822473704305,
-        "retail": 2.2864420816462574,
-        "total": 1.910091227331678
+        "qib": 1.7541735313906108,
+        "nii": 3.3953995127892815,
+        "bnii": 2.563836308210625,
+        "snii": 5.058527441246919,
+        "retail": 2.493951060897082,
+        "total": 2.4668238033727063
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-27",
       "gmp": null,
       "subscription": {
-        "qib": 2.9288282905804386,
-        "nii": 42.852320740169624,
-        "bnii": 34.834204343222154,
-        "snii": 58.88856095252458,
-        "retail": 16.795524459035185,
-        "total": 18.440662675581017
+        "qib": 3.258458231184135,
+        "nii": 46.893955281418656,
+        "bnii": 39.15496697687479,
+        "snii": 62.371939050713664,
+        "retail": 17.412568131946855,
+        "total": 19.70784565357678
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-26",
       "gmp": null,
       "subscription": {
-        "qib": 31.78700275258262,
-        "nii": 58.74885161705878,
-        "bnii": 68.71507800914321,
-        "snii": 38.81638781567646,
-        "retail": 9.11617766359661,
-        "total": 26.229129115755548
+        "qib": 43.57153398444625,
+        "nii": 61.90498324131039,
+        "bnii": 72.17310252922407,
+        "snii": 41.3687333145406,
+        "retail": 9.851594783960234,
+        "total": 30.640159839260583
       }
     },
     {
@@ -1207,16 +1207,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1228,16 +1228,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2709,7 +2709,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2730,7 +2730,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2751,7 +2751,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
