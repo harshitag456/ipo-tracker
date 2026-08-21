@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T12:27:31.127Z",
+  "lastUpdated": "2026-08-21T13:26:12.980Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -79,11 +79,11 @@
       "gmp": null,
       "subscription": {
         "qib": 43.580169797867576,
-        "nii": 62.350464254024594,
+        "nii": 62.350704137642346,
         "bnii": 72.22378650140863,
-        "snii": 42.60380884474439,
-        "retail": 11.03356262565662,
-        "total": 31.329071411025158
+        "snii": 42.60452849586284,
+        "retail": 11.035442530025328,
+        "total": 31.33006276692287
       }
     },
     {
@@ -155,7 +155,7 @@
         "max": 138
       },
       "lotSize": 100,
-      "issueSizeCr": 42231600,
+      "issueSizeCr": 29583600,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
@@ -211,7 +211,7 @@
         "max": 100
       },
       "lotSize": 1200,
-      "issueSizeCr": 5024400,
+      "issueSizeCr": 5326800,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
