@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T09:06:19.906Z",
+  "lastUpdated": "2026-08-21T09:58:54.041Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 0.05844930853369497,
-        "nii": 2.3530030450669916,
-        "bnii": 1.6783926070668067,
-        "snii": 3.702225153608498,
-        "retail": 2.0222256848987024,
-        "total": 1.5279341015985097
+        "qib": 0.6414410233619098,
+        "nii": 2.7498276492082825,
+        "bnii": 1.999651035429039,
+        "snii": 4.2501822473704305,
+        "retail": 2.2864420816462574,
+        "total": 1.910091227331678
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-27",
       "gmp": null,
       "subscription": {
-        "qib": 2.8751428585306753,
-        "nii": 38.48931380107941,
-        "bnii": 30.730496417810883,
-        "snii": 54.00695574616985,
-        "retail": 15.60122783555653,
-        "total": 16.89239396437822
+        "qib": 2.9288282905804386,
+        "nii": 42.852320740169624,
+        "bnii": 34.834204343222154,
+        "snii": 58.88856095252458,
+        "retail": 16.795524459035185,
+        "total": 18.440662675581017
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-08-26",
       "gmp": null,
       "subscription": {
-        "qib": 7.861545923358814,
-        "nii": 41.434154894804955,
-        "bnii": 47.34065484899219,
-        "snii": 29.62114845706137,
-        "retail": 7.926609427284544,
-        "total": 15.088209118531818
+        "qib": 31.78700275258262,
+        "nii": 58.74885161705878,
+        "bnii": 68.71507800914321,
+        "snii": 38.81638781567646,
+        "retail": 9.11617766359661,
+        "total": 26.229129115755548
       }
     },
     {
@@ -1207,16 +1207,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1228,16 +1228,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2709,7 +2709,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2730,7 +2730,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2751,7 +2751,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
