@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T10:30:12.481Z",
+  "lastUpdated": "2026-08-21T10:58:07.706Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 1.7541735313906108,
-        "nii": 3.3953995127892815,
-        "bnii": 2.563836308210625,
-        "snii": 5.058527441246919,
-        "retail": 2.493951060897082,
-        "total": 2.4668238033727063
+        "qib": 1.7547897007901494,
+        "nii": 3.5753556638246042,
+        "bnii": 2.7032120270365327,
+        "snii": 5.319644530843198,
+        "retail": 2.6087048554641425,
+        "total": 2.5633529760695923
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-08-27",
       "gmp": null,
       "subscription": {
-        "qib": 3.258458231184135,
-        "nii": 46.893955281418656,
-        "bnii": 39.15496697687479,
-        "snii": 62.371939050713664,
-        "retail": 17.412568131946855,
-        "total": 19.70784565357678
+        "qib": 3.3053664846080557,
+        "nii": 50.016761757902856,
+        "bnii": 42.03989328606117,
+        "snii": 65.97050608188314,
+        "retail": 18.06180918058736,
+        "total": 20.717902717797724
       }
     },
     {
@@ -78,96 +78,12 @@
       "listingDate": "2026-08-26",
       "gmp": null,
       "subscription": {
-        "qib": 43.57153398444625,
-        "nii": 61.90498324131039,
-        "bnii": 72.17310252922407,
-        "snii": 41.3687333145406,
-        "retail": 9.851594783960234,
-        "total": 30.640159839260583
-      }
-    },
-    {
-      "symbol": "SUNSHINE",
-      "id": "sunshine-pictures-limited",
-      "company": "Sunshine Pictures Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 342,
-        "max": 360
-      },
-      "lotSize": 41,
-      "issueSizeCr": 5486051,
-      "openDate": "2026-08-18",
-      "closeDate": "2026-08-20",
-      "allotmentDate": "2026-08-21",
-      "listingDate": "2026-08-25",
-      "gmp": null,
-      "subscription": {
-        "qib": 123.51511704465126,
-        "nii": 197.03689205098368,
-        "bnii": 198.42249989792376,
-        "snii": 194.26567635710347,
-        "retail": 56.59936026785047,
-        "total": 105.81206445218974
-      }
-    },
-    {
-      "symbol": "SHANKESH",
-      "id": "shankesh-jewellers-limited",
-      "company": "Shankesh Jewellers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 880,
-        "max": 930
-      },
-      "lotSize": 160,
-      "issueSizeCr": 27637400,
-      "openDate": "2026-08-18",
-      "closeDate": "2026-08-20",
-      "allotmentDate": "2026-08-21",
-      "listingDate": "2026-08-25",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.3160630160579505,
-        "nii": 5.676335207605153,
-        "bnii": 5.2857302061699,
-        "snii": 6.45754521047566,
-        "retail": 2.4191334930203277,
-        "total": 2.801942295584968
-      }
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 938,
-        "max": 988
-      },
-      "lotSize": 15,
-      "issueSizeCr": 150,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 43.580169797867576,
+        "nii": 62.20141085467843,
+        "bnii": 72.22378650140863,
+        "snii": 42.156648481934106,
+        "retail": 10.515325863513953,
+        "total": 31.038012991144598
       }
     },
     {
@@ -184,6 +100,34 @@
       },
       "lotSize": 283,
       "issueSizeCr": 60,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
