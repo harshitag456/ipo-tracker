@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T08:37:24.757Z",
+  "lastUpdated": "2026-08-24T09:37:17.013Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,40 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 5.336812144212524,
-        "nii": 0.53806914793123,
-        "bnii": 0.32826374456829777,
-        "snii": 0.9576799546570943,
-        "retail": 1.1388513513513514,
-        "total": 0.6854169201855081
+        "qib": 0.4303249525616698,
+        "nii": 0.6203161408149128,
+        "bnii": 0.38017192518420556,
+        "snii": 1.1006045720763271,
+        "retail": 1.2968175675675675,
+        "total": 0.9046025500615206
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.2712044690299561,
+        "nii": 0.8172525690718827,
+        "bnii": 0.5949267782426778,
+        "snii": 1.2619041507302924,
+        "retail": 0.7838908466844396,
+        "total": 0.6458789224688377
       }
     },
     {
@@ -51,39 +79,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.4930887399313693,
-        "nii": 4.8699115843159415,
-        "bnii": 2.9004597279670254,
-        "snii": 8.808818293580996,
-        "retail": 7.354401243823161,
-        "total": 4.923559550004007
-      }
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 938,
-        "max": 988
-      },
-      "lotSize": 15,
-      "issueSizeCr": 150,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 5.093757219498421,
-        "nii": 0.5984536369159158,
-        "bnii": 0.4185624534743435,
-        "snii": 0.9582360037990605,
-        "retail": 0.651210217125842,
-        "total": 0.4554744638999571
+        "nii": 6.053103678078256,
+        "bnii": 3.650871870323696,
+        "snii": 10.857570948639454,
+        "retail": 8.807368908855132,
+        "total": 5.917476357376628
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 1.87081179519059,
-        "nii": 24.193641900121804,
-        "bnii": 21.20782941296303,
-        "snii": 30.1652723296421,
-        "retail": 10.513808118479913,
-        "total": 10.944673657941117
+        "qib": 1.8866673091758996,
+        "nii": 27.67653166869671,
+        "bnii": 24.3496497108253,
+        "snii": 34.33030166279029,
+        "retail": 11.697314485585043,
+        "total": 12.282336869146821
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-08-27",
       "gmp": null,
       "subscription": {
-        "qib": 69.53129680272141,
-        "nii": 261.60080185042403,
-        "bnii": 275.61442164773763,
-        "snii": 233.57354929022338,
-        "retail": 49.28269639540069,
-        "total": 100.5598034787616
+        "qib": 212.99007039244952,
+        "nii": 296.69660755589825,
+        "bnii": 314.2061890198629,
+        "snii": 261.6774284278885,
+        "retail": 54.49062852819663,
+        "total": 151.5402359964818
       }
     },
     {
@@ -194,6 +194,34 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "LUMINO",
+      "id": "lumino-industries-limited",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 780,
+        "max": 820
+      },
+      "lotSize": 182,
+      "issueSizeCr": 500,
+      "openDate": "2026-08-27",
+      "closeDate": "2026-08-31",
+      "allotmentDate": "2026-09-01",
+      "listingDate": "2026-09-03",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
