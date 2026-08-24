@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-08-21T13:26:12.980Z",
+  "lastUpdated": "2026-08-24T03:45:46.451Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "SKYWAYS",
+      "id": "skyways-air-services-limited",
+      "company": "Skyways Air Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 131,
+        "max": 138
+      },
+      "lotSize": 100,
+      "issueSizeCr": 29583600,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "HTEL",
+      "id": "hy-tech-engineers-limited",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 500,
+        "max": 530
+      },
+      "lotSize": 283,
+      "issueSizeCr": 60,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "AUGMONT",
       "id": "augmont-enterprises-limited",
@@ -23,11 +107,11 @@
       "gmp": null,
       "subscription": {
         "qib": 1.75741059034875,
-        "nii": 3.9735109622411695,
+        "nii": 3.974320950060901,
         "bnii": 3.0511479746808847,
-        "snii": 5.8182386225570175,
-        "retail": 2.7892164424235637,
-        "total": 2.738935554553597
+        "snii": 5.820668587496095,
+        "retail": 2.7913141457555373,
+        "total": 2.7401544505125
       }
     },
     {
@@ -51,55 +135,27 @@
       "gmp": null,
       "subscription": {
         "qib": 3.3138090450122624,
-        "nii": 52.96548959136469,
+        "nii": 52.97500385505012,
         "bnii": 44.98789591551335,
-        "snii": 68.92068432403526,
-        "retail": 18.65239840049359,
-        "total": 21.646657774801675
+        "snii": 68.94922712389426,
+        "retail": 18.6673273561117,
+        "total": 21.65620218122292
       }
     },
     {
-      "symbol": "GAJA",
-      "id": "gaja-alternative-asset-management-limited",
-      "company": "Gaja Alternative Asset Management Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 152,
-        "max": 160
+        "min": 95,
+        "max": 100
       },
-      "lotSize": 93,
-      "issueSizeCr": 450,
-      "openDate": "2026-08-19",
-      "closeDate": "2026-08-21",
-      "allotmentDate": "2026-08-24",
-      "listingDate": "2026-08-26",
-      "gmp": null,
-      "subscription": {
-        "qib": 43.580169797867576,
-        "nii": 62.350704137642346,
-        "bnii": 72.22378650140863,
-        "snii": 42.60452849586284,
-        "retail": 11.035442530025328,
-        "total": 31.33006276692287
-      }
-    },
-    {
-      "symbol": "HTEL",
-      "id": "hy-tech-engineers-limited",
-      "company": "Hy-Tech Engineers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 500,
-        "max": 530
-      },
-      "lotSize": 283,
-      "issueSizeCr": 60,
+      "lotSize": 0,
+      "issueSizeCr": 0,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
@@ -115,47 +171,19 @@
       }
     },
     {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
-        "min": 938,
-        "max": 988
+        "min": 96,
+        "max": 102
       },
-      "lotSize": 15,
-      "issueSizeCr": 150,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "SKYWAYS",
-      "id": "skyways-air-services-limited",
-      "company": "Skyways Air Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 131,
-        "max": 138
-      },
-      "lotSize": 100,
-      "issueSizeCr": 29583600,
+      "lotSize": 0,
+      "issueSizeCr": 0,
       "openDate": "2026-08-24",
       "closeDate": "2026-08-27",
       "allotmentDate": "2026-08-28",
@@ -199,60 +227,88 @@
       }
     },
     {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "LALITHAA",
+      "id": "lalithaa-jewellery-mart-limited",
+      "company": "Lalithaa Jewellery Mart Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 95,
-        "max": 100
+        "min": 201,
+        "max": 201
       },
-      "lotSize": 1200,
-      "issueSizeCr": 5326800,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-24",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "HORIZONIND",
+      "id": "horizon-industrial-parks-limited",
+      "company": "Horizon Industrial Parks Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 96,
-        "max": 102
+        "min": 60,
+        "max": 60
       },
-      "lotSize": 1200,
-      "issueSizeCr": 3429600,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-24",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "FASCINATE",
+      "id": "fascinate-textiles-limited",
+      "company": "Fascinate Textiles Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 151,
+        "max": 151
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-24",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "783TCHFL31",
+      "id": "tata-capital-housing-finance-limited",
+      "company": "Tata Capital Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-24",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "SKYTECH",
@@ -1639,27 +1695,6 @@
       "priceBand": {
         "min": 10000,
         "max": 10000
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-06-22",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "779TCHFL30",
-      "id": "tata-capital-housing-finance-limited",
-      "company": "Tata Capital Housing Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3388,6 +3423,27 @@
       "subscription": null
     },
     {
+      "symbol": "GAJA",
+      "id": "gaja-alternative-asset-management-limited",
+      "company": "Gaja Alternative Asset Management Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "SUNSHINE",
       "id": "sunshine-pictures-limited",
       "company": "Sunshine Pictures Limited",
@@ -3412,69 +3468,6 @@
       "symbol": "SHANKESH",
       "id": "shankesh-jewellers-limited",
       "company": "Shankesh Jewellers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "LALITHAA",
-      "id": "lalithaa-jewellery-mart-limited",
-      "company": "Lalithaa Jewellery Mart Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "HORIZONIND",
-      "id": "horizon-industrial-parks-limited",
-      "company": "Horizon Industrial Parks Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "FASCINATE",
-      "id": "fascinate-textiles-limited",
-      "company": "Fascinate Textiles Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
