@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T06:05:00.942Z",
+  "lastUpdated": "2026-08-24T07:34:52.393Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,39 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 1.7789373814041745,
-        "nii": 0.26147742301152466,
-        "bnii": 0.15466181749480445,
-        "snii": 0.47510863404496506,
-        "retail": 0.5453513513513514,
-        "total": 0.32901675252504764
-      }
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 938,
-        "max": 988
-      },
-      "lotSize": 15,
-      "issueSizeCr": 150,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 5.615165438817157,
-        "nii": 0.25254875033156216,
-        "bnii": 0.17614773981569423,
-        "snii": 0.405350771363298,
-        "retail": 0.29340958346015206,
-        "total": 0.20137137503753352
+        "nii": 0.443809433843441,
+        "bnii": 0.2764500283393161,
+        "snii": 0.7785282448516909,
+        "retail": 0.9613445945945946,
+        "total": 0.5762753687854081
       }
     },
     {
@@ -78,12 +50,40 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 7.922922482542375,
-        "nii": 1.883978822432722,
-        "bnii": 1.048380986144257,
-        "snii": 3.5551757663913723,
-        "retail": 3.1369166209847554,
-        "total": 2.0003417945015944
+        "qib": 0.49150415543486087,
+        "nii": 3.645239231549889,
+        "bnii": 2.141866360130638,
+        "snii": 6.651987261805501,
+        "retail": 5.855145051116645,
+        "total": 3.8967190924248265
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": 3.409207587853274,
+        "nii": 0.4593098373420267,
+        "bnii": 0.3158129476089021,
+        "snii": 0.7463036168082758,
+        "retail": 0.5260470335424773,
+        "total": 0.36286824865871653
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 1.7918987198384166,
-        "nii": 14.130827649208282,
-        "bnii": 12.183190869917519,
-        "snii": 18.02610476620266,
-        "retail": 6.74240036039676,
-        "total": 6.890492728161318
+        "qib": 1.8518841126498344,
+        "nii": 21.35281790499391,
+        "bnii": 18.755424252306867,
+        "snii": 26.547609955913494,
+        "retail": 9.283477839175033,
+        "total": 9.718304266239537
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-08-27",
       "gmp": null,
       "subscription": {
-        "qib": 3.5481421394095713,
-        "nii": 150.10676946800308,
-        "bnii": 153.96055451649121,
-        "snii": 142.39919580545745,
-        "retail": 32.19185750044212,
-        "total": 49.30772424398454
+        "qib": 18.57948485578141,
+        "nii": 222.1804934464148,
+        "bnii": 232.31159100823578,
+        "snii": 201.91828894935665,
+        "retail": 43.64303393386638,
+        "total": 74.77812219171979
       }
     },
     {
@@ -194,6 +194,34 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ANNU",
+      "id": "annu-projects-limited",
+      "company": "Annu Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 940,
+        "max": 990
+      },
+      "lotSize": 151,
+      "issueSizeCr": 17683000,
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-28",
+      "allotmentDate": "2026-08-31",
+      "listingDate": "2026-09-02",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
