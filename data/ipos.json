@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T06:29:59.943Z",
+  "lastUpdated": "2026-08-25T07:25:39.735Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0,
-        "nii": 0.04500197930215461,
-        "bnii": 0.006436478083718961,
-        "snii": 0.12213299809605244,
-        "retail": 0.11656110388508738,
-        "total": 0.07628134366340553
+        "nii": 0.05956144319402816,
+        "bnii": 0.012872956167437923,
+        "snii": 0.15293843704948779,
+        "retail": 0.15479997737940396,
+        "total": 0.10122456596731323
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.4637689753320683,
-        "nii": 1.4145569620253164,
-        "bnii": 0.894483279803514,
-        "snii": 2.4547043264689212,
-        "retail": 2.4939662162162164,
-        "total": 1.6835645425167998
+        "qib": 0.4639468690702087,
+        "nii": 1.6338717803388123,
+        "bnii": 1.1060362743245797,
+        "snii": 2.6895427923672774,
+        "retail": 2.694628378378378,
+        "total": 1.8310888465230737
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.5360317144543985,
-        "nii": 1.693753155188199,
-        "bnii": 1.2743056446851657,
-        "snii": 2.5326481761942654,
-        "retail": 1.457974268332484,
-        "total": 1.2475644630153808
+        "qib": 0.5366413609877557,
+        "nii": 1.9134130793781177,
+        "bnii": 1.4776869368791232,
+        "snii": 2.784865364376107,
+        "retail": 1.5836439627574725,
+        "total": 1.357701058801918
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.5482096434884856,
-        "nii": 15.036809184316752,
-        "bnii": 9.34382067946622,
-        "snii": 26.42279485603345,
-        "retail": 18.63031734183879,
-        "total": 12.866128925415062
+        "qib": 0.5537556892262653,
+        "nii": 16.688053612373835,
+        "bnii": 10.497373472106311,
+        "snii": 29.069423312174013,
+        "retail": 20.393864111493713,
+        "total": 14.120783574641427
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 3.1572259679089476,
-        "nii": 65.33096772228988,
-        "bnii": 64.26546703244,
-        "snii": 67.46197104870345,
-        "retail": 20.20266836633621,
-        "total": 24.92262285155817
+        "qib": 10.145966830993732,
+        "nii": 80.71749634591961,
+        "bnii": 81.90432341524865,
+        "snii": 78.34384003887943,
+        "retail": 22.47245279906497,
+        "total": 31.315879900969403
       }
     },
     {
@@ -252,6 +252,34 @@
         "snii": 280.65630860641744,
         "retail": 60.689363525554484,
         "total": 184.06799793461417
+      }
+    },
+    {
+      "symbol": "PRIORITY",
+      "id": "priority-jewels-limited",
+      "company": "Priority Jewels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 190,
+        "max": 200
+      },
+      "lotSize": 75,
+      "issueSizeCr": 4575000,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -1305,16 +1333,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1326,16 +1354,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2786,7 +2814,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2807,7 +2835,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2828,7 +2856,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
