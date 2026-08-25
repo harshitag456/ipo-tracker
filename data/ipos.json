@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-08-24T13:30:35.014Z",
+  "lastUpdated": "2026-08-25T03:40:54.968Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "ANNU",
+      "id": "annu-projects-limited",
+      "company": "Annu Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 940,
+        "max": 990
+      },
+      "lotSize": 151,
+      "issueSizeCr": 17683000,
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-28",
+      "allotmentDate": "2026-08-31",
+      "listingDate": "2026-09-02",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "SKYWAYS",
       "id": "skyways-air-services-limited",
@@ -115,31 +143,31 @@
       }
     },
     {
-      "symbol": "TEMPSENS",
-      "id": "tempsens-instruments-india-limited",
-      "company": "Tempsens Instruments (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "SUMAX",
+      "id": "sumax-engineering-limited",
+      "company": "Sumax Engineering Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 285,
-        "max": 300
+        "min": 0,
+        "max": 0
       },
-      "lotSize": 50,
-      "issueSizeCr": 95,
-      "openDate": "2026-08-20",
-      "closeDate": "2026-08-24",
-      "allotmentDate": "2026-08-25",
-      "listingDate": "2026-08-27",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-28",
+      "allotmentDate": "2026-08-31",
+      "listingDate": "2026-09-02",
       "gmp": null,
       "subscription": {
-        "qib": 302.8825908159284,
-        "nii": 314.44373168851195,
-        "bnii": 331.33743541442783,
-        "snii": 280.65630860641744,
-        "retail": 60.689363525554484,
-        "total": 184.06799793461417
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -199,6 +227,34 @@
       }
     },
     {
+      "symbol": "TEMPSENS",
+      "id": "tempsens-instruments-india-limited",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 285,
+        "max": 300
+      },
+      "lotSize": 50,
+      "issueSizeCr": 95,
+      "openDate": "2026-08-20",
+      "closeDate": "2026-08-24",
+      "allotmentDate": "2026-08-25",
+      "listingDate": "2026-08-27",
+      "gmp": null,
+      "subscription": {
+        "qib": 302.8825908159284,
+        "nii": 314.44373168851195,
+        "bnii": 331.33743541442783,
+        "snii": 280.65630860641744,
+        "retail": 60.689363525554484,
+        "total": 184.06799793461417
+      }
+    },
+    {
       "symbol": "LUMINO",
       "id": "lumino-industries-limited",
       "company": "Lumino Industries Limited",
@@ -227,60 +283,46 @@
       }
     },
     {
-      "symbol": "ANNU",
-      "id": "annu-projects-limited",
-      "company": "Annu Projects Limited",
+      "symbol": "SUNSHINE",
+      "id": "sunshine-pictures-limited",
+      "company": "Sunshine Pictures Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 940,
-        "max": 990
+        "min": 360,
+        "max": 360
       },
-      "lotSize": 151,
-      "issueSizeCr": 17683000,
-      "openDate": "2026-08-25",
-      "closeDate": "2026-08-28",
-      "allotmentDate": "2026-08-31",
-      "listingDate": "2026-09-02",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-25",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "SUMAX",
-      "id": "sumax-engineering-limited",
-      "company": "Sumax Engineering Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "SHANKESH",
+      "id": "shankesh-jewellers-limited",
+      "company": "Shankesh Jewellers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 950,
-        "max": 101
+        "min": 93,
+        "max": 93
       },
-      "lotSize": 1200,
-      "issueSizeCr": 3852000,
-      "openDate": "2026-08-25",
-      "closeDate": "2026-08-28",
-      "allotmentDate": "2026-08-31",
-      "listingDate": "2026-09-02",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-25",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "LALITHAA",
@@ -1263,16 +1305,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1284,16 +1326,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2744,7 +2786,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2765,7 +2807,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2786,7 +2828,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3479,51 +3521,30 @@
       "subscription": null
     },
     {
+      "symbol": "TEMPSENS",
+      "id": "tempsens-instruments-india-limited",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "GAJA",
       "id": "gaja-alternative-asset-management-limited",
       "company": "Gaja Alternative Asset Management Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SUNSHINE",
-      "id": "sunshine-pictures-limited",
-      "company": "Sunshine Pictures Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SHANKESH",
-      "id": "shankesh-jewellers-limited",
-      "company": "Shankesh Jewellers Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
