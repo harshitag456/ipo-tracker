@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T11:00:09.624Z",
+  "lastUpdated": "2026-08-26T11:31:20.473Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.5769988124187072,
-        "nii": 0.3893055477011819,
-        "bnii": 0.33562550644506683,
-        "snii": 0.49666565298106274,
-        "retail": 0.4970711983260759,
-        "total": 0.46195769948538146
+        "nii": 0.3923583385172199,
+        "bnii": 0.3377709991396398,
+        "snii": 0.5015330404248488,
+        "retail": 0.5028608267827858,
+        "total": 0.46607363004015157
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.587984027260826,
-        "nii": 11.421262545883923,
-        "bnii": 10.489225299689402,
-        "snii": 13.285337038272967,
-        "retail": 4.9140169197540144,
-        "total": 5.074128020044909
+        "qib": 0.5918264047539595,
+        "nii": 12.170320267645524,
+        "bnii": 11.293036232256076,
+        "snii": 13.924888338424417,
+        "retail": 5.04490069637219,
+        "total": 5.300931532658196
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.8272662917843173,
-        "nii": 79.45235022003754,
-        "bnii": 52.047126490996774,
-        "snii": 134.26283937581022,
-        "retail": 63.09870629262709,
-        "total": 49.491389335680886
+        "qib": 0.8480356671492677,
+        "nii": 82.00309908815144,
+        "bnii": 54.008790595166275,
+        "snii": 137.99175866811922,
+        "retail": 64.49877278317388,
+        "total": 50.76140627550577
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.487772770398482,
-        "nii": 6.579161156244096,
-        "bnii": 5.15104855469488,
-        "snii": 9.435386359342528,
-        "retail": 6.750837837837838,
-        "total": 4.928862613069403
+        "qib": 0.49128320683111953,
+        "nii": 6.889382202909503,
+        "bnii": 5.425278669941432,
+        "snii": 9.817589268845644,
+        "retail": 6.894168918918919,
+        "total": 5.068172906610419
       }
     },
     {
@@ -1382,16 +1382,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1403,16 +1403,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2863,7 +2863,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2884,7 +2884,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2905,7 +2905,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
