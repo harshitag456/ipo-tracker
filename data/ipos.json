@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:41:58.555Z",
+  "lastUpdated": "2026-08-26T07:38:54.016Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.5712774981620766,
-        "nii": 0.3723764349940621,
+        "nii": 0.3768168579992083,
         "bnii": 0.33133452105592087,
-        "snii": 0.45446028027770746,
-        "retail": 0.40272928801673924,
-        "total": 0.40744296782220213
+        "snii": 0.4677815511764903,
+        "retail": 0.4270662217949443,
+        "total": 0.4213876039133631
       }
     },
     {
@@ -50,40 +50,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.5479839951741664,
-        "nii": 5.813776514276425,
-        "bnii": 4.961856983340606,
-        "snii": 7.517615576148061,
-        "retail": 3.290461736199986,
-        "total": 3.0510199331364003
-      }
-    },
-    {
-      "symbol": "SKYWAYS",
-      "id": "skyways-air-services-limited",
-      "company": "Skyways Air Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 131,
-        "max": 138
-      },
-      "lotSize": 100,
-      "issueSizeCr": 29583600,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.47781072106261857,
-        "nii": 4.0094936708860756,
-        "bnii": 3.002881163801247,
-        "snii": 6.022718685055734,
-        "retail": 4.986067567567567,
-        "total": 3.4914412039102745
+        "qib": 0.5511044228251663,
+        "nii": 7.356289199202539,
+        "bnii": 6.535755769181405,
+        "snii": 8.997356059244808,
+        "retail": 3.6999081404772296,
+        "total": 3.5865416871969367
       }
     },
     {
@@ -106,12 +78,40 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.6959155554844542,
-        "nii": 45.57173396277037,
-        "bnii": 29.170267095634525,
-        "snii": 78.37469265225886,
-        "retail": 43.26165779908683,
-        "total": 32.03302725769817
+        "qib": 0.7226271227113112,
+        "nii": 54.632443479235526,
+        "bnii": 35.238475799807226,
+        "snii": 93.42040834646916,
+        "retail": 48.45716826346863,
+        "total": 36.64406946860269
+      }
+    },
+    {
+      "symbol": "SKYWAYS",
+      "id": "skyways-air-services-limited",
+      "company": "Skyways Air Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 131,
+        "max": 138
+      },
+      "lotSize": 100,
+      "issueSizeCr": 29583600,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.4806214421252372,
+        "nii": 4.794398261855281,
+        "bnii": 3.724825240884187,
+        "snii": 6.9335443037974684,
+        "retail": 5.438189189189189,
+        "total": 3.886947497938047
       }
     },
     {
@@ -199,31 +199,31 @@
       }
     },
     {
-      "symbol": "AUGMONT",
-      "id": "augmont-enterprises-limited",
-      "company": "Augmont Enterprises Limited",
+      "symbol": "ESDS",
+      "id": "esds-software-solution-limited",
+      "company": "ESDS Software Solution Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 750,
-        "max": 788
+        "min": 408,
+        "max": 429
       },
-      "lotSize": 19,
-      "issueSizeCr": 620,
-      "openDate": "2026-08-21",
-      "closeDate": "2026-08-25",
-      "allotmentDate": "2026-08-26",
-      "listingDate": "2026-08-28",
+      "lotSize": 34,
+      "issueSizeCr": 720,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
       "gmp": null,
       "subscription": {
-        "qib": 226.95952420212,
-        "nii": 121.4749263093788,
-        "bnii": 126.92439892679691,
-        "snii": 110.57597111813101,
-        "retail": 30.983157559001004,
-        "total": 105.77842609881105
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
