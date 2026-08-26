@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T09:32:18.068Z",
+  "lastUpdated": "2026-08-26T10:25:29.909Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.5769988124187072,
-        "nii": 0.38281569869366056,
+        "nii": 0.38580444494712435,
         "bnii": 0.33133452105592087,
-        "snii": 0.4857780758041729,
-        "retail": 0.4675423853418538,
-        "total": 0.44459735339026185
+        "snii": 0.49474431583219985,
+        "retail": 0.4888564157665555,
+        "total": 0.4564498671039982
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.5846069063326231,
-        "nii": 10.143250892009139,
-        "bnii": 9.321455386708422,
-        "snii": 11.78684190261057,
-        "retail": 4.46671284089784,
-        "total": 4.575785895679893
+        "qib": 0.5876551389994096,
+        "nii": 10.974669721316666,
+        "bnii": 10.091735759940446,
+        "snii": 12.740537644069102,
+        "retail": 4.759031477929879,
+        "total": 4.90089508293721
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.76541090411704,
-        "nii": 70.79000907334704,
-        "bnii": 46.282053720388326,
-        "snii": 119.80595706869374,
-        "retail": 57.73904840485722,
-        "total": 44.87399945749354
+        "qib": 0.8201922538534759,
+        "nii": 76.56057334018357,
+        "bnii": 49.961021641372625,
+        "snii": 129.75971720964768,
+        "retail": 61.35958018142638,
+        "total": 47.979100495188696
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.4825545540796964,
-        "nii": 5.93162352792997,
-        "bnii": 4.622142452295485,
-        "snii": 8.550585679198942,
-        "retail": 6.258371621621621,
-        "total": 4.541979339904541
+        "qib": 0.48759487666034157,
+        "nii": 6.325618741734366,
+        "bnii": 4.933756848668052,
+        "snii": 9.109342527866994,
+        "retail": 6.585432432432432,
+        "total": 4.791627793777634
       }
     },
     {
@@ -199,23 +199,23 @@
       }
     },
     {
-      "symbol": "ESDS",
-      "id": "esds-software-solution-limited",
-      "company": "ESDS Software Solution Limited",
+      "symbol": "PERNIASPOP",
+      "id": "purple-style-labs-limited",
+      "company": "Purple Style Labs Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 408,
-        "max": 429
+        "min": 546,
+        "max": 575
       },
-      "lotSize": 34,
-      "issueSizeCr": 720,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
+      "lotSize": 26,
+      "issueSizeCr": 680,
+      "openDate": "2026-08-31",
+      "closeDate": "2026-09-02",
+      "allotmentDate": "2026-09-03",
+      "listingDate": "2026-09-07",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -240,6 +240,34 @@
       },
       "lotSize": 75,
       "issueSizeCr": 4575000,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ESDS",
+      "id": "esds-software-solution-limited",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 408,
+        "max": 429
+      },
+      "lotSize": 34,
+      "issueSizeCr": 720,
       "openDate": "2026-08-28",
       "closeDate": "2026-09-01",
       "allotmentDate": "2026-09-02",
