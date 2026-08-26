@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T13:28:47.362Z",
+  "lastUpdated": "2026-08-26T03:45:45.120Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -31,34 +31,6 @@
       }
     },
     {
-      "symbol": "SKYWAYS",
-      "id": "skyways-air-services-limited",
-      "company": "Skyways Air Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 131,
-        "max": 138
-      },
-      "lotSize": 100,
-      "issueSizeCr": 29583600,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.47167931688804554,
-        "nii": 2.573713709931356,
-        "bnii": 1.8558237294539959,
-        "snii": 4.0094936708860756,
-        "retail": 3.5341216216216216,
-        "total": 2.455056179775281
-      }
-    },
-    {
       "symbol": "SYMBIOTEC",
       "id": "symbiotec-pharmalab-limited",
       "company": "Symbiotec Pharmalab Limited",
@@ -87,6 +59,34 @@
       }
     },
     {
+      "symbol": "SKYWAYS",
+      "id": "skyways-air-services-limited",
+      "company": "Skyways Air Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 131,
+        "max": 138
+      },
+      "lotSize": 100,
+      "issueSizeCr": 29583600,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.47167931688804554,
+        "nii": 2.573713709931356,
+        "bnii": 1.8558237294539959,
+        "snii": 4.0094936708860756,
+        "retail": 3.5341216216216216,
+        "total": 2.455056179775281
+      }
+    },
+    {
       "symbol": "HTEL",
       "id": "hy-tech-engineers-limited",
       "company": "Hy-Tech Engineers Limited",
@@ -112,34 +112,6 @@
         "snii": 42.029140217516996,
         "retail": 27.224574484410258,
         "total": 19.308496541769305
-      }
-    },
-    {
-      "symbol": "AUGMONT",
-      "id": "augmont-enterprises-limited",
-      "company": "Augmont Enterprises Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 750,
-        "max": 788
-      },
-      "lotSize": 19,
-      "issueSizeCr": 620,
-      "openDate": "2026-08-21",
-      "closeDate": "2026-08-25",
-      "allotmentDate": "2026-08-26",
-      "listingDate": "2026-08-28",
-      "gmp": null,
-      "subscription": {
-        "qib": 226.95952420212,
-        "nii": 121.4749263093788,
-        "bnii": 126.92439892679691,
-        "snii": 110.57597111813101,
-        "retail": 30.983142681672412,
-        "total": 105.77841871156282
       }
     },
     {
@@ -227,31 +199,31 @@
       }
     },
     {
-      "symbol": "TEMPSENS",
-      "id": "tempsens-instruments-india-limited",
-      "company": "Tempsens Instruments (India) Limited",
+      "symbol": "AUGMONT",
+      "id": "augmont-enterprises-limited",
+      "company": "Augmont Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 285,
-        "max": 300
+        "min": 750,
+        "max": 788
       },
-      "lotSize": 50,
-      "issueSizeCr": 95,
-      "openDate": "2026-08-20",
-      "closeDate": "2026-08-24",
-      "allotmentDate": "2026-08-25",
-      "listingDate": "2026-08-27",
+      "lotSize": 19,
+      "issueSizeCr": 620,
+      "openDate": "2026-08-21",
+      "closeDate": "2026-08-25",
+      "allotmentDate": "2026-08-26",
+      "listingDate": "2026-08-28",
       "gmp": null,
       "subscription": {
-        "qib": 302.8825908159284,
-        "nii": 314.44373168851195,
-        "bnii": 331.33743541442783,
-        "snii": 280.65630860641744,
-        "retail": 60.689363525554484,
-        "total": 184.06799793461417
+        "qib": 226.95952420212,
+        "nii": 121.4749263093788,
+        "bnii": 126.92439892679691,
+        "snii": 110.57597111813101,
+        "retail": 30.983157559001004,
+        "total": 105.77842609881105
       }
     },
     {
@@ -309,6 +281,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "GAJA",
+      "id": "gaja-alternative-asset-management-limited",
+      "company": "Gaja Alternative Asset Management Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 160,
+        "max": 160
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-26",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "SUNSHINE",
@@ -3549,9 +3542,9 @@
       "subscription": null
     },
     {
-      "symbol": "TEMPSENS",
-      "id": "tempsens-instruments-india-limited",
-      "company": "Tempsens Instruments (India) Limited",
+      "symbol": "AUGMONT",
+      "id": "augmont-enterprises-limited",
+      "company": "Augmont Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -3570,9 +3563,9 @@
       "subscription": null
     },
     {
-      "symbol": "GAJA",
-      "id": "gaja-alternative-asset-management-limited",
-      "company": "Gaja Alternative Asset Management Limited",
+      "symbol": "TEMPSENS",
+      "id": "tempsens-instruments-india-limited",
+      "company": "Tempsens Instruments (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
