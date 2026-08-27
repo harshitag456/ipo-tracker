@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-08-26T12:31:49.223Z",
+  "lastUpdated": "2026-08-27T13:21:32.615Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "LUMINO",
+      "id": "lumino-industries-limited",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 780,
+        "max": 820
+      },
+      "lotSize": 182,
+      "issueSizeCr": 500,
+      "openDate": "2026-08-27",
+      "closeDate": "2026-08-31",
+      "allotmentDate": "2026-09-01",
+      "listingDate": "2026-09-03",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.04059233202317821,
+        "nii": 2.086729668056875,
+        "bnii": 1.3180059944694609,
+        "snii": 3.624177015231704,
+        "retail": 1.9522939073633874,
+        "total": 1.4200924238313768
+      }
+    },
     {
       "symbol": "ANNU",
       "id": "annu-projects-limited",
@@ -22,40 +50,12 @@
       "listingDate": "2026-09-02",
       "gmp": null,
       "subscription": {
-        "qib": 0.5769988124187072,
-        "nii": 0.3923583385172199,
-        "bnii": 0.3377709991396398,
-        "snii": 0.5015330404248488,
-        "retail": 0.506225301136685,
-        "total": 0.46775586721710116
-      }
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 938,
-        "max": 988
-      },
-      "lotSize": 15,
-      "issueSizeCr": 150,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.5918264047539595,
-        "nii": 12.177914110429448,
-        "bnii": 11.29740001796853,
-        "snii": 13.938942295351286,
-        "retail": 5.048815268849538,
-        "total": 5.304515552046034
+        "qib": 1.1606582593451338,
+        "nii": 0.8975418481026975,
+        "bnii": 0.9925305383326827,
+        "snii": 0.7075644273545817,
+        "retail": 0.8058001470338744,
+        "total": 0.8779826386925296
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.8480356671492677,
-        "nii": 82.0661088933509,
-        "bnii": 54.059277368192426,
-        "snii": 138.07981455671936,
-        "retail": 64.54084767078767,
-        "total": 50.7964354173172
+        "qib": 255.76563307390194,
+        "nii": 402.2891154323483,
+        "bnii": 332.3835993588305,
+        "snii": 542.1002539422673,
+        "retail": 170.58165176081488,
+        "total": 244.41285810854825
       }
     },
     {
@@ -106,12 +106,40 @@
       "listingDate": "2026-09-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.49128320683111953,
-        "nii": 6.898309087474022,
-        "bnii": 5.428726620064236,
-        "snii": 9.837474022293595,
-        "retail": 6.912405405405406,
-        "total": 5.079212807095823
+        "qib": 139.68856736242884,
+        "nii": 87.23568864538069,
+        "bnii": 91.33419138484791,
+        "snii": 79.03868316644625,
+        "retail": 25.403412162162162,
+        "total": 71.25267715896645
+      }
+    },
+    {
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 938,
+        "max": 988
+      },
+      "lotSize": 15,
+      "issueSizeCr": 150,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": {
+        "qib": 172.0270626909156,
+        "nii": 73.63357890323519,
+        "bnii": 82.91540191749878,
+        "snii": 55.06993287470801,
+        "retail": 12.95847711212729,
+        "total": 71.25750546917244
       }
     },
     {
@@ -283,23 +311,23 @@
       }
     },
     {
-      "symbol": "LUMINO",
-      "id": "lumino-industries-limited",
-      "company": "Lumino Industries Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "ASHUTOSH",
+      "id": "ashutosh-fibre-limited",
+      "company": "Ashutosh Fibre Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 780,
-        "max": 820
+        "min": 87,
+        "max": 92
       },
-      "lotSize": 182,
-      "issueSizeCr": 500,
-      "openDate": "2026-08-27",
-      "closeDate": "2026-08-31",
-      "allotmentDate": "2026-09-01",
-      "listingDate": "2026-09-03",
+      "lotSize": 1200,
+      "issueSizeCr": 6124800,
+      "openDate": "2026-08-31",
+      "closeDate": "2026-09-02",
+      "allotmentDate": "2026-09-03",
+      "listingDate": "2026-09-07",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -1382,16 +1410,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1403,16 +1431,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2863,7 +2891,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2884,7 +2912,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2905,7 +2933,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
