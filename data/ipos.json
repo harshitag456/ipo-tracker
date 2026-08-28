@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-08-27T13:21:32.615Z",
+  "lastUpdated": "2026-08-28T14:43:56.052Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "ESDS",
+      "id": "esds-software-solution-limited",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 408,
+        "max": 429
+      },
+      "lotSize": 34,
+      "issueSizeCr": 720,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.009883799341080043,
+        "nii": 3.51465078791217,
+        "bnii": 2.4011467065902194,
+        "snii": 5.74165895055607,
+        "retail": 2.6940302965884566,
+        "total": 2.102978545515716
+      }
+    },
+    {
+      "symbol": "PRIORITY",
+      "id": "priority-jewels-limited",
+      "company": "Priority Jewels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 190,
+        "max": 200
+      },
+      "lotSize": 75,
+      "issueSizeCr": 3202500,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.4448360655737705,
+        "nii": 1.240655737704918,
+        "bnii": 1.04672131147541,
+        "snii": 1.6285245901639345,
+        "retail": 3.071288056206089,
+        "total": 1.9285948477751755
+      }
+    },
     {
       "symbol": "LUMINO",
       "id": "lumino-industries-limited",
@@ -22,12 +78,12 @@
       "listingDate": "2026-09-03",
       "gmp": null,
       "subscription": {
-        "qib": 0.04059233202317821,
-        "nii": 2.086729668056875,
-        "bnii": 1.3180059944694609,
-        "snii": 3.624177015231704,
-        "retail": 1.9522939073633874,
-        "total": 1.4200924238313768
+        "qib": 0.05602276740958655,
+        "nii": 7.776088606792662,
+        "bnii": 5.623981902191619,
+        "snii": 12.080302015994748,
+        "retail": 6.499211053404388,
+        "total": 4.867468710251939
       }
     },
     {
@@ -50,96 +106,12 @@
       "listingDate": "2026-09-02",
       "gmp": null,
       "subscription": {
-        "qib": 1.1606582593451338,
-        "nii": 0.8975418481026975,
-        "bnii": 0.9925305383326827,
-        "snii": 0.7075644273545817,
-        "retail": 0.8058001470338744,
-        "total": 0.8779826386925296
-      }
-    },
-    {
-      "symbol": "HTEL",
-      "id": "hy-tech-engineers-limited",
-      "company": "Hy-Tech Engineers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 500,
-        "max": 530
-      },
-      "lotSize": 283,
-      "issueSizeCr": 60,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 255.76563307390194,
-        "nii": 402.2891154323483,
-        "bnii": 332.3835993588305,
-        "snii": 542.1002539422673,
-        "retail": 170.58165176081488,
-        "total": 244.41285810854825
-      }
-    },
-    {
-      "symbol": "SKYWAYS",
-      "id": "skyways-air-services-limited",
-      "company": "Skyways Air Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 131,
-        "max": 138
-      },
-      "lotSize": 100,
-      "issueSizeCr": 29583600,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 139.68856736242884,
-        "nii": 87.23568864538069,
-        "bnii": 91.33419138484791,
-        "snii": 79.03868316644625,
-        "retail": 25.403412162162162,
-        "total": 71.25267715896645
-      }
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 938,
-        "max": 988
-      },
-      "lotSize": 15,
-      "issueSizeCr": 150,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 172.0270626909156,
-        "nii": 73.63357890323519,
-        "bnii": 82.91540191749878,
-        "snii": 55.06993287470801,
-        "retail": 12.95847711212729,
-        "total": 71.25750546917244
+        "qib": 1.7218594129955325,
+        "nii": 3.5511856019906123,
+        "bnii": 3.089669591580219,
+        "snii": 4.474217818557063,
+        "retail": 2.6784460781541592,
+        "total": 2.931883221172878
       }
     },
     {
@@ -171,57 +143,57 @@
       }
     },
     {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "DEEPA",
+      "id": "deepa-jewellers-limited",
+      "company": "Deepa Jewellers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
-        "min": 95,
-        "max": 100
+        "min": 168,
+        "max": 177
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
+      "lotSize": 84,
+      "issueSizeCr": 250,
+      "openDate": "2026-09-01",
+      "closeDate": "2026-09-03",
+      "allotmentDate": "2026-09-04",
+      "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
     },
     {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "MOMSBELIEF",
+      "id": "rays-of-belief-limited-for-profit-social-enterprise-fpse",
+      "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
-        "min": 96,
-        "max": 102
+        "min": 227,
+        "max": 239
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "listingDate": "2026-09-01",
+      "lotSize": 62,
+      "issueSizeCr": 5230000,
+      "openDate": "2026-09-01",
+      "closeDate": "2026-09-03",
+      "allotmentDate": "2026-09-04",
+      "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
@@ -255,62 +227,6 @@
       }
     },
     {
-      "symbol": "PRIORITY",
-      "id": "priority-jewels-limited",
-      "company": "Priority Jewels Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 190,
-        "max": 200
-      },
-      "lotSize": 75,
-      "issueSizeCr": 4575000,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "ESDS",
-      "id": "esds-software-solution-limited",
-      "company": "ESDS Software Solution Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 408,
-        "max": 429
-      },
-      "lotSize": 34,
-      "issueSizeCr": 720,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
       "symbol": "ASHUTOSH",
       "id": "ashutosh-fibre-limited",
       "company": "Ashutosh Fibre Limited",
@@ -323,7 +239,7 @@
         "max": 92
       },
       "lotSize": 1200,
-      "issueSizeCr": 6124800,
+      "issueSizeCr": 4381200,
       "openDate": "2026-08-31",
       "closeDate": "2026-09-02",
       "allotmentDate": "2026-09-03",
@@ -351,7 +267,7 @@
         "max": 83
       },
       "lotSize": 1600,
-      "issueSizeCr": 5691200,
+      "issueSizeCr": 4072000,
       "openDate": "2026-08-31",
       "closeDate": "2026-09-02",
       "allotmentDate": "2026-09-03",
@@ -365,6 +281,48 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "TEMPSENS",
+      "id": "tempsens-instruments-india-limited",
+      "company": "Tempsens Instruments (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 300,
+        "max": 300
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-28",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PFC2026",
+      "id": "power-finance-corporation-limited",
+      "company": "Power Finance Corporation Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-08-28",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "GAJA",
@@ -3038,27 +2996,6 @@
       "subscription": null
     },
     {
-      "symbol": "PFC2026",
-      "id": "power-finance-corporation-limited",
-      "company": "Power Finance Corporation Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-05",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "PNGSREVA",
       "id": "pngs-reva-diamond-jewellery-limited",
       "company": "PNGS Reva Diamond Jewellery Limited",
@@ -3311,16 +3248,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3332,16 +3269,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3626,9 +3563,9 @@
       "subscription": null
     },
     {
-      "symbol": "AUGMONT",
-      "id": "augmont-enterprises-limited",
-      "company": "Augmont Enterprises Limited",
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -3647,9 +3584,93 @@
       "subscription": null
     },
     {
-      "symbol": "TEMPSENS",
-      "id": "tempsens-instruments-india-limited",
-      "company": "Tempsens Instruments (India) Limited",
+      "symbol": "HTEL",
+      "id": "hy-tech-engineers-limited",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SKYWAYS",
+      "id": "skyways-air-services-limited",
+      "company": "Skyways Air Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "AUGMONT",
+      "id": "augmont-enterprises-limited",
+      "company": "Augmont Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
