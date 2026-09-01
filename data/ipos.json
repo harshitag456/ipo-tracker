@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-08-31T17:08:51.805Z",
+  "lastUpdated": "2026-09-01T08:07:14.707Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "DEEPA",
+      "id": "deepa-jewellers-limited",
+      "company": "Deepa Jewellers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 168,
+        "max": 177
+      },
+      "lotSize": 84,
+      "issueSizeCr": 250,
+      "openDate": "2026-09-01",
+      "closeDate": "2026-09-03",
+      "allotmentDate": "2026-09-04",
+      "listingDate": "2026-09-08",
+      "gmp": null,
+      "subscription": {
+        "qib": 6.843259486390875,
+        "nii": 0.36089843003705796,
+        "bnii": 0.1950623473117515,
+        "snii": 0.6925708436590885,
+        "retail": 0.9113237236876437,
+        "total": 0.5386679380791178
+      }
+    },
+    {
+      "symbol": "MOMSBELIEF",
+      "id": "rays-of-belief-limited-for-profit-social-enterprise-fpse",
+      "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 227,
+        "max": 239
+      },
+      "lotSize": 62,
+      "issueSizeCr": 3137810,
+      "openDate": "2026-09-01",
+      "closeDate": "2026-09-03",
+      "allotmentDate": "2026-09-04",
+      "listingDate": "2026-09-08",
+      "gmp": null,
+      "subscription": {
+        "qib": 4.742366047281608,
+        "nii": 0.21646653919694073,
+        "bnii": 0.09353346080305927,
+        "snii": 0.4623326959847036,
+        "retail": 4.152103250478011,
+        "total": 0.7464556490036044
+      }
+    },
     {
       "symbol": "PERNIASPOP",
       "id": "purple-style-labs-limited",
@@ -22,12 +78,12 @@
       "listingDate": "2026-09-07",
       "gmp": null,
       "subscription": {
-        "qib": 0.009408328747647382,
-        "nii": 0.05711805007250562,
-        "bnii": 0.021106115923852257,
-        "snii": 0.12914197620079973,
-        "retail": 0.5334565580634982,
-        "total": 0.11770155577901655
+        "qib": 0.057493795941614405,
+        "nii": 0.08162703793256469,
+        "bnii": 0.031648735648427316,
+        "snii": 0.18158372276019336,
+        "retail": 0.8205707146418761,
+        "total": 0.20281683478797094
       }
     },
     {
@@ -50,12 +106,12 @@
       "listingDate": "2026-09-04",
       "gmp": null,
       "subscription": {
-        "qib": 1.6770491803278689,
-        "nii": 42.323169398907105,
-        "bnii": 33.60147540983606,
-        "snii": 59.76655737704918,
-        "retail": 38.96210772833724,
-        "total": 29.029461358313817
+        "qib": 5.365245901639344,
+        "nii": 107.10426229508197,
+        "bnii": 91.34,
+        "snii": 138.6327868852459,
+        "retail": 80.03723653395785,
+        "total": 64.50245901639344
       }
     },
     {
@@ -78,40 +134,12 @@
       "listingDate": "2026-09-04",
       "gmp": null,
       "subscription": {
-        "qib": 0.7236752184216521,
-        "nii": 69.72910615139293,
-        "bnii": 68.69055582062961,
-        "snii": 71.80620681291954,
-        "retail": 18.680920221271986,
-        "total": 24.48917577691209
-      }
-    },
-    {
-      "symbol": "LUMINO",
-      "id": "lumino-industries-limited",
-      "company": "Lumino Industries Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 780,
-        "max": 820
-      },
-      "lotSize": 182,
-      "issueSizeCr": 500,
-      "openDate": "2026-08-27",
-      "closeDate": "2026-08-31",
-      "allotmentDate": "2026-09-01",
-      "listingDate": "2026-09-03",
-      "gmp": null,
-      "subscription": {
-        "qib": 221.4302247864001,
-        "nii": 176.42471654913535,
-        "bnii": 192.05928542505592,
-        "snii": 145.15557879729428,
-        "retail": 38.50196266089882,
-        "total": 118.1225714489902
+        "qib": 27.785729747618017,
+        "nii": 146.05473319635112,
+        "bnii": 155.1878839874744,
+        "snii": 127.78843161410455,
+        "retail": 31.30486324634245,
+        "total": 54.88865437885161
       }
     },
     {
@@ -171,60 +199,158 @@
       }
     },
     {
-      "symbol": "DEEPA",
-      "id": "deepa-jewellers-limited",
-      "company": "Deepa Jewellers Limited",
+      "symbol": "LUMINO",
+      "id": "lumino-industries-limited",
+      "company": "Lumino Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 168,
-        "max": 177
+        "min": 780,
+        "max": 820
       },
-      "lotSize": 84,
-      "issueSizeCr": 250,
-      "openDate": "2026-09-01",
-      "closeDate": "2026-09-03",
-      "allotmentDate": "2026-09-04",
-      "listingDate": "2026-09-08",
+      "lotSize": 182,
+      "issueSizeCr": 500,
+      "openDate": "2026-08-27",
+      "closeDate": "2026-08-31",
+      "allotmentDate": "2026-09-01",
+      "listingDate": "2026-09-03",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 221.4302247864001,
+        "nii": 176.42471654913535,
+        "bnii": 192.05928542505592,
+        "snii": 145.15557879729428,
+        "retail": 38.50196266089882,
+        "total": 118.1225714489902
       }
     },
     {
-      "symbol": "MOMSBELIEF",
-      "id": "rays-of-belief-limited-for-profit-social-enterprise-fpse",
-      "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
+      "symbol": "SYMBIOTEC",
+      "id": "symbiotec-pharmalab-limited",
+      "company": "Symbiotec Pharmalab Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 227,
-        "max": 239
+        "min": 988,
+        "max": 988
       },
-      "lotSize": 62,
-      "issueSizeCr": 3137810,
-      "openDate": "2026-09-01",
-      "closeDate": "2026-09-03",
-      "allotmentDate": "2026-09-04",
-      "listingDate": "2026-09-08",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-01",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "HTEL",
+      "id": "hy-tech-engineers-limited",
+      "company": "Hy-Tech Engineers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 53,
+        "max": 53
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SKYWAYS",
+      "id": "skyways-air-services-limited",
+      "company": "Skyways Air Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 138,
+        "max": 138
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 102,
+        "max": 102
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100,
+        "max": 100
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "1150VIES30",
+      "id": "vision-infra-equipment-solutions-limited",
+      "company": "Vision Infra Equipment Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100000,
+        "max": 100000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-01",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "AUGMONT",
@@ -3528,6 +3654,27 @@
       "subscription": null
     },
     {
+      "symbol": "LUMINO",
+      "id": "lumino-industries-limited",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "ANNU",
       "id": "annu-projects-limited",
       "company": "Annu Projects Limited",
@@ -3552,111 +3699,6 @@
       "symbol": "SUMAX",
       "id": "sumax-engineering-limited",
       "company": "Sumax Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SYMBIOTEC",
-      "id": "symbiotec-pharmalab-limited",
-      "company": "Symbiotec Pharmalab Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "HTEL",
-      "id": "hy-tech-engineers-limited",
-      "company": "Hy-Tech Engineers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SKYWAYS",
-      "id": "skyways-air-services-limited",
-      "company": "Skyways Air Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
