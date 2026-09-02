@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T13:35:27.659Z",
+  "lastUpdated": "2026-09-02T07:26:46.735Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.11227833600171314,
-        "nii": 0.6330702345541496,
-        "bnii": 0.35894991638389334,
-        "snii": 1.181311281111949,
-        "retail": 1.3754975947737598,
-        "total": 0.8631277880204113
+        "qib": 0.11762259579108507,
+        "nii": 2.3377946891724783,
+        "bnii": 1.7351341037737613,
+        "snii": 3.543116761843192,
+        "retail": 3.1277593454714694,
+        "total": 2.1188086339776517
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 4.742366047281608,
-        "nii": 0.3866998087954111,
-        "bnii": 0.13383938814531549,
-        "snii": 0.8924206500956023,
-        "retail": 6.491269598470363,
-        "total": 1.17890120816748
+        "qib": 9.484732094563215,
+        "nii": 1.1420012746972594,
+        "bnii": 0.5708030592734226,
+        "snii": 2.284397705544933,
+        "retail": 13.18715105162524,
+        "total": 2.4840624512000407
       }
     },
     {
@@ -78,68 +78,12 @@
       "listingDate": "2026-09-07",
       "gmp": null,
       "subscription": {
-        "qib": 0.05778606650921884,
-        "nii": 0.1275692122233398,
-        "bnii": 0.0874515525272177,
-        "snii": 0.20780459603989015,
-        "retail": 0.932364236671776,
-        "total": 0.23583202818878637
-      }
-    },
-    {
-      "symbol": "PRIORITY",
-      "id": "priority-jewels-limited",
-      "company": "Priority Jewels Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 190,
-        "max": 200
-      },
-      "lotSize": 75,
-      "issueSizeCr": 3202500,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
-      "gmp": null,
-      "subscription": {
-        "qib": 39.86909836065574,
-        "nii": 166.49377049180328,
-        "bnii": 152.2188524590164,
-        "snii": 195.04360655737705,
-        "retail": 106.7632786885246,
-        "total": 100.45004683840749
-      }
-    },
-    {
-      "symbol": "ESDS",
-      "id": "esds-software-solution-limited",
-      "company": "ESDS Software Solution Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 408,
-        "max": 429
-      },
-      "lotSize": 34,
-      "issueSizeCr": 720,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
-      "gmp": null,
-      "subscription": {
-        "qib": 261.51450269903313,
-        "nii": 192.9374660708356,
-        "bnii": 208.83720461085304,
-        "snii": 161.13798899080072,
-        "retail": 39.64303564284524,
-        "total": 135.8836898934683
+        "qib": 0.6045964632049555,
+        "nii": 0.41150326181622165,
+        "bnii": 0.4834156482024954,
+        "snii": 0.2676783735607265,
+        "retail": 1.2633607430740288,
+        "total": 0.6717100138164295
       }
     },
     {
@@ -199,32 +143,123 @@
       }
     },
     {
-      "symbol": "LUMINO",
-      "id": "lumino-industries-limited",
-      "company": "Lumino Industries Limited",
+      "symbol": "PRIORITY",
+      "id": "priority-jewels-limited",
+      "company": "Priority Jewels Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 780,
-        "max": 820
+        "min": 190,
+        "max": 200
       },
-      "lotSize": 182,
-      "issueSizeCr": 500,
-      "openDate": "2026-08-27",
-      "closeDate": "2026-08-31",
-      "allotmentDate": "2026-09-01",
-      "listingDate": "2026-09-03",
+      "lotSize": 75,
+      "issueSizeCr": 3202500,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
       "gmp": null,
       "subscription": {
-        "qib": 221.4302247864001,
-        "nii": 176.42471654913535,
-        "bnii": 192.05928542505592,
-        "snii": 145.15557879729428,
-        "retail": 38.50196266089882,
-        "total": 118.1225714489902
+        "qib": 39.86909836065574,
+        "nii": 166.49377049180328,
+        "bnii": 152.2188524590164,
+        "snii": 195.04360655737705,
+        "retail": 106.7632786885246,
+        "total": 100.45004683840749
       }
+    },
+    {
+      "symbol": "ESDS",
+      "id": "esds-software-solution-limited",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 408,
+        "max": 429
+      },
+      "lotSize": 34,
+      "issueSizeCr": 720,
+      "openDate": "2026-08-28",
+      "closeDate": "2026-09-01",
+      "allotmentDate": "2026-09-02",
+      "listingDate": "2026-09-04",
+      "gmp": null,
+      "subscription": {
+        "qib": 261.51450269903313,
+        "nii": 192.9374660708356,
+        "bnii": 208.83720461085304,
+        "snii": 161.13798899080072,
+        "retail": 39.64303564284524,
+        "total": 135.8836898934683
+      }
+    },
+    {
+      "symbol": "ANNU",
+      "id": "annu-projects-limited",
+      "company": "Annu Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 99,
+        "max": 99
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SUMAX",
+      "id": "sumax-engineering-limited",
+      "company": "Sumax Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 101,
+        "max": 101
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "12AIL28",
+      "id": "avp-infracon-limited",
+      "company": "AVP Infracon Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-02",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "SYMBIOTEC",
@@ -3654,51 +3689,51 @@
       "subscription": null
     },
     {
+      "symbol": "PRIORITY",
+      "id": "priority-jewels-limited",
+      "company": "Priority Jewels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ESDS",
+      "id": "esds-software-solution-limited",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "LUMINO",
       "id": "lumino-industries-limited",
       "company": "Lumino Industries Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ANNU",
-      "id": "annu-projects-limited",
-      "company": "Annu Projects Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SUMAX",
-      "id": "sumax-engineering-limited",
-      "company": "Sumax Engineering Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
