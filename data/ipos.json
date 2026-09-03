@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T07:30:13.601Z",
+  "lastUpdated": "2026-09-03T12:13:22.732Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.6378569580314999,
-        "nii": 33.189959380395145,
-        "bnii": 36.29108730868373,
-        "snii": 26.987698883022663,
-        "retail": 10.185346350333871,
-        "total": 12.507855552498814
+        "qib": 37.00497455308356,
+        "nii": 105.95704288478508,
+        "bnii": 123.94460161695218,
+        "snii": 69.98189850231655,
+        "retail": 18.546276407489994,
+        "total": 42.60809234946816
       }
     },
     {
@@ -50,40 +50,96 @@
       "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.08360113860493577,
-        "nii": 74.08980242192479,
-        "bnii": 74.07743403441683,
-        "snii": 74.11453919694073,
-        "retail": 84.95102485659656,
-        "total": 32.73169886003295
+        "qib": 9.05673355879605,
+        "nii": 279.1138049713193,
+        "bnii": 303.82098279158697,
+        "snii": 229.69944933078395,
+        "retail": 195.86321606118545,
+        "total": 107.71138851619442
       }
     },
     {
-      "symbol": "PERNIASPOP",
-      "id": "purple-style-labs-limited",
-      "company": "Purple Style Labs Limited",
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 546,
-        "max": 575
+        "min": 172,
+        "max": 182
       },
-      "lotSize": 26,
-      "issueSizeCr": 680,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "listingDate": "2026-09-07",
+      "lotSize": 82,
+      "issueSizeCr": 60,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
       "gmp": null,
       "subscription": {
-        "qib": 1.4258141287660615,
-        "nii": 0.8428809328681982,
-        "bnii": 1.0055571569774397,
-        "snii": 0.5175282234105764,
-        "retail": 1.5775725638157698,
-        "total": 1.2944248429446863
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "KANOHAR",
+      "id": "kanohar-electricals-limited",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 601,
+        "max": 632
+      },
+      "lotSize": 23,
+      "issueSizeCr": 300,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "PRANAV",
+      "id": "pranav-constructions-limited",
+      "company": "Pranav Constructions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 118,
+        "max": 124
+      },
+      "lotSize": 120,
+      "issueSizeCr": 29602631,
+      "openDate": "2026-09-07",
+      "closeDate": "2026-09-09",
+      "allotmentDate": "2026-09-10",
+      "listingDate": "2026-09-15",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -262,16 +318,16 @@
       "subscription": null
     },
     {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 102,
-        "max": 102
+        "min": 100,
+        "max": 100
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -283,16 +339,16 @@
       "subscription": null
     },
     {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 100,
-        "max": 100
+        "min": 102,
+        "max": 102
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1431,16 +1487,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1452,16 +1508,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2912,7 +2968,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2933,7 +2989,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2954,7 +3010,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3311,16 +3367,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3332,16 +3388,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
