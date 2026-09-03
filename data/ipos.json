@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T12:13:22.732Z",
+  "lastUpdated": "2026-09-03T16:34:56.492Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -26,8 +26,8 @@
         "nii": 105.95704288478508,
         "bnii": 123.94460161695218,
         "snii": 69.98189850231655,
-        "retail": 18.546276407489994,
-        "total": 42.60809234946816
+        "retail": 18.546366196617022,
+        "total": 42.60813770563148
       }
     },
     {
@@ -51,11 +51,11 @@
       "gmp": null,
       "subscription": {
         "qib": 9.05673355879605,
-        "nii": 279.1138049713193,
+        "nii": 279.1149114085405,
         "bnii": 303.82098279158697,
-        "snii": 229.69944933078395,
-        "retail": 195.86321606118545,
-        "total": 107.71138851619442
+        "snii": 229.7027686424474,
+        "retail": 195.86546845124283,
+        "total": 107.71204056332283
       }
     },
     {
@@ -155,7 +155,7 @@
         "max": 127
       },
       "lotSize": 1000,
-      "issueSizeCr": 3552000,
+      "issueSizeCr": 2543000,
       "openDate": "2026-09-04",
       "closeDate": "2026-09-08",
       "allotmentDate": "2026-09-09",
@@ -318,16 +318,16 @@
       "subscription": null
     },
     {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 100,
-        "max": 100
+        "min": 102,
+        "max": 102
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -339,16 +339,16 @@
       "subscription": null
     },
     {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 102,
-        "max": 102
+        "min": 100,
+        "max": 100
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1487,16 +1487,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1508,16 +1508,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2968,7 +2968,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -2989,7 +2989,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3010,7 +3010,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3367,16 +3367,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3388,16 +3388,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
