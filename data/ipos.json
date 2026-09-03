@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T16:43:56.823Z",
+  "lastUpdated": "2026-09-03T07:30:13.601Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.4576185379399384,
-        "nii": 5.11318867639349,
-        "bnii": 4.297374042717168,
-        "snii": 6.744819164601515,
-        "retail": 4.707904318568402,
-        "total": 3.6124914113515136
+        "qib": 0.6378569580314999,
+        "nii": 33.189959380395145,
+        "bnii": 36.29108730868373,
+        "snii": 26.987698883022663,
+        "retail": 10.185346350333871,
+        "total": 12.507855552498814
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.008163644409963339,
-        "nii": 2.072040790312301,
-        "bnii": 1.1219273422562142,
-        "snii": 3.972267686424474,
-        "retail": 18.627858508604206,
-        "total": 3.6276345604099673
+        "qib": 0.08360113860493577,
+        "nii": 74.08980242192479,
+        "bnii": 74.07743403441683,
+        "snii": 74.11453919694073,
+        "retail": 84.95102485659656,
+        "total": 32.73169886003295
       }
     },
     {
@@ -65,7 +65,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 546,
         "max": 575
@@ -84,118 +84,6 @@
         "snii": 0.5175282234105764,
         "retail": 1.5775725638157698,
         "total": 1.2944248429446863
-      }
-    },
-    {
-      "symbol": "ASHUTOSH",
-      "id": "ashutosh-fibre-limited",
-      "company": "Ashutosh Fibre Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 87,
-        "max": 92
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "SHANTIINOR",
-      "id": "shanti-inorganics-limited",
-      "company": "Shanti Inorganics Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 79,
-        "max": 83
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "PRIORITY",
-      "id": "priority-jewels-limited",
-      "company": "Priority Jewels Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 190,
-        "max": 200
-      },
-      "lotSize": 75,
-      "issueSizeCr": 3202500,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
-      "gmp": null,
-      "subscription": {
-        "qib": 39.86909836065574,
-        "nii": 166.49377049180328,
-        "bnii": 152.2188524590164,
-        "snii": 195.04360655737705,
-        "retail": 106.7632786885246,
-        "total": 100.45004683840749
-      }
-    },
-    {
-      "symbol": "ESDS",
-      "id": "esds-software-solution-limited",
-      "company": "ESDS Software Solution Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 408,
-        "max": 429
-      },
-      "lotSize": 34,
-      "issueSizeCr": 720,
-      "openDate": "2026-08-28",
-      "closeDate": "2026-09-01",
-      "allotmentDate": "2026-09-02",
-      "listingDate": "2026-09-04",
-      "gmp": null,
-      "subscription": {
-        "qib": 261.51450269903313,
-        "nii": 192.9374660708356,
-        "bnii": 208.83720461085304,
-        "snii": 161.13798899080072,
-        "retail": 39.64303564284524,
-        "total": 135.8836898934683
       }
     },
     {
@@ -225,6 +113,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "LUMINO",
+      "id": "lumino-industries-limited",
+      "company": "Lumino Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 82,
+        "max": 82
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-03",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "ANNU",
@@ -1522,16 +1431,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1543,16 +1452,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3717,6 +3626,69 @@
       "subscription": null
     },
     {
+      "symbol": "PERNIASPOP",
+      "id": "purple-style-labs-limited",
+      "company": "Purple Style Labs Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SHANTIINOR",
+      "id": "shanti-inorganics-limited",
+      "company": "Shanti Inorganics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ASHUTOSH",
+      "id": "ashutosh-fibre-limited",
+      "company": "Ashutosh Fibre Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "PRIORITY",
       "id": "priority-jewels-limited",
       "company": "Priority Jewels Limited",
@@ -3741,27 +3713,6 @@
       "symbol": "ESDS",
       "id": "esds-software-solution-limited",
       "company": "ESDS Software Solution Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "LUMINO",
-      "id": "lumino-industries-limited",
-      "company": "Lumino Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
