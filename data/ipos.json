@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-03T16:34:56.492Z",
+  "lastUpdated": "2026-09-04T07:32:51.906Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "QUALIANCE",
+      "id": "qualiance-international-limited",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 120,
+        "max": 127
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-09-04",
+      "closeDate": "2026-09-08",
+      "allotmentDate": "2026-09-09",
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "DEEPA",
       "id": "deepa-jewellers-limited",
@@ -9,7 +37,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 168,
         "max": 177
@@ -37,7 +65,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 227,
         "max": 239
@@ -143,32 +171,46 @@
       }
     },
     {
-      "symbol": "QUALIANCE",
-      "id": "qualiance-international-limited",
-      "company": "Qualiance International Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "PRIORITY",
+      "id": "priority-jewels-limited",
+      "company": "Priority Jewels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 120,
-        "max": 127
+        "min": 200,
+        "max": 200
       },
-      "lotSize": 1000,
-      "issueSizeCr": 2543000,
-      "openDate": "2026-09-04",
-      "closeDate": "2026-09-08",
-      "allotmentDate": "2026-09-09",
-      "listingDate": "2026-09-11",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-04",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "ESDS",
+      "id": "esds-software-solution-limited",
+      "company": "ESDS Software Solution Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 429,
+        "max": 429
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-04",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "LUMINO",
@@ -3682,6 +3724,48 @@
       "subscription": null
     },
     {
+      "symbol": "MOMSBELIEF",
+      "id": "rays-of-belief-limited-for-profit-social-enterprise-fpse",
+      "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "DEEPA",
+      "id": "deepa-jewellers-limited",
+      "company": "Deepa Jewellers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "PERNIASPOP",
       "id": "purple-style-labs-limited",
       "company": "Purple Style Labs Limited",
@@ -3727,48 +3811,6 @@
       "symbol": "ASHUTOSH",
       "id": "ashutosh-fibre-limited",
       "company": "Ashutosh Fibre Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PRIORITY",
-      "id": "priority-jewels-limited",
-      "company": "Priority Jewels Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ESDS",
-      "id": "esds-software-solution-limited",
-      "company": "ESDS Software Solution Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
