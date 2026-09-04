@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T12:23:05.889Z",
+  "lastUpdated": "2026-09-04T16:30:20.579Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -26,90 +26,6 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "DEEPA",
-      "id": "deepa-jewellers-limited",
-      "company": "Deepa Jewellers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 168,
-        "max": 177
-      },
-      "lotSize": 84,
-      "issueSizeCr": 250,
-      "openDate": "2026-09-01",
-      "closeDate": "2026-09-03",
-      "allotmentDate": "2026-09-04",
-      "listingDate": "2026-09-08",
-      "gmp": null,
-      "subscription": {
-        "qib": 37.00497455308356,
-        "nii": 105.95704288478508,
-        "bnii": 123.94460161695218,
-        "snii": 69.98189850231655,
-        "retail": 18.546366196617022,
-        "total": 42.60813770563148
-      }
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "id": "rays-of-belief-limited-for-profit-social-enterprise-fpse",
-      "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 227,
-        "max": 239
-      },
-      "lotSize": 62,
-      "issueSizeCr": 3137810,
-      "openDate": "2026-09-01",
-      "closeDate": "2026-09-03",
-      "allotmentDate": "2026-09-04",
-      "listingDate": "2026-09-08",
-      "gmp": null,
-      "subscription": {
-        "qib": 9.05673355879605,
-        "nii": 279.1149114085405,
-        "bnii": 303.82098279158697,
-        "snii": 229.7027686424474,
-        "retail": 195.86546845124283,
-        "total": 107.71204056332283
-      }
-    },
-    {
-      "symbol": "GLASSWALL",
-      "id": "glass-wall-systems-india-limited",
-      "company": "Glass Wall Systems (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 172,
-        "max": 182
-      },
-      "lotSize": 82,
-      "issueSizeCr": 60,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
         "retail": null,
         "total": 0
       }
@@ -143,6 +59,62 @@
       }
     },
     {
+      "symbol": "PRASOLCHEM",
+      "id": "prasol-chemicals-limited",
+      "company": "Prasol Chemicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 643,
+        "max": 676
+      },
+      "lotSize": 22,
+      "issueSizeCr": 80,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 172,
+        "max": 182
+      },
+      "lotSize": 82,
+      "issueSizeCr": 60,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
       "symbol": "PRANAV",
       "id": "pranav-constructions-limited",
       "company": "Pranav Constructions Limited",
@@ -155,7 +127,7 @@
         "max": 124
       },
       "lotSize": 120,
-      "issueSizeCr": 29602631,
+      "issueSizeCr": 315.6,
       "openDate": "2026-09-07",
       "closeDate": "2026-09-09",
       "allotmentDate": "2026-09-10",
