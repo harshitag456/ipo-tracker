@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-04T16:30:20.579Z",
+  "lastUpdated": "2026-09-07T07:41:51.325Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "PRANAV",
+      "id": "pranav-constructions-limited",
+      "company": "Pranav Constructions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 118,
+        "max": 124
+      },
+      "lotSize": 120,
+      "issueSizeCr": 315.6,
+      "openDate": "2026-09-07",
+      "closeDate": "2026-09-09",
+      "allotmentDate": "2026-09-10",
+      "listingDate": "2026-09-15",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.17570345830041872,
+        "nii": 4.66515253710537,
+        "bnii": 4.019033437558272,
+        "snii": 5.957391609256208,
+        "retail": 3.2433693581591547,
+        "total": 2.8823543212152427
+      }
+    },
     {
       "symbol": "QUALIANCE",
       "id": "qualiance-international-limited",
@@ -31,23 +59,23 @@
       }
     },
     {
-      "symbol": "KANOHAR",
-      "id": "kanohar-electricals-limited",
-      "company": "Kanohar Electricals Limited",
+      "symbol": "RENTOMOJO",
+      "id": "rentomojo-limited",
+      "company": "Rentomojo Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 601,
-        "max": 632
+        "min": 384,
+        "max": 404
       },
-      "lotSize": 23,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
+      "lotSize": 37,
+      "issueSizeCr": 150,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -72,6 +100,34 @@
       },
       "lotSize": 22,
       "issueSizeCr": 80,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "KANOHAR",
+      "id": "kanohar-electricals-limited",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 601,
+        "max": 632
+      },
+      "lotSize": 23,
+      "issueSizeCr": 300,
       "openDate": "2026-09-08",
       "closeDate": "2026-09-10",
       "allotmentDate": "2026-09-11",
@@ -115,32 +171,193 @@
       }
     },
     {
-      "symbol": "PRANAV",
-      "id": "pranav-constructions-limited",
-      "company": "Pranav Constructions Limited",
+      "symbol": "PERNIASPOP",
+      "id": "purple-style-labs-limited",
+      "company": "Purple Style Labs Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 118,
-        "max": 124
+        "min": 575,
+        "max": 575
       },
-      "lotSize": 120,
-      "issueSizeCr": 315.6,
-      "openDate": "2026-09-07",
-      "closeDate": "2026-09-09",
-      "allotmentDate": "2026-09-10",
-      "listingDate": "2026-09-15",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "SHANTIINOR",
+      "id": "shanti-inorganics-limited",
+      "company": "Shanti Inorganics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 83,
+        "max": 83
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ASHUTOSH",
+      "id": "ashutosh-fibre-limited",
+      "company": "Ashutosh Fibre Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 92,
+        "max": 92
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "925IIFL28",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "925IIFL28",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "925IIFL28",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "925IIFL28",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "925IIFL28",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "925IIFL28",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-07",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "PRIORITY",
@@ -2751,132 +2968,6 @@
       "subscription": null
     },
     {
-      "symbol": "860IIFL27",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "860IIFL27",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "860IIFL27",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "860IIFL27",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "860IIFL27",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "860IIFL27",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "KOTYARK",
       "id": "kotyark-industries-limited",
       "company": "Kotyark Industries Limited",
@@ -3720,69 +3811,6 @@
       "symbol": "DEEPA",
       "id": "deepa-jewellers-limited",
       "company": "Deepa Jewellers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PERNIASPOP",
-      "id": "purple-style-labs-limited",
-      "company": "Purple Style Labs Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SHANTIINOR",
-      "id": "shanti-inorganics-limited",
-      "company": "Shanti Inorganics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ASHUTOSH",
-      "id": "ashutosh-fibre-limited",
-      "company": "Ashutosh Fibre Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
