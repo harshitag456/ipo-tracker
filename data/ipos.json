@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T12:24:45.219Z",
+  "lastUpdated": "2026-09-08T16:46:38.051Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -143,6 +143,62 @@
       }
     },
     {
+      "symbol": "VEEGALAND",
+      "id": "veegaland-developers-limited",
+      "company": "Veegaland Developers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 130,
+        "max": 140
+      },
+      "lotSize": 107,
+      "issueSizeCr": 210,
+      "openDate": "2026-09-10",
+      "closeDate": "2026-09-15",
+      "allotmentDate": "2026-09-16",
+      "listingDate": "2026-09-18",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "KARAMTARA",
+      "id": "karamtara-engineering-limited",
+      "company": "Karamtara Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 241,
+        "max": 254
+      },
+      "lotSize": 59,
+      "issueSizeCr": 675,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
       "symbol": "ARCIL",
       "id": "asset-reconstruction-company-india-limited",
       "company": "Asset Reconstruction Company (India) Limited",
@@ -211,63 +267,7 @@
         "max": 339
       },
       "lotSize": 44,
-      "issueSizeCr": 24244673,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "LCCPROJECT",
-      "id": "lcc-projects-limited",
-      "company": "LCC Projects Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 139,
-        "max": 146
-      },
-      "lotSize": 102,
-      "issueSizeCr": 258,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "KARAMTARA",
-      "id": "karamtara-engineering-limited",
-      "company": "Karamtara Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 241,
-        "max": 254
-      },
-      "lotSize": 59,
-      "issueSizeCr": 675,
+      "issueSizeCr": 13060472,
       "openDate": "2026-09-09",
       "closeDate": "2026-09-11",
       "allotmentDate": "2026-09-15",
@@ -296,6 +296,34 @@
       },
       "lotSize": 37,
       "issueSizeCr": 150,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "LCCPROJECT",
+      "id": "lcc-projects-limited",
+      "company": "LCC Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 139,
+        "max": 146
+      },
+      "lotSize": 102,
+      "issueSizeCr": 258,
       "openDate": "2026-09-09",
       "closeDate": "2026-09-11",
       "allotmentDate": "2026-09-15",
