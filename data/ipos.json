@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-09-07T13:48:46.333Z",
+  "lastUpdated": "2026-09-08T07:34:58.652Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "PRASOLCHEM",
+      "id": "prasol-chemicals-limited",
+      "company": "Prasol Chemicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 643,
+        "max": 676
+      },
+      "lotSize": 22,
+      "issueSizeCr": 80,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.001754105075266411,
+        "nii": 0.18531283275291793,
+        "bnii": 0.10114402703689795,
+        "snii": 0.3536504441849579,
+        "retail": 0.4451792208593871,
+        "total": 0.2628006280830735
+      }
+    },
+    {
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 172,
+        "max": 182
+      },
+      "lotSize": 82,
+      "issueSizeCr": 60,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.0035924488817194924,
+        "nii": 1.2543109950648847,
+        "bnii": 0.8177876797659592,
+        "snii": 2.1273579970072842,
+        "retail": 1.9562253779447878,
+        "total": 1.2479200413093328
+      }
+    },
+    {
+      "symbol": "KANOHAR",
+      "id": "kanohar-electricals-limited",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 601,
+        "max": 632
+      },
+      "lotSize": 23,
+      "issueSizeCr": 300,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.007256019994312995,
+        "nii": 2.0812243860330373,
+        "bnii": 1.6550875319370049,
+        "snii": 2.933499114622556,
+        "retail": 1.8196184729648348,
+        "total": 1.3578590898774223
+      }
+    },
     {
       "symbol": "PRANAV",
       "id": "pranav-constructions-limited",
@@ -22,12 +106,12 @@
       "listingDate": "2026-09-15",
       "gmp": null,
       "subscription": {
-        "qib": 0.8687162851122968,
-        "nii": 10.598597647281379,
-        "bnii": 9.17877594701013,
-        "snii": 13.438242966332034,
-        "retail": 5.760496964834357,
-        "total": 5.693012512010233
+        "qib": 0.8973280772033441,
+        "nii": 27.044296734862552,
+        "bnii": 24.999364921507002,
+        "snii": 31.134163124750444,
+        "retail": 11.357684121771758,
+        "total": 12.269167926100437
       }
     },
     {
@@ -54,6 +138,62 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ARCIL",
+      "id": "asset-reconstruction-company-india-limited",
+      "company": "Asset Reconstruction Company (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 132,
+        "max": 139
+      },
+      "lotSize": 107,
+      "issueSizeCr": 52731946,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "STEAMHOUSE",
+      "id": "steamhouse-india-limited",
+      "company": "Steamhouse India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 77,
+        "max": 81
+      },
+      "lotSize": 185,
+      "issueSizeCr": 353,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
@@ -115,19 +255,19 @@
       }
     },
     {
-      "symbol": "STEAMHOUSE",
-      "id": "steamhouse-india-limited",
-      "company": "Steamhouse India Limited",
+      "symbol": "KARAMTARA",
+      "id": "karamtara-engineering-limited",
+      "company": "Karamtara Engineering Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 77,
-        "max": 81
+        "min": 241,
+        "max": 254
       },
-      "lotSize": 185,
-      "issueSizeCr": 353,
+      "lotSize": 59,
+      "issueSizeCr": 675,
       "openDate": "2026-09-09",
       "closeDate": "2026-09-11",
       "allotmentDate": "2026-09-15",
@@ -171,23 +311,23 @@
       }
     },
     {
-      "symbol": "GLASSWALL",
-      "id": "glass-wall-systems-india-limited",
-      "company": "Glass Wall Systems (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "VINOD",
+      "id": "vinod-texworld-limited",
+      "company": "Vinod Texworld Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 172,
-        "max": 182
+        "min": 940,
+        "max": 940
       },
-      "lotSize": 82,
-      "issueSizeCr": 60,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
+      "lotSize": 1200,
+      "issueSizeCr": 4556400,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -199,60 +339,25 @@
       }
     },
     {
-      "symbol": "KANOHAR",
-      "id": "kanohar-electricals-limited",
-      "company": "Kanohar Electricals Limited",
+      "symbol": "DEEPA",
+      "id": "deepa-jewellers-limited",
+      "company": "Deepa Jewellers Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 601,
-        "max": 632
+        "min": 177,
+        "max": 177
       },
-      "lotSize": 23,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-08",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "PRASOLCHEM",
-      "id": "prasol-chemicals-limited",
-      "company": "Prasol Chemicals Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 643,
-        "max": 676
-      },
-      "lotSize": 22,
-      "issueSizeCr": 80,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "PERNIASPOP",
@@ -3874,27 +3979,6 @@
       "symbol": "MOMSBELIEF",
       "id": "rays-of-belief-limited-for-profit-social-enterprise-fpse",
       "company": "Rays of Belief Limited- For Profit Social Enterprise (FPSE)",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "DEEPA",
-      "id": "deepa-jewellers-limited",
-      "company": "Deepa Jewellers Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
