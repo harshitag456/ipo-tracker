@@ -1,7 +1,175 @@
 {
-  "lastUpdated": "2026-09-08T16:46:38.051Z",
+  "lastUpdated": "2026-09-09T07:41:24.601Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "LCCPROJECT",
+      "id": "lcc-projects-limited",
+      "company": "LCC Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 139,
+        "max": 146
+      },
+      "lotSize": 102,
+      "issueSizeCr": 258,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.5473378537307798,
+        "nii": 0.2154397587044273,
+        "bnii": 0.09582115931183276,
+        "snii": 0.4546771162079125,
+        "retail": 0.6356274048912001,
+        "total": 0.5201359889992399
+      }
+    },
+    {
+      "symbol": "KARAMTARA",
+      "id": "karamtara-engineering-limited",
+      "company": "Karamtara Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 241,
+        "max": 254
+      },
+      "lotSize": 59,
+      "issueSizeCr": 675,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.1942823776649438,
+        "nii": 0.7316420427399047,
+        "bnii": 0.7861074402609299,
+        "snii": 0.6227111876925246,
+        "retail": 0.5404937836165487,
+        "total": 0.7682508518514132
+      }
+    },
+    {
+      "symbol": "ARCIL",
+      "id": "asset-reconstruction-company-india-limited",
+      "company": "Asset Reconstruction Company (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 132,
+        "max": 139
+      },
+      "lotSize": 107,
+      "issueSizeCr": 36912363,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.09251820694267962,
+        "nii": 0.1512513856242996,
+        "bnii": 0.09031659174371515,
+        "snii": 0.27312099649662047,
+        "retail": 0.2975690746872782,
+        "total": 0.2076293246249231
+      }
+    },
+    {
+      "symbol": "STEAMHOUSE",
+      "id": "steamhouse-india-limited",
+      "company": "Steamhouse India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 77,
+        "max": 81
+      },
+      "lotSize": 185,
+      "issueSizeCr": 353,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0.12412189310887192,
+        "bnii": 0.05804664785932585,
+        "snii": 0.2562724327654055,
+        "retail": 0.35017729130263486,
+        "total": 0.20168619906232704
+      }
+    },
+    {
+      "symbol": "MPIMANIPAL",
+      "id": "manipal-payment-and-identity-solutions-limited",
+      "company": "Manipal Payment and Identity Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 322,
+        "max": 339
+      },
+      "lotSize": 44,
+      "issueSizeCr": 13060472,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0.07226386924450848,
+        "bnii": 0.05929342285180308,
+        "snii": 0.09820477295410232,
+        "retail": 0.4385675079622897,
+        "total": 0.09944786068987399
+      }
+    },
+    {
+      "symbol": "RENTOMOJO",
+      "id": "rentomojo-limited",
+      "company": "Rentomojo Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 384,
+        "max": 404
+      },
+      "lotSize": 37,
+      "issueSizeCr": 150,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.40241764974228056,
+        "nii": 0.9753814454696536,
+        "bnii": 0.7883199211058078,
+        "snii": 1.349504494197345,
+        "retail": 0.7991575410718524,
+        "total": 0.723683627337493
+      }
+    },
     {
       "symbol": "PRASOLCHEM",
       "id": "prasol-chemicals-limited",
@@ -22,12 +190,12 @@
       "listingDate": "2026-09-16",
       "gmp": null,
       "subscription": {
-        "qib": 0.00294236980367269,
-        "nii": 0.3097034823209071,
-        "bnii": 0.1621982397209891,
-        "snii": 0.6047139675207432,
-        "retail": 0.6897759932157903,
-        "total": 0.41209363045354147
+        "qib": 0.0037345462892768755,
+        "nii": 0.5076157015653212,
+        "bnii": 0.27182987741832604,
+        "snii": 0.9791873498593114,
+        "retail": 0.9735127758749036,
+        "total": 0.59659808543789
       }
     },
     {
@@ -50,12 +218,12 @@
       "listingDate": "2026-09-16",
       "gmp": null,
       "subscription": {
-        "qib": 0.00910319570998823,
-        "nii": 3.02258629079183,
-        "bnii": 2.0503810436474366,
-        "snii": 4.966997612122625,
-        "retail": 3.7443281394066026,
-        "total": 2.5224620712342936
+        "qib": 0.03165191611806252,
+        "nii": 7.72081153213156,
+        "bnii": 5.469624332689789,
+        "snii": 12.223187846069955,
+        "retail": 7.795554045384607,
+        "total": 5.5612801080712035
       }
     },
     {
@@ -78,12 +246,12 @@
       "listingDate": "2026-09-16",
       "gmp": null,
       "subscription": {
-        "qib": 0.025836663224531944,
-        "nii": 4.87233613745868,
-        "bnii": 4.089735500539966,
-        "snii": 6.43753928525676,
-        "retail": 3.2943980181515506,
-        "total": 2.6986530607288293
+        "qib": 0.5361469043236206,
+        "nii": 11.926324363564383,
+        "bnii": 10.74123004461004,
+        "snii": 14.296515839216893,
+        "retail": 6.235924150237494,
+        "total": 5.826788118282172
       }
     },
     {
@@ -106,38 +274,38 @@
       "listingDate": "2026-09-15",
       "gmp": null,
       "subscription": {
-        "qib": 0.9990900888599056,
-        "nii": 43.74621627130019,
-        "bnii": 41.809865606581035,
-        "snii": 47.618920217196994,
-        "retail": 15.75054589742173,
-        "total": 18.197087966832058
+        "qib": 11.38129105288077,
+        "nii": 128.3017749547056,
+        "bnii": 137.63210308269802,
+        "snii": 109.64110609128517,
+        "retail": 30.37430006221669,
+        "total": 45.756832627606734
       }
     },
     {
-      "symbol": "QUALIANCE",
-      "id": "qualiance-international-limited",
-      "company": "Qualiance International Limited",
+      "symbol": "VINOD",
+      "id": "vinod-texworld-limited",
+      "company": "Vinod Texworld Limited",
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 120,
-        "max": 127
+        "min": 0,
+        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
-      "openDate": "2026-09-04",
-      "closeDate": "2026-09-08",
-      "allotmentDate": "2026-09-09",
-      "listingDate": "2026-09-11",
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
         "qib": 0,
         "nii": 0,
-        "bnii": 0,
-        "snii": 0,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
@@ -171,200 +339,25 @@
       }
     },
     {
-      "symbol": "KARAMTARA",
-      "id": "karamtara-engineering-limited",
-      "company": "Karamtara Engineering Limited",
+      "symbol": "PFC2026",
+      "id": "power-finance-corporation-limited",
+      "company": "Power Finance Corporation Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 241,
-        "max": 254
+        "min": 0,
+        "max": 0
       },
-      "lotSize": 59,
-      "issueSizeCr": 675,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-09",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "ARCIL",
-      "id": "asset-reconstruction-company-india-limited",
-      "company": "Asset Reconstruction Company (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 132,
-        "max": 139
-      },
-      "lotSize": 107,
-      "issueSizeCr": 52731946,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "STEAMHOUSE",
-      "id": "steamhouse-india-limited",
-      "company": "Steamhouse India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 77,
-        "max": 81
-      },
-      "lotSize": 185,
-      "issueSizeCr": 353,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "MPIMANIPAL",
-      "id": "manipal-payment-and-identity-solutions-limited",
-      "company": "Manipal Payment and Identity Solutions Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 322,
-        "max": 339
-      },
-      "lotSize": 44,
-      "issueSizeCr": 13060472,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "RENTOMOJO",
-      "id": "rentomojo-limited",
-      "company": "Rentomojo Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 384,
-        "max": 404
-      },
-      "lotSize": 37,
-      "issueSizeCr": 150,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "LCCPROJECT",
-      "id": "lcc-projects-limited",
-      "company": "LCC Projects Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 139,
-        "max": 146
-      },
-      "lotSize": 102,
-      "issueSizeCr": 258,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "VINOD",
-      "id": "vinod-texworld-limited",
-      "company": "Vinod Texworld Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 940,
-        "max": 940
-      },
-      "lotSize": 1200,
-      "issueSizeCr": 4556400,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "DEEPA",
@@ -409,16 +402,16 @@
       "subscription": null
     },
     {
-      "symbol": "SHANTIINOR",
-      "id": "shanti-inorganics-limited",
-      "company": "Shanti Inorganics Limited",
+      "symbol": "ASHUTOSH",
+      "id": "ashutosh-fibre-limited",
+      "company": "Ashutosh Fibre Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 83,
-        "max": 83
+        "min": 92,
+        "max": 92
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -430,16 +423,16 @@
       "subscription": null
     },
     {
-      "symbol": "ASHUTOSH",
-      "id": "ashutosh-fibre-limited",
-      "company": "Ashutosh Fibre Limited",
+      "symbol": "SHANTIINOR",
+      "id": "shanti-inorganics-limited",
+      "company": "Shanti Inorganics Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 92,
-        "max": 92
+        "min": 83,
+        "max": 83
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -860,27 +853,6 @@
       "priceBand": {
         "min": 300,
         "max": 300
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-08-28",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PFC2026",
-      "id": "power-finance-corporation-limited",
-      "company": "Power Finance Corporation Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1935,16 +1907,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1956,16 +1928,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2589,16 +2561,16 @@
       }
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2610,16 +2582,16 @@
       "subscription": null
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4000,6 +3972,27 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "QUALIANCE",
+      "id": "qualiance-international-limited",
+      "company": "Qualiance International Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
