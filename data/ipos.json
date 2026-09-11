@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-10T16:37:13.739Z",
+  "lastUpdated": "2026-09-11T07:36:45.556Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "MANIKA",
+      "id": "manika-plastech-limited",
+      "company": "Manika Plastech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 40,
+        "max": 43
+      },
+      "lotSize": 348,
+      "issueSizeCr": 92.5,
+      "openDate": "2026-09-11",
+      "closeDate": "2026-09-16",
+      "allotmentDate": "2026-09-17",
+      "listingDate": "2026-09-21",
+      "gmp": null,
+      "subscription": {
+        "qib": 8.137347468578431,
+        "nii": 0.5703691822768091,
+        "bnii": 0.29512763552040916,
+        "snii": 1.120852275789609,
+        "retail": 1.4004842577276733,
+        "total": 0.8293323596540484
+      }
+    },
     {
       "symbol": "VEEGALAND",
       "id": "veegaland-developers-limited",
@@ -22,12 +50,12 @@
       "listingDate": "2026-09-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.4463455747983142,
-        "nii": 0.38572649569122236,
-        "bnii": 0.31535949634297705,
-        "snii": 0.5264605815087929,
-        "retail": 0.8224309925613481,
-        "total": 0.6213985135074426
+        "qib": 0.44902821867741666,
+        "nii": 0.8029823237148469,
+        "bnii": 0.7753167201626857,
+        "snii": 0.8583135650718343,
+        "retail": 1.3710715907239797,
+        "total": 0.9858972989359809
       }
     },
     {
@@ -50,12 +78,12 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 0.030418752662693654,
-        "nii": 0.24457305079863648,
-        "bnii": 0.19650210916980365,
-        "snii": 0.34071497454340255,
-        "retail": 1.2210368684650372,
-        "total": 0.3053004516222691
+        "qib": 0.5894938092153239,
+        "nii": 0.4447624978031671,
+        "bnii": 0.3598369599318799,
+        "snii": 0.6146136450731272,
+        "retail": 1.7271618200891001,
+        "total": 0.7568703489429784
       }
     },
     {
@@ -78,12 +106,12 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 2.2739514777433034,
-        "nii": 6.155207491363478,
-        "bnii": 5.640928238199402,
-        "snii": 7.1837665642806465,
-        "retail": 3.2758022073475055,
-        "total": 3.6065745903678614
+        "qib": 12.166850239829454,
+        "nii": 19.920673081336997,
+        "bnii": 18.93365973449792,
+        "snii": 21.894700862422273,
+        "retail": 7.742364982358013,
+        "total": 11.616141011878172
       }
     },
     {
@@ -106,12 +134,12 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 0.09927521163878936,
-        "nii": 1.030121904596227,
-        "bnii": 0.6782976923857358,
-        "snii": 1.7337704624559613,
-        "retail": 1.2358853526693658,
-        "total": 0.8670474442397524
+        "qib": 4.0006642083845,
+        "nii": 2.3722564386016725,
+        "bnii": 1.7382950943403384,
+        "snii": 3.6401793675711533,
+        "retail": 1.902593830078182,
+        "total": 2.6026844718665125
       }
     },
     {
@@ -134,40 +162,12 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 1.6207817620837466,
-        "nii": 2.002328599052565,
-        "bnii": 1.3551328863614045,
-        "snii": 3.296720505923608,
-        "retail": 2.630281713717085,
-        "total": 2.2072917885290884
-      }
-    },
-    {
-      "symbol": "LCCPROJECT",
-      "id": "lcc-projects-limited",
-      "company": "LCC Projects Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 139,
-        "max": 146
-      },
-      "lotSize": 102,
-      "issueSizeCr": 258,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.1564241429878181,
-        "nii": 5.325654594295392,
-        "bnii": 4.197047982230573,
-        "snii": 7.582869315938956,
-        "retail": 4.6862476546402085,
-        "total": 3.8369752859915245
+        "qib": 2.308963265603707,
+        "nii": 16.08547248055936,
+        "bnii": 13.346427981573568,
+        "snii": 21.563563516274716,
+        "retail": 9.084289066818464,
+        "total": 8.648735399857845
       }
     },
     {
@@ -190,96 +190,40 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 0.4543661641834168,
-        "nii": 11.593044763645075,
-        "bnii": 10.74120771280967,
-        "snii": 13.296718865315883,
-        "retail": 4.1828844522258235,
-        "total": 4.70438797241138
+        "qib": 5.693898219707791,
+        "nii": 37.21794563562786,
+        "bnii": 38.88773466026833,
+        "snii": 33.87836758634692,
+        "retail": 9.627251242482354,
+        "total": 14.40848162604328
       }
     },
     {
-      "symbol": "KANOHAR",
-      "id": "kanohar-electricals-limited",
-      "company": "Kanohar Electricals Limited",
+      "symbol": "LCCPROJECT",
+      "id": "lcc-projects-limited",
+      "company": "LCC Projects Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 601,
-        "max": 632
+        "min": 139,
+        "max": 146
       },
-      "lotSize": 23,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
+      "lotSize": 102,
+      "issueSizeCr": 258,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 215.36975710501505,
-        "nii": 87.73928059598207,
-        "bnii": 94.03706787765883,
-        "snii": 75.14369095238837,
-        "retail": 20.507332131166102,
-        "total": 90.58915367620813
-      }
-    },
-    {
-      "symbol": "PRASOLCHEM",
-      "id": "prasol-chemicals-limited",
-      "company": "Prasol Chemicals Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 643,
-        "max": 676
-      },
-      "lotSize": 22,
-      "issueSizeCr": 80,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
-      "gmp": null,
-      "subscription": {
-        "qib": 7.219698445675148,
-        "nii": 1.7963745042463772,
-        "bnii": 1.1594076162159659,
-        "snii": 3.0703082803072,
-        "retail": 1.7045789740940487,
-        "total": 3.299998585398483
-      }
-    },
-    {
-      "symbol": "GLASSWALL",
-      "id": "glass-wall-systems-india-limited",
-      "company": "Glass Wall Systems (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 172,
-        "max": 182
-      },
-      "lotSize": 82,
-      "issueSizeCr": 60,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
-      "gmp": null,
-      "subscription": {
-        "qib": 167.9272267515368,
-        "nii": 79.71378429542183,
-        "bnii": 73.902238283179,
-        "snii": 91.336881263712,
-        "retail": 33.17734563717568,
-        "total": 81.64940490231143
+        "qib": 1.5198931366428063,
+        "nii": 26.348230608968795,
+        "bnii": 22.123285353756497,
+        "snii": 34.79812672534527,
+        "retail": 14.303690222291346,
+        "total": 13.330105329975739
       }
     },
     {
@@ -311,6 +255,90 @@
       }
     },
     {
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 172,
+        "max": 182
+      },
+      "lotSize": 82,
+      "issueSizeCr": 60,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": 167.9272267515368,
+        "nii": 79.71378429542183,
+        "bnii": 73.902238283179,
+        "snii": 91.336881263712,
+        "retail": 33.17734563717568,
+        "total": 81.64940490231143
+      }
+    },
+    {
+      "symbol": "KANOHAR",
+      "id": "kanohar-electricals-limited",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 601,
+        "max": 632
+      },
+      "lotSize": 23,
+      "issueSizeCr": 300,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": 215.36975710501505,
+        "nii": 87.73928059598207,
+        "bnii": 94.03706787765883,
+        "snii": 75.14369095238837,
+        "retail": 20.507332131166102,
+        "total": 90.58915367620813
+      }
+    },
+    {
+      "symbol": "PRASOLCHEM",
+      "id": "prasol-chemicals-limited",
+      "company": "Prasol Chemicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 643,
+        "max": 676
+      },
+      "lotSize": 22,
+      "issueSizeCr": 80,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": {
+        "qib": 7.219698445675148,
+        "nii": 1.7963745042463772,
+        "bnii": 1.1594076162159659,
+        "snii": 3.0703082803072,
+        "retail": 1.7045789740940487,
+        "total": 3.299998585398483
+      }
+    },
+    {
       "symbol": "HEROMOTORS",
       "id": "hero-motors-limited",
       "company": "Hero Motors Limited",
@@ -339,32 +367,172 @@
       }
     },
     {
-      "symbol": "MANIKA",
-      "id": "manika-plastech-limited",
-      "company": "Manika Plastech Limited",
+      "symbol": "QUALIANCE",
+      "id": "qualiance-international-limited",
+      "company": "Qualiance International Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 40,
-        "max": 43
+        "min": 127,
+        "max": 127
       },
-      "lotSize": 348,
-      "issueSizeCr": 92.5,
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-16",
-      "allotmentDate": "2026-09-17",
-      "listingDate": "2026-09-21",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "935IIFL33",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "935IIFL33",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "935IIFL33",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "935IIFL33",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "DOLLEX",
+      "id": "dollex-agrotech-limited",
+      "company": "Dollex Agrotech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 38,
+        "max": 38
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "935IIFL33",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "935IIFL33",
+      "id": "iifl-finance-limited",
+      "company": "IIFL Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-11",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "805TACA29",
@@ -482,132 +650,6 @@
       "priceBand": {
         "min": 83,
         "max": 83
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "925IIFL28",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "925IIFL28",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "925IIFL28",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "925IIFL28",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "925IIFL28",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-07",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "925IIFL28",
-      "id": "iifl-finance-limited",
-      "company": "IIFL Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4004,9 +4046,9 @@
       "subscription": null
     },
     {
-      "symbol": "PRANAV",
-      "id": "pranav-constructions-limited",
-      "company": "Pranav Constructions Limited",
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -4025,9 +4067,51 @@
       "subscription": null
     },
     {
-      "symbol": "QUALIANCE",
-      "id": "qualiance-international-limited",
-      "company": "Qualiance International Limited",
+      "symbol": "KANOHAR",
+      "id": "kanohar-electricals-limited",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PRASOLCHEM",
+      "id": "prasol-chemicals-limited",
+      "company": "Prasol Chemicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PRANAV",
+      "id": "pranav-constructions-limited",
+      "company": "Pranav Constructions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
