@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T07:36:45.556Z",
+  "lastUpdated": "2026-09-11T12:27:26.094Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-21",
       "gmp": null,
       "subscription": {
-        "qib": 8.137347468578431,
-        "nii": 0.5703691822768091,
-        "bnii": 0.29512763552040916,
-        "snii": 1.120852275789609,
-        "retail": 1.4004842577276733,
-        "total": 0.8293323596540484
+        "qib": 0.350487180253771,
+        "nii": 1.1895496733380044,
+        "bnii": 0.5797472809552907,
+        "snii": 2.4091544581034317,
+        "retail": 2.1185786708228362,
+        "total": 1.4229213660929843
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-18",
       "gmp": null,
       "subscription": {
-        "qib": 0.44902821867741666,
-        "nii": 0.8029823237148469,
-        "bnii": 0.7753167201626857,
-        "snii": 0.8583135650718343,
-        "retail": 1.3710715907239797,
-        "total": 0.9858972989359809
+        "qib": 0.4512471957132174,
+        "nii": 0.9361208909167971,
+        "bnii": 0.8394351810868617,
+        "snii": 1.1294924302828306,
+        "retail": 1.6494608007609686,
+        "total": 1.1542556164423297
       }
     },
     {
@@ -78,68 +78,12 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 0.5894938092153239,
-        "nii": 0.4447624978031671,
-        "bnii": 0.3598369599318799,
-        "snii": 0.6146136450731272,
-        "retail": 1.7271618200891001,
-        "total": 0.7568703489429784
-      }
-    },
-    {
-      "symbol": "KARAMTARA",
-      "id": "karamtara-engineering-limited",
-      "company": "Karamtara Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 241,
-        "max": 254
-      },
-      "lotSize": 59,
-      "issueSizeCr": 675,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 12.166850239829454,
-        "nii": 19.920673081336997,
-        "bnii": 18.93365973449792,
-        "snii": 21.894700862422273,
-        "retail": 7.742364982358013,
-        "total": 11.616141011878172
-      }
-    },
-    {
-      "symbol": "ARCIL",
-      "id": "asset-reconstruction-company-india-limited",
-      "company": "Asset Reconstruction Company (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 132,
-        "max": 139
-      },
-      "lotSize": 107,
-      "issueSizeCr": 36912363,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": {
-        "qib": 4.0006642083845,
-        "nii": 2.3722564386016725,
-        "bnii": 1.7382950943403384,
-        "snii": 3.6401793675711533,
-        "retail": 1.902593830078182,
-        "total": 2.6026844718665125
+        "qib": 1.2583234312128406,
+        "nii": 1.2201599911958239,
+        "bnii": 1.2384357822331133,
+        "snii": 1.1836083937287072,
+        "retail": 2.1907437408169943,
+        "total": 1.4174461688674038
       }
     },
     {
@@ -162,40 +106,40 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 2.308963265603707,
-        "nii": 16.08547248055936,
-        "bnii": 13.346427981573568,
-        "snii": 21.563563516274716,
-        "retail": 9.084289066818464,
-        "total": 8.648735399857845
+        "qib": 43.90522638466562,
+        "nii": 44.29733965617826,
+        "bnii": 42.999800618380604,
+        "snii": 46.89241869709271,
+        "retail": 16.904154981602368,
+        "total": 30.488714597635273
       }
     },
     {
-      "symbol": "RENTOMOJO",
-      "id": "rentomojo-limited",
-      "company": "Rentomojo Limited",
+      "symbol": "ARCIL",
+      "id": "asset-reconstruction-company-india-limited",
+      "company": "Asset Reconstruction Company (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 384,
-        "max": 404
+        "min": 132,
+        "max": 139
       },
-      "lotSize": 37,
-      "issueSizeCr": 150,
+      "lotSize": 107,
+      "issueSizeCr": 36912363,
       "openDate": "2026-09-09",
       "closeDate": "2026-09-11",
       "allotmentDate": "2026-09-15",
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 5.693898219707791,
-        "nii": 37.21794563562786,
-        "bnii": 38.88773466026833,
-        "snii": 33.87836758634692,
-        "retail": 9.627251242482354,
-        "total": 14.40848162604328
+        "qib": 52.64779053759538,
+        "nii": 15.688966283816313,
+        "bnii": 16.744302457997478,
+        "snii": 13.578293535189488,
+        "retail": 3.393662622095946,
+        "total": 20.100977929806337
       }
     },
     {
@@ -218,12 +162,68 @@
       "listingDate": "2026-09-17",
       "gmp": null,
       "subscription": {
-        "qib": 1.5198931366428063,
-        "nii": 26.348230608968795,
-        "bnii": 22.123285353756497,
-        "snii": 34.79812672534527,
-        "retail": 14.303690222291346,
-        "total": 13.330105329975739
+        "qib": 78.68836263847952,
+        "nii": 62.99457642246451,
+        "bnii": 59.71837209117181,
+        "snii": 69.5469894321462,
+        "retail": 25.562911655247536,
+        "total": 48.51239977137976
+      }
+    },
+    {
+      "symbol": "RENTOMOJO",
+      "id": "rentomojo-limited",
+      "company": "Rentomojo Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 384,
+        "max": 404
+      },
+      "lotSize": 37,
+      "issueSizeCr": 150,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 177.2925587585378,
+        "nii": 67.92533777650299,
+        "bnii": 73.16257553442114,
+        "snii": 57.45086226066667,
+        "retail": 15.591493238468768,
+        "total": 72.88184511051675
+      }
+    },
+    {
+      "symbol": "KARAMTARA",
+      "id": "karamtara-engineering-limited",
+      "company": "Karamtara Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 241,
+        "max": 254
+      },
+      "lotSize": 59,
+      "issueSizeCr": 675,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": {
+        "qib": 159.58607006077332,
+        "nii": 48.547057706693536,
+        "bnii": 51.07894580282733,
+        "snii": 43.4832787250076,
+        "retail": 13.263167354569191,
+        "total": 62.630541441043114
       }
     },
     {
@@ -255,87 +255,31 @@
       }
     },
     {
-      "symbol": "GLASSWALL",
-      "id": "glass-wall-systems-india-limited",
-      "company": "Glass Wall Systems (India) Limited",
+      "symbol": "SONA",
+      "id": "sonaselection-india-limited",
+      "company": "Sonaselection India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 172,
-        "max": 182
+        "min": 94,
+        "max": 99
       },
-      "lotSize": 82,
-      "issueSizeCr": 60,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
+      "lotSize": 150,
+      "issueSizeCr": 14300000,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 167.9272267515368,
-        "nii": 79.71378429542183,
-        "bnii": 73.902238283179,
-        "snii": 91.336881263712,
-        "retail": 33.17734563717568,
-        "total": 81.64940490231143
-      }
-    },
-    {
-      "symbol": "KANOHAR",
-      "id": "kanohar-electricals-limited",
-      "company": "Kanohar Electricals Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 601,
-        "max": 632
-      },
-      "lotSize": 23,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
-      "gmp": null,
-      "subscription": {
-        "qib": 215.36975710501505,
-        "nii": 87.73928059598207,
-        "bnii": 94.03706787765883,
-        "snii": 75.14369095238837,
-        "retail": 20.507332131166102,
-        "total": 90.58915367620813
-      }
-    },
-    {
-      "symbol": "PRASOLCHEM",
-      "id": "prasol-chemicals-limited",
-      "company": "Prasol Chemicals Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 643,
-        "max": 676
-      },
-      "lotSize": 22,
-      "issueSizeCr": 80,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "listingDate": "2026-09-16",
-      "gmp": null,
-      "subscription": {
-        "qib": 7.219698445675148,
-        "nii": 1.7963745042463772,
-        "bnii": 1.1594076162159659,
-        "snii": 3.0703082803072,
-        "retail": 1.7045789740940487,
-        "total": 3.299998585398483
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -352,6 +296,34 @@
       },
       "lotSize": 178,
       "issueSizeCr": 600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "JSIPL",
+      "id": "jindal-supreme-india-limited",
+      "company": "Jindal Supreme (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 880,
+        "max": 930
+      },
+      "lotSize": 161,
+      "issueSizeCr": 13428000,
       "openDate": "2026-09-16",
       "closeDate": "2026-09-18",
       "allotmentDate": "2026-09-21",
@@ -850,16 +822,16 @@
       "subscription": null
     },
     {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 102,
-        "max": 102
+        "min": 100,
+        "max": 100
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -871,16 +843,16 @@
       "subscription": null
     },
     {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 100,
-        "max": 100
+        "min": 102,
+        "max": 102
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1977,16 +1949,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1998,16 +1970,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2631,16 +2603,16 @@
       }
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2652,16 +2624,16 @@
       "subscription": null
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3332,7 +3304,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL003",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3353,7 +3325,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3374,7 +3346,7 @@
       "subscription": null
     },
     {
-      "symbol": "975SCL35",
+      "symbol": "SCL19325A",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3731,16 +3703,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3752,16 +3724,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
