@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T12:27:26.094Z",
+  "lastUpdated": "2026-09-11T16:41:06.579Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -82,8 +82,8 @@
         "nii": 1.2201599911958239,
         "bnii": 1.2384357822331133,
         "snii": 1.1836083937287072,
-        "retail": 2.1907437408169943,
-        "total": 1.4174461688674038
+        "retail": 2.190780799206277,
+        "total": 1.4174529067555905
       }
     },
     {
@@ -107,11 +107,11 @@
       "gmp": null,
       "subscription": {
         "qib": 43.90522638466562,
-        "nii": 44.29733965617826,
+        "nii": 44.297660799498075,
         "bnii": 42.999800618380604,
-        "snii": 46.89241869709271,
-        "retail": 16.904154981602368,
-        "total": 30.488714597635273
+        "snii": 46.893382127291076,
+        "retail": 16.904410585464632,
+        "total": 30.488911215996083
       }
     },
     {
@@ -191,11 +191,11 @@
       "gmp": null,
       "subscription": {
         "qib": 177.2925587585378,
-        "nii": 67.92533777650299,
+        "nii": 67.9253218773466,
         "bnii": 73.16257553442114,
-        "snii": 57.45086226066667,
-        "retail": 15.591493238468768,
-        "total": 72.88184511051675
+        "snii": 57.45081456319753,
+        "retail": 15.591912294843313,
+        "total": 72.88205243807145
       }
     },
     {
@@ -324,6 +324,34 @@
       },
       "lotSize": 161,
       "issueSizeCr": 13428000,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SSRETAIL",
+      "id": "ss-retail-limited",
+      "company": "SS Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 403,
+        "max": 424
+      },
+      "lotSize": 35,
+      "issueSizeCr": 360,
       "openDate": "2026-09-16",
       "closeDate": "2026-09-18",
       "allotmentDate": "2026-09-21",
@@ -822,16 +850,16 @@
       "subscription": null
     },
     {
-      "symbol": "MADHURKNIT",
-      "id": "madhur-knit-crafts-limited",
-      "company": "Madhur Knit Crafts Limited",
+      "symbol": "ABH",
+      "id": "abh-healthcare-limited",
+      "company": "ABH Healthcare Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 100,
-        "max": 100
+        "min": 102,
+        "max": 102
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -843,16 +871,16 @@
       "subscription": null
     },
     {
-      "symbol": "ABH",
-      "id": "abh-healthcare-limited",
-      "company": "ABH Healthcare Limited",
+      "symbol": "MADHURKNIT",
+      "id": "madhur-knit-crafts-limited",
+      "company": "Madhur Knit Crafts Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 102,
-        "max": 102
+        "min": 100,
+        "max": 100
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1949,16 +1977,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1970,16 +1998,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2603,16 +2631,16 @@
       }
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2624,16 +2652,16 @@
       "subscription": null
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3304,7 +3332,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL003",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3325,7 +3353,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3346,7 +3374,7 @@
       "subscription": null
     },
     {
-      "symbol": "SCL19325A",
+      "symbol": "975SCL35",
       "id": "sammaan-capital-limited",
       "company": "Sammaan Capital Limited",
       "exchange": "NSE, BSE",
@@ -3703,16 +3731,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3724,16 +3752,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
