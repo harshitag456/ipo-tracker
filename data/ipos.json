@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T08:11:08.211Z",
+  "lastUpdated": "2026-09-15T13:43:59.468Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-21",
       "gmp": null,
       "subscription": {
-        "qib": 0.37274863797138197,
-        "nii": 6.946120413955847,
-        "bnii": 4.631085910059345,
-        "snii": 11.57618942174885,
-        "retail": 8.991320708543954,
-        "total": 6.1367795894303425
+        "qib": 0.8018774691179146,
+        "nii": 10.693216950189322,
+        "bnii": 7.904268327130835,
+        "snii": 16.271114196306293,
+        "retail": 11.44764006223865,
+        "total": 8.304420847154281
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-18",
       "gmp": null,
       "subscription": {
-        "qib": 6.987459328555935,
-        "nii": 9.626161281709166,
-        "bnii": 8.71646759131724,
-        "snii": 11.445549788780871,
-        "retail": 6.677385680935476,
-        "total": 7.397858643479147
+        "qib": 17.761652647296245,
+        "nii": 18.02501901507876,
+        "bnii": 17.26045122370209,
+        "snii": 19.554155544440206,
+        "retail": 9.235235583842293,
+        "total": 13.554879015098749
       }
     },
     {
@@ -183,11 +183,39 @@
         "max": 930
       },
       "lotSize": 161,
-      "issueSizeCr": 13428000,
+      "issueSizeCr": 9399600,
       "openDate": "2026-09-16",
       "closeDate": "2026-09-18",
       "allotmentDate": "2026-09-21",
       "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 112,
+        "max": 118
+      },
+      "lotSize": 1200,
+      "issueSizeCr": 3603600,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
         "qib": null,
