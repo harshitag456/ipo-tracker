@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-09-15T13:43:59.468Z",
+  "lastUpdated": "2026-09-16T08:05:06.208Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "JSIPL",
+      "id": "jindal-supreme-india-limited",
+      "company": "Jindal Supreme (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 880,
+        "max": 930
+      },
+      "lotSize": 161,
+      "issueSizeCr": 9399600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.0108061513255884,
+        "nii": 3.168363618309999,
+        "bnii": 1.5863799523383975,
+        "snii": 6.332330950253202,
+        "retail": 7.137159666368782,
+        "total": 4.536316651772416
+      }
+    },
+    {
+      "symbol": "HEROMOTORS",
+      "id": "hero-motors-limited",
+      "company": "Hero Motors Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 79,
+        "max": 84
+      },
+      "lotSize": 178,
+      "issueSizeCr": 600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.0058005749303931,
+        "nii": 0.7094278914868652,
+        "bnii": 0.335013083979843,
+        "snii": 1.45825750650091,
+        "retail": 1.577848788494386,
+        "total": 0.9426019638316335
+      }
+    },
+    {
+      "symbol": "SSRETAIL",
+      "id": "ss-retail-limited",
+      "company": "SS Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 403,
+        "max": 424
+      },
+      "lotSize": 35,
+      "issueSizeCr": 360,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.0011850523198534664,
+        "nii": 0.6844394087791246,
+        "bnii": 0.40294635970396014,
+        "snii": 1.2474255069294535,
+        "retail": 1.32098127205971,
+        "total": 0.7849353027626927
+      }
+    },
     {
       "symbol": "MANIKA",
       "id": "manika-plastech-limited",
@@ -22,12 +106,12 @@
       "listingDate": "2026-09-21",
       "gmp": null,
       "subscription": {
-        "qib": 0.8018774691179146,
-        "nii": 10.693216950189322,
-        "bnii": 7.904268327130835,
-        "snii": 16.271114196306293,
-        "retail": 11.44764006223865,
-        "total": 8.304420847154281
+        "qib": 2.5308313105488716,
+        "nii": 22.495761283816382,
+        "bnii": 20.50606017905532,
+        "snii": 26.47516349333851,
+        "retail": 16.74373163056781,
+        "total": 14.007398821681608
       }
     },
     {
@@ -37,7 +121,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 130,
         "max": 140
@@ -115,90 +199,6 @@
       }
     },
     {
-      "symbol": "SSRETAIL",
-      "id": "ss-retail-limited",
-      "company": "SS Retail Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 403,
-        "max": 424
-      },
-      "lotSize": 35,
-      "issueSizeCr": 360,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "HEROMOTORS",
-      "id": "hero-motors-limited",
-      "company": "Hero Motors Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 79,
-        "max": 84
-      },
-      "lotSize": 178,
-      "issueSizeCr": 600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "JSIPL",
-      "id": "jindal-supreme-india-limited",
-      "company": "Jindal Supreme (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 880,
-        "max": 930
-      },
-      "lotSize": 161,
-      "issueSizeCr": 9399600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
       "symbol": "SPECTRAA",
       "id": "spectraa-technology-solutions-limited",
       "company": "SpectraA Technology Solutions Limited",
@@ -253,6 +253,195 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 182,
+        "max": 182
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "KANOHAR",
+      "id": "kanohar-electricals-limited",
+      "company": "Kanohar Electricals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 632,
+        "max": 632
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PRASOLCHEM",
+      "id": "prasol-chemicals-limited",
+      "company": "Prasol Chemicals Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 676,
+        "max": 676
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SCL004",
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "13DCCL28",
+      "id": "dar-credit-capital-limited",
+      "company": "Dar Credit & Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 100000,
+        "max": 100000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "975SCL35",
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "975SCL35",
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "975SCL35",
+      "id": "sammaan-capital-limited",
+      "company": "Sammaan Capital Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "1160AFIL29",
+      "id": "akme-fintrade-india-limited",
+      "company": "Akme Fintrade (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 10000,
+        "max": 10000
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-16",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "PRANAV",
@@ -1284,27 +1473,6 @@
       "subscription": null
     },
     {
-      "symbol": "1305DCCL29",
-      "id": "dar-credit-capital-limited",
-      "company": "Dar Credit & Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 10000,
-        "max": 10000
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-08-12",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "ANNAPURNA",
       "id": "annapurna-swadisht-limited",
       "company": "Annapurna Swadisht Limited",
@@ -1651,27 +1819,6 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-07-21",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "115AFIL28A",
-      "id": "akme-fintrade-india-limited",
-      "company": "Akme Fintrade (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 10000,
-        "max": 10000
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-07-17",
       "gmp": null,
       "subscription": null
     },
@@ -3220,90 +3367,6 @@
       "subscription": null
     },
     {
-      "symbol": "SCL004",
-      "id": "sammaan-capital-limited",
-      "company": "Sammaan Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-09",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "975SCL35",
-      "id": "sammaan-capital-limited",
-      "company": "Sammaan Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-09",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "975SCL35",
-      "id": "sammaan-capital-limited",
-      "company": "Sammaan Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-09",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "975SCL35",
-      "id": "sammaan-capital-limited",
-      "company": "Sammaan Capital Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-03-09",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "STRIDERS",
       "id": "striders-impex-limited",
       "company": "Striders Impex Limited",
@@ -3955,6 +4018,27 @@
       "subscription": null
     },
     {
+      "symbol": "VEEGALAND",
+      "id": "veegaland-developers-limited",
+      "company": "Veegaland Developers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "MPIMANIPAL",
       "id": "manipal-payment-and-identity-solutions-limited",
       "company": "Manipal Payment and Identity Solutions Limited",
@@ -4084,69 +4168,6 @@
       "symbol": "VINOD",
       "id": "vinod-texworld-limited",
       "company": "Vinod Texworld Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "GLASSWALL",
-      "id": "glass-wall-systems-india-limited",
-      "company": "Glass Wall Systems (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "KANOHAR",
-      "id": "kanohar-electricals-limited",
-      "company": "Kanohar Electricals Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PRASOLCHEM",
-      "id": "prasol-chemicals-limited",
-      "company": "Prasol Chemicals Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
