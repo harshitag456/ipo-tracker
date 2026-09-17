@@ -1,61 +1,61 @@
 {
-  "lastUpdated": "2026-09-16T13:36:35.184Z",
+  "lastUpdated": "2026-09-17T08:11:10.403Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "JSIPL",
-      "id": "jindal-supreme-india-limited",
-      "company": "Jindal Supreme (India) Limited",
+      "symbol": "NSE",
+      "id": "national-stock-exchange-of-india-limited",
+      "company": "National Stock Exchange of India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 880,
-        "max": 930
+        "min": 1700,
+        "max": 1785
       },
-      "lotSize": 161,
-      "issueSizeCr": 9399600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
+      "lotSize": 8,
+      "issueSizeCr": 70,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 1.0190192135835567,
-        "nii": 6.738467878065733,
-        "bnii": 4.060849717009234,
-        "snii": 12.093704200178731,
-        "retail": 11.588588025022341,
-        "total": 7.5293997616919865
+        "qib": 0.17867311026355384,
+        "nii": 0.4400827216955249,
+        "bnii": 0.34165793540831735,
+        "snii": 0.6369322942699401,
+        "retail": 0.32670041864011407,
+        "total": 0.3106747250211582
       }
     },
     {
-      "symbol": "HEROMOTORS",
-      "id": "hero-motors-limited",
-      "company": "Hero Motors Limited",
+      "symbol": "SONA",
+      "id": "sonaselection-india-limited",
+      "company": "Sonaselection India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 79,
-        "max": 84
+        "min": 94,
+        "max": 99
       },
-      "lotSize": 178,
-      "issueSizeCr": 600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
+      "lotSize": 150,
+      "issueSizeCr": 10010000,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 0.007431766910818797,
-        "nii": 1.2482556010209327,
-        "bnii": 0.7183853853793754,
-        "snii": 2.3079960323040476,
-        "retail": 2.2289475046812015,
-        "total": 1.3840804573910346
+        "qib": 0.10594405594405594,
+        "nii": 0.12783216783216783,
+        "bnii": 0.0641958041958042,
+        "snii": 0.2551048951048951,
+        "retail": 0.5205494505494506,
+        "total": 0.3179370629370629
       }
     },
     {
@@ -78,12 +78,124 @@
       "listingDate": "2026-09-23",
       "gmp": null,
       "subscription": {
-        "qib": 0.19794709298820645,
-        "nii": 1.5251707107059822,
-        "bnii": 1.0612568315938817,
-        "snii": 2.4529984689301836,
-        "retail": 2.1994552892929167,
-        "total": 1.441283510221422
+        "qib": 0.20770209684065877,
+        "nii": 4.704384056834017,
+        "bnii": 3.4943984646359207,
+        "snii": 7.124355241230207,
+        "retail": 5.03737660188386,
+        "total": 3.477415667525294
+      }
+    },
+    {
+      "symbol": "HEROMOTORS",
+      "id": "hero-motors-limited",
+      "company": "Hero Motors Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 79,
+        "max": 84
+      },
+      "lotSize": 178,
+      "issueSizeCr": 600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.06048769227414769,
+        "nii": 2.693791685007833,
+        "bnii": 1.6783137418602352,
+        "snii": 4.72474757130303,
+        "retail": 4.117004009453095,
+        "total": 2.6530252778779824
+      }
+    },
+    {
+      "symbol": "JSIPL",
+      "id": "jindal-supreme-india-limited",
+      "company": "Jindal Supreme (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 880,
+        "max": 930
+      },
+      "lotSize": 161,
+      "issueSizeCr": 9399600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 5.436447721179625,
+        "nii": 20.627855227882037,
+        "bnii": 12.816333780160859,
+        "snii": 36.2508981233244,
+        "retail": 28.195828120345546,
+        "total": 20.071439529341674
+      }
+    },
+    {
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 112,
+        "max": 118
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "KHERIAAUTO",
+      "id": "kheria-autocomp-limited",
+      "company": "Kheria Autocomp Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 96,
+        "max": 101
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -93,7 +205,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
         "min": 40,
         "max": 43
@@ -115,23 +227,23 @@
       }
     },
     {
-      "symbol": "NSE",
-      "id": "national-stock-exchange-of-india-limited",
-      "company": "National Stock Exchange of India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "AXIOMGAS",
+      "id": "axiom-gas-engineering-limited",
+      "company": "Axiom Gas Engineering Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 1700,
-        "max": 1785
+        "min": 51,
+        "max": 54
       },
-      "lotSize": 8,
-      "issueSizeCr": 70,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
+      "lotSize": 2000,
+      "issueSizeCr": 9398000,
+      "openDate": "2026-09-18",
+      "closeDate": "2026-09-22",
+      "allotmentDate": "2026-09-23",
+      "listingDate": "2026-09-25",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -143,88 +255,151 @@
       }
     },
     {
-      "symbol": "SONA",
-      "id": "sonaselection-india-limited",
-      "company": "Sonaselection India Limited",
+      "symbol": "MPIMANIPAL",
+      "id": "manipal-payment-and-identity-solutions-limited",
+      "company": "Manipal Payment and Identity Solutions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
+      "priceBand": {
+        "min": 339,
+        "max": 339
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "KARAMTARA",
+      "id": "karamtara-engineering-limited",
+      "company": "Karamtara Engineering Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 254,
+        "max": 254
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "LCCPROJECT",
+      "id": "lcc-projects-limited",
+      "company": "LCC Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 146,
+        "max": 146
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "RENTOMOJO",
+      "id": "rentomojo-limited",
+      "company": "Rentomojo Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 404,
+        "max": 404
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "STEAMHOUSE",
+      "id": "steamhouse-india-limited",
+      "company": "Steamhouse India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 81,
+        "max": 81
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ARCIL",
+      "id": "asset-reconstruction-company-india-limited",
+      "company": "Asset Reconstruction Company (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 139,
+        "max": 139
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "VINOD",
+      "id": "vinod-texworld-limited",
+      "company": "Vinod Texworld Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
       "priceBand": {
         "min": 94,
-        "max": 99
+        "max": 94
       },
-      "lotSize": 150,
-      "issueSizeCr": 10010000,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 112,
-        "max": 118
-      },
-      "lotSize": 1200,
-      "issueSizeCr": 2578800,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "KHERIAAUTO",
-      "id": "kheria-autocomp-limited",
-      "company": "Kheria Autocomp Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 96,
-        "max": 101
-      },
-      "lotSize": 1200,
-      "issueSizeCr": 3288000,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "GLASSWALL",
@@ -3990,156 +4165,30 @@
       "subscription": null
     },
     {
+      "symbol": "MANIKA",
+      "id": "manika-plastech-limited",
+      "company": "Manika Plastech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "VEEGALAND",
       "id": "veegaland-developers-limited",
       "company": "Veegaland Developers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MPIMANIPAL",
-      "id": "manipal-payment-and-identity-solutions-limited",
-      "company": "Manipal Payment and Identity Solutions Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "KARAMTARA",
-      "id": "karamtara-engineering-limited",
-      "company": "Karamtara Engineering Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "LCCPROJECT",
-      "id": "lcc-projects-limited",
-      "company": "LCC Projects Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "RENTOMOJO",
-      "id": "rentomojo-limited",
-      "company": "Rentomojo Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "STEAMHOUSE",
-      "id": "steamhouse-india-limited",
-      "company": "Steamhouse India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ARCIL",
-      "id": "asset-reconstruction-company-india-limited",
-      "company": "Asset Reconstruction Company (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "VINOD",
-      "id": "vinod-texworld-limited",
-      "company": "Vinod Texworld Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
