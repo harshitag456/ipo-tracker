@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-09-17T13:38:57.002Z",
+  "lastUpdated": "2026-09-18T07:45:36.700Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "NSE",
-      "id": "national-stock-exchange-of-india-limited",
-      "company": "National Stock Exchange of India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 1700,
-        "max": 1785
-      },
-      "lotSize": 8,
-      "issueSizeCr": 70,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.1876715709425157,
-        "nii": 0.7241571551372523,
-        "bnii": 0.6153182434544133,
-        "snii": 0.9418349785029303,
-        "retail": 0.4433067863915036,
-        "total": 0.4330951631315447
-      }
-    },
     {
       "symbol": "SONA",
       "id": "sonaselection-india-limited",
@@ -51,67 +23,39 @@
       "gmp": null,
       "subscription": {
         "qib": 0.10594405594405594,
-        "nii": 0.2365034965034965,
-        "bnii": 0.2032867132867133,
-        "snii": 0.30293706293706296,
-        "retail": 0.771968031968032,
-        "total": 0.4669330669330669
+        "nii": 0.31713286713286715,
+        "bnii": 0.24608391608391608,
+        "snii": 0.4592307692307692,
+        "retail": 1.0956143856143856,
+        "total": 0.646033966033966
       }
     },
     {
-      "symbol": "SSRETAIL",
-      "id": "ss-retail-limited",
-      "company": "SS Retail Limited",
+      "symbol": "NSE",
+      "id": "national-stock-exchange-of-india-limited",
+      "company": "National Stock Exchange of India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 403,
-        "max": 424
+        "min": 1700,
+        "max": 1785
       },
-      "lotSize": 35,
-      "issueSizeCr": 360,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
+      "lotSize": 8,
+      "issueSizeCr": 70,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 0.23143204695284647,
-        "nii": 9.908917587042778,
-        "bnii": 8.179802430883017,
-        "snii": 13.367147899362301,
-        "retail": 7.549256018987248,
-        "total": 5.779665162742652
-      }
-    },
-    {
-      "symbol": "HEROMOTORS",
-      "id": "hero-motors-limited",
-      "company": "Hero Motors Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 79,
-        "max": 84
-      },
-      "lotSize": 178,
-      "issueSizeCr": 600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.06598593420816878,
-        "nii": 3.8953426972558876,
-        "bnii": 2.616178820605854,
-        "snii": 6.453670450555955,
-        "retail": 5.021053996318781,
-        "total": 3.3640964144879857
+        "qib": 1.2466543083554036,
+        "nii": 1.2255906899310456,
+        "bnii": 1.1161651265737496,
+        "snii": 1.444441816645638,
+        "retail": 0.6177919497518487,
+        "total": 0.9294850887737656
       }
     },
     {
@@ -134,32 +78,88 @@
       "listingDate": "2026-09-23",
       "gmp": null,
       "subscription": {
-        "qib": 12.498182529043788,
-        "nii": 37.59951891569854,
-        "bnii": 26.456371760500446,
-        "snii": 59.885813226094726,
-        "retail": 39.735052129877865,
-        "total": 31.495475126601132
+        "qib": 15.237268766756031,
+        "nii": 176.0130781451693,
+        "bnii": 155.2290348525469,
+        "snii": 217.58116473041406,
+        "retail": 95.74539618707179,
+        "total": 89.94329162943104
       }
     },
     {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
+      "symbol": "SSRETAIL",
+      "id": "ss-retail-limited",
+      "company": "SS Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 403,
+        "max": 424
+      },
+      "lotSize": 35,
+      "issueSizeCr": 360,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 12.078024340231412,
+        "nii": 65.7050849025285,
+        "bnii": 68.07758659132989,
+        "snii": 60.96008152492572,
+        "retail": 21.025758969641213,
+        "total": 27.093756296990044
+      }
+    },
+    {
+      "symbol": "HEROMOTORS",
+      "id": "hero-motors-limited",
+      "company": "Hero Motors Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 79,
+        "max": 84
+      },
+      "lotSize": 178,
+      "issueSizeCr": 600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.5497960694024472,
+        "nii": 7.105012908073179,
+        "bnii": 5.4476749826279,
+        "snii": 10.419688758963735,
+        "retail": 7.056134735897812,
+        "total": 5.2076547252224294
+      }
+    },
+    {
+      "symbol": "AXIOMGAS",
+      "id": "axiom-gas-engineering-limited",
+      "company": "Axiom Gas Engineering Limited",
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 112,
-        "max": 118
+        "min": 51,
+        "max": 54
       },
       "lotSize": 0,
       "issueSizeCr": 0,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
+      "openDate": "2026-09-18",
+      "closeDate": "2026-09-22",
+      "allotmentDate": "2026-09-23",
+      "listingDate": "2026-09-25",
       "gmp": null,
       "subscription": {
         "qib": 0,
@@ -199,60 +199,53 @@
       }
     },
     {
-      "symbol": "MANIKA",
-      "id": "manika-plastech-limited",
-      "company": "Manika Plastech Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 40,
-        "max": 43
-      },
-      "lotSize": 348,
-      "issueSizeCr": 92.5,
-      "openDate": "2026-09-11",
-      "closeDate": "2026-09-16",
-      "allotmentDate": "2026-09-17",
-      "listingDate": "2026-09-21",
-      "gmp": null,
-      "subscription": {
-        "qib": 10.936536873858921,
-        "nii": 63.089897147413815,
-        "bnii": 70.27156225669185,
-        "snii": 48.72656692885775,
-        "retail": 22.722568152257413,
-        "total": 28.143083162189
-      }
-    },
-    {
-      "symbol": "AXIOMGAS",
-      "id": "axiom-gas-engineering-limited",
-      "company": "Axiom Gas Engineering Limited",
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
-        "min": 51,
-        "max": 54
+        "min": 112,
+        "max": 118
       },
-      "lotSize": 2000,
-      "issueSizeCr": 8328000,
-      "openDate": "2026-09-18",
-      "closeDate": "2026-09-22",
-      "allotmentDate": "2026-09-23",
-      "listingDate": "2026-09-25",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "VEEGALAND",
+      "id": "veegaland-developers-limited",
+      "company": "Veegaland Developers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 140,
+        "max": 140
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-18",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "MPIMANIPAL",
@@ -4168,27 +4161,6 @@
       "symbol": "MANIKA",
       "id": "manika-plastech-limited",
       "company": "Manika Plastech Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "VEEGALAND",
-      "id": "veegaland-developers-limited",
-      "company": "Veegaland Developers Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
