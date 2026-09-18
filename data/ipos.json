@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-09-18T07:45:36.700Z",
+  "lastUpdated": "2026-09-18T12:30:39.706Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "SONA",
-      "id": "sonaselection-india-limited",
-      "company": "Sonaselection India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 94,
-        "max": 99
-      },
-      "lotSize": 150,
-      "issueSizeCr": 10010000,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.10594405594405594,
-        "nii": 0.31713286713286715,
-        "bnii": 0.24608391608391608,
-        "snii": 0.4592307692307692,
-        "retail": 1.0956143856143856,
-        "total": 0.646033966033966
-      }
-    },
     {
       "symbol": "NSE",
       "id": "national-stock-exchange-of-india-limited",
@@ -50,68 +22,40 @@
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 1.2466543083554036,
-        "nii": 1.2255906899310456,
-        "bnii": 1.1161651265737496,
-        "snii": 1.444441816645638,
-        "retail": 0.6177919497518487,
-        "total": 0.9294850887737656
+        "qib": 1.5298925529875256,
+        "nii": 1.6540974111613973,
+        "bnii": 1.575589576202894,
+        "snii": 1.8111130810784042,
+        "retail": 0.7162260826679592,
+        "total": 1.1514642609153483
       }
     },
     {
-      "symbol": "JSIPL",
-      "id": "jindal-supreme-india-limited",
-      "company": "Jindal Supreme (India) Limited",
+      "symbol": "SONA",
+      "id": "sonaselection-india-limited",
+      "company": "Sonaselection India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 880,
-        "max": 930
+        "min": 94,
+        "max": 99
       },
-      "lotSize": 161,
-      "issueSizeCr": 9399600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
+      "lotSize": 150,
+      "issueSizeCr": 10010000,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 15.237268766756031,
-        "nii": 176.0130781451693,
-        "bnii": 155.2290348525469,
-        "snii": 217.58116473041406,
-        "retail": 95.74539618707179,
-        "total": 89.94329162943104
-      }
-    },
-    {
-      "symbol": "SSRETAIL",
-      "id": "ss-retail-limited",
-      "company": "SS Retail Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 403,
-        "max": 424
-      },
-      "lotSize": 35,
-      "issueSizeCr": 360,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 12.078024340231412,
-        "nii": 65.7050849025285,
-        "bnii": 68.07758659132989,
-        "snii": 60.96008152492572,
-        "retail": 21.025758969641213,
-        "total": 27.093756296990044
+        "qib": 0.4591783216783217,
+        "nii": 0.598951048951049,
+        "bnii": 0.5911888111888112,
+        "snii": 0.6144755244755244,
+        "retail": 1.2895504495504495,
+        "total": 0.9043156843156843
       }
     },
     {
@@ -134,12 +78,68 @@
       "listingDate": "2026-09-23",
       "gmp": null,
       "subscription": {
-        "qib": 0.5497960694024472,
-        "nii": 7.105012908073179,
-        "bnii": 5.4476749826279,
-        "snii": 10.419688758963735,
-        "retail": 7.056134735897812,
-        "total": 5.2076547252224294
+        "qib": 1.4913242991041085,
+        "nii": 9.85596193506179,
+        "bnii": 8.10556169473326,
+        "snii": 13.356762415718851,
+        "retail": 8.234803526325214,
+        "total": 6.655486263277022
+      }
+    },
+    {
+      "symbol": "JSIPL",
+      "id": "jindal-supreme-india-limited",
+      "company": "Jindal Supreme (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 880,
+        "max": 930
+      },
+      "lotSize": 161,
+      "issueSizeCr": 9399600,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 126.41071827524576,
+        "nii": 327.99285771025717,
+        "bnii": 304.1842493297587,
+        "snii": 375.6100744712541,
+        "retail": 149.33638963360144,
+        "total": 181.06972669049748
+      }
+    },
+    {
+      "symbol": "SSRETAIL",
+      "id": "ss-retail-limited",
+      "company": "SS Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 403,
+        "max": 424
+      },
+      "lotSize": 35,
+      "issueSizeCr": 360,
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
+      "listingDate": "2026-09-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 203.60593459337014,
+        "nii": 143.32240223257617,
+        "bnii": 156.8887736411549,
+        "snii": 116.18965941541872,
+        "retail": 36.3640229974284,
+        "total": 103.29895129387651
       }
     },
     {
@@ -222,6 +222,62 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "VARMORA",
+      "id": "varmora-granito-limited",
+      "company": "Varmora Granito Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 140,
+        "max": 148
+      },
+      "lotSize": 101,
+      "issueSizeCr": 320,
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-24",
+      "allotmentDate": "2026-09-25",
+      "listingDate": "2026-09-29",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "POOJALOGIS",
+      "id": "pooja-logistics-limited",
+      "company": "Pooja Logistics Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 109,
+        "max": 115
+      },
+      "lotSize": 1200,
+      "issueSizeCr": 3846000,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
