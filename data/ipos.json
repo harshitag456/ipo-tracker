@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T08:22:31.076Z",
+  "lastUpdated": "2026-09-21T15:13:49.262Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 6.978088546722339,
-        "nii": 4.400701505882151,
-        "bnii": 5.013352515911895,
-        "snii": 3.175399485822664,
-        "retail": 1.0628722963416466,
-        "total": 3.4617863125004997
+        "qib": 12.683163712344246,
+        "nii": 6.547537647582868,
+        "bnii": 7.775323202057852,
+        "snii": 4.091966538632901,
+        "retail": 1.390111113945506,
+        "total": 5.7061684718364
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 0.4599125874125874,
-        "nii": 1.4190209790209791,
-        "bnii": 1.4793356643356643,
-        "snii": 1.2983916083916085,
-        "retail": 2.0766233766233766,
-        "total": 1.4737912087912088
+        "qib": 1.162867132867133,
+        "nii": 1.9954545454545454,
+        "bnii": 2.012937062937063,
+        "snii": 1.9604895104895106,
+        "retail": 2.5043256743256745,
+        "total": 2.012007992007992
       }
     },
     {
@@ -143,6 +143,118 @@
       }
     },
     {
+      "symbol": "SWASTIKAIN",
+      "id": "swastika-infra-limited",
+      "company": "Swastika Infra Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 175,
+        "max": 185
+      },
+      "lotSize": 81,
+      "issueSizeCr": 128.5,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ADROITIND",
+      "id": "adroit-industries-india-limited",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 126,
+        "max": 134
+      },
+      "lotSize": 111,
+      "issueSizeCr": 11247000,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ELEVATE",
+      "id": "elevate-campuses-limited",
+      "company": "Elevate Campuses Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 343,
+        "max": 362
+      },
+      "lotSize": 41,
+      "issueSizeCr": 2100,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ARMEE",
+      "id": "armee-infotech-limited",
+      "company": "ArMee Infotech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 350,
+        "max": 375
+      },
+      "lotSize": 40,
+      "issueSizeCr": 300,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
       "symbol": "VARMORA",
       "id": "varmora-granito-limited",
       "company": "Varmora Granito Limited",
@@ -160,6 +272,34 @@
       "closeDate": "2026-09-24",
       "allotmentDate": "2026-09-25",
       "listingDate": "2026-09-29",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "COREIN",
+      "id": "coreintegra-consulting-services-limited",
+      "company": "Coreintegra Consulting Services Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 74,
+        "max": 78
+      },
+      "lotSize": 1600,
+      "issueSizeCr": 2819200,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
       "gmp": null,
       "subscription": {
         "qib": null,
