@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T16:39:08.798Z",
+  "lastUpdated": "2026-09-21T08:22:31.076Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 1.5299566599585757,
-        "nii": 1.6801179102142523,
-        "bnii": 1.6044809013610921,
-        "snii": 1.8313919279205721,
-        "retail": 0.722428373425848,
-        "total": 1.1602016996034799
+        "qib": 6.978088546722339,
+        "nii": 4.400701505882151,
+        "bnii": 5.013352515911895,
+        "snii": 3.175399485822664,
+        "retail": 1.0628722963416466,
+        "total": 3.4617863125004997
       }
     },
     {
@@ -50,96 +50,12 @@
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 0.4591783216783217,
-        "nii": 0.598951048951049,
-        "bnii": 0.5911888111888112,
-        "snii": 0.6144755244755244,
-        "retail": 1.2895504495504495,
-        "total": 0.9043156843156843
-      }
-    },
-    {
-      "symbol": "HEROMOTORS",
-      "id": "hero-motors-limited",
-      "company": "Hero Motors Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 79,
-        "max": 84
-      },
-      "lotSize": 178,
-      "issueSizeCr": 600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.4913242991041085,
-        "nii": 9.85596193506179,
-        "bnii": 8.10556169473326,
-        "snii": 13.356762415718851,
-        "retail": 8.234803526325214,
-        "total": 6.655486263277022
-      }
-    },
-    {
-      "symbol": "JSIPL",
-      "id": "jindal-supreme-india-limited",
-      "company": "Jindal Supreme (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 880,
-        "max": 930
-      },
-      "lotSize": 161,
-      "issueSizeCr": 9399600,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 126.41071827524576,
-        "nii": 327.99285771025717,
-        "bnii": 304.1842493297587,
-        "snii": 375.6100744712541,
-        "retail": 149.33638963360144,
-        "total": 181.06972669049748
-      }
-    },
-    {
-      "symbol": "SSRETAIL",
-      "id": "ss-retail-limited",
-      "company": "SS Retail Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 403,
-        "max": 424
-      },
-      "lotSize": 35,
-      "issueSizeCr": 360,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "listingDate": "2026-09-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 203.60593459337014,
-        "nii": 143.32240223257617,
-        "bnii": 156.8887736411549,
-        "snii": 116.18965941541872,
-        "retail": 36.3640229974284,
-        "total": 103.29895129387651
+        "qib": 0.4599125874125874,
+        "nii": 1.4190209790209791,
+        "bnii": 1.4793356643356643,
+        "snii": 1.2983916083916085,
+        "retail": 2.0766233766233766,
+        "total": 1.4737912087912088
       }
     },
     {
@@ -281,6 +197,69 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "MANIKA",
+      "id": "manika-plastech-limited",
+      "company": "Manika Plastech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 43,
+        "max": 43
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-21",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "870MOFS31",
+      "id": "motilal-oswal-financial-services-limited",
+      "company": "Motilal Oswal Financial Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-21",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "8135PHFL31",
+      "id": "pnb-housing-finance-limited",
+      "company": "PNB Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-21",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "VEEGALAND",
@@ -2085,27 +2064,6 @@
       "symbol": "727NGEL36",
       "id": "ntpc-green-energy-limited",
       "company": "NTPC Green Energy Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-07-13",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "783PHFL29",
-      "id": "pnb-housing-finance-limited",
-      "company": "PNB Housing Finance Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
@@ -4214,9 +4172,51 @@
       "subscription": null
     },
     {
-      "symbol": "MANIKA",
-      "id": "manika-plastech-limited",
-      "company": "Manika Plastech Limited",
+      "symbol": "HEROMOTORS",
+      "id": "hero-motors-limited",
+      "company": "Hero Motors Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SSRETAIL",
+      "id": "ss-retail-limited",
+      "company": "SS Retail Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "JSIPL",
+      "id": "jindal-supreme-india-limited",
+      "company": "Jindal Supreme (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
