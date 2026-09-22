@@ -1,61 +1,33 @@
 {
-  "lastUpdated": "2026-09-21T15:13:49.262Z",
+  "lastUpdated": "2026-09-22T08:05:10.073Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "NSE",
-      "id": "national-stock-exchange-of-india-limited",
-      "company": "National Stock Exchange of India Limited",
+      "symbol": "VARMORA",
+      "id": "varmora-granito-limited",
+      "company": "Varmora Granito Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 1700,
-        "max": 1785
+        "min": 140,
+        "max": 148
       },
-      "lotSize": 8,
-      "issueSizeCr": 70,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
+      "lotSize": 101,
+      "issueSizeCr": 320,
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-24",
+      "allotmentDate": "2026-09-25",
+      "listingDate": "2026-09-29",
       "gmp": null,
       "subscription": {
-        "qib": 12.683163712344246,
-        "nii": 6.547537647582868,
-        "bnii": 7.775323202057852,
-        "snii": 4.091966538632901,
-        "retail": 1.390111113945506,
-        "total": 5.7061684718364
-      }
-    },
-    {
-      "symbol": "SONA",
-      "id": "sonaselection-india-limited",
-      "company": "Sonaselection India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 94,
-        "max": 99
-      },
-      "lotSize": 150,
-      "issueSizeCr": 10010000,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
-      "listingDate": "2026-09-24",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.162867132867133,
-        "nii": 1.9954545454545454,
-        "bnii": 2.012937062937063,
-        "snii": 1.9604895104895106,
-        "retail": 2.5043256743256745,
-        "total": 2.012007992007992
+        "qib": 0,
+        "nii": 0.02833295092373992,
+        "bnii": 0.0013789160134798364,
+        "snii": 0.08224102074426008,
+        "retail": 0.14454804015702685,
+        "total": 0.0793839783435629
       }
     },
     {
@@ -87,103 +59,75 @@
       }
     },
     {
-      "symbol": "KHERIAAUTO",
-      "id": "kheria-autocomp-limited",
-      "company": "Kheria Autocomp Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "SONA",
+      "id": "sonaselection-india-limited",
+      "company": "Sonaselection India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
-        "min": 96,
-        "max": 101
+        "min": 94,
+        "max": 99
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
+      "lotSize": 150,
+      "issueSizeCr": 10010000,
       "openDate": "2026-09-17",
       "closeDate": "2026-09-21",
       "allotmentDate": "2026-09-22",
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
+        "qib": 1.162867132867133,
+        "nii": 1.9954545454545454,
+        "bnii": 2.012937062937063,
+        "snii": 1.9604895104895106,
+        "retail": 2.5043256743256745,
+        "total": 2.012007992007992
       }
     },
     {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "NSE",
+      "id": "national-stock-exchange-of-india-limited",
+      "company": "National Stock Exchange of India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
-        "min": 112,
-        "max": 118
+        "min": 1700,
+        "max": 1785
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
+      "lotSize": 8,
+      "issueSizeCr": 70,
       "openDate": "2026-09-17",
       "closeDate": "2026-09-21",
       "allotmentDate": "2026-09-22",
       "listingDate": "2026-09-24",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
+        "qib": 12.683163712344246,
+        "nii": 6.547537647582868,
+        "bnii": 7.775323202057852,
+        "snii": 4.091966538632901,
+        "retail": 1.390111113945506,
+        "total": 5.7061684718364
       }
     },
     {
-      "symbol": "SWASTIKAIN",
-      "id": "swastika-infra-limited",
-      "company": "Swastika Infra Limited",
+      "symbol": "ARMEE",
+      "id": "armee-infotech-limited",
+      "company": "ArMee Infotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 175,
-        "max": 185
+        "min": 350,
+        "max": 375
       },
-      "lotSize": 81,
-      "issueSizeCr": 128.5,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "ADROITIND",
-      "id": "adroit-industries-india-limited",
-      "company": "Adroit Industries (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 126,
-        "max": 134
-      },
-      "lotSize": 111,
-      "issueSizeCr": 11247000,
+      "lotSize": 40,
+      "issueSizeCr": 300,
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "allotmentDate": "2026-09-28",
@@ -227,19 +171,19 @@
       }
     },
     {
-      "symbol": "ARMEE",
-      "id": "armee-infotech-limited",
-      "company": "ArMee Infotech Limited",
+      "symbol": "ADROITIND",
+      "id": "adroit-industries-india-limited",
+      "company": "Adroit Industries (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 350,
-        "max": 375
+        "min": 126,
+        "max": 134
       },
-      "lotSize": 40,
-      "issueSizeCr": 300,
+      "lotSize": 111,
+      "issueSizeCr": 11247000,
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "allotmentDate": "2026-09-28",
@@ -255,23 +199,23 @@
       }
     },
     {
-      "symbol": "VARMORA",
-      "id": "varmora-granito-limited",
-      "company": "Varmora Granito Limited",
+      "symbol": "SWASTIKAIN",
+      "id": "swastika-infra-limited",
+      "company": "Swastika Infra Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 140,
-        "max": 148
+        "min": 175,
+        "max": 185
       },
-      "lotSize": 101,
-      "issueSizeCr": 320,
-      "openDate": "2026-09-22",
-      "closeDate": "2026-09-24",
-      "allotmentDate": "2026-09-25",
-      "listingDate": "2026-09-29",
+      "lotSize": 81,
+      "issueSizeCr": 128.5,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -283,23 +227,23 @@
       }
     },
     {
-      "symbol": "COREIN",
-      "id": "coreintegra-consulting-services-limited",
-      "company": "Coreintegra Consulting Services Limited",
+      "symbol": "BMISL",
+      "id": "bench-mark-infotech-services-limited",
+      "company": "Bench Mark Infotech Services Limited",
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 74,
-        "max": 78
+        "min": 104,
+        "max": 110
       },
-      "lotSize": 1600,
-      "issueSizeCr": 2819200,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
+      "lotSize": 1200,
+      "issueSizeCr": 3858000,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -324,6 +268,34 @@
       },
       "lotSize": 1200,
       "issueSizeCr": 3846000,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "COREIN",
+      "id": "coreintegra-consulting-services-limited",
+      "company": "Coreintegra Consulting Services Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 74,
+        "max": 78
+      },
+      "lotSize": 1600,
+      "issueSizeCr": 2819200,
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "allotmentDate": "2026-09-28",
@@ -2981,16 +2953,16 @@
       }
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3002,16 +2974,16 @@
       "subscription": null
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4308,6 +4280,90 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SONA",
+      "id": "sonaselection-india-limited",
+      "company": "Sonaselection India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "NSE",
+      "id": "national-stock-exchange-of-india-limited",
+      "company": "National Stock Exchange of India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "KHERIAAUTO",
+      "id": "kheria-autocomp-limited",
+      "company": "Kheria Autocomp Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
