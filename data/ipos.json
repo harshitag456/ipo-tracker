@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-09-23T08:07:30.874Z",
+  "lastUpdated": "2026-09-23T13:45:14.890Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "ARMEE",
-      "id": "armee-infotech-limited",
-      "company": "ArMee Infotech Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 350,
-        "max": 375
-      },
-      "lotSize": 40,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.9333349304840165,
-        "nii": 0.26195547793911766,
-        "bnii": 0.29751539026922763,
-        "snii": 0.19083559796346622,
-        "retail": 0.29828444444444446,
-        "total": 0.37447465505017524
-      }
-    },
     {
       "symbol": "ADROITIND",
       "id": "adroit-industries-india-limited",
@@ -50,12 +22,40 @@
       "listingDate": "2026-09-30",
       "gmp": null,
       "subscription": {
-        "qib": 0.008191517738063484,
-        "nii": 3.499982217480217,
-        "bnii": 2.58585489463857,
-        "snii": 5.32823686316351,
-        "retail": 4.172964981137827,
-        "total": 2.8388191136684067
+        "qib": 0.04717524673246199,
+        "nii": 7.202943007024095,
+        "bnii": 5.657279274473193,
+        "snii": 10.2942704721259,
+        "retail": 7.242598788248295,
+        "total": 5.178265823267157
+      }
+    },
+    {
+      "symbol": "ARMEE",
+      "id": "armee-infotech-limited",
+      "company": "ArMee Infotech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 350,
+        "max": 375
+      },
+      "lotSize": 40,
+      "issueSizeCr": 300,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.93389393322313,
+        "nii": 0.3904858102264266,
+        "bnii": 0.3833820092322171,
+        "snii": 0.4046934232652052,
+        "retail": 0.5022933333333334,
+        "total": 0.5314630954425333
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-09-30",
       "gmp": null,
       "subscription": {
-        "qib": 0.10039196188758234,
-        "nii": 0.12744650206948788,
-        "bnii": 0.18343509272188302,
-        "snii": 0.015469302475088396,
-        "retail": 0.09403460837887068,
-        "total": 0.10661459045441948
+        "qib": 0.1755910638591409,
+        "nii": 0.30151519985522135,
+        "bnii": 0.441390691862031,
+        "snii": 0.02176417014893389,
+        "retail": 0.13065868423872282,
+        "total": 0.20176448710302128
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-09-30",
       "gmp": null,
       "subscription": {
-        "qib": 0.15107918495872685,
-        "nii": 1.1842412618252123,
-        "bnii": 1.5987346115523609,
-        "snii": 0.3552545623709152,
-        "retail": 0.45667965435978003,
-        "total": 0.5270433264335712
+        "qib": 0.6899554504934663,
+        "nii": 1.902233180759409,
+        "bnii": 2.4880290689618008,
+        "snii": 0.7306414043546255,
+        "retail": 0.7055208169677926,
+        "total": 0.9587790120317266
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-09-29",
       "gmp": null,
       "subscription": {
-        "qib": 3.0195899636004873,
-        "nii": 0.10098330208170742,
-        "bnii": 0.04881774304439062,
-        "snii": 0.205314420156341,
-        "retail": 0.3287465332787771,
-        "total": 0.1885618984972347
+        "qib": 0.10852190644182752,
+        "nii": 0.17161673130951038,
+        "bnii": 0.13591584108986327,
+        "snii": 0.24301851174880457,
+        "retail": 0.4009735114436441,
+        "total": 0.2703857566870609
       }
     },
     {
@@ -199,23 +199,107 @@
       }
     },
     {
-      "symbol": "MONEYVIEW",
-      "id": "moneyview-limited",
-      "company": "Moneyview Limited",
+      "symbol": "RUNWALENTR",
+      "id": "runwal-enterprises-limited",
+      "company": "Runwal Enterprises Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 32,
-        "max": 34
+        "min": 290,
+        "max": 305
       },
-      "lotSize": 441,
-      "issueSizeCr": 334869200,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
+      "lotSize": 49,
+      "issueSizeCr": 500,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ACEVECTOR",
+      "id": "acevector-limited",
+      "company": "AceVector Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 30,
+        "max": 32
+      },
+      "lotSize": 468,
+      "issueSizeCr": 137229166,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ORIENTCABL",
+      "id": "orient-cables-india-limited",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 258,
+        "max": 272
+      },
+      "lotSize": 55,
+      "issueSizeCr": 320,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "GERMAN",
+      "id": "german-green-steel-and-power-limited",
+      "company": "German Green Steel and Power Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 132,
+        "max": 139
+      },
+      "lotSize": 107,
+      "issueSizeCr": 290,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -255,23 +339,23 @@
       }
     },
     {
-      "symbol": "HIMALAYAN",
-      "id": "himalayan-solar-limited",
-      "company": "Himalayan Solar Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "MONEYVIEW",
+      "id": "moneyview-limited",
+      "company": "Moneyview Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 98,
-        "max": 103
+        "min": 32,
+        "max": 34
       },
-      "lotSize": 1200,
-      "issueSizeCr": 6604800,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 441,
+      "issueSizeCr": 334869200,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "listingDate": "2026-10-01",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -300,6 +384,62 @@
       "closeDate": "2026-09-29",
       "allotmentDate": "2026-09-30",
       "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "HIMALAYAN",
+      "id": "himalayan-solar-limited",
+      "company": "Himalayan Solar Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 98,
+        "max": 103
+      },
+      "lotSize": 1200,
+      "issueSizeCr": 6604800,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "GREENASIA",
+      "id": "green-asia-impex-limited",
+      "company": "Green Asia Impex Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 85,
+        "max": 90
+      },
+      "lotSize": 1600,
+      "issueSizeCr": 53.1,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "listingDate": "2026-10-01",
       "gmp": null,
       "subscription": {
         "qib": null,
