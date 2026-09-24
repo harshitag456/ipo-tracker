@@ -1,89 +1,61 @@
 {
-  "lastUpdated": "2026-09-23T13:45:14.890Z",
+  "lastUpdated": "2026-09-24T07:59:04.618Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "ADROITIND",
-      "id": "adroit-industries-india-limited",
-      "company": "Adroit Industries (India) Limited",
+      "symbol": "MONEYVIEW",
+      "id": "moneyview-limited",
+      "company": "Moneyview Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 126,
-        "max": 134
+        "min": 32,
+        "max": 34
       },
-      "lotSize": 111,
-      "issueSizeCr": 7872900,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
+      "lotSize": 441,
+      "issueSizeCr": 232524175,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "listingDate": "2026-10-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.04717524673246199,
-        "nii": 7.202943007024095,
-        "bnii": 5.657279274473193,
-        "snii": 10.2942704721259,
-        "retail": 7.242598788248295,
-        "total": 5.178265823267157
+        "qib": 0.0013821568200437628,
+        "nii": 1.0619564892799935,
+        "bnii": 0.7913576703978747,
+        "snii": 1.603154127044231,
+        "retail": 1.082853066212121,
+        "total": 0.7756070567716239
       }
     },
     {
-      "symbol": "ARMEE",
-      "id": "armee-infotech-limited",
-      "company": "ArMee Infotech Limited",
+      "symbol": "AONESTEELS",
+      "id": "a-one-steels-india-limited",
+      "company": "A-One Steels India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 350,
-        "max": 375
+        "min": 385,
+        "max": 405
       },
-      "lotSize": 40,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
+      "lotSize": 37,
+      "issueSizeCr": 355,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "listingDate": "2026-10-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.93389393322313,
-        "nii": 0.3904858102264266,
-        "bnii": 0.3833820092322171,
-        "snii": 0.4046934232652052,
-        "retail": 0.5022933333333334,
-        "total": 0.5314630954425333
-      }
-    },
-    {
-      "symbol": "ELEVATE",
-      "id": "elevate-campuses-limited",
-      "company": "Elevate Campuses Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 343,
-        "max": 362
-      },
-      "lotSize": 41,
-      "issueSizeCr": 2100,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 0.1755910638591409,
-        "nii": 0.30151519985522135,
-        "bnii": 0.441390691862031,
-        "snii": 0.02176417014893389,
-        "retail": 0.13065868423872282,
-        "total": 0.20176448710302128
+        "qib": 0.0011841238558206208,
+        "nii": 0.3762847662295479,
+        "bnii": 0.4099945259292307,
+        "snii": 0.30886531123836164,
+        "retail": 0.46397991940795447,
+        "total": 0.3131776126909191
       }
     },
     {
@@ -107,11 +79,95 @@
       "gmp": null,
       "subscription": {
         "qib": 0.6899554504934663,
-        "nii": 1.902233180759409,
-        "bnii": 2.4880290689618008,
-        "snii": 0.7306414043546255,
-        "retail": 0.7055208169677926,
-        "total": 0.9587790120317266
+        "nii": 2.1574796048767935,
+        "bnii": 2.6852541444605986,
+        "snii": 1.1019305257091827,
+        "retail": 1.27698758837392,
+        "total": 1.300820157723732
+      }
+    },
+    {
+      "symbol": "ADROITIND",
+      "id": "adroit-industries-india-limited",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 126,
+        "max": 134
+      },
+      "lotSize": 111,
+      "issueSizeCr": 7872900,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.06484129101093625,
+        "nii": 16.978417355739307,
+        "bnii": 13.526367031208322,
+        "snii": 23.88251800480128,
+        "retail": 16.9542704721259,
+        "total": 12.133893609724497
+      }
+    },
+    {
+      "symbol": "ARMEE",
+      "id": "armee-infotech-limited",
+      "company": "ArMee Infotech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 350,
+        "max": 375
+      },
+      "lotSize": 40,
+      "issueSizeCr": 300,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.9382461688347987,
+        "nii": 0.6499938814832944,
+        "bnii": 0.5537152479359734,
+        "snii": 0.842551298344733,
+        "retail": 1.06144,
+        "total": 0.9380385004433166
+      }
+    },
+    {
+      "symbol": "ELEVATE",
+      "id": "elevate-campuses-limited",
+      "company": "Elevate Campuses Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 343,
+        "max": 362
+      },
+      "lotSize": 41,
+      "issueSizeCr": 2100,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.17602188274659372,
+        "nii": 0.30929226247493785,
+        "bnii": 0.4429711051900963,
+        "snii": 0.041934533376192004,
+        "retail": 0.20300278581377906,
+        "total": 0.21727396774219987
       }
     },
     {
@@ -134,12 +190,40 @@
       "listingDate": "2026-09-29",
       "gmp": null,
       "subscription": {
-        "qib": 0.10852190644182752,
-        "nii": 0.17161673130951038,
-        "bnii": 0.13591584108986327,
-        "snii": 0.24301851174880457,
-        "retail": 0.4009735114436441,
-        "total": 0.2703857566870609
+        "qib": 0.21890948811116534,
+        "nii": 0.29602102478435294,
+        "bnii": 0.23528011740449983,
+        "snii": 0.4175028395440591,
+        "retail": 0.67069420357458,
+        "total": 0.4645394188856829
+      }
+    },
+    {
+      "symbol": "GREENASIA",
+      "id": "green-asia-impex-limited",
+      "company": "Green Asia Impex Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 85,
+        "max": 90
+      },
+      "lotSize": 0,
+      "issueSizeCr": 53.1,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "listingDate": "2026-10-01",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -311,51 +395,23 @@
       }
     },
     {
-      "symbol": "AONESTEELS",
-      "id": "a-one-steels-india-limited",
-      "company": "A-One Steels India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "HIMALAYAN",
+      "id": "himalayan-solar-limited",
+      "company": "Himalayan Solar Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 385,
-        "max": 405
+        "min": 98,
+        "max": 103
       },
-      "lotSize": 37,
-      "issueSizeCr": 355,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "id": "moneyview-limited",
-      "company": "Moneyview Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 32,
-        "max": 34
-      },
-      "lotSize": 441,
-      "issueSizeCr": 334869200,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
+      "lotSize": 1200,
+      "issueSizeCr": 6604800,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -395,60 +451,67 @@
       }
     },
     {
-      "symbol": "HIMALAYAN",
-      "id": "himalayan-solar-limited",
-      "company": "Himalayan Solar Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "SONA",
+      "id": "sonaselection-india-limited",
+      "company": "Sonaselection India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 98,
-        "max": 103
+        "min": 99,
+        "max": 99
       },
-      "lotSize": 1200,
-      "issueSizeCr": 6604800,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-24",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "GREENASIA",
-      "id": "green-asia-impex-limited",
-      "company": "Green Asia Impex Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "KHERIAAUTO",
+      "id": "kheria-autocomp-limited",
+      "company": "Kheria Autocomp Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 85,
-        "max": 90
+        "min": 101,
+        "max": 101
       },
-      "lotSize": 1600,
-      "issueSizeCr": 53.1,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-24",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 118,
+        "max": 118
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-24",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "HEROMOTORS",
@@ -4508,72 +4571,9 @@
       "subscription": null
     },
     {
-      "symbol": "SONA",
-      "id": "sonaselection-india-limited",
-      "company": "Sonaselection India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "NSE",
       "id": "national-stock-exchange-of-india-limited",
       "company": "National Stock Exchange of India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "KHERIAAUTO",
-      "id": "kheria-autocomp-limited",
-      "company": "Kheria Autocomp Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
