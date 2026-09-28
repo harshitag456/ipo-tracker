@@ -1,61 +1,89 @@
 {
-  "lastUpdated": "2026-09-25T14:00:41.275Z",
+  "lastUpdated": "2026-09-28T09:07:55.743Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "ORIENTCABL",
-      "id": "orient-cables-india-limited",
-      "company": "Orient Cables (India) Limited",
+      "symbol": "SHAHINVEST",
+      "id": "shah-investor-s-home-limited",
+      "company": "Shah Investor's Home Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 258,
-        "max": 272
+        "min": 159,
+        "max": 167
       },
-      "lotSize": 55,
-      "issueSizeCr": 320,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 85,
+      "issueSizeCr": 3779440,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "listingDate": "2026-10-06",
       "gmp": null,
       "subscription": {
-        "qib": 0.013727285070654387,
-        "nii": 3.473945424893014,
-        "bnii": 2.554174154664448,
-        "snii": 5.313488825136688,
-        "retail": 2.420467359260464,
-        "total": 1.9585727016882108
+        "qib": 0.49905541561712846,
+        "nii": 0.12017212426532325,
+        "bnii": 0.05022040302267002,
+        "snii": 0.2600755667506297,
+        "retail": 0.16336811802806764,
+        "total": 0.25002249010435407
       }
     },
     {
-      "symbol": "GERMAN",
-      "id": "german-green-steel-and-power-limited",
-      "company": "German Green Steel and Power Limited",
+      "symbol": "SRIT",
+      "id": "srit-india-limited",
+      "company": "Srit India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 132,
-        "max": 139
+        "min": 123,
+        "max": 130
       },
-      "lotSize": 107,
-      "issueSizeCr": 290,
+      "lotSize": 115,
+      "issueSizeCr": 11760000,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "listingDate": "2026-10-06",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0.4890238095238095,
+        "bnii": 0.24855059523809525,
+        "snii": 0.9699702380952381,
+        "retail": 1.1421964285714286,
+        "total": 0.6758890306122449
+      }
+    },
+    {
+      "symbol": "ACEVECTOR",
+      "id": "acevector-limited",
+      "company": "AceVector Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 30,
+        "max": 32
+      },
+      "lotSize": 468,
+      "issueSizeCr": 74229166,
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
       "allotmentDate": "2026-09-30",
       "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
-        "qib": 1.3247999685454224,
-        "nii": 2.4617929997634564,
-        "bnii": 2.5269938222963293,
-        "snii": 2.3313913546977103,
-        "retail": 1.6485896822571453,
-        "total": 1.7307378708387207
+        "qib": 1.0083683442130826,
+        "nii": 0.787132414131224,
+        "bnii": 0.582693066109273,
+        "snii": 1.196011110175126,
+        "retail": 1.1119799902586303,
+        "total": 0.9661726766538101
       }
     },
     {
@@ -79,67 +107,67 @@
       "gmp": null,
       "subscription": {
         "qib": 0.9585384580114639,
-        "nii": 0.2801358511960575,
-        "bnii": 0.32647204845596267,
-        "snii": 0.18746334841840395,
-        "retail": 0.17738886380089455,
-        "total": 0.41993085131943786
+        "nii": 0.47000316186571883,
+        "bnii": 0.5070090592090277,
+        "snii": 0.3959912807201583,
+        "retail": 0.3471156538737922,
+        "total": 0.5457676941869299
       }
     },
     {
-      "symbol": "ACEVECTOR",
-      "id": "acevector-limited",
-      "company": "AceVector Limited",
+      "symbol": "ORIENTCABL",
+      "id": "orient-cables-india-limited",
+      "company": "Orient Cables (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 30,
-        "max": 32
+        "min": 258,
+        "max": 272
       },
-      "lotSize": 468,
-      "issueSizeCr": 74229166,
+      "lotSize": 55,
+      "issueSizeCr": 320,
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
       "allotmentDate": "2026-09-30",
       "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0.42088314174625857,
-        "bnii": 0.2784212918012469,
-        "snii": 0.7058068416362819,
-        "retail": 0.6236173128218522,
-        "total": 0.23200400769692064
+        "qib": 0.03998650173670955,
+        "nii": 13.006850087651458,
+        "bnii": 10.649517301656669,
+        "snii": 17.72151786323564,
+        "retail": 7.426033989764397,
+        "total": 6.511624056044762
       }
     },
     {
-      "symbol": "AONESTEELS",
-      "id": "a-one-steels-india-limited",
-      "company": "A-One Steels India Limited",
+      "symbol": "GERMAN",
+      "id": "german-green-steel-and-power-limited",
+      "company": "German Green Steel and Power Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 385,
-        "max": 405
+        "min": 132,
+        "max": 139
       },
-      "lotSize": 37,
-      "issueSizeCr": 355,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
+      "lotSize": 107,
+      "issueSizeCr": 290,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
-        "qib": 0.0939876218694636,
-        "nii": 2.0684822275862507,
-        "bnii": 1.842377332570339,
-        "snii": 2.5206915856065515,
-        "retail": 1.7628954506136933,
-        "total": 1.353385419558252
+        "qib": 1.3299886632459814,
+        "nii": 5.9787554909293545,
+        "bnii": 5.038987884038538,
+        "snii": 7.8582907047109885,
+        "retail": 4.990222646134771,
+        "total": 4.1590693050728955
       }
     },
     {
@@ -162,124 +190,40 @@
       "listingDate": "2026-10-01",
       "gmp": null,
       "subscription": {
-        "qib": 0.25476402327100767,
-        "nii": 15.406937932780918,
-        "bnii": 14.332685687426613,
-        "snii": 17.55544242348953,
-        "retail": 5.176284411943529,
-        "total": 6.008670737139482
+        "qib": 66.73956271799285,
+        "nii": 94.42188084183317,
+        "bnii": 107.22077960588791,
+        "snii": 68.82408331372369,
+        "retail": 15.450292591853774,
+        "total": 46.86711057033102
       }
     },
     {
-      "symbol": "ARMEE",
-      "id": "armee-infotech-limited",
-      "company": "ArMee Infotech Limited",
+      "symbol": "AONESTEELS",
+      "id": "a-one-steels-india-limited",
+      "company": "A-One Steels India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 350,
-        "max": 375
+        "min": 385,
+        "max": 405
       },
-      "lotSize": 40,
-      "issueSizeCr": 300,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
+      "lotSize": 37,
+      "issueSizeCr": 355,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "listingDate": "2026-10-01",
       "gmp": null,
       "subscription": {
-        "qib": 2.9908642980922036,
-        "nii": 2.0931341946269053,
-        "bnii": 1.3928436706424052,
-        "snii": 3.493716331936963,
-        "retail": 2.472506666666667,
-        "total": 2.4439259707071908
-      }
-    },
-    {
-      "symbol": "ELEVATE",
-      "id": "elevate-campuses-limited",
-      "company": "Elevate Campuses Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 343,
-        "max": 362
-      },
-      "lotSize": 41,
-      "issueSizeCr": 2100,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 2.521678933816626,
-        "nii": 0.8448157942905851,
-        "bnii": 0.8267034972443217,
-        "snii": 0.8810403942997964,
-        "retail": 1.0145786456659167,
-        "total": 1.7903344259046914
-      }
-    },
-    {
-      "symbol": "SWASTIKAIN",
-      "id": "swastika-infra-limited",
-      "company": "Swastika Infra Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 175,
-        "max": 185
-      },
-      "lotSize": 81,
-      "issueSizeCr": 128.5,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 3.2181768472278445,
-        "nii": 18.500614768070772,
-        "bnii": 20.00418130269244,
-        "snii": 15.493481698827432,
-        "retail": 5.392551139041634,
-        "total": 7.600829107998562
-      }
-    },
-    {
-      "symbol": "ADROITIND",
-      "id": "adroit-industries-india-limited",
-      "company": "Adroit Industries (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 126,
-        "max": 134
-      },
-      "lotSize": 111,
-      "issueSizeCr": 7872900,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 195.0384089090424,
-        "nii": 332.3454681248333,
-        "bnii": 345.9730941584423,
-        "snii": 305.09021605761535,
-        "retail": 99.80880768204855,
-        "total": 176.8465495560721
+        "qib": 0.41647580093153624,
+        "nii": 17.12691879016387,
+        "bnii": 16.822005764492673,
+        "snii": 17.736744258918524,
+        "retail": 6.972070377059736,
+        "total": 7.249158895665148
       }
     },
     {
@@ -367,146 +311,6 @@
       }
     },
     {
-      "symbol": "COREIN",
-      "id": "coreintegra-consulting-services-limited",
-      "company": "Coreintegra Consulting Services Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 74,
-        "max": 78
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "POOJALOGIS",
-      "id": "pooja-logistics-limited",
-      "company": "Pooja Logistics Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 109,
-        "max": 115
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": 0,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "VARMORA",
-      "id": "varmora-granito-limited",
-      "company": "Varmora Granito Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 140,
-        "max": 148
-      },
-      "lotSize": 101,
-      "issueSizeCr": 320,
-      "openDate": "2026-09-22",
-      "closeDate": "2026-09-24",
-      "allotmentDate": "2026-09-25",
-      "listingDate": "2026-09-29",
-      "gmp": null,
-      "subscription": {
-        "qib": 3.1629126443728106,
-        "nii": 0.9197987234991171,
-        "bnii": 0.920724861120111,
-        "snii": 0.9179464482571292,
-        "retail": 0.9951422819939157,
-        "total": 1.5776191587627948
-      }
-    },
-    {
-      "symbol": "SRIT",
-      "id": "srit-india-limited",
-      "company": "Srit India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 123,
-        "max": 130
-      },
-      "lotSize": 115,
-      "issueSizeCr": 11760000,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "listingDate": "2026-10-06",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "SHAHINVEST",
-      "id": "shah-investor-s-home-limited",
-      "company": "Shah Investor's Home Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 159,
-        "max": 167
-      },
-      "lotSize": 85,
-      "issueSizeCr": 3779440,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "listingDate": "2026-10-06",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
       "symbol": "AXIOMGAS",
       "id": "axiom-gas-engineering-limited",
       "company": "Axiom Gas Engineering Limited",
@@ -549,16 +353,16 @@
       "subscription": null
     },
     {
-      "symbol": "KHERIAAUTO",
-      "id": "kheria-autocomp-limited",
-      "company": "Kheria Autocomp Limited",
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 101,
-        "max": 101
+        "min": 118,
+        "max": 118
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -570,16 +374,16 @@
       "subscription": null
     },
     {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
+      "symbol": "KHERIAAUTO",
+      "id": "kheria-autocomp-limited",
+      "company": "Kheria Autocomp Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 118,
-        "max": 118
+        "min": 101,
+        "max": 101
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3296,16 +3100,16 @@
       }
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3317,16 +3121,16 @@
       "subscription": null
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4312,16 +4116,16 @@
       "subscription": null
     },
     {
-      "symbol": "GJL",
-      "id": "grover-jewells-limited",
-      "company": "Grover Jewells Limited",
+      "symbol": "BRANDMAN",
+      "id": "brandman-retail-limited",
+      "company": "Brandman Retail Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 88,
-        "max": 88
+        "min": 176,
+        "max": 176
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4333,16 +4137,16 @@
       "subscription": null
     },
     {
-      "symbol": "BRANDMAN",
-      "id": "brandman-retail-limited",
-      "company": "Brandman Retail Limited",
+      "symbol": "GJL",
+      "id": "grover-jewells-limited",
+      "company": "Grover Jewells Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 176,
-        "max": 176
+        "min": 88,
+        "max": 88
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4623,6 +4427,132 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ADROITIND",
+      "id": "adroit-industries-india-limited",
+      "company": "Adroit Industries (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ELEVATE",
+      "id": "elevate-campuses-limited",
+      "company": "Elevate Campuses Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ARMEE",
+      "id": "armee-infotech-limited",
+      "company": "ArMee Infotech Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SWASTIKAIN",
+      "id": "swastika-infra-limited",
+      "company": "Swastika Infra Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "COREIN",
+      "id": "coreintegra-consulting-services-limited",
+      "company": "Coreintegra Consulting Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "POOJALOGIS",
+      "id": "pooja-logistics-limited",
+      "company": "Pooja Logistics Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
