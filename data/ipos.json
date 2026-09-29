@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T17:45:40.602Z",
+  "lastUpdated": "2026-09-29T09:17:50.610Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-10-06",
       "gmp": null,
       "subscription": {
-        "qib": 0.49905541561712846,
-        "nii": 0.25461796809403864,
-        "bnii": 0.11728589420654911,
-        "snii": 0.5292821158690176,
-        "retail": 0.2347966894566391,
-        "total": 0.31454659949622166
+        "qib": 1.0824149874055415,
+        "nii": 0.9014483627204031,
+        "bnii": 0.6539672544080605,
+        "snii": 1.396410579345088,
+        "retail": 0.6722741993522849,
+        "total": 0.8385660309463836
       }
     },
     {
@@ -50,68 +50,12 @@
       "listingDate": "2026-10-06",
       "gmp": null,
       "subscription": {
-        "qib": 9.583333333333332,
-        "nii": 0.8990992063492064,
-        "bnii": 0.5255089285714286,
-        "snii": 1.646279761904762,
-        "retail": 1.6090025510204082,
-        "total": 0.9974392006802721
-      }
-    },
-    {
-      "symbol": "RUNWALENTR",
-      "id": "runwal-enterprises-limited",
-      "company": "Runwal Enterprises Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 290,
-        "max": 305
-      },
-      "lotSize": 49,
-      "issueSizeCr": 500,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.0543021497095473,
-        "nii": 0.9318018273403258,
-        "bnii": 1.1191691928484233,
-        "snii": 0.5570666585672999,
-        "retail": 0.41136422727920535,
-        "total": 0.703412698923831
-      }
-    },
-    {
-      "symbol": "ACEVECTOR",
-      "id": "acevector-limited",
-      "company": "AceVector Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 30,
-        "max": 32
-      },
-      "lotSize": 468,
-      "issueSizeCr": 74229166,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.031849304877356,
-        "nii": 1.196488559720106,
-        "bnii": 1.088141616548553,
-        "snii": 1.4131824460632127,
-        "retail": 1.3424517063283052,
-        "total": 1.134926936940124
+        "qib": 0.015778273809523808,
+        "nii": 3.5556448412698414,
+        "bnii": 2.275425595238095,
+        "snii": 6.116083333333333,
+        "retail": 4.861312074829932,
+        "total": 3.1970880102040815
       }
     },
     {
@@ -134,12 +78,68 @@
       "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
-        "qib": 1.3351773579465402,
-        "nii": 7.823104930988795,
-        "bnii": 6.49331249428595,
-        "snii": 10.482689804394484,
-        "retail": 6.150568065204915,
-        "total": 5.136904660739834
+        "qib": 3.908395969445373,
+        "nii": 42.641275825689206,
+        "bnii": 41.764410941370585,
+        "snii": 44.39500559432644,
+        "retail": 18.56130760602105,
+        "total": 19.550232308915483
+      }
+    },
+    {
+      "symbol": "RUNWALENTR",
+      "id": "runwal-enterprises-limited",
+      "company": "Runwal Enterprises Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 290,
+        "max": 305
+      },
+      "lotSize": 49,
+      "issueSizeCr": 500,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": 2.3870659964832015,
+        "nii": 2.994164177151704,
+        "bnii": 3.441937537600682,
+        "snii": 2.0986164100958606,
+        "retail": 0.8563205558119983,
+        "total": 1.7439385089652684
+      }
+    },
+    {
+      "symbol": "ACEVECTOR",
+      "id": "acevector-limited",
+      "company": "AceVector Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 30,
+        "max": 32
+      },
+      "lotSize": 468,
+      "issueSizeCr": 74229166,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.597479036305809,
+        "nii": 4.234818314125074,
+        "bnii": 4.513501066391429,
+        "snii": 3.6774528095923635,
+        "retail": 3.248805428817024,
+        "total": 2.6341199630344763
       }
     },
     {
@@ -162,68 +162,40 @@
       "listingDate": "2026-10-05",
       "gmp": null,
       "subscription": {
-        "qib": 0.05737696681217339,
-        "nii": 17.368973066417556,
-        "bnii": 14.307683678930236,
-        "snii": 23.491554703033465,
-        "retail": 9.15536314168153,
-        "total": 8.315998011049532
+        "qib": 42.99127333539141,
+        "nii": 90.42746366655429,
+        "bnii": 95.19160471784757,
+        "snii": 80.89917711052968,
+        "retail": 24.056060516224353,
+        "total": 43.68856399552293
       }
     },
     {
-      "symbol": "AONESTEELS",
-      "id": "a-one-steels-india-limited",
-      "company": "A-One Steels India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "PAPADMALJI",
+      "id": "papadmalji-agro-foods-limited",
+      "company": "Papadmalji Agro Foods Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 385,
-        "max": 405
+        "min": 69,
+        "max": 72
       },
-      "lotSize": 37,
-      "issueSizeCr": 355,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-09-29",
+      "closeDate": "2026-10-01",
+      "allotmentDate": "2026-10-05",
+      "listingDate": "2026-10-07",
       "gmp": null,
       "subscription": {
-        "qib": 7.304789372595868,
-        "nii": 24.50936291899397,
-        "bnii": 24.875027824138073,
-        "snii": 23.778033807370214,
-        "retail": 8.63798269315437,
-        "total": 11.605112381505373
-      }
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "id": "moneyview-limited",
-      "company": "Moneyview Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 32,
-        "max": 34
-      },
-      "lotSize": 441,
-      "issueSizeCr": 232524175,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
-      "listingDate": "2026-10-01",
-      "gmp": null,
-      "subscription": {
-        "qib": 227.45092423786758,
-        "nii": 115.41013506168976,
-        "bnii": 131.54059110243642,
-        "snii": 83.14922298019644,
-        "retail": 19.567432478113844,
-        "total": 98.46358811078461
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -339,6 +311,34 @@
       }
     },
     {
+      "symbol": "NITYAS",
+      "id": "nityas-gems-and-jewellery-limited",
+      "company": "Nityas Gems and Jewellery Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 700,
+        "max": 750
+      },
+      "lotSize": 200,
+      "issueSizeCr": 14456000,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "listingDate": "2026-10-08",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
       "symbol": "EVENTIONS",
       "id": "eventions-limited",
       "company": "Eventions Limited",
@@ -367,32 +367,46 @@
       }
     },
     {
-      "symbol": "PAPADMALJI",
-      "id": "papadmalji-agro-foods-limited",
-      "company": "Papadmalji Agro Foods Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "VARMORA",
+      "id": "varmora-granito-limited",
+      "company": "Varmora Granito Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 69,
-        "max": 72
+        "min": 148,
+        "max": 148
       },
-      "lotSize": 1600,
-      "issueSizeCr": 2803200,
-      "openDate": "2026-09-29",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "listingDate": "2026-10-07",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-29",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "820TCHFL29",
+      "id": "tata-capital-housing-finance-limited",
+      "company": "Tata Capital Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-29",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "AXIOMGAS",
@@ -1686,27 +1700,6 @@
       "priceBand": {
         "min": 151,
         "max": 151
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-08-24",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "783TCHFL31",
-      "id": "tata-capital-housing-finance-limited",
-      "company": "Tata Capital Housing Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4515,6 +4508,48 @@
       "subscription": null
     },
     {
+      "symbol": "AONESTEELS",
+      "id": "a-one-steels-india-limited",
+      "company": "A-One Steels India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "id": "moneyview-limited",
+      "company": "Moneyview Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "ADROITIND",
       "id": "adroit-industries-india-limited",
       "company": "Adroit Industries (India) Limited",
@@ -4623,27 +4658,6 @@
       "symbol": "POOJALOGIS",
       "id": "pooja-logistics-limited",
       "company": "Pooja Logistics Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "VARMORA",
-      "id": "varmora-granito-limited",
-      "company": "Varmora Granito Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
