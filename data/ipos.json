@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T16:01:21.933Z",
+  "lastUpdated": "2026-10-01T09:36:35.438Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.955259119348365,
-        "nii": 0.008996045403570331,
-        "bnii": 0.002864893876197751,
-        "snii": 0.02125835594557431,
-        "retail": 0.06049099734763756,
-        "total": 0.054504977067466494
+        "nii": 0.7466994486360408,
+        "bnii": 1.0020070132504395,
+        "snii": 0.23608400762995221,
+        "retail": 0.3880253795738412,
+        "total": 0.49771312122446615
       }
     },
     {
@@ -50,68 +50,12 @@
       "listingDate": "2026-10-08",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0.10680783876660166,
-        "bnii": 0.061437726386179996,
-        "snii": 0.19754806352744497,
-        "retail": 0.5166978465947538,
-        "total": 0.19915605976757056
-      }
-    },
-    {
-      "symbol": "SRIT",
-      "id": "srit-india-limited",
-      "company": "Srit India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 123,
-        "max": 130
-      },
-      "lotSize": 115,
-      "issueSizeCr": 11760000,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "listingDate": "2026-10-06",
-      "gmp": null,
-      "subscription": {
-        "qib": 91.83660416666666,
-        "nii": 312.9901607142857,
-        "bnii": 355.79781547619046,
-        "snii": 227.3748511904762,
-        "retail": 63.70401530612245,
-        "total": 125.16035756802721
-      }
-    },
-    {
-      "symbol": "SHAHINVEST",
-      "id": "shah-investor-s-home-limited",
-      "company": "Shah Investor's Home Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 159,
-        "max": 167
-      },
-      "lotSize": 85,
-      "issueSizeCr": 3779440,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "listingDate": "2026-10-06",
-      "gmp": null,
-      "subscription": {
-        "qib": 28.05022040302267,
-        "nii": 95.53935768261965,
-        "bnii": 105.14971662468514,
-        "snii": 76.31863979848866,
-        "retail": 19.25940086362001,
-        "total": 38.11676862180641
+        "qib": 0.07428252995263304,
+        "nii": 0.23683477291724714,
+        "bnii": 0.13666759543048204,
+        "snii": 0.4371691278907774,
+        "retail": 1.181666202284759,
+        "total": 0.4890011068068622
       }
     },
     {
@@ -199,116 +143,130 @@
       }
     },
     {
-      "symbol": "GERMAN",
-      "id": "german-green-steel-and-power-limited",
-      "company": "German Green Steel and Power Limited",
+      "symbol": "SHAHINVEST",
+      "id": "shah-investor-s-home-limited",
+      "company": "Shah Investor's Home Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 132,
-        "max": 139
+        "min": 159,
+        "max": 167
       },
-      "lotSize": 107,
-      "issueSizeCr": 290,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 85,
+      "issueSizeCr": 3779440,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "listingDate": "2026-10-06",
       "gmp": null,
       "subscription": {
-        "qib": 20.927314587278808,
-        "nii": 54.031932502383576,
-        "bnii": 54.046699347401145,
-        "snii": 54.00239881234844,
-        "retail": 22.828054577247986,
-        "total": 28.979499316405235
+        "qib": 28.05022040302267,
+        "nii": 95.53935768261965,
+        "bnii": 105.14971662468514,
+        "snii": 76.31863979848866,
+        "retail": 19.25940086362001,
+        "total": 38.11676862180641
       }
     },
     {
-      "symbol": "RUNWALENTR",
-      "id": "runwal-enterprises-limited",
-      "company": "Runwal Enterprises Limited",
+      "symbol": "SRIT",
+      "id": "srit-india-limited",
+      "company": "Srit India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 290,
-        "max": 305
+        "min": 123,
+        "max": 130
       },
-      "lotSize": 49,
-      "issueSizeCr": 500,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 115,
+      "issueSizeCr": 11760000,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "listingDate": "2026-10-06",
       "gmp": null,
       "subscription": {
-        "qib": 3.8936841604176466,
-        "nii": 3.936097603523845,
-        "bnii": 4.346339810872219,
-        "snii": 3.115612230355336,
-        "retail": 1.1239697929422743,
-        "total": 2.503422095112215
+        "qib": 91.83660416666666,
+        "nii": 312.9901607142857,
+        "bnii": 355.79781547619046,
+        "snii": 227.3748511904762,
+        "retail": 63.70401530612245,
+        "total": 125.16035756802721
       }
     },
     {
-      "symbol": "ACEVECTOR",
-      "id": "acevector-limited",
-      "company": "AceVector Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "RKFAL",
+      "id": "r-k-fashion-accessories-limited",
+      "company": "R.K. Fashion Accessories Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 30,
-        "max": 32
+        "min": 77,
+        "max": 82
       },
-      "lotSize": 468,
-      "issueSizeCr": 74229166,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 1600,
+      "issueSizeCr": 4267200,
+      "openDate": "2026-10-05",
+      "closeDate": "2026-10-07",
+      "allotmentDate": "2026-10-08",
+      "listingDate": "2026-10-12",
       "gmp": null,
       "subscription": {
-        "qib": 3.3779290331947327,
-        "nii": 8.158475939078837,
-        "bnii": 8.919507778084483,
-        "snii": 6.636412261067545,
-        "retail": 4.616561961029274,
-        "total": 4.9326039309130865
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
-      "symbol": "ORIENTCABL",
-      "id": "orient-cables-india-limited",
-      "company": "Orient Cables (India) Limited",
+      "symbol": "AONESTEELS",
+      "id": "a-one-steels-india-limited",
+      "company": "A-One Steels India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 258,
-        "max": 272
+        "min": 405,
+        "max": 405
       },
-      "lotSize": 55,
-      "issueSizeCr": 320,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "listingDate": "2026-10-05",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-01",
       "gmp": null,
-      "subscription": {
-        "qib": 182.7624385117417,
-        "nii": 115.63008872334234,
-        "bnii": 123.17888466419105,
-        "snii": 100.53248978515883,
-        "retail": 30.547860736619388,
-        "total": 92.26964133657097
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "id": "moneyview-limited",
+      "company": "Moneyview Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 34,
+        "max": 34
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-01",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "ADROITIND",
@@ -4578,6 +4536,48 @@
       "subscription": null
     },
     {
+      "symbol": "SHAHINVEST",
+      "id": "shah-investor-s-home-limited",
+      "company": "Shah Investor's Home Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SRIT",
+      "id": "srit-india-limited",
+      "company": "Srit India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "ORIENTCABL",
       "id": "orient-cables-india-limited",
       "company": "Orient Cables (India) Limited",
@@ -4686,48 +4686,6 @@
       "symbol": "BMISL",
       "id": "bench-mark-infotech-services-limited",
       "company": "Bench Mark Infotech Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "AONESTEELS",
-      "id": "a-one-steels-india-limited",
-      "company": "A-One Steels India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "id": "moneyview-limited",
-      "company": "Moneyview Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
