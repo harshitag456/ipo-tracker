@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T09:36:35.438Z",
+  "lastUpdated": "2026-10-01T16:47:40.094Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,11 @@
       "gmp": null,
       "subscription": {
         "qib": 0.955259119348365,
-        "nii": 0.7466994486360408,
-        "bnii": 1.0020070132504395,
-        "snii": 0.23608400762995221,
-        "retail": 0.3880253795738412,
-        "total": 0.49771312122446615
+        "nii": 0.8040250179615612,
+        "bnii": 1.052121895983348,
+        "snii": 0.3078309589462655,
+        "retail": 0.4686647527204928,
+        "total": 0.5707851103621904
       }
     },
     {
@@ -50,12 +50,12 @@
       "listingDate": "2026-10-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.07428252995263304,
-        "nii": 0.23683477291724714,
-        "bnii": 0.13666759543048204,
-        "snii": 0.4371691278907774,
-        "retail": 1.181666202284759,
-        "total": 0.4890011068068622
+        "qib": 0.37840624129283923,
+        "nii": 0.2728708089532832,
+        "bnii": 0.1646698244636389,
+        "snii": 0.48927277793257173,
+        "retail": 1.3074473589937508,
+        "total": 0.689540675152186
       }
     },
     {
@@ -143,59 +143,31 @@
       }
     },
     {
-      "symbol": "SHAHINVEST",
-      "id": "shah-investor-s-home-limited",
-      "company": "Shah Investor's Home Limited",
+      "symbol": "SMCG04",
+      "id": "smc-global-securities-limited",
+      "company": "SMC Global Securities Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 159,
-        "max": 167
+        "min": 100,
+        "max": 100
       },
-      "lotSize": 85,
-      "issueSizeCr": 3779440,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "listingDate": "2026-10-06",
+      "lotSize": 0,
+      "issueSizeCr": 750000,
+      "openDate": "2025-10-05",
+      "closeDate": "2025-10-16",
+      "allotmentDate": "2025-10-17",
+      "listingDate": "2025-10-21",
       "gmp": null,
       "subscription": {
-        "qib": 28.05022040302267,
-        "nii": 95.53935768261965,
-        "bnii": 105.14971662468514,
-        "snii": 76.31863979848866,
-        "retail": 19.25940086362001,
-        "total": 38.11676862180641
-      }
-    },
-    {
-      "symbol": "SRIT",
-      "id": "srit-india-limited",
-      "company": "Srit India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 123,
-        "max": 130
-      },
-      "lotSize": 115,
-      "issueSizeCr": 11760000,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "listingDate": "2026-10-06",
-      "gmp": null,
-      "subscription": {
-        "qib": 91.83660416666666,
-        "nii": 312.9901607142857,
-        "bnii": 355.79781547619046,
-        "snii": 227.3748511904762,
-        "retail": 63.70401530612245,
-        "total": 125.16035756802721
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
