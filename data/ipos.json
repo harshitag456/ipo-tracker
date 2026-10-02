@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T16:47:40.094Z",
+  "lastUpdated": "2026-10-02T09:10:33.118Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -76,62 +76,6 @@
       "closeDate": "2026-10-05",
       "allotmentDate": "2026-10-06",
       "listingDate": "2026-10-08",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "PAPADMALJI",
-      "id": "papadmalji-agro-foods-limited",
-      "company": "Papadmalji Agro Foods Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 69,
-        "max": 72
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-09-29",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "listingDate": "2026-10-07",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "GREENASIA",
-      "id": "green-asia-impex-limited",
-      "company": "Green Asia Impex Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 84,
-        "max": 89
-      },
-      "lotSize": 0,
-      "issueSizeCr": 53.1,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "listingDate": "2026-10-07",
       "gmp": null,
       "subscription": {
         "qib": 0,
@@ -451,16 +395,16 @@
       "subscription": null
     },
     {
-      "symbol": "KHERIAAUTO",
-      "id": "kheria-autocomp-limited",
-      "company": "Kheria Autocomp Limited",
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 101,
-        "max": 101
+        "min": 118,
+        "max": 118
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -472,16 +416,16 @@
       "subscription": null
     },
     {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
+      "symbol": "KHERIAAUTO",
+      "id": "kheria-autocomp-limited",
+      "company": "Kheria Autocomp Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 118,
-        "max": 118
+        "min": 101,
+        "max": 101
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2523,16 +2467,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2544,16 +2488,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3177,16 +3121,16 @@
       }
     },
     {
-      "symbol": "QLINE",
-      "id": "q-line-biotech-limited",
-      "company": "Q-Line Biotech Limited",
+      "symbol": "BMLL",
+      "id": "bio-medica-laboratories-limited",
+      "company": "Bio Medica Laboratories Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 343,
-        "max": 343
+        "min": 139,
+        "max": 139
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -3198,16 +3142,16 @@
       "subscription": null
     },
     {
-      "symbol": "BMLL",
-      "id": "bio-medica-laboratories-limited",
-      "company": "Bio Medica Laboratories Limited",
+      "symbol": "QLINE",
+      "id": "q-line-biotech-limited",
+      "company": "Q-Line Biotech Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 139,
-        "max": 139
+        "min": 343,
+        "max": 343
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4508,6 +4452,27 @@
       "subscription": null
     },
     {
+      "symbol": "PAPADMALJI",
+      "id": "papadmalji-agro-foods-limited",
+      "company": "Papadmalji Agro Foods Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "SHAHINVEST",
       "id": "shah-investor-s-home-limited",
       "company": "Shah Investor's Home Limited",
@@ -4658,6 +4623,27 @@
       "symbol": "BMISL",
       "id": "bench-mark-infotech-services-limited",
       "company": "Bench Mark Infotech Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "GREENASIA",
+      "id": "green-asia-impex-limited",
+      "company": "Green Asia Impex Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
