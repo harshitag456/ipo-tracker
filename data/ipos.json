@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T09:48:57.343Z",
+  "lastUpdated": "2026-10-05T18:57:43.377Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -31,62 +31,6 @@
       }
     },
     {
-      "symbol": "VNL",
-      "id": "vishal-nirmiti-limited",
-      "company": "Vishal Nirmiti Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 208,
-        "max": 220
-      },
-      "lotSize": 68,
-      "issueSizeCr": 8471153,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "listingDate": "2026-10-08",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.0315193011450832,
-        "nii": 1.742575514881128,
-        "bnii": 1.6885850587113962,
-        "snii": 1.8505564931528262,
-        "retail": 1.518410039583069,
-        "total": 1.5785492246450985
-      }
-    },
-    {
-      "symbol": "NITYAS",
-      "id": "nityas-gems-and-jewellery-limited",
-      "company": "Nityas Gems and Jewellery Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 700,
-        "max": 750
-      },
-      "lotSize": 200,
-      "issueSizeCr": 14456000,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "listingDate": "2026-10-08",
-      "gmp": null,
-      "subscription": {
-        "qib": 1.035330175536361,
-        "nii": 1.7910281415436056,
-        "bnii": 1.412649763165227,
-        "snii": 2.547784898300362,
-        "retail": 3.5020101102575327,
-        "total": 2.015785832872164
-      }
-    },
-    {
       "symbol": "RKFAL",
       "id": "r-k-fashion-accessories-limited",
       "company": "R.K. Fashion Accessories Limited",
@@ -115,31 +59,59 @@
       }
     },
     {
-      "symbol": "EVENTIONS",
-      "id": "eventions-limited",
-      "company": "Eventions Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "VNL",
+      "id": "vishal-nirmiti-limited",
+      "company": "Vishal Nirmiti Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 112,
-        "max": 118
+        "min": 208,
+        "max": 220
       },
-      "lotSize": 0,
-      "issueSizeCr": 0,
+      "lotSize": 68,
+      "issueSizeCr": 145,
       "openDate": "2026-09-30",
       "closeDate": "2026-10-05",
       "allotmentDate": "2026-10-06",
       "listingDate": "2026-10-08",
       "gmp": null,
       "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
+        "qib": 1.2675244953370322,
+        "nii": 1.809755213941021,
+        "bnii": 1.7122100531397515,
+        "snii": 2.0048456546640647,
+        "retail": 1.668439180492859,
+        "total": 1.7054117662613342
+      }
+    },
+    {
+      "symbol": "NITYAS",
+      "id": "nityas-gems-and-jewellery-limited",
+      "company": "Nityas Gems and Jewellery Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 700,
+        "max": 750
+      },
+      "lotSize": 200,
+      "issueSizeCr": 14456000,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "listingDate": "2026-10-08",
+      "gmp": null,
+      "subscription": {
+        "qib": 1.055391473948175,
+        "nii": 2.048760100306492,
+        "bnii": 1.561994984675397,
+        "snii": 3.022290331568682,
+        "retail": 4.043068104923775,
+        "total": 2.254012174875484
       }
     },
     {
@@ -521,16 +493,16 @@
       "subscription": null
     },
     {
-      "symbol": "SPECTRAA",
-      "id": "spectraa-technology-solutions-limited",
-      "company": "SpectraA Technology Solutions Limited",
+      "symbol": "KHERIAAUTO",
+      "id": "kheria-autocomp-limited",
+      "company": "Kheria Autocomp Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 118,
-        "max": 118
+        "min": 101,
+        "max": 101
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -542,16 +514,16 @@
       "subscription": null
     },
     {
-      "symbol": "KHERIAAUTO",
-      "id": "kheria-autocomp-limited",
-      "company": "Kheria Autocomp Limited",
+      "symbol": "SPECTRAA",
+      "id": "spectraa-technology-solutions-limited",
+      "company": "SpectraA Technology Solutions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 101,
-        "max": 101
+        "min": 118,
+        "max": 118
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2593,16 +2565,16 @@
       "subscription": null
     },
     {
-      "symbol": "VMOBILE",
-      "id": "vinit-mobile-limited",
-      "company": "Vinit Mobile Limited",
+      "symbol": "TEJA",
+      "id": "teja-engineering-industries-limited",
+      "company": "Teja Engineering Industries Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 158,
-        "max": 158
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -2614,16 +2586,16 @@
       "subscription": null
     },
     {
-      "symbol": "TEJA",
-      "id": "teja-engineering-industries-limited",
-      "company": "Teja Engineering Industries Limited",
+      "symbol": "VMOBILE",
+      "id": "vinit-mobile-limited",
+      "company": "Vinit Mobile Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 158,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4574,6 +4546,69 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-01-02",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "NITYAS",
+      "id": "nityas-gems-and-jewellery-limited",
+      "company": "Nityas Gems and Jewellery Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "VNL",
+      "id": "vishal-nirmiti-limited",
+      "company": "Vishal Nirmiti Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "EVENTIONS",
+      "id": "eventions-limited",
+      "company": "Eventions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
       "gmp": null,
       "subscription": null
     },
