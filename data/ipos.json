@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-02T15:54:55.407Z",
+  "lastUpdated": "2026-10-05T09:48:57.343Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "SMCG04",
+      "id": "smc-global-securities-limited",
+      "company": "SMC Global Securities Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 100,
+        "max": 100
+      },
+      "lotSize": 0,
+      "issueSizeCr": 750000,
+      "openDate": "2025-10-05",
+      "closeDate": "2025-10-16",
+      "allotmentDate": "2025-10-17",
+      "listingDate": "2025-10-21",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "VNL",
       "id": "vishal-nirmiti-limited",
@@ -22,12 +50,12 @@
       "listingDate": "2026-10-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.955259119348365,
-        "nii": 0.8040250179615612,
-        "bnii": 1.052121895983348,
-        "snii": 0.3078309589462655,
-        "retail": 0.4686647527204928,
-        "total": 0.5707851103621904
+        "qib": 1.0315193011450832,
+        "nii": 1.742575514881128,
+        "bnii": 1.6885850587113962,
+        "snii": 1.8505564931528262,
+        "retail": 1.518410039583069,
+        "total": 1.5785492246450985
       }
     },
     {
@@ -50,12 +78,40 @@
       "listingDate": "2026-10-08",
       "gmp": null,
       "subscription": {
-        "qib": 0.37840624129283923,
-        "nii": 0.2728708089532832,
-        "bnii": 0.1646698244636389,
-        "snii": 0.48927277793257173,
-        "retail": 1.3074473589937508,
-        "total": 0.689540675152186
+        "qib": 1.035330175536361,
+        "nii": 1.7910281415436056,
+        "bnii": 1.412649763165227,
+        "snii": 2.547784898300362,
+        "retail": 3.5020101102575327,
+        "total": 2.015785832872164
+      }
+    },
+    {
+      "symbol": "RKFAL",
+      "id": "r-k-fashion-accessories-limited",
+      "company": "R.K. Fashion Accessories Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 77,
+        "max": 82
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-10-05",
+      "closeDate": "2026-10-07",
+      "allotmentDate": "2026-10-08",
+      "listingDate": "2026-10-12",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -87,60 +143,130 @@
       }
     },
     {
-      "symbol": "SMCG04",
-      "id": "smc-global-securities-limited",
-      "company": "SMC Global Securities Limited",
+      "symbol": "ORIENTCABL",
+      "id": "orient-cables-india-limited",
+      "company": "Orient Cables (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 100,
-        "max": 100
+        "min": 272,
+        "max": 272
       },
       "lotSize": 0,
-      "issueSizeCr": 750000,
-      "openDate": "2025-10-05",
-      "closeDate": "2025-10-16",
-      "allotmentDate": "2025-10-17",
-      "listingDate": "2025-10-21",
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "RKFAL",
-      "id": "r-k-fashion-accessories-limited",
-      "company": "R.K. Fashion Accessories Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
+      "symbol": "RUNWALENTR",
+      "id": "runwal-enterprises-limited",
+      "company": "Runwal Enterprises Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 77,
-        "max": 82
+        "min": 305,
+        "max": 305
       },
-      "lotSize": 1600,
-      "issueSizeCr": 4267200,
-      "openDate": "2026-10-05",
-      "closeDate": "2026-10-07",
-      "allotmentDate": "2026-10-08",
-      "listingDate": "2026-10-12",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "GERMAN",
+      "id": "german-green-steel-and-power-limited",
+      "company": "German Green Steel and Power Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 139,
+        "max": 139
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "ACEVECTOR",
+      "id": "acevector-limited",
+      "company": "AceVector Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 32,
+        "max": 32
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "HIMALAYAN",
+      "id": "himalayan-solar-limited",
+      "company": "Himalayan Solar Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 103,
+        "max": 103
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "BMISL",
+      "id": "bench-mark-infotech-services-limited",
+      "company": "Bench Mark Infotech Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 110,
+        "max": 110
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "AONESTEELS",
@@ -4497,132 +4623,6 @@
       "symbol": "SRIT",
       "id": "srit-india-limited",
       "company": "Srit India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ORIENTCABL",
-      "id": "orient-cables-india-limited",
-      "company": "Orient Cables (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "RUNWALENTR",
-      "id": "runwal-enterprises-limited",
-      "company": "Runwal Enterprises Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "GERMAN",
-      "id": "german-green-steel-and-power-limited",
-      "company": "German Green Steel and Power Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ACEVECTOR",
-      "id": "acevector-limited",
-      "company": "AceVector Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "HIMALAYAN",
-      "id": "himalayan-solar-limited",
-      "company": "Himalayan Solar Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "BMISL",
-      "id": "bench-mark-infotech-services-limited",
-      "company": "Bench Mark Infotech Services Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
