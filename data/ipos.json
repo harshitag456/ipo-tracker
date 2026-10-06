@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T18:57:43.377Z",
+  "lastUpdated": "2026-10-06T09:37:14.056Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -59,60 +59,95 @@
       }
     },
     {
-      "symbol": "VNL",
-      "id": "vishal-nirmiti-limited",
-      "company": "Vishal Nirmiti Limited",
+      "symbol": "GCFZCZP",
+      "id": "grace-cancer-foundation-zczp",
+      "company": "Grace Cancer Foundation - ZCZP",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "upcoming",
       "priceBand": {
-        "min": 208,
-        "max": 220
+        "min": 100,
+        "max": 100
       },
-      "lotSize": 68,
-      "issueSizeCr": 145,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "listingDate": "2026-10-08",
+      "lotSize": 0,
+      "issueSizeCr": 1000000,
+      "openDate": "2026-10-07",
+      "closeDate": "2026-10-09",
+      "allotmentDate": "2026-10-12",
+      "listingDate": "2026-10-14",
       "gmp": null,
       "subscription": {
-        "qib": 1.2675244953370322,
-        "nii": 1.809755213941021,
-        "bnii": 1.7122100531397515,
-        "snii": 2.0048456546640647,
-        "retail": 1.668439180492859,
-        "total": 1.7054117662613342
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
-      "symbol": "NITYAS",
-      "id": "nityas-gems-and-jewellery-limited",
-      "company": "Nityas Gems and Jewellery Limited",
+      "symbol": "SHAHINVEST",
+      "id": "shah-investor-s-home-limited",
+      "company": "Shah Investor's Home Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "open",
+      "status": "listed",
       "priceBand": {
-        "min": 700,
-        "max": 750
+        "min": 167,
+        "max": 167
       },
-      "lotSize": 200,
-      "issueSizeCr": 14456000,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "listingDate": "2026-10-08",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-06",
       "gmp": null,
-      "subscription": {
-        "qib": 1.055391473948175,
-        "nii": 2.048760100306492,
-        "bnii": 1.561994984675397,
-        "snii": 3.022290331568682,
-        "retail": 4.043068104923775,
-        "total": 2.254012174875484
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "SRIT",
+      "id": "srit-india-limited",
+      "company": "Srit India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 130,
+        "max": 130
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "MOFS29",
+      "id": "motilal-oswal-financial-services-limited",
+      "company": "Motilal Oswal Financial Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-06",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "ORIENTCABL",
@@ -608,27 +643,6 @@
       "priceBand": {
         "min": 43,
         "max": 43
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-21",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "870MOFS31",
-      "id": "motilal-oswal-financial-services-limited",
-      "company": "Motilal Oswal Financial Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4616,48 +4630,6 @@
       "symbol": "PAPADMALJI",
       "id": "papadmalji-agro-foods-limited",
       "company": "Papadmalji Agro Foods Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SHAHINVEST",
-      "id": "shah-investor-s-home-limited",
-      "company": "Shah Investor's Home Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "SRIT",
-      "id": "srit-india-limited",
-      "company": "Srit India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
