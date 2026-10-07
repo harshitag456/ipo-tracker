@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-06T16:24:08.530Z",
+  "lastUpdated": "2026-10-07T09:32:21.394Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "GCFZCZP",
+      "id": "grace-cancer-foundation-zczp",
+      "company": "Grace Cancer Foundation - ZCZP",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 100,
+        "max": 100
+      },
+      "lotSize": 0,
+      "issueSizeCr": 1000000,
+      "openDate": "2026-10-07",
+      "closeDate": "2026-10-09",
+      "allotmentDate": "2026-10-12",
+      "listingDate": "2026-10-14",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
     {
       "symbol": "SMCG04",
       "id": "smc-global-securities-limited",
@@ -59,32 +87,46 @@
       }
     },
     {
-      "symbol": "GCFZCZP",
-      "id": "grace-cancer-foundation-zczp",
-      "company": "Grace Cancer Foundation - ZCZP",
+      "symbol": "PAPADMALJI",
+      "id": "papadmalji-agro-foods-limited",
+      "company": "Papadmalji Agro Foods Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 100,
-        "max": 100
+        "min": 72,
+        "max": 72
       },
       "lotSize": 0,
-      "issueSizeCr": 1000000,
-      "openDate": "2026-10-07",
-      "closeDate": "2026-10-09",
-      "allotmentDate": "2026-10-12",
-      "listingDate": "2026-10-14",
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-07",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
+    },
+    {
+      "symbol": "GREENASIA",
+      "id": "green-asia-impex-limited",
+      "company": "Green Asia Impex Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 89,
+        "max": 89
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-07",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "SHAHINVEST",
@@ -4609,48 +4651,6 @@
       "symbol": "EVENTIONS",
       "id": "eventions-limited",
       "company": "Eventions Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PAPADMALJI",
-      "id": "papadmalji-agro-foods-limited",
-      "company": "Papadmalji Agro Foods Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "GREENASIA",
-      "id": "green-asia-impex-limited",
-      "company": "Green Asia Impex Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
