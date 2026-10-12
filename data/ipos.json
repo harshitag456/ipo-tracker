@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-10-12T10:00:00.087Z",
+  "lastUpdated": "2026-10-12T19:40:53.796Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "SMCG04",
-      "id": "smc-global-securities-limited",
-      "company": "SMC Global Securities Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 100,
-        "max": 100
-      },
-      "lotSize": 0,
-      "issueSizeCr": 750000,
-      "openDate": "2025-10-05",
-      "closeDate": "2025-10-09",
-      "allotmentDate": "2025-10-10",
-      "listingDate": "2025-10-14",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
     {
       "symbol": "HDFIRE",
       "id": "hd-fire-protect-limited",
@@ -70,12 +42,40 @@
         "min": 51,
         "max": 54
       },
-      "lotSize": 2000,
-      "issueSizeCr": 7796000,
+      "lotSize": 0,
+      "issueSizeCr": 0,
       "openDate": "2026-10-13",
       "closeDate": "2026-10-15",
       "allotmentDate": "2026-10-16",
       "listingDate": "2026-10-21",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "FUSIONCX",
+      "id": "fusion-cx-limited",
+      "company": "Fusion CX Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 275,
+        "max": 289
+      },
+      "lotSize": 51,
+      "issueSizeCr": 500,
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "allotmentDate": "2026-10-19",
+      "listingDate": "2026-10-22",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -100,10 +100,10 @@
       },
       "lotSize": 1200,
       "issueSizeCr": 10362000,
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
-      "allotmentDate": "2026-10-16",
-      "listingDate": "2026-10-21",
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "allotmentDate": "2026-10-19",
+      "listingDate": "2026-10-22",
       "gmp": null,
       "subscription": {
         "qib": null,
