@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T16:42:57.756Z",
+  "lastUpdated": "2026-10-12T10:00:00.087Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -113,6 +113,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "RKFAL",
+      "id": "r-k-fashion-accessories-limited",
+      "company": "R.K. Fashion Accessories Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 82,
+        "max": 82
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-12",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "NITYAS",
@@ -4697,9 +4718,9 @@
       "subscription": null
     },
     {
-      "symbol": "RKFAL",
-      "id": "r-k-fashion-accessories-limited",
-      "company": "R.K. Fashion Accessories Limited",
+      "symbol": "SMCG04",
+      "id": "smc-global-securities-limited",
+      "company": "SMC Global Securities Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
