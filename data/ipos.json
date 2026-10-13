@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T19:40:53.796Z",
+  "lastUpdated": "2026-10-13T09:53:28.272Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -9,7 +9,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 258,
         "max": 271
@@ -22,12 +22,12 @@
       "listingDate": "2026-10-21",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 1.016310003753811,
+        "nii": 9.044565050146172,
+        "bnii": 8.44207555152199,
+        "snii": 10.24954450707578,
+        "retail": 3.238711836939873,
+        "total": 3.8429760725174984
       }
     },
     {
@@ -37,7 +37,7 @@
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 51,
         "max": 54
@@ -48,6 +48,62 @@
       "closeDate": "2026-10-15",
       "allotmentDate": "2026-10-16",
       "listingDate": "2026-10-21",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "BONFIG",
+      "id": "bonfiglioli-transmissions-limited",
+      "company": "Bonfiglioli Transmissions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 558,
+        "max": 586
+      },
+      "lotSize": 25,
+      "issueSizeCr": 43239042,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "TONBO",
+      "id": "tonbo-imaging-india-limited",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 665,
+        "max": 700
+      },
+      "lotSize": 21,
+      "issueSizeCr": 12174046,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
       "gmp": null,
       "subscription": {
         "qib": null,
