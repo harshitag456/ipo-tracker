@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T09:53:28.272Z",
+  "lastUpdated": "2026-10-13T17:15:27.107Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-10-21",
       "gmp": null,
       "subscription": {
-        "qib": 1.016310003753811,
-        "nii": 9.044565050146172,
-        "bnii": 8.44207555152199,
-        "snii": 10.24954450707578,
-        "retail": 3.238711836939873,
-        "total": 3.8429760725174984
+        "qib": 1.040669719562849,
+        "nii": 11.377460099872712,
+        "bnii": 10.806163038174795,
+        "snii": 12.520054659150906,
+        "retail": 3.7756146619657565,
+        "total": 4.616619089218681
       }
     },
     {
@@ -54,6 +54,62 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "TONBO",
+      "id": "tonbo-imaging-india-limited",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 665,
+        "max": 700
+      },
+      "lotSize": 21,
+      "issueSizeCr": 12174046,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "ZETWERK",
+      "id": "zetwerk-manufacturing-businesses-limited",
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 143,
+        "max": 151
+      },
+      "lotSize": 99,
+      "issueSizeCr": 2830,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
@@ -87,19 +143,19 @@
       }
     },
     {
-      "symbol": "TONBO",
-      "id": "tonbo-imaging-india-limited",
-      "company": "Tonbo Imaging India Limited",
+      "symbol": "SMT",
+      "id": "sahajanand-medical-technologies-limited",
+      "company": "Sahajanand Medical Technologies Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 665,
-        "max": 700
+        "min": 327,
+        "max": 344
       },
-      "lotSize": 21,
-      "issueSizeCr": 12174046,
+      "lotSize": 43,
+      "issueSizeCr": 13822116,
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "allotmentDate": "2026-10-21",
@@ -155,7 +211,7 @@
         "max": 112
       },
       "lotSize": 1200,
-      "issueSizeCr": 10362000,
+      "issueSizeCr": 7413600,
       "openDate": "2026-10-14",
       "closeDate": "2026-10-16",
       "allotmentDate": "2026-10-19",
