@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-13T17:15:27.107Z",
+  "lastUpdated": "2026-10-14T08:12:50.191Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "FUSIONCX",
+      "id": "fusion-cx-limited",
+      "company": "Fusion CX Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 275,
+        "max": 289
+      },
+      "lotSize": 51,
+      "issueSizeCr": 500,
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "allotmentDate": "2026-10-19",
+      "listingDate": "2026-10-22",
+      "gmp": null,
+      "subscription": {
+        "qib": 4.528489329649083,
+        "nii": 0.2260383015285616,
+        "bnii": 0.1828644426137225,
+        "snii": 0.31238605318392965,
+        "retail": 0.9243714662790028,
+        "total": 0.22996132478632478
+      }
+    },
     {
       "symbol": "HDFIRE",
       "id": "hd-fire-protect-limited",
@@ -22,12 +50,40 @@
       "listingDate": "2026-10-21",
       "gmp": null,
       "subscription": {
-        "qib": 1.040669719562849,
-        "nii": 11.377460099872712,
-        "bnii": 10.806163038174795,
-        "snii": 12.520054659150906,
-        "retail": 3.7756146619657565,
-        "total": 4.616619089218681
+        "qib": 1.4154232803425428,
+        "nii": 32.76508931194137,
+        "bnii": 33.262539307231386,
+        "snii": 31.77018894182203,
+        "retail": 8.52925067552787,
+        "total": 11.668054794627635
+      }
+    },
+    {
+      "symbol": "RAVITA",
+      "id": "ravita-engineering-services-limited",
+      "company": "Ravita Engineering Services Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 105,
+        "max": 112
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "allotmentDate": "2026-10-19",
+      "listingDate": "2026-10-22",
+      "gmp": null,
+      "subscription": {
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -59,47 +115,19 @@
       }
     },
     {
-      "symbol": "TONBO",
-      "id": "tonbo-imaging-india-limited",
-      "company": "Tonbo Imaging India Limited",
+      "symbol": "SMT",
+      "id": "sahajanand-medical-technologies-limited",
+      "company": "Sahajanand Medical Technologies Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 665,
-        "max": 700
+        "min": 327,
+        "max": 344
       },
-      "lotSize": 21,
-      "issueSizeCr": 12174046,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "ZETWERK",
-      "id": "zetwerk-manufacturing-businesses-limited",
-      "company": "Zetwerk Manufacturing Businesses Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 143,
-        "max": 151
-      },
-      "lotSize": 99,
-      "issueSizeCr": 2830,
+      "lotSize": 43,
+      "issueSizeCr": 13822116,
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "allotmentDate": "2026-10-21",
@@ -143,19 +171,19 @@
       }
     },
     {
-      "symbol": "SMT",
-      "id": "sahajanand-medical-technologies-limited",
-      "company": "Sahajanand Medical Technologies Limited",
+      "symbol": "ZETWERK",
+      "id": "zetwerk-manufacturing-businesses-limited",
+      "company": "Zetwerk Manufacturing Businesses Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 327,
-        "max": 344
+        "min": 143,
+        "max": 151
       },
-      "lotSize": 43,
-      "issueSizeCr": 13822116,
+      "lotSize": 99,
+      "issueSizeCr": 2830,
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "allotmentDate": "2026-10-21",
@@ -171,51 +199,23 @@
       }
     },
     {
-      "symbol": "FUSIONCX",
-      "id": "fusion-cx-limited",
-      "company": "Fusion CX Limited",
+      "symbol": "TONBO",
+      "id": "tonbo-imaging-india-limited",
+      "company": "Tonbo Imaging India Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 275,
-        "max": 289
+        "min": 665,
+        "max": 700
       },
-      "lotSize": 51,
-      "issueSizeCr": 500,
-      "openDate": "2026-10-14",
-      "closeDate": "2026-10-16",
-      "allotmentDate": "2026-10-19",
-      "listingDate": "2026-10-22",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "RAVITA",
-      "id": "ravita-engineering-services-limited",
-      "company": "Ravita Engineering Services Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 105,
-        "max": 112
-      },
-      "lotSize": 1200,
-      "issueSizeCr": 7413600,
-      "openDate": "2026-10-14",
-      "closeDate": "2026-10-16",
-      "allotmentDate": "2026-10-19",
-      "listingDate": "2026-10-22",
+      "lotSize": 21,
+      "issueSizeCr": 12174046,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
       "gmp": null,
       "subscription": {
         "qib": null,
