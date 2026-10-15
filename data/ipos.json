@@ -1,7 +1,119 @@
 {
-  "lastUpdated": "2026-10-14T13:53:42.463Z",
+  "lastUpdated": "2026-10-15T07:51:08.146Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "TONBO",
+      "id": "tonbo-imaging-india-limited",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 665,
+        "max": 700
+      },
+      "lotSize": 21,
+      "issueSizeCr": 8526033,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.003764788699383925,
+        "nii": 2.9165134782925723,
+        "bnii": 2.0681633710387706,
+        "snii": 4.613215088108263,
+        "retail": 1.8637622923028738,
+        "total": 1.5622698152822068
+      }
+    },
+    {
+      "symbol": "SMT",
+      "id": "sahajanand-medical-technologies-limited",
+      "company": "Sahajanand Medical Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 327,
+        "max": 344
+      },
+      "lotSize": 43,
+      "issueSizeCr": 9750482,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 8.871130254938159,
+        "nii": 0.09730781435275648,
+        "bnii": 0.05544454366745947,
+        "snii": 0.18103435572335053,
+        "retail": 0.22852208972134255,
+        "total": 0.13330664063581676
+      }
+    },
+    {
+      "symbol": "ZETWERK",
+      "id": "zetwerk-manufacturing-businesses-limited",
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 143,
+        "max": 151
+      },
+      "lotSize": 99,
+      "issueSizeCr": 2830,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.07641034340285932,
+        "nii": 0.036033985920125494,
+        "bnii": 0.03179162661105761,
+        "snii": 0.044518704538261254,
+        "retail": 0.13308978235709604,
+        "total": 0.07605268247805273
+      }
+    },
+    {
+      "symbol": "BONFIG",
+      "id": "bonfiglioli-transmissions-limited",
+      "company": "Bonfiglioli Transmissions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 558,
+        "max": 586
+      },
+      "lotSize": 25,
+      "issueSizeCr": 30282330,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "listingDate": "2026-10-23",
+      "gmp": null,
+      "subscription": {
+        "qib": 0.0011663838788729733,
+        "nii": 0.3719345815613434,
+        "bnii": 0.29608199300517146,
+        "snii": 0.5236397937995381,
+        "retail": 0.32909471416857383,
+        "total": 0.24542943029813097
+      }
+    },
     {
       "symbol": "FUSIONCX",
       "id": "fusion-cx-limited",
@@ -22,12 +134,12 @@
       "listingDate": "2026-10-22",
       "gmp": null,
       "subscription": {
-        "qib": 0.001997862939551066,
-        "nii": 0.4580835133151741,
-        "bnii": 0.37100324476530394,
-        "snii": 0.6322441186402301,
-        "retail": 1.5497426869383213,
-        "total": 0.40779294871794874
+        "qib": 0.002091096543396782,
+        "nii": 1.0088812224314394,
+        "bnii": 0.817066219772032,
+        "snii": 1.3925113780327383,
+        "retail": 2.912904905224883,
+        "total": 0.8059089743589744
       }
     },
     {
@@ -50,12 +162,12 @@
       "listingDate": "2026-10-21",
       "gmp": null,
       "subscription": {
-        "qib": 1.4922371645603616,
-        "nii": 48.70105327943377,
-        "bnii": 50.53170385951902,
-        "snii": 45.039750722532325,
-        "retail": 11.332041444074816,
-        "total": 16.495074615813735
+        "qib": 17.755882878043867,
+        "nii": 131.0693094235638,
+        "bnii": 149.2180993897389,
+        "snii": 94.77171564423638,
+        "retail": 21.3201832609475,
+        "total": 43.71236066875955
       }
     },
     {
@@ -115,116 +227,67 @@
       }
     },
     {
-      "symbol": "SMT",
-      "id": "sahajanand-medical-technologies-limited",
-      "company": "Sahajanand Medical Technologies Limited",
+      "symbol": "857LTFL36",
+      "id": "l-t-finance-limited",
+      "company": "L&T Finance Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 327,
-        "max": 344
+        "min": 99987,
+        "max": 99987
       },
-      "lotSize": 43,
-      "issueSizeCr": 13822116,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-15",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "BONFIG",
-      "id": "bonfiglioli-transmissions-limited",
-      "company": "Bonfiglioli Transmissions Limited",
+      "symbol": "857LTFL36",
+      "id": "l-t-finance-limited",
+      "company": "L&T Finance Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 558,
-        "max": 586
+        "min": 99987,
+        "max": 99987
       },
-      "lotSize": 25,
-      "issueSizeCr": 43239042,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-15",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
-      "symbol": "ZETWERK",
-      "id": "zetwerk-manufacturing-businesses-limited",
-      "company": "Zetwerk Manufacturing Businesses Limited",
+      "symbol": "857LTFL36",
+      "id": "l-t-finance-limited",
+      "company": "L&T Finance Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "listed",
       "priceBand": {
-        "min": 143,
-        "max": 151
+        "min": 99987,
+        "max": 99987
       },
-      "lotSize": 99,
-      "issueSizeCr": 2830,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-15",
       "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "TONBO",
-      "id": "tonbo-imaging-india-limited",
-      "company": "Tonbo Imaging India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 665,
-        "max": 700
-      },
-      "lotSize": 21,
-      "issueSizeCr": 12174046,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
+      "subscription": null
     },
     {
       "symbol": "RKFAL",
@@ -2750,69 +2813,6 @@
       "priceBand": {
         "min": 99,
         "max": 99
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-07-10",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "783LTFL29",
-      "id": "l-t-finance-limited",
-      "company": "L&T Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-07-10",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "783LTFL29",
-      "id": "l-t-finance-limited",
-      "company": "L&T Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-07-10",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "783LTFL29",
-      "id": "l-t-finance-limited",
-      "company": "L&T Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
