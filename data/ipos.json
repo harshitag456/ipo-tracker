@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-10-16T07:41:24.463Z",
+  "lastUpdated": "2026-10-16T12:52:19.710Z",
   "source": "nseindia.com",
   "ipos": [
     {
-      "symbol": "BONFIG",
-      "id": "bonfiglioli-transmissions-limited",
-      "company": "Bonfiglioli Transmissions Limited",
+      "symbol": "SMT",
+      "id": "sahajanand-medical-technologies-limited",
+      "company": "Sahajanand Medical Technologies Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 558,
-        "max": 586
+        "min": 327,
+        "max": 344
       },
-      "lotSize": 25,
-      "issueSizeCr": 30282330,
+      "lotSize": 43,
+      "issueSizeCr": 9750482,
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "allotmentDate": "2026-10-21",
       "listingDate": "2026-10-23",
       "gmp": null,
       "subscription": {
-        "qib": 0.07677005555113056,
-        "nii": 1.2117424217282253,
-        "bnii": 1.0080101321978603,
-        "snii": 1.619207095133395,
-        "retail": 0.8940098232587432,
-        "total": 0.7304119266912421
+        "qib": 1.1231484554912776,
+        "nii": 0.5095617584676037,
+        "bnii": 0.3810149040827815,
+        "snii": 0.7666554672372481,
+        "retail": 0.8246981574198025,
+        "total": 0.8243464271817537
       }
     },
     {
@@ -50,40 +50,40 @@
       "listingDate": "2026-10-23",
       "gmp": null,
       "subscription": {
-        "qib": 0.30015682697767737,
-        "nii": 0.12228113136369256,
-        "bnii": 0.12287104523211324,
-        "snii": 0.1211013036268512,
-        "retail": 0.30487347323251557,
-        "total": 0.25206727331413686
+        "qib": 0.3706522669853686,
+        "nii": 0.16318311355972162,
+        "bnii": 0.1703731112326002,
+        "snii": 0.14880311821396444,
+        "retail": 0.3548896729701015,
+        "total": 0.31069422510552874
       }
     },
     {
-      "symbol": "SMT",
-      "id": "sahajanand-medical-technologies-limited",
-      "company": "Sahajanand Medical Technologies Limited",
+      "symbol": "BONFIG",
+      "id": "bonfiglioli-transmissions-limited",
+      "company": "Bonfiglioli Transmissions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 327,
-        "max": 344
+        "min": 558,
+        "max": 586
       },
-      "lotSize": 43,
-      "issueSizeCr": 9750482,
+      "lotSize": 25,
+      "issueSizeCr": 30282330,
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "allotmentDate": "2026-10-21",
       "listingDate": "2026-10-23",
       "gmp": null,
       "subscription": {
-        "qib": 0.3735062663409498,
-        "nii": 0.36086477278420764,
-        "bnii": 0.2602091640804826,
-        "snii": 0.5621759901916576,
-        "retail": 0.6446232938497226,
-        "total": 0.49642038208982897
+        "qib": 0.15946175233346238,
+        "nii": 1.7086971279909398,
+        "bnii": 1.4372566657520829,
+        "snii": 2.251578178167424,
+        "retail": 1.1560455313897406,
+        "total": 0.9915716525115471
       }
     },
     {
@@ -106,12 +106,12 @@
       "listingDate": "2026-10-23",
       "gmp": null,
       "subscription": {
-        "qib": 3.9365442315386168,
-        "nii": 10.447690167855715,
-        "bnii": 8.17575338917192,
-        "snii": 14.991567461949138,
-        "retail": 5.492455034836562,
-        "total": 6.1176019375012975
+        "qib": 3.9525963925297973,
+        "nii": 14.348206448769112,
+        "bnii": 11.480183058457818,
+        "snii": 20.084257946519912,
+        "retail": 7.118863012060337,
+        "total": 7.772149720743516
       }
     },
     {
@@ -134,12 +134,12 @@
       "listingDate": "2026-10-22",
       "gmp": null,
       "subscription": {
-        "qib": 0.2283357553612913,
-        "nii": 2.5526971160249565,
-        "bnii": 2.311967554697388,
-        "snii": 3.0341564272859682,
-        "retail": 4.855527441829855,
-        "total": 1.703559829059829
+        "qib": 4.007220250547682,
+        "nii": 4.501000498813034,
+        "bnii": 4.490457851544642,
+        "snii": 4.52208580160973,
+        "retail": 5.6963682367914785,
+        "total": 4.4490053418803415
       }
     },
     {
@@ -171,34 +171,6 @@
       }
     },
     {
-      "symbol": "HDFIRE",
-      "id": "hd-fire-protect-limited",
-      "company": "HD Fire Protect Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 258,
-        "max": 271
-      },
-      "lotSize": 55,
-      "issueSizeCr": 1.75,
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
-      "allotmentDate": "2026-10-16",
-      "listingDate": "2026-10-21",
-      "gmp": null,
-      "subscription": {
-        "qib": 256.6520669231262,
-        "nii": 203.20510274020506,
-        "bnii": 236.16825688570376,
-        "snii": 137.27876929931912,
-        "retail": 30.49430241522399,
-        "total": 131.7012200325594
-      }
-    },
-    {
       "symbol": "JPL",
       "id": "jio-platforms-limited",
       "company": "Jio Platforms Limited",
@@ -211,6 +183,34 @@
         "max": 1119
       },
       "lotSize": 12,
+      "issueSizeCr": 500,
+      "openDate": "2026-10-21",
+      "closeDate": "2026-10-23",
+      "allotmentDate": "2026-10-26",
+      "listingDate": "2026-10-28",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "PARASHLTH",
+      "id": "paras-healthcare-limited",
+      "company": "Paras Healthcare Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 660,
+        "max": 693
+      },
+      "lotSize": 21,
       "issueSizeCr": 500,
       "openDate": "2026-10-21",
       "closeDate": "2026-10-23",
