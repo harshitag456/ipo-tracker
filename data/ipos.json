@@ -1,147 +1,7 @@
 {
-  "lastUpdated": "2026-10-20T13:43:12.220Z",
+  "lastUpdated": "2026-10-21T08:07:21.972Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "TONBO",
-      "id": "tonbo-imaging-india-limited",
-      "company": "Tonbo Imaging India Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 665,
-        "max": 700
-      },
-      "lotSize": 21,
-      "issueSizeCr": 8526033,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 293.5569379060686,
-        "nii": 170.9431893627601,
-        "bnii": 184.72579224592005,
-        "snii": 143.3779609277601,
-        "retail": 31.067530510333956,
-        "total": 135.90367841644525
-      }
-    },
-    {
-      "symbol": "BONFIG",
-      "id": "bonfiglioli-transmissions-limited",
-      "company": "Bonfiglioli Transmissions Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 558,
-        "max": 586
-      },
-      "lotSize": 25,
-      "issueSizeCr": 30282330,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 120.78396220429998,
-        "nii": 40.39682823901184,
-        "bnii": 46.438177037929755,
-        "snii": 28.314127843545492,
-        "retail": 5.905707565377859,
-        "total": 46.055135948918064
-      }
-    },
-    {
-      "symbol": "SMT",
-      "id": "sahajanand-medical-technologies-limited",
-      "company": "Sahajanand Medical Technologies Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 327,
-        "max": 344
-      },
-      "lotSize": 43,
-      "issueSizeCr": 9750482,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 34.69606763573695,
-        "nii": 14.642006309011906,
-        "bnii": 16.3664372257245,
-        "snii": 11.193144475586717,
-        "retail": 3.0296805993632745,
-        "total": 14.201633416686478
-      }
-    },
-    {
-      "symbol": "ZETWERK",
-      "id": "zetwerk-manufacturing-businesses-limited",
-      "company": "Zetwerk Manufacturing Businesses Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 143,
-        "max": 151
-      },
-      "lotSize": 99,
-      "issueSizeCr": 2830,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "listingDate": "2026-10-23",
-      "gmp": null,
-      "subscription": {
-        "qib": 4.733238807160643,
-        "nii": 1.4014828040824159,
-        "bnii": 1.683754176398846,
-        "snii": 0.8369400594495553,
-        "retail": 0.7340836042213058,
-        "total": 3.0597630548032524
-      }
-    },
-    {
-      "symbol": "JPL",
-      "id": "jio-platforms-limited",
-      "company": "Jio Platforms Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 1065,
-        "max": 1119
-      },
-      "lotSize": 12,
-      "issueSizeCr": 500,
-      "openDate": "2026-10-21",
-      "closeDate": "2026-10-23",
-      "allotmentDate": "2026-10-26",
-      "listingDate": "2026-10-28",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
     {
       "symbol": "PARASHLTH",
       "id": "paras-healthcare-limited",
@@ -149,7 +9,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 660,
         "max": 693
@@ -162,13 +22,104 @@
       "listingDate": "2026-10-28",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 8.921380786987164,
+        "nii": 0.04692646293955249,
+        "bnii": 0.026639872187603837,
+        "snii": 0.08749968137906423,
+        "retail": 0.5073813057899315,
+        "total": 0.10509792374304734
       }
+    },
+    {
+      "symbol": "JPL",
+      "id": "jio-platforms-limited",
+      "company": "Jio Platforms Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 1065,
+        "max": 1119
+      },
+      "lotSize": 12,
+      "issueSizeCr": 500,
+      "openDate": "2026-10-21",
+      "closeDate": "2026-10-23",
+      "allotmentDate": "2026-10-26",
+      "listingDate": "2026-10-28",
+      "gmp": null,
+      "subscription": {
+        "qib": 4.8578717028200415,
+        "nii": 0.7335888098992198,
+        "bnii": 0.6559036366734469,
+        "snii": 0.888959169140355,
+        "retail": 0.5098506447645044,
+        "total": 1.6945644615962174
+      }
+    },
+    {
+      "symbol": "HDFIRE",
+      "id": "hd-fire-protect-limited",
+      "company": "HD Fire Protect Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 271,
+        "max": 271
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-21",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "LOANFRONT",
+      "id": "vaibhav-vyapaar-limited",
+      "company": "Vaibhav Vyapaar Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 54,
+        "max": 54
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-21",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "PARTYPP",
+      "id": "party-cruisers-limited",
+      "company": "Party Cruisers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 90,
+        "max": 90
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-21",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "857LTFL36",
@@ -255,16 +206,16 @@
       "subscription": null
     },
     {
-      "symbol": "VNL",
-      "id": "vishal-nirmiti-limited",
-      "company": "Vishal Nirmiti Limited",
+      "symbol": "NITYAS",
+      "id": "nityas-gems-and-jewellery-limited",
+      "company": "Nityas Gems and Jewellery Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 220,
-        "max": 220
+        "min": 75,
+        "max": 75
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -276,16 +227,16 @@
       "subscription": null
     },
     {
-      "symbol": "NITYAS",
-      "id": "nityas-gems-and-jewellery-limited",
-      "company": "Nityas Gems and Jewellery Limited",
+      "symbol": "VNL",
+      "id": "vishal-nirmiti-limited",
+      "company": "Vishal Nirmiti Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 75,
-        "max": 75
+        "min": 220,
+        "max": 220
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -549,6 +500,27 @@
       "subscription": null
     },
     {
+      "symbol": "ORIENTCABL",
+      "id": "orient-cables-india-limited",
+      "company": "Orient Cables (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 272,
+        "max": 272
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-05",
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "RUNWALENTR",
       "id": "runwal-enterprises-limited",
       "company": "Runwal Enterprises Limited",
@@ -601,27 +573,6 @@
       "priceBand": {
         "min": 32,
         "max": 32
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-10-05",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "ORIENTCABL",
-      "id": "orient-cables-india-limited",
-      "company": "Orient Cables (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 272,
-        "max": 272
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -717,27 +668,6 @@
       "subscription": null
     },
     {
-      "symbol": "SWASTIKAIN",
-      "id": "swastika-infra-limited",
-      "company": "Swastika Infra Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 185,
-        "max": 185
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-30",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "ARMEE",
       "id": "armee-infotech-limited",
       "company": "ArMee Infotech Limited",
@@ -790,6 +720,27 @@
       "priceBand": {
         "min": 134,
         "max": 134
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-30",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SWASTIKAIN",
+      "id": "swastika-infra-limited",
+      "company": "Swastika Infra Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 185,
+        "max": 185
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -969,16 +920,16 @@
       "subscription": null
     },
     {
-      "symbol": "HEROMOTORS",
-      "id": "hero-motors-limited",
-      "company": "Hero Motors Limited",
+      "symbol": "JSIPL",
+      "id": "jindal-supreme-india-limited",
+      "company": "Jindal Supreme (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 84,
-        "max": 84
+        "min": 93,
+        "max": 93
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1011,16 +962,16 @@
       "subscription": null
     },
     {
-      "symbol": "JSIPL",
-      "id": "jindal-supreme-india-limited",
-      "company": "Jindal Supreme (India) Limited",
+      "symbol": "HEROMOTORS",
+      "id": "hero-motors-limited",
+      "company": "Hero Motors Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 93,
-        "max": 93
+        "min": 84,
+        "max": 84
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1095,27 +1046,6 @@
       "subscription": null
     },
     {
-      "symbol": "LCCPROJECT",
-      "id": "lcc-projects-limited",
-      "company": "LCC Projects Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 146,
-        "max": 146
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-17",
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "symbol": "ARCIL",
       "id": "asset-reconstruction-company-india-limited",
       "company": "Asset Reconstruction Company (India) Limited",
@@ -1168,6 +1098,27 @@
       "priceBand": {
         "min": 404,
         "max": 404
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-09-17",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "LCCPROJECT",
+      "id": "lcc-projects-limited",
+      "company": "LCC Projects Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 146,
+        "max": 146
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1242,16 +1193,16 @@
       "subscription": null
     },
     {
-      "symbol": "PRASOLCHEM",
-      "id": "prasol-chemicals-limited",
-      "company": "Prasol Chemicals Limited",
+      "symbol": "GLASSWALL",
+      "id": "glass-wall-systems-india-limited",
+      "company": "Glass Wall Systems (India) Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 676,
-        "max": 676
+        "min": 182,
+        "max": 182
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -1284,16 +1235,16 @@
       "subscription": null
     },
     {
-      "symbol": "GLASSWALL",
-      "id": "glass-wall-systems-india-limited",
-      "company": "Glass Wall Systems (India) Limited",
+      "symbol": "PRASOLCHEM",
+      "id": "prasol-chemicals-limited",
+      "company": "Prasol Chemicals Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "listed",
       "priceBand": {
-        "min": 182,
-        "max": 182
+        "min": 676,
+        "max": 676
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -4774,6 +4725,90 @@
       "subscription": null
     },
     {
+      "symbol": "ZETWERK",
+      "id": "zetwerk-manufacturing-businesses-limited",
+      "company": "Zetwerk Manufacturing Businesses Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "TONBO",
+      "id": "tonbo-imaging-india-limited",
+      "company": "Tonbo Imaging India Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "BONFIG",
+      "id": "bonfiglioli-transmissions-limited",
+      "company": "Bonfiglioli Transmissions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "SMT",
+      "id": "sahajanand-medical-technologies-limited",
+      "company": "Sahajanand Medical Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "FUSIONCX",
       "id": "fusion-cx-limited",
       "company": "Fusion CX Limited",
@@ -4798,48 +4833,6 @@
       "symbol": "RAVITA",
       "id": "ravita-engineering-services-limited",
       "company": "Ravita Engineering Services Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "HDFIRE",
-      "id": "hd-fire-protect-limited",
-      "company": "HD Fire Protect Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "LOANFRONT",
-      "id": "vaibhav-vyapaar-limited",
-      "company": "Vaibhav Vyapaar Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
