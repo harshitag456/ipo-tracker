@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T13:59:35.102Z",
+  "lastUpdated": "2026-10-22T08:07:12.544Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-10-28",
       "gmp": null,
       "subscription": {
-        "qib": 8.921380786987164,
-        "nii": 0.07724641278561314,
-        "bnii": 0.047697510662412325,
-        "snii": 0.13634427083143677,
-        "retail": 0.6934494751632818,
-        "total": 0.14719757325194519
+        "qib": 1.3382071180480748,
+        "nii": 0.14402932039105992,
+        "bnii": 0.09522296617614259,
+        "snii": 0.24164211768218746,
+        "retail": 1.1392828028069582,
+        "total": 0.24649602001302456
       }
     },
     {
@@ -50,13 +50,55 @@
       "listingDate": "2026-10-28",
       "gmp": null,
       "subscription": {
-        "qib": 9.417587358035687,
-        "nii": 1.6805355003649516,
-        "bnii": 1.8305941872822207,
-        "snii": 1.3804181018257125,
-        "retail": 0.7259617179641594,
-        "total": 3.156277048663392
+        "qib": 9.65872410543728,
+        "nii": 3.679443705315873,
+        "bnii": 4.024374824562342,
+        "snii": 2.9895814100356852,
+        "retail": 1.2380284248586506,
+        "total": 3.9753194534951546
       }
+    },
+    {
+      "symbol": "FUSIONCX",
+      "id": "fusion-cx-limited",
+      "company": "Fusion CX Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 289,
+        "max": 289
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-22",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "RAVITA",
+      "id": "ravita-engineering-services-limited",
+      "company": "Ravita Engineering Services Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 112,
+        "max": 112
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-10-22",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "HDFIRE",
@@ -4791,48 +4833,6 @@
       "symbol": "SMT",
       "id": "sahajanand-medical-technologies-limited",
       "company": "Sahajanand Medical Technologies Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "FUSIONCX",
-      "id": "fusion-cx-limited",
-      "company": "Fusion CX Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "RAVITA",
-      "id": "ravita-engineering-services-limited",
-      "company": "Ravita Engineering Services Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
