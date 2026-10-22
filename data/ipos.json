@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T08:07:12.544Z",
+  "lastUpdated": "2026-10-22T13:57:17.456Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-10-28",
       "gmp": null,
       "subscription": {
-        "qib": 1.3382071180480748,
-        "nii": 0.14402932039105992,
-        "bnii": 0.09522296617614259,
-        "snii": 0.24164211768218746,
-        "retail": 1.1392828028069582,
-        "total": 0.24649602001302456
+        "qib": 0.06487118315109239,
+        "nii": 0.2510285381012753,
+        "bnii": 0.2215974728831072,
+        "snii": 0.3098907221224888,
+        "retail": 1.3058131452924462,
+        "total": 0.34126715555503695
       }
     },
     {
@@ -50,12 +50,96 @@
       "listingDate": "2026-10-28",
       "gmp": null,
       "subscription": {
-        "qib": 9.65872410543728,
-        "nii": 3.679443705315873,
-        "bnii": 4.024374824562342,
-        "snii": 2.9895814100356852,
-        "retail": 1.2380284248586506,
-        "total": 3.9753194534951546
+        "qib": 13.292943349640865,
+        "nii": 5.965907842125942,
+        "bnii": 6.760380929175457,
+        "snii": 4.376961537229953,
+        "retail": 1.5397855579350466,
+        "total": 5.568893449707723
+      }
+    },
+    {
+      "symbol": "BLSPOLY",
+      "id": "bls-polymers-limited",
+      "company": "BLS Polymers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 142,
+        "max": 150
+      },
+      "lotSize": 100,
+      "issueSizeCr": 17000000,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "listingDate": "2026-11-03",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "SFCTECH",
+      "id": "sfc-environmental-technologies-limited",
+      "company": "SFC Environmental Technologies Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 313,
+        "max": 330
+      },
+      "lotSize": 45,
+      "issueSizeCr": 150,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "listingDate": "2026-11-03",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "EDELALTS",
+      "id": "eaaa-india-alternatives-limited",
+      "company": "EAAA India Alternatives Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 159,
+        "max": 167
+      },
+      "lotSize": 9,
+      "issueSizeCr": 1200,
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-28",
+      "allotmentDate": "2026-10-29",
+      "listingDate": "2026-11-02",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
