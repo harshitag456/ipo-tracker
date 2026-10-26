@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T08:17:08.523Z",
+  "lastUpdated": "2026-10-26T15:19:46.990Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,39 @@
       "gmp": null,
       "subscription": {
         "qib": 0.07934909308246296,
-        "nii": 0.12420056584484439,
-        "bnii": 0.17838377594446161,
-        "snii": 0.01583414564560995,
-        "retail": 0.024787138252016536,
-        "total": 0.06167914917191289
+        "nii": 0.318672087365176,
+        "bnii": 0.4665604716958703,
+        "snii": 0.022895318703787356,
+        "retail": 0.040492225574204045,
+        "total": 0.11120417745661818
+      }
+    },
+    {
+      "symbol": "BCSSL",
+      "id": "bombay-coated-and-special-steels-limited",
+      "company": "Bombay Coated and Special Steels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 780,
+        "max": 820
+      },
+      "lotSize": 182,
+      "issueSizeCr": 183.06,
+      "openDate": "2026-10-29",
+      "closeDate": "2026-11-02",
+      "allotmentDate": "2026-11-03",
+      "listingDate": "2026-11-05",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
@@ -59,19 +87,19 @@
       }
     },
     {
-      "symbol": "BLSPOLY",
-      "id": "bls-polymers-limited",
-      "company": "BLS Polymers Limited",
+      "symbol": "SFCTECH",
+      "id": "sfc-environmental-technologies-limited",
+      "company": "SFC Environmental Technologies Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 142,
-        "max": 150
+        "min": 313,
+        "max": 330
       },
-      "lotSize": 100,
-      "issueSizeCr": 17000000,
+      "lotSize": 45,
+      "issueSizeCr": 150,
       "openDate": "2026-10-27",
       "closeDate": "2026-10-29",
       "allotmentDate": "2026-10-30",
@@ -87,19 +115,19 @@
       }
     },
     {
-      "symbol": "SFCTECH",
-      "id": "sfc-environmental-technologies-limited",
-      "company": "SFC Environmental Technologies Limited",
+      "symbol": "BLSPOLY",
+      "id": "bls-polymers-limited",
+      "company": "BLS Polymers Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 313,
-        "max": 330
+        "min": 142,
+        "max": 150
       },
-      "lotSize": 45,
-      "issueSizeCr": 150,
+      "lotSize": 100,
+      "issueSizeCr": 11900000,
       "openDate": "2026-10-27",
       "closeDate": "2026-10-29",
       "allotmentDate": "2026-10-30",
