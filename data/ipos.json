@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-27T08:30:12.965Z",
+  "lastUpdated": "2026-10-27T14:50:18.986Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "BLSPOLY",
+      "id": "bls-polymers-limited",
+      "company": "BLS Polymers Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 142,
+        "max": 150
+      },
+      "lotSize": 100,
+      "issueSizeCr": 11900000,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "listingDate": "2026-11-03",
+      "gmp": null,
+      "subscription": {
+        "qib": 12.031882352941176,
+        "nii": 12.989450980392157,
+        "bnii": 10.403529411764707,
+        "snii": 18.16129411764706,
+        "retail": 6.762033613445378,
+        "total": 9.602151260504202
+      }
+    },
     {
       "symbol": "SFCTECH",
       "id": "sfc-environmental-technologies-limited",
@@ -23,39 +51,11 @@
       "gmp": null,
       "subscription": {
         "qib": 7.563696333906048,
-        "nii": 0.04468512779679596,
-        "bnii": 0.016773604782627825,
-        "snii": 0.10050820142177752,
-        "retail": 0.1192267317827215,
-        "total": 0.06940485647198141
-      }
-    },
-    {
-      "symbol": "BLSPOLY",
-      "id": "bls-polymers-limited",
-      "company": "BLS Polymers Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 142,
-        "max": 150
-      },
-      "lotSize": 100,
-      "issueSizeCr": 11900000,
-      "openDate": "2026-10-27",
-      "closeDate": "2026-10-29",
-      "allotmentDate": "2026-10-30",
-      "listingDate": "2026-11-03",
-      "gmp": null,
-      "subscription": {
-        "qib": 11.620558823529413,
-        "nii": 6.663647058823529,
-        "bnii": 4.854529411764706,
-        "snii": 10.281882352941176,
-        "retail": 4.310521008403361,
-        "total": 6.903344537815126
+        "nii": 0.09069019464899014,
+        "bnii": 0.05563764663309309,
+        "snii": 0.16079532533789462,
+        "retail": 0.15926347255995588,
+        "total": 0.09928145593592652
       }
     },
     {
@@ -78,12 +78,12 @@
       "listingDate": "2026-11-02",
       "gmp": null,
       "subscription": {
-        "qib": 0.45402540623895865,
-        "nii": 0.3651442745853245,
-        "bnii": 0.5125888590380637,
-        "snii": 0.07025510567984594,
-        "retail": 0.08809657330512537,
-        "total": 0.25201502580153834
+        "qib": 0.45410861877103015,
+        "nii": 0.6865267112051544,
+        "bnii": 0.9687715460878248,
+        "snii": 0.1220370414398136,
+        "retail": 0.10577498582934379,
+        "total": 0.3297456980453929
       }
     },
     {
@@ -127,7 +127,7 @@
         "max": 162
       },
       "lotSize": 91,
-      "issueSizeCr": 17000000,
+      "issueSizeCr": 11900000,
       "openDate": "2026-10-28",
       "closeDate": "2026-10-30",
       "allotmentDate": "2026-11-02",
