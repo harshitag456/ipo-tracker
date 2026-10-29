@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-28T16:11:00.377Z",
+  "lastUpdated": "2026-10-29T09:07:10.764Z",
   "source": "nseindia.com",
   "ipos": [
+    {
+      "symbol": "BCSSL",
+      "id": "bombay-coated-and-special-steels-limited",
+      "company": "Bombay Coated and Special Steels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "open",
+      "priceBand": {
+        "min": 780,
+        "max": 820
+      },
+      "lotSize": 182,
+      "issueSizeCr": 183.06,
+      "openDate": "2026-10-29",
+      "closeDate": "2026-11-02",
+      "allotmentDate": "2026-11-03",
+      "listingDate": "2026-11-05",
+      "gmp": null,
+      "subscription": {
+        "qib": 6.55461064796561,
+        "nii": 0.4461170794644929,
+        "bnii": 0.3036066956838533,
+        "snii": 0.7311379684722381,
+        "retail": 0.8857716192053734,
+        "total": 2.437497051353982
+      }
+    },
     {
       "symbol": "MKSONS",
       "id": "m-k-sons-fine-jewels-limited",
@@ -22,12 +50,12 @@
       "listingDate": "2026-11-04",
       "gmp": null,
       "subscription": {
-        "qib": 0.9624588235294118,
-        "nii": 1.1942768627450981,
-        "bnii": 1.721880588235294,
-        "snii": 0.13906941176470589,
-        "retail": 0.2302070588235294,
-        "total": 0.6460082352941177
+        "qib": 0.9811941176470588,
+        "nii": 1.8155392156862744,
+        "bnii": 2.246254705882353,
+        "snii": 0.9541082352941177,
+        "retail": 0.6612717647058823,
+        "total": 1.0000211764705882
       }
     },
     {
@@ -50,12 +78,12 @@
       "listingDate": "2026-11-03",
       "gmp": null,
       "subscription": {
-        "qib": 0.07792831840492026,
-        "nii": 0.3735130911258899,
-        "bnii": 0.2751627553797395,
-        "snii": 0.5702138598590087,
-        "retail": 0.33992139970892127,
-        "total": 0.2722644561935583
+        "qib": 4.737109644676826,
+        "nii": 2.7605264727702012,
+        "bnii": 3.0778674929714493,
+        "snii": 2.1258441186066976,
+        "retail": 0.7142607945454381,
+        "total": 2.3021316628323225
       }
     },
     {
@@ -78,12 +106,12 @@
       "listingDate": "2026-11-03",
       "gmp": null,
       "subscription": {
-        "qib": 12.199264705882353,
-        "nii": 78.7475294117647,
-        "bnii": 70.21205882352942,
-        "snii": 95.8184705882353,
-        "retail": 29.774420168067227,
-        "total": 35.24718487394958
+        "qib": 69.11176470588235,
+        "nii": 438.01090196078434,
+        "bnii": 462.11758823529414,
+        "snii": 389.7975294117647,
+        "retail": 97.69317647058824,
+        "total": 162.45228571428572
       }
     },
     {
@@ -115,23 +143,23 @@
       }
     },
     {
-      "symbol": "BCSSL",
-      "id": "bombay-coated-and-special-steels-limited",
-      "company": "Bombay Coated and Special Steels Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
+      "symbol": "HGSINDIALT",
+      "id": "hgs-india-limited",
+      "company": "HGS (India) Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
       "sector": "—",
       "status": "upcoming",
       "priceBand": {
-        "min": 780,
-        "max": 820
+        "min": 114,
+        "max": 120
       },
-      "lotSize": 182,
-      "issueSizeCr": 183.06,
-      "openDate": "2026-10-29",
-      "closeDate": "2026-11-02",
-      "allotmentDate": "2026-11-03",
-      "listingDate": "2026-11-05",
+      "lotSize": 1200,
+      "issueSizeCr": 2880000,
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "allotmentDate": "2026-11-04",
+      "listingDate": "2026-11-06",
       "gmp": null,
       "subscription": {
         "qib": null,
