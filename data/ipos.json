@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T10:18:08.648Z",
+  "lastUpdated": "2026-11-03T17:56:44.146Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -59,16 +59,16 @@
       }
     },
     {
-      "symbol": "HGSINDIALT",
-      "id": "hgs-india-limited",
-      "company": "HGS (India) Limited",
+      "symbol": "MAXENGS",
+      "id": "maxwell-engineering-solutions-limited",
+      "company": "Maxwell Engineering Solutions Limited",
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 114,
-        "max": 120
+        "min": 150,
+        "max": 158
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -87,16 +87,16 @@
       }
     },
     {
-      "symbol": "MAXENGS",
-      "id": "maxwell-engineering-solutions-limited",
-      "company": "Maxwell Engineering Solutions Limited",
+      "symbol": "HGSINDIALT",
+      "id": "hgs-india-limited",
+      "company": "HGS (India) Limited",
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
       "status": "open",
       "priceBand": {
-        "min": 150,
-        "max": 158
+        "min": 114,
+        "max": 120
       },
       "lotSize": 0,
       "issueSizeCr": 0,
