@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T18:06:42.624Z",
+  "lastUpdated": "2026-11-05T10:03:37.999Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -29,6 +29,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "BCSSL",
+      "id": "bombay-coated-and-special-steels-limited",
+      "company": "Bombay Coated and Special Steels Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 82,
+        "max": 82
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-05",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "MKJEWELS",
@@ -4991,6 +5012,27 @@
       "subscription": null
     },
     {
+      "symbol": "VPFL",
+      "id": "vedant-poly-fabs-limited",
+      "company": "Vedant Poly Fabs Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "symbol": "HGSINDIALT",
       "id": "hgs-india-limited",
       "company": "HGS (India) Limited",
@@ -5015,27 +5057,6 @@
       "symbol": "MAXENGS",
       "id": "maxwell-engineering-solutions-limited",
       "company": "Maxwell Engineering Solutions Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "BCSSL",
-      "id": "bombay-coated-and-special-steels-limited",
-      "company": "Bombay Coated and Special Steels Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
