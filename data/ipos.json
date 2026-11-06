@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T18:09:26.092Z",
+  "lastUpdated": "2026-11-06T10:08:01.704Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -29,6 +29,111 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "HGSINDIALT",
+      "id": "hgs-india-limited",
+      "company": "HGS (India) Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 120,
+        "max": 120
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "MAXENGS",
+      "id": "maxwell-engineering-solutions-limited",
+      "company": "Maxwell Engineering Solutions Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 158,
+        "max": 158
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "OLAPP",
+      "id": "ola-electric-mobility-limited",
+      "company": "Ola Electric Mobility Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 11,
+        "max": 11
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "BAHETI",
+      "id": "baheti-recycling-industries-limited",
+      "company": "Baheti Recycling Industries Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 774,
+        "max": 774
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-06",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "870TCHFL36",
+      "id": "tata-capital-housing-finance-limited",
+      "company": "Tata Capital Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-06",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "BCSSL",
@@ -1133,27 +1238,6 @@
       "priceBand": {
         "min": 148,
         "max": 148
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-29",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "820TCHFL29",
-      "id": "tata-capital-housing-finance-limited",
-      "company": "Tata Capital Housing Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -5015,48 +5099,6 @@
       "symbol": "VPFL",
       "id": "vedant-poly-fabs-limited",
       "company": "Vedant Poly Fabs Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "HGSINDIALT",
-      "id": "hgs-india-limited",
-      "company": "HGS (India) Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "MAXENGS",
-      "id": "maxwell-engineering-solutions-limited",
-      "company": "Maxwell Engineering Solutions Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
