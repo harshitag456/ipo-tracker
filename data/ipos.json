@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T18:29:48.769Z",
+  "lastUpdated": "2026-11-13T10:20:43.784Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -29,6 +29,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "ESFL",
+      "id": "essen-speciality-films-limited",
+      "company": "Essen Speciality Films Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 115,
+        "max": 115
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-13",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "VPFL",
