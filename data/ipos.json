@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T10:22:15.725Z",
+  "lastUpdated": "2026-11-16T20:36:00.112Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -26,6 +26,62 @@
         "nii": 0,
         "bnii": 0,
         "snii": 0,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "CRYSTALCP",
+      "id": "crystal-crop-protection-limited",
+      "company": "Crystal Crop Protection Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 259,
+        "max": 272
+      },
+      "lotSize": 55,
+      "issueSizeCr": 355,
+      "openDate": "2026-11-18",
+      "closeDate": "2026-11-20",
+      "allotmentDate": "2026-11-23",
+      "listingDate": "2026-11-26",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "WATRANA",
+      "id": "watrana-rentals-limited",
+      "company": "Watrana Rentals Limited",
+      "exchange": "NSE SME",
+      "board": "SME",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 232,
+        "max": 245
+      },
+      "lotSize": 0,
+      "issueSizeCr": 4902000,
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "allotmentDate": "2026-11-25",
+      "listingDate": "2026-11-27",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
         "retail": null,
         "total": 0
       }
