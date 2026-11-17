@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-11-17T11:20:29.288Z",
+  "lastUpdated": "2026-11-17T19:56:46.241Z",
   "source": "nseindia.com",
   "ipos": [
-    {
-      "symbol": "VPFL",
-      "id": "vedant-poly-fabs-limited",
-      "company": "Vedant Poly Fabs Limited",
-      "exchange": "NSE SME",
-      "board": "SME",
-      "sector": "—",
-      "status": "open",
-      "priceBand": {
-        "min": 88,
-        "max": 94
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": "2026-11-02",
-      "closeDate": "2026-11-04",
-      "allotmentDate": "2026-11-05",
-      "listingDate": "2026-11-09",
-      "gmp": null,
-      "subscription": {
-        "qib": 0,
-        "nii": 0,
-        "bnii": 0,
-        "snii": 0,
-        "retail": null,
-        "total": 0
-      }
-    },
     {
       "symbol": "CRYSTALCP",
       "id": "crystal-crop-protection-limited",
@@ -48,34 +20,6 @@
       "closeDate": "2026-11-20",
       "allotmentDate": "2026-11-23",
       "listingDate": "2026-11-26",
-      "gmp": null,
-      "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
-      }
-    },
-    {
-      "symbol": "MAHACOAL",
-      "id": "mahanadi-coalfields-limited",
-      "company": "Mahanadi Coalfields Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "upcoming",
-      "priceBand": {
-        "min": 129,
-        "max": 136
-      },
-      "lotSize": 110,
-      "issueSizeCr": 661836300,
-      "openDate": "2026-11-19",
-      "closeDate": "2026-11-23",
-      "allotmentDate": "2026-11-25",
-      "listingDate": "2026-11-27",
       "gmp": null,
       "subscription": {
         "qib": null,
