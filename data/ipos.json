@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T19:56:46.241Z",
+  "lastUpdated": "2026-11-18T10:53:11.728Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -9,7 +9,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 259,
         "max": 272
@@ -22,12 +22,12 @@
       "listingDate": "2026-11-26",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 2.0670441650175206,
+        "nii": 0.6934173762229835,
+        "bnii": 0.5512434109673388,
+        "snii": 0.9777656352164058,
+        "retail": 1.2316212055225046,
+        "total": 1.3647010092623908
       }
     },
     {
@@ -57,6 +57,48 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "840TCHFL31",
+      "id": "tata-capital-housing-finance-limited",
+      "company": "Tata Capital Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-18",
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "symbol": "862PHFL30",
+      "id": "pnb-housing-finance-limited",
+      "company": "PNB Housing Finance Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-18",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "8565TACA30",
@@ -216,27 +258,6 @@
       "priceBand": {
         "min": 774,
         "max": 774
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-11-06",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "870TCHFL36",
-      "id": "tata-capital-housing-finance-limited",
-      "company": "Tata Capital Housing Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
@@ -426,27 +447,6 @@
       "priceBand": {
         "min": 32.57,
         "max": 32.57
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-10-27",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "8455PHFL31",
-      "id": "pnb-housing-finance-limited",
-      "company": "PNB Housing Finance Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
       },
       "lotSize": 0,
       "issueSizeCr": 0,
