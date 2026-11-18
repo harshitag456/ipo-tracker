@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T10:53:11.728Z",
+  "lastUpdated": "2026-11-18T19:11:29.497Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -23,11 +23,39 @@
       "gmp": null,
       "subscription": {
         "qib": 2.0670441650175206,
-        "nii": 0.6934173762229835,
-        "bnii": 0.5512434109673388,
-        "snii": 0.9777656352164058,
-        "retail": 1.2316212055225046,
-        "total": 1.3647010092623908
+        "nii": 0.7532476834167139,
+        "bnii": 0.6150976788352704,
+        "snii": 1.0295480117646787,
+        "retail": 1.2827863434869264,
+        "total": 1.4036120234581937
+      }
+    },
+    {
+      "symbol": "MAHACOAL",
+      "id": "mahanadi-coalfields-limited",
+      "company": "Mahanadi Coalfields Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 129,
+        "max": 136
+      },
+      "lotSize": 110,
+      "issueSizeCr": 493068045,
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "allotmentDate": "2026-11-25",
+      "listingDate": "2026-11-27",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
       }
     },
     {
