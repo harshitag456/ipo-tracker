@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T19:11:29.497Z",
+  "lastUpdated": "2026-11-19T10:56:09.018Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,12 +22,12 @@
       "listingDate": "2026-11-26",
       "gmp": null,
       "subscription": {
-        "qib": 2.0670441650175206,
-        "nii": 0.7532476834167139,
-        "bnii": 0.6150976788352704,
-        "snii": 1.0295480117646787,
-        "retail": 1.2827863434869264,
-        "total": 1.4036120234581937
+        "qib": 2.1835723934444324,
+        "nii": 3.2020333255292406,
+        "bnii": 2.9093402245498434,
+        "snii": 3.787420203733183,
+        "retail": 3.0293537565906874,
+        "total": 2.844562351130757
       }
     },
     {
@@ -37,7 +37,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 129,
         "max": 136
@@ -50,12 +50,12 @@
       "listingDate": "2026-11-27",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 1.263095527682956,
+        "nii": 0.07496658524495761,
+        "bnii": 0.051558510487203106,
+        "snii": 0.12178273476046662,
+        "retail": 0.130251609603634,
+        "total": 0.375641216011068
       }
     },
     {
@@ -65,26 +65,47 @@
       "exchange": "NSE SME",
       "board": "SME",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 232,
         "max": 245
       },
       "lotSize": 0,
-      "issueSizeCr": 4902000,
+      "issueSizeCr": 3516000,
       "openDate": "2026-11-19",
       "closeDate": "2026-11-23",
       "allotmentDate": "2026-11-25",
       "listingDate": "2026-11-27",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "PFC2026",
+      "id": "power-finance-corporation-limited",
+      "company": "Power Finance Corporation Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 0,
+        "max": 0
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-19",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "840TCHFL31",
@@ -1931,27 +1952,6 @@
       "closeDate": null,
       "allotmentDate": null,
       "listingDate": "2026-09-11",
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "PFC2026",
-      "id": "power-finance-corporation-limited",
-      "company": "Power Finance Corporation Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": "2026-09-09",
       "gmp": null,
       "subscription": null
     },
