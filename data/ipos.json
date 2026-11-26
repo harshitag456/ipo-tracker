@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T20:51:31.044Z",
+  "lastUpdated": "2026-11-26T11:42:10.108Z",
   "source": "nseindia.com",
   "ipos": [
     {
@@ -22,10 +22,10 @@
       "listingDate": "2026-12-02",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
+        "qib": 0,
+        "nii": 0,
+        "bnii": 0,
+        "snii": 0,
         "retail": null,
         "total": 0
       }
@@ -37,7 +37,7 @@
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
-      "status": "upcoming",
+      "status": "open",
       "priceBand": {
         "min": 181,
         "max": 191
@@ -50,12 +50,12 @@
       "listingDate": "2026-12-03",
       "gmp": null,
       "subscription": {
-        "qib": null,
-        "nii": null,
-        "bnii": null,
-        "snii": null,
-        "retail": null,
-        "total": 0
+        "qib": 1.0094490377266727,
+        "nii": 0.39673070190747917,
+        "bnii": 0.33220902818066234,
+        "snii": 0.5257741821005909,
+        "retail": 2.327028957815905,
+        "total": 1.0834235245055206
       }
     },
     {
@@ -76,6 +76,34 @@
       "closeDate": "2026-12-01",
       "allotmentDate": "2026-12-02",
       "listingDate": "2026-12-04",
+      "gmp": null,
+      "subscription": {
+        "qib": null,
+        "nii": null,
+        "bnii": null,
+        "snii": null,
+        "retail": null,
+        "total": 0
+      }
+    },
+    {
+      "symbol": "MATANGI",
+      "id": "matangi-rubber-limited",
+      "company": "Matangi Rubber Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "upcoming",
+      "priceBand": {
+        "min": 163,
+        "max": 172
+      },
+      "lotSize": 87,
+      "issueSizeCr": 7276981,
+      "openDate": "2026-12-01",
+      "closeDate": "2026-12-03",
+      "allotmentDate": "2026-12-04",
+      "listingDate": "2026-12-08",
       "gmp": null,
       "subscription": {
         "qib": null,
@@ -141,6 +169,27 @@
         "retail": null,
         "total": 0
       }
+    },
+    {
+      "symbol": "CRYSTALCP",
+      "id": "crystal-crop-protection-limited",
+      "company": "Crystal Crop Protection Limited",
+      "exchange": "NSE, BSE",
+      "board": "Mainboard",
+      "sector": "—",
+      "status": "listed",
+      "priceBand": {
+        "min": 272,
+        "max": 272
+      },
+      "lotSize": 0,
+      "issueSizeCr": 0,
+      "openDate": null,
+      "closeDate": null,
+      "allotmentDate": null,
+      "listingDate": "2026-11-26",
+      "gmp": null,
+      "subscription": null
     },
     {
       "symbol": "OLIL",
@@ -5316,27 +5365,6 @@
       "symbol": "WATRANA",
       "id": "watrana-rentals-limited",
       "company": "Watrana Rentals Limited",
-      "exchange": "NSE, BSE",
-      "board": "Mainboard",
-      "sector": "—",
-      "status": "listed",
-      "priceBand": {
-        "min": 0,
-        "max": 0
-      },
-      "lotSize": 0,
-      "issueSizeCr": 0,
-      "openDate": null,
-      "closeDate": null,
-      "allotmentDate": null,
-      "listingDate": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "symbol": "CRYSTALCP",
-      "id": "crystal-crop-protection-limited",
-      "company": "Crystal Crop Protection Limited",
       "exchange": "NSE, BSE",
       "board": "Mainboard",
       "sector": "—",
